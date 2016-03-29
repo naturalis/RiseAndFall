@@ -1,0 +1,29 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Tue Mar 29 13:45:52 2016 ]
+	
+        DIMENSIONS NTAX=6;
+        TAXLABELS
+		Chamaebryum_pottioides
+		Costesia_spongiosa
+		Gigaspermum_mouretii
+		Gigaspermum_repens
+		Lorentziella_imbricata
+		Oedipodiella_australis
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Tue Mar 29 13:45:52 2016 ]
+	TRANSLATE
+		1 Lorentziella_imbricata,
+		2 Costesia_spongiosa,
+		3 Gigaspermum_repens,
+		4 Gigaspermum_mouretii,
+		5 Chamaebryum_pottioides,
+		6 Oedipodiella_australis;
+	TREE TREE1 = [&R] (((3[&length=0.12614675077881632,height_median=2.7755575615628914E-17,height_95%_HPD={0.0,1.0000000000287557E-6},length_median=0.1283165,length_95%_HPD={0.009452,0.217355},height=4.0031152648607403E-7,length_range={0.006332,0.342428},height_range={0.0,2.0000000000575113E-6}]:0.126426,4[&length_range={0.006332,0.342428},height_range={0.0,2.0000000000575113E-6},length_95%_HPD={0.009173,0.216605},height=4.034267912836498E-7,length=0.1263374984423678,length_median=0.1283975,height_95%_HPD={0.0,1.0000000000287557E-6},height_median=2.7755575615628914E-17]:0.126426)[&length_range={2.96E-4,0.008424},height_range={0.006333000000000005,0.342428},height=0.12285262873134327,length_95%_HPD={2.96E-4,0.005956},length=0.0033475690298507455,height_95%_HPD={0.009174000000000015,0.214779},height_median=0.12358949999999999,posterior=0.8348909657320872,length_median=0.003218]:0.003640,1[&height=3.7383177570671256E-7,length_95%_HPD={0.011524,0.215466},length_range={0.011524,0.34395},height_range={0.0,2.0000000000297558E-6},length=0.12855983489096567,height_median=2.7755575615628914E-17,height_95%_HPD={0.0,1.0000000000287557E-6},length_median=0.1305795]:0.130065)[&length=0.02320334271099745,length_median=0.023619,height_median=0.12232299999999999,posterior=0.6090342679127726,height_95%_HPD={0.011523999999999979,0.209161},height=0.12009891560102316,length_95%_HPD={1.05E-4,0.043202},length_range={1.05E-4,0.050891},height_range={0.011523999999999979,0.31713600000000003}]:0.014460,(2[&length_range={0.005428,0.303054},height_range={0.0,2.000000000002E-6},height=4.1121495327625975E-7,length_95%_HPD={0.005428,0.206237},length=0.11601630529595013,length_median=0.1181715,height_95%_HPD={0.0,1.0000000000287557E-6},height_median=2.7755575615628914E-17]:0.116361,(5[&length=0.11331365576323989,height_median=2.7755575615628914E-17,height_95%_HPD={0.0,1.0000000000287557E-6},length_median=0.115217,length_range={0.003209,0.301488},height_range={0.0,2.0000000000297558E-6},height=4.2523364486518856E-7,length_95%_HPD={0.003209,0.205232}]:0.113454,6[&length_95%_HPD={0.003209,0.206028},height=4.3925233645390116E-7,length_range={0.003209,0.301488},height_range={0.0,2.0000000000297558E-6},length=0.11333506542056074,length_median=0.115147,height_95%_HPD={0.0,1.0000000000287557E-6},height_median=2.7755575615628914E-17]:0.113454)[&height_95%_HPD={0.0032099999999999906,0.19335799999999997},posterior=0.8909657320872274,length_median=0.0028435,height_median=0.110408,length=0.003014835664335661,length_95%_HPD={7.72E-4,0.005437},height=0.10891186538461539,height_range={0.0032099999999999906,0.30148800000000003},length_range={1.96E-4,0.007113}]:0.002907)[&height_range={0.005428000000000016,0.30305400000000005},length_range={7.1E-5,0.051268},height=0.10997324053030309,length_95%_HPD={7.1E-5,0.044627},posterior=0.822429906542056,height_95%_HPD={0.005428000000000016,0.19662400000000002},height_median=0.112477,length_median=0.026283,length=0.02478657196969699]:0.028164)[&length_range={9.1E-4,0.404934},height_range={0.030557000000000015,0.318494},height=0.12361189434889439,length_95%_HPD={9.1E-4,0.219958},length=0.09098982800982787,posterior=0.6339563862928349,height_median=0.123815,height_95%_HPD={0.037846000000000005,0.217452},length_median=0.082642]:0.058192;
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Tue Mar 29 13:45:52 2016 ]
+END;
