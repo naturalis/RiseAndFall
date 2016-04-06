@@ -1,7 +1,0 @@
-#NEXUS
-begin run;
-numRuns	4
-numGen	100000
-parsimonyStart	true
-numCoupledChains	1
-end;
