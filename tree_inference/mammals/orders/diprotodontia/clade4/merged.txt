@@ -1,0 +1,4 @@
+clade4/cluster1.fa
+clade4/cluster2.fa
+clade4/cluster24.fa
+clade4/cluster26.fa
