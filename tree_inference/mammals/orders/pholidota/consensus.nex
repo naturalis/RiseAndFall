@@ -1,0 +1,25 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Tue Apr 19 18:00:19 2016 ]
+	
+        DIMENSIONS NTAX=4;
+        TAXLABELS
+		Lontra_canadensis
+		Lontra_longicaudis
+		Manis_pentadactyla
+		Manis_tricuspis
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Tue Apr 19 18:00:19 2016 ]
+	TRANSLATE
+		1 Lontra_longicaudis,
+		2 Lontra_canadensis,
+		3 Manis_pentadactyla,
+		4 Manis_tricuspis;
+	TREE TREE1 = [&R] ((1[&length_range={3.713867,18.930638},height_range={0.0,1.0000000258969521E-6},height_95%_HPD={0.0,9.999999974752427E-7},height=1.8224299225266805E-7,height_median=0.0,length_95%_HPD={4.45825,16.446145},length=10.493076971962607,length_median=10.413107499999999]:10.493077,2[&length_95%_HPD={4.45825,16.446145},height_median=0.0,length_median=10.413107499999999,length=10.493076971962607,height_95%_HPD={0.0,9.999999974752427E-7},height=1.8224299225266805E-7,length_range={3.713867,18.930638},height_range={0.0,1.0000000258969521E-6}]:10.493077)[&height_median=10.413107499999995,posterior=1.0,length_95%_HPD={90.297874,158.876765},length=125.32651541433033,length_median=124.036104,height_95%_HPD={4.4582499999999925,16.446146},height=10.49307715420559,height_range={3.713867000000022,18.930638000000002},length_range={82.708938,203.557522}]:125.326515,(3[&height=1.6666666912346118E-7,height_95%_HPD={0.0,9.999999974752427E-7},length_range={41.347559,47.768812},height_range={0.0,1.0000000258969521E-6},length_median=44.0919175,length=44.12456928193144,length_95%_HPD={41.570346,47.001477},height_median=0.0]:44.124569,4[&length=44.12456928193144,length_median=44.0919175,height_median=0.0,length_95%_HPD={41.570346,47.001477},height=1.6666666912346118E-7,height_95%_HPD={0.0,9.999999974752427E-7},height_range={0.0,1.0000000258969521E-6},length_range={41.347559,47.768812}]:44.124569)[&length_95%_HPD={60.818104,125.562417},posterior=1.0,fossil_name=F_1,height_median=44.09191800000001,length_median=89.991777,length=91.69502311993769,fossil_id=1,length_range={51.97076,169.984571},height_range={41.347559000000004,47.768812},height_95%_HPD={41.570347,47.00147700000001},fossil_age={41.3,47.8},height=44.124569448598116]:91.695023)[&height_range={93.729244,215.901259},height_median=134.013958,height_95%_HPD={103.33530200000001,170.612629},posterior=1.0,length=0.0,height=135.8195925685358];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Tue Apr 19 18:00:19 2016 ]
+END;

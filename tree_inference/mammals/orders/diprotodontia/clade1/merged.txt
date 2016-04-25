@@ -1,0 +1,6 @@
+clade1/cluster1.fa
+clade1/cluster2.fa
+clade1/cluster3.fa
+clade1/cluster4.fa
+clade1/cluster5.fa
+clade1/cluster6.fa

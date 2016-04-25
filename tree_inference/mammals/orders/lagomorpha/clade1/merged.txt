@@ -1,0 +1,3 @@
+clade1/cluster1.fa
+clade1/cluster2.fa
+clade1/cluster3.fa
