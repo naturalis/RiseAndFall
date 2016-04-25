@@ -1,5 +1,0 @@
-clade7/cluster1.fa
-clade7/cluster2.fa
-clade7/cluster3.fa
-clade7/cluster4.fa
-clade7/cluster9.fa

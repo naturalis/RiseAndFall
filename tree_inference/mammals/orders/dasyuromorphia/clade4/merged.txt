@@ -1,7 +1,0 @@
-clade4/cluster2.fa
-clade4/cluster3.fa
-clade4/cluster4.fa
-clade4/cluster5.fa
-clade4/cluster6.fa
-clade4/cluster7.fa
-clade4/cluster8.fa
