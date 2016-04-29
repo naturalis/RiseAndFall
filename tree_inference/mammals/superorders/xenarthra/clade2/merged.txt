@@ -1,2 +1,0 @@
-clade2/cluster1.fa
-clade2/cluster12.fa
