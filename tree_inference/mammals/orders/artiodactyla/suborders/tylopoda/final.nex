@@ -1,0 +1,35 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Mon May 30 15:34:38 2016 ]
+	
+        DIMENSIONS NTAX=9;
+        TAXLABELS
+		Bubalus_carabanensis
+		Bubalus_depressicornis
+		Camelus_bactrianus
+		Camelus_dromedarius
+		Camelus_ferus
+		Lama_glama
+		Lama_guanicoe
+		Vicugna_pacos
+		Vicugna_vicugna
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Mon May 30 15:34:38 2016 ]
+	TRANSLATE
+		1 Bubalus_depressicornis,
+		2 Bubalus_carabanensis,
+		3 Lama_glama,
+		4 Camelus_dromedarius,
+		5 Lama_guanicoe,
+		6 Camelus_bactrianus,
+		7 Camelus_ferus,
+		8 Vicugna_vicugna,
+		9 Vicugna_pacos;
+	TREE TREE1 = [&R] (1[&height_median=7.105427357601002E-15,height=4.7329975035940135E-7,length_range={51.219939,257.463547},length_median=55.976866,height_95%_HPD={0.0,1.0000000116860974E-6},height_range={0.0,3.000000006636583E-6},length=72.16131559269505,length_95%_HPD={51.673183,185.118305}]:72.422406,((2[&height_95%_HPD={0.0,1.0000000116860974E-6},length_median=54.6731315,length_range={44.377124,257.463547},height=4.5617128685319505E-7,height_median=7.105427357601002E-15,length_95%_HPD={45.959469,185.350087},height_range={0.0,3.000000006636583E-6},length=67.74761711939547]:67.956361,(4[&length=52.43840917103274,height_range={0.0,2.9999999995311555E-6},length_95%_HPD={47.829647,55.642392},length_median=53.128679500000004,length_range={45.032818,55.970285},height=4.491183901294531E-7,height_95%_HPD={0.0,1.0000000116860974E-6},height_median=7.105427357601002E-15]:52.519154,(6[&length_95%_HPD={46.975245,55.0085},height_range={0.0,3.000000006636583E-6},length=51.80047303727959,height_median=7.105427357601002E-15,height_95%_HPD={0.0,1.0000000116860974E-6},length_range={43.72989,55.919189},length_median=52.413779,height=4.58942067765265E-7]:51.817543,7[&length=51.72703780428216,height_range={0.0,3.000000006636583E-6},length_95%_HPD={46.991266,54.983293},height=4.576826218404964E-7,length_median=52.350429,length_range={43.72989,55.885576},height_95%_HPD={0.0,1.0000000116860974E-6},height_median=7.105427357601002E-15]:51.817543)[&height_95%_HPD={47.069039000000004,54.88099700000001},length_median=0.756221,length_range={0.006625,2.263872},height=51.7127959787167,height_median=52.357345,length_95%_HPD={0.034664,1.468271},height_range={43.729890999999995,55.885577},length=0.7807376006988572,posterior=0.7929471032745592]:0.701611)[&posterior=0.8375314861460957,height_range={45.139601,55.803175},length=1.640339064962407,length_95%_HPD={0.271778,3.114895},height_median=53.202193,height=52.5051016372932,length_median=1.593814,length_range={0.007072,5.702314},height_95%_HPD={47.90877,55.328022000000004}]:15.437207)[&height=53.14190552009876,length_median=1.3050215,length_range={0.004402,4.445063},height_95%_HPD={49.070043999999996,55.98200800000001},height_median=53.7741105,height_range={46.038469000000006,55.989364},length=1.3576987944287735,posterior=0.7143576826196474,length_95%_HPD={0.006059,3.29823}]:1.753153,(3[&height_range={0.0,2.000000023372195E-6},length=53.575029839546545,length_95%_HPD={51.310414,55.635761},height_median=7.105427357601002E-15,length_range={48.798358,55.997197},length_median=53.7316015,height=4.642317402065014E-7,height_95%_HPD={0.0,1.0000000116860974E-6}]:54.385556,(5[&length_median=53.4363435,length_range={48.689741,55.943242},height=4.526448385136963E-7,height_95%_HPD={0.0,1.0000000116860974E-6},height_median=7.105427357601002E-15,length=53.34959177204035,height_range={0.0,2.000000023372195E-6},length_95%_HPD={51.15232,55.32788}]:54.032595,(8[&length_95%_HPD={49.782723,56.0},length=52.93855626926945,height_range={0.0,3.000000006636583E-6},height_median=7.105427357601002E-15,height_95%_HPD={0.0,1.0000000116860974E-6},length_median=52.7061085,length_range={46.36013,56.0},height=4.614609593212782E-7]:52.944031,9[&length_range={46.36013,55.990057},length_median=52.700891,height=4.596977351157332E-7,height_95%_HPD={0.0,1.0000000116860974E-6},height_median=7.105427357601002E-15,height_range={0.0,2.999999992425728E-6},length=52.61713405768246,length_95%_HPD={49.619726,55.760823}]:52.944031)[&length_95%_HPD={0.786574,2.185019},height_range={46.360130000000005,55.980564},length=1.4495339186007417,posterior=0.7488664987405541,height_95%_HPD={49.234552,54.44954700000001},height=52.023798804238155,length_median=1.435787,length_range={0.009259,2.955245},height_median=52.140087]:1.088564)[&length=0.490745126844695,height_range={48.689742,55.78888},posterior=0.7168765743073048,length_95%_HPD={0.104375,0.932603},height_median=53.609149,height=53.44024239880524,length_median=0.464927,length_range={0.026769,1.453948},height_95%_HPD={51.067324,55.380667}]:0.352961)[&length=1.398880628082192,height_range={49.397163000000006,55.927646},posterior=0.7355163727959698,length_95%_HPD={0.32568,2.506805},length_median=1.3361605,length_range={0.011942,4.221043},height=53.91799723595881,height_95%_HPD={51.622173,55.622554},height_median=54.118684]:15.323958)[&height_median=55.726259999999996,fossil_age={41.3,56},fossil_id=1,height_95%_HPD={55.09937000000001,55.996382000000004},length_median=10.329968,length_range={5.080459,19.264139},height=55.65898269717632,length_95%_HPD={6.957646,14.678023},height_range={54.150905,55.996382000000004},posterior=0.25869017632241814,length=10.48702981596884,fossil_name=F_1]:2.712892)[&length=0.0,height_range={53.66928,257.61102600000004},posterior=1.0,height_median=55.987435500000004,height=72.42240615365245,height_95%_HPD={54.031129,185.213469}];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Mon May 30 15:34:38 2016 ]
+END;
