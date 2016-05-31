@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Tue May 31 13:59:28 2016 ]
+	
+        DIMENSIONS NTAX=7;
+        TAXLABELS
+		Dictyocaryum_lamarckianum
+		Elaeis_guineensis
+		Elaeis_oleifera
+		Iriartea_deltoidea
+		Iriartella_stenocarpa
+		Socratea_exorrhiza
+		Wettinia_hirsuta
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Tue May 31 13:59:28 2016 ]
+	TRANSLATE
+		1 Elaeis_oleifera,
+		2 Elaeis_guineensis,
+		3 Socratea_exorrhiza,
+		4 Iriartea_deltoidea,
+		5 Dictyocaryum_lamarckianum,
+		6 Iriartella_stenocarpa,
+		7 Wettinia_hirsuta;
+	TREE TREE1 = [&R] ((1[&length=0.0038641448598130852,length_median=0.003832,height=3.62928348909923E-7,height_95%_HPD={0.0,1.000000000001E-6},height_range={0.0,2.000000000002E-6},length_95%_HPD={0.002436,0.005522},height_median=0.0,length_range={0.001642,0.006969}]:0.003864,2[&length_range={0.001642,0.006969},height_median=0.0,length_95%_HPD={0.002436,0.005522},height_range={0.0,2.000000000002E-6},height_95%_HPD={0.0,1.000000000001E-6},height=3.62928348909923E-7,length=0.0038641448598130852,length_median=0.003832]:0.003864)[&height_95%_HPD={0.002437,0.005521999999999999},height=0.0038645077881619945,posterior=1.0,length=0.008060104361370732,length_median=0.008038,length_95%_HPD={0.006519,0.009467},length_range={0.00591,0.010758},height_median=0.0038324999999999995,height_range={0.0016429999999999986,0.0069700000000000005}]:0.008060,((((6[&length_range={0.002732,0.008365},length_95%_HPD={0.003549,0.006785},height_median=0.0,height_range={0.0,2.000000000002E-6},height_95%_HPD={0.0,1.000000000001E-6},height=3.613707165111405E-7,length_median=0.0050244999999999995,length=0.005086066978193144]:0.005089,7[&length=0.005087252336448596,length_median=0.005031,height_95%_HPD={0.0,1.000000000001E-6},height=3.613707165111432E-7,height_range={0.0,2.000000000002E-6},length_range={0.002732,0.008365},height_median=0.0,length_95%_HPD={0.003567,0.006785}]:0.005089)[&length=8.783880126182976E-4,length_median=8.18E-4,posterior=0.9875389408099688,height=0.005079880126182964,height_95%_HPD={0.0035670000000000007,0.006779000000000001},height_range={0.002732,0.008366000000000002},length_95%_HPD={5.2E-5,0.001779},height_median=0.005019000000000001,length_range={1.7E-5,0.003076}]:0.000884,5[&height=3.9875389408124707E-7,height_95%_HPD={0.0,1.000000000001E-6},length=0.00596819937694704,length_median=0.005906,length_95%_HPD={0.004344,0.007616},length_range={0.003719,0.009639},height_median=1.734723475976807E-18,height_range={0.0,2.000000000002E-6}]:0.005973)[&length=8.475150554675118E-4,posterior=0.9828660436137072,length_median=7.88E-4,height_95%_HPD={0.004422000000000001,0.007616000000000001},height=0.005951670364500793,height_range={0.003719,0.009008000000000002},length_range={7.7E-5,0.00269},length_95%_HPD={1.83E-4,0.001665},height_median=0.0059050000000000005]:0.000849,4[&height=3.629283489099257E-7,height_95%_HPD={0.0,1.000000000001E-6},length=0.006802403426791268,length_median=0.006777,length_95%_HPD={0.005206,0.008711},height_median=0.0,length_range={0.00444,0.009836},height_range={0.0,1.9999999999985307E-6}]:0.006822)[&length_range={5.0E-6,0.002386},length_95%_HPD={1.38E-4,0.001406},height_median=0.006791999999999999,height_range={0.0044399999999999995,0.009836},height=0.006806509868421047,height_95%_HPD={0.004927000000000001,0.008449},length=6.719819078947371E-4,posterior=0.9470404984423676,length_median=6.295000000000001E-4]:0.000636,3[&length_median=0.0074085,length=0.007434095015576325,height_95%_HPD={0.0,1.000000000001E-6},height=3.5825545171365935E-7,height_range={0.0,2.000000000002E-6},length_95%_HPD={0.00573,0.009443},length_range={0.00496,0.01082},height_median=0.0]:0.007459)[&length_range={0.002538,0.006916},height_median=0.007418000000000001,length_95%_HPD={0.0029,0.005883},height_range={0.004977,0.010821},height=0.0074589735202492255,height_95%_HPD={0.005729999999999999,0.009444000000000001},posterior=1.0,length_median=0.0044665,length=0.004465638629283491]:0.004466)[&fossil_name=F_1,height_median=0.0119585,fossil_id=1,height_range={0.009047,0.015313},height_95%_HPD={0.009651,0.013718000000000001},height=0.011924612149532702,length=0.0,posterior=1.0,fossil_age={132.9,145}];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Tue May 31 13:59:28 2016 ]
+END;
