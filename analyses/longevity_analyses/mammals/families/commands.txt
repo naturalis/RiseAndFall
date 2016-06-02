@@ -1,0 +1,14 @@
+cd /Users/tobias/bin/PyRate-master
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/ursidae_pyrate_mcmc_logs/ursidae_input_1_se_est.txt -SE_stats 0.3095329 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/sciuridae_pyrate_mcmc_logs/sciuridae_input_1_se_est.txt -SE_stats 0.3147467 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/rhinocerotidae_pyrate_mcmc_logs/rhinocerotidae_input_1_se_est.txt -SE_stats 0.3055448 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/phocidae_pyrate_mcmc_logs/phocidae_input_1_se_est.txt -SE_stats 0.1989634 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/mustelidae_pyrate_mcmc_logs/mustelidae_input_1_se_est.txt -SE_stats 0.3727034 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/felidae_pyrate_mcmc_logs/felidae_input_1_se_est.txt -SE_stats 0.5424234 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/equidae_pyrate_mcmc_logs/equidae_input_1_se_est.txt -SE_stats 0.8051013 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/delphinidae_pyrate_mcmc_logs/delphinidae_input_1_se_est.txt -SE_stats 0.4802566 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/dasypodidae_pyrate_mcmc_logs/dasypodidae_input_1_se_est.txt -SE_stats 0.2790808 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/cervidae_pyrate_mcmc_logs/cervidae_input_1_se_est.txt -SE_stats 0.5376768 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/cercopithecidae_pyrate_mcmc_logs/cercopithecidae_input_1_se_est.txt -SE_stats 0.1278641 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/canidae_pyrate_mcmc_logs/canidae_input_1_se_est.txt -SE_stats 0.5484952 1 1
+python PyRate.py -d /Users/tobias/Documents/Sweden/PhD/rise_and_fall/longevity_analyses/mammals/families/bovidae_pyrate_mcmc_logs/bovidae_input_1_se_est.txt -SE_stats 0.2548056 1 1
