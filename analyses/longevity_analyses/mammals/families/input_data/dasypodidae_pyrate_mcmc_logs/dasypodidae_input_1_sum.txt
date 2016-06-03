@@ -1,0 +1,31 @@
+
+      PyRate 0.602        build         20160223         
+
+input: ['dasypodidae_input_PyRate.py'] output: /home/adrian/Pyrate/dasypodidae/pyrate_mcmc_logs/dasypodidae_input_1
+
+PyRate was called as follows:
+Namespace(A=2, B=1, BF=[], M=10, N=None, S=1000, T=1.0, a=0.3, b=0, cauchy=[-1, -1], cite=False, d='', data_info=False, dpp_eK=2.0, dpp_f=500, dpp_grid=1.5, dpp_hp=2.0, fR=1.0, fS=0.7, fU=[0.02, 0.18, 0], fixSE='', fixShift='', input_data=['dasypodidae_input_PyRate.py'], j=1, k=10, logT=2, mBDI=-1, mC=False, mCov=0, mG=False, mHPP=False, mL=1, mM=1, mPoiD=False, mProb='', multiR=1, n=10000000, nT=5, ncat=4, out='', p=1000, pC=1, pL=[1.1, 1.1], pM=[1.1, 1.1], pP=[1.5, 1.1], pS=2.5, plot='', plot2='', r=1, rescale=1, root_plot=0, s=1000, singleton=0, sw=100, t=0.03, tC=[0.2, 0.2, 0.15], tQ=[1.2, 1.2], tR=1.2, tS=1.0, tT=1.0, tag='', thread=[0, 0], trait=1, wd='')
+
+
+Please cite: 
+Silvestro, D., Schnitzler, J., Liow, L.H., Antonelli, A. and Salamin, N. (2014)
+Bayesian Estimation of Speciation and Extinction from Incomplete Fossil
+Occurrence Data. Systematic Biology, 63, 349-367.
+
+Silvestro, D., Salamin, N., Schnitzler, J. (2014)
+PyRate: A new program to estimate speciation and extinction rates from
+incomplete fossil record. Methods in Ecology and Evolution, 5, 1126-1131.
+
+Silvestro D., Cascales-Minana B., Bacon C. D., Antonelli A. (2015)
+Revisiting the origin and diversification of vascular plants through a
+comprehensive Bayesian analysis of the fossil record. New Phytologist,
+doi:10.1111/nph.13247. 
+
+
+Feedback and support: pyrate.help@gmail.com
+OS: Linux 2.6.32-279.14.1.el6.x86_64
+Python version: 2.7.11 |Anaconda 2.1.0 (64-bit)| (default, Dec  6 2015, 18:08:32) 
+[GCC 4.4.7 20120313 (Red Hat 4.4.7-1)]
+
+Numpy version: 1.10.0
+Scipy version: 0.16.0
