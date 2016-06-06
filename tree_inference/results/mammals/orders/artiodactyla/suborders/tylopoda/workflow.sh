@@ -7,11 +7,11 @@
 
 
 INGROUP=Tylopoda
-OUTGROUP=Bubalus
+OUTGROUP=Hippopotamidae
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
-smrt taxize -r Tylopoda,Bubalus -b
+smrt taxize -r Tylopoda,Hippopotamidae -b
 
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these
@@ -33,7 +33,7 @@ export SUPERSMART_EXABAYES_NUMGENS="100000"
 smrt bbinfer --inferencetool=exabayes --cleanup
 
 # root the backbone sample  on the outgroup
-smrt bbreroot -g $OUTGROUP --smooth -u
+smrt bbreroot -g $OUTGROUP --smooth
 
 # calibrate the re-rooted backbone tree using treePL
 smrt bbcalibrate --tree backbone-rerooted.dnd --supermatrix supermatrix.phy -f fossils.tsv
@@ -44,7 +44,7 @@ smrt consense -b 0.2 -i chronogram.dnd --prob
 
 # decompose the backbone tree into monophyletic clades. writes a directory
 # with suitable alignments for each clade
-export SUPERSMART_CLADE_MAX_DISTANCE="0.4"
+export SUPERSMART_CLADE_MAX_DISTANCE="0.7"
 export SUPERSMART_CLADE_MIN_DENSITY="0.2"
 export SUPERSMART_CLADE_MIN_COVERAGE="1"
 export SUPERSMART_CLADE_MAX_COVERAGE="10"
