@@ -1,0 +1,30 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Mon Jun  6 14:01:14 2016 ]
+	
+        DIMENSIONS NTAX=6;
+        TAXLABELS
+		Giraffa_camelopardalis
+		Hyemoschus_aquaticus
+		Moschiola_indica
+		Moschiola_meminna
+		Tragulus_javanicus
+		Tragulus_napu
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Mon Jun  6 14:01:14 2016 ]
+[! Tree(s) include FigTree node annotations ]
+	TRANSLATE
+		1 Giraffa_camelopardalis,
+		2 Hyemoschus_aquaticus,
+		3 Tragulus_javanicus,
+		4 Tragulus_napu,
+		5 Moschiola_meminna,
+		6 Moschiola_indica;
+	TREE TREE1 = [&R] (1[&length_95%_HPD={22.958851,23.015573},height=3.3644859870911615E-7,height_95%_HPD={0.0,1.0000000010279564E-6},height_median=0.0,length_range={22.844528,23.03},length_median=23.004117,length=22.998460666666652,height_range={0.0,2.0000000020559128E-6}]:22.998461,(2[&height_95%_HPD={0.0,1.0000000010279564E-6},height=3.0685358310236975E-7,length_95%_HPD={22.632998,23.0068},height_median=0.0,height_range={0.0,1.00000000458067E-6},length_median=22.9835915,length=22.90536934423675,length_range={18.238967,23.0068}]:22.905369,((3[&height_median=0.0,height=3.130841127425268E-7,length_95%_HPD={5.685557,8.725751},height_95%_HPD={0.0,1.0000000010279564E-6},length_range={5.21753,14.629741},length=7.1682503489096465,length_median=7.081284500000001,height_range={0.0,2.0000000020559128E-6}]:7.168945,4[&height_range={0.0,2.0000000020559128E-6},length=7.16836821495326,length_median=7.081284500000001,length_range={5.21753,14.754602},height_95%_HPD={0.0,1.0000000010279564E-6},length_95%_HPD={5.685557,8.725751},height=3.115264803366379E-7,height_median=0.0]:7.168945)[&posterior=0.9937694704049844,length_median=7.892679,length=7.84009652664577,length_range={2.185681,11.521575},height_range={5.21753,10.558362000000002},length_95%_HPD={5.649014,10.136899},height=7.130821706896546,height_95%_HPD={5.728587000000001,8.725751},height_median=7.079013000000001]:7.806500,(5[&length_range={7.914268,15.734355},length_median=12.221250999999999,length=12.2515316931464,height_range={0.0,1.00000000458067E-6},height_median=0.0,height=3.0685358319644473E-7,length_95%_HPD={10.10999,14.21958},height_95%_HPD={0.0,1.0000000010279564E-6}]:12.266783,6[&length=12.266782711837989,length_median=12.223469999999999,length_range={9.16391,17.705422},height_range={0.0,1.00000000458067E-6},length_95%_HPD={10.10999,14.21958},height=3.0685358320197855E-7,height_95%_HPD={0.0,1.0000000010279564E-6},height_median=0.0]:12.266783)[&length_median=2.675073,length=2.7116142995319836,posterior=0.9984423676012462,length_range={0.873178,4.605748},height_range={9.163910000000001,15.734355999999998},length_95%_HPD={1.505427,3.670142},height=12.258298402496084,height_95%_HPD={10.136795000000001,14.219580000000002},height_median=12.221521000000003]:2.708662)[&height_median=15.011578499999999,height=14.975444752336466,length_95%_HPD={5.966044,10.388781},height_95%_HPD={13.194200999999998,17.258468},length_range={3.684903,10.855095},length_median=7.9217875,length=7.929924898753893,posterior=1.0,height_range={12.128234,18.26479}]:7.929925)[&height_range={18.238968,23.006801000000003},length_median=0.0204045,length=0.0930913520249221,posterior=1.0,length_range={0.012414,4.717253},height_95%_HPD={22.632998,23.006801000000003},length_95%_HPD={0.012414,0.332997},height=22.905369651090318,height_median=22.9835915]:0.093091)[&fossil_name=F_1,fossil_age={12.75,23.03},fossil_id=1];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Mon Jun  6 14:01:14 2016 ]
+END;
