@@ -6,19 +6,20 @@
 # from start to finish INGROUP and OUTGROUP have to be filled in
 
 
-INGROUP=Mustelidae
-OUTGROUP=Arctocephalus
+INGROUP=Ursidae
+OUTGROUP=Lynx
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
 
 
- if [ ! -e species.tsv ]; then
-   smrt taxize -r Mustelidae,Arctocephalus -b
+  if [ ! -e species.tsv ]; then
+    smrt taxize -r Ursidae,Lynx -b
   fi 
+
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these
-if [ ! -e aligned.txt ]; then
+ if [ ! -e aligned.txt ]; then
     smrt align
   fi
 
@@ -27,13 +28,11 @@ export SUPERSMART_BACKBONE_MAX_DISTANCE="0.1"
 if [ ! -e merged.txt ]; then
     smrt orthologize
   fi
-
 # merge the orthologous clusters into a supermatrix with exemplar
 # species, two per genus
-export SUPERSMART_BACKBONE_MIN_COVERAGE="2"
+export SUPERSMART_BACKBONE_MIN_COVERAGE="1"
 export SUPERSMART_BACKBONE_MAX_COVERAGE="5"
-
-if [ ! -e supermatrix.phy ]; then
+ if [ ! -e supermatrix.phy ]; then
      smrt bbmerge
    fi
 
@@ -43,23 +42,23 @@ export SUPERSMART_EXABAYES_NUMGENS="100000"
 if [ ! -e backbone.dnd ]; then
      smrt bbinfer --inferencetool=exabayes --cleanup
    fi
-
-
 # root the backbone sample  on the outgroup
 if [ ! -e backbone-rerooted.dnd ]; then
     smrt bbreroot -g $OUTGROUP --smooth
   fi
+
 # calibrate the re-rooted backbone tree using treePL
-if [ ! -e chronogram.dnd ]; then
+ if [ ! -e chronogram.dnd ]; then
      smrt bbcalibrate --tree backbone-rerooted.dnd --supermatrix supermatrix.phy -f fossils.tsv
    fi
+
 # build a consensus
-smrt consense -b 0.2 -i chronogram.dnd --prob
+smrt consense -b 0.2 --prob -i chronogram.dnd --prob
 
 
 # decompose the backbone tree into monophyletic clades. writes a directory
 # with suitable alignments for each clade
-export SUPERSMART_CLADE_MAX_DISTANCE="0.3"
+export SUPERSMART_CLADE_MAX_DISTANCE="0.5"
 export SUPERSMART_CLADE_MIN_DENSITY="0.2"
 export SUPERSMART_CLADE_MIN_COVERAGE="1"
 export SUPERSMART_CLADE_MAX_COVERAGE="10"
@@ -69,13 +68,7 @@ smrt bbdecompose -b
 smrt clademerge --enrich
 
 # run *BEAST for each clade
-smrt cladeinfer --ngens=25000000 --sfreq=1000 --lfreq=1000
+smrt cladeinfer --ngens=15000000 --sfreq=1000 --lfreq=1000
 
 # graft the *BEAST results on the backbone
 smrt cladegraft
-
-#prune negative branches
-
-smrt-utils prunetree -t final.nex -g "species_name"
-
-#output is final_pruned.nex
