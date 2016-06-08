@@ -44,7 +44,7 @@ if [ ! -e backbone.dnd ]; then
 
 # root the backbone sample  on the outgroup
  if [ ! -e backbone-rerooted.dnd ]; then
-    smrt bbreroot -g $OUTGROUP --smooth
+    smrt bbreroot -g $OUTGROUP --smooth -u
   fi
 # calibrate the re-rooted backbone tree using treePL
 if [ ! -e chronogram.dnd ]; then
