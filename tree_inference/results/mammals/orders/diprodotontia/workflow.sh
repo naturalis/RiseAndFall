@@ -23,7 +23,7 @@ if [ ! -e aligned.txt ]; then
   fi
 
 # assign orthology among the aligned clusters by reciprocal BLAST
-#export SUPERSMART_BACKBONE_MAX_DISTANCE="0.1"
+export SUPERSMART_BACKBONE_MAX_DISTANCE="0.1"
   if [ ! -e merged.txt ]; then
     smrt orthologize
   fi
