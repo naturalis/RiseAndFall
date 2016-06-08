@@ -11,26 +11,32 @@ OUTGROUP=Cercocebus
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
-#smrt taxize -r Strepsirrhini,Cercocebus -b
+if [ ! -e species.tsv ]; then
+  smrt taxize -r Strepsirrhini,Cercocebus -b
+fi 
 
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these
-#smrt align
+if [ ! -e aligned.txt ]; then
+  smrt align
+fi
 
 # assign orthology among the aligned clusters by reciprocal BLAST
-#export SUPERSMART_BACKBONE_MAX_DISTANCE="0.1"
-#smrt orthologize
+export SUPERSMART_BACKBONE_MAX_DISTANCE="0.1"
+if [ ! -e merged.txt ]; then
+  smrt orthologize
+fi
 
 # merge the orthologous clusters into a supermatrix with exemplar
 # species, two per genus
-#export SUPERSMART_BACKBONE_MIN_COVERAGE="2"
-#export SUPERSMART_BACKBONE_MAX_COVERAGE="5"
-#smrt bbmerge
+export SUPERSMART_BACKBONE_MIN_COVERAGE="2"
+export SUPERSMART_BACKBONE_MAX_COVERAGE="5"
+smrt bbmerge
 
 # run an exabayes search on the supermatrix, resulting in a backbone
 # posterior sample
-#export SUPERSMART_EXABAYES_NUMGENS="100000"
-#smrt bbinfer --inferencetool=exabayes --cleanup
+export SUPERSMART_EXABAYES_NUMGENS="100000"
+smrt bbinfer --inferencetool=exabayes --cleanup
 
 # root the backbone sample  on the outgroup
 smrt bbreroot -g $OUTGROUP --smooth 
