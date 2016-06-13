@@ -1,0 +1,8 @@
+consensus.nex used as final_pruned.nex. The reason for this adjustment is because
+final.nex compressed the clades and the structure of the phylogeny could not be 
+displayed well. 
+
+final_pruned.nex consists of 20 species
+species.tsv consistis of 54 species
+
+prune command not used.
