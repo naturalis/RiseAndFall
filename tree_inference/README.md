@@ -34,4 +34,6 @@ files:
   ones in this file.
 - `fossils.tsv` - contains the calibration points that were used.
 - `fossil_reference` - describes where the calibration points came from.
-- `final_(.*).nex` - contains the final tree, with the outgroup pruned off.
+- `final_pruned.nex` - contains the final tree, with any taxa causing negative branch
+  lengths pruned out. If any pruning indeed took place, there will also be a file
+  `final.nex` that contains the results before pruning.
