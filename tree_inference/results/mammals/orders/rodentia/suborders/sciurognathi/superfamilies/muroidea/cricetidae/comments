@@ -1,0 +1,5 @@
+final_pruned.nex has one negative branch.
+The species "Microtus_gregalis" is responsible for this negative branch and can not be pruned for unknown reason.
+Therefore, if the analysis can not include Microtus genus then a new 
+tree will be created, dispaying Microtus genus with other species of
+cricetidae family. 
