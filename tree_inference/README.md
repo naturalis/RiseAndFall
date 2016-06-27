@@ -5,17 +5,6 @@ This folder structure contains the results of the phylogenetic inference steps
 performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http://github.com/naturalis/supersmart)
 pipeline. Here now follows a brief explanation of the subfolders:
 
-#### ULTR
-
-Contains trees that were artificially "ultrametricized" during the re-rooting
-step of the backbone topology `smrt bbreroot -u [args]`. This process simply
-adds additional length to the terminal branches until they all line up. As such,
-this creates a distribution of branch lengths that, when reconciled with a
-plausible substitution process implies a drastic slowdown along terminal branches.
-When you subsequently try to recalibrate such a tree using fossils, the interior
-nodes will be pulled towards the present to attempt to compensate for this rate
-shift. As such, the final result will deviate a lot from the expectation and so
-these results are not going to be used for subsequent analysis.
 
 #### results
 

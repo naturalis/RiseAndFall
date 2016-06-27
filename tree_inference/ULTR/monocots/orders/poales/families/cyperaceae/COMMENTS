@@ -1,5 +1,0 @@
-species.tcv has around 1500 species.
-setting min coverage to "2" max "5" can not built backbone due to time limit of triolith.
-setting min coverage to 3 max 5 procuce backbone but number of species reduce drastically.
-final.nex 147 species.
-
