@@ -1,0 +1,3 @@
+Final.nex has very low posterior values. This may be happening 
+due to insufficient nucleotide data from NCBI.
+For this reason consensus.nex is used as final_pruned.nex
