@@ -8,7 +8,8 @@ pipeline. Here now follows a brief explanation of the subfolders:
 
 #### results
 
-Contains trees (and other results). The subfolders below this level each contain
+Contains trees (and other results) where this "ultrametricize" step was not applied.
+Hence, these results are more useable. The subfolders below this level each contain
 the summarized results of a SUPERSMART run. Specifically, they contain the following
 files:
 
