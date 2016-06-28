@@ -34,7 +34,5 @@ files:
 
 #### benchmark_trees
 
-Contains in every subdirectory a published paper describing a phylogenetic tree of the related
-taxonomic group.These benchmark trees shall be used to verify that the trees produced
-by SUPERSMART pipeline are comparable with what we know about the systematics of the data sample
-that used to construct the phylogenetic trees of mammals and monocots resepectively.
+Contains in every subdirectory a published paper describing the phylogeny of the related
+taxonomic group.These benchmark trees shall be compared with the results from SUPERSMART pipeline. 
