@@ -31,3 +31,10 @@ files:
   lengths pruned out. If any pruning indeed took place, there will also be a file
   `final.nex` that contains the results before pruning.
 
+
+#### benchmark_trees
+
+Contains in every subdirectory a published paper describing a phylogenetic tree of the related
+taxonomic group.These benchmark trees shall be used to verify that the trees produced
+by SUPERSMART pipeline are comparable with what we know about the systematics of the data sample
+that used to construct the phylogenetic trees of mammals and monocots resepectively.
