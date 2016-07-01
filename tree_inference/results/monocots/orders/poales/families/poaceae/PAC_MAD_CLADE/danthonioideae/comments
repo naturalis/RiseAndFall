@@ -1,4 +1,0 @@
-final.nex had very low posterior values.
-This may be happening due to insufficient nucleodite
-data from ncbi.
-For this reason consensus.nex is used as final_pruned.nex
