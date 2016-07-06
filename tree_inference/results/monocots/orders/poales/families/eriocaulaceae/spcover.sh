@@ -9,7 +9,7 @@
 nl species.tsv | tail -1 | awk '{ print $1 }' > nosp.txt
 
 #save the ouput of smrt-utils command into treeinfo.txt
-smrt-utils treeinfo -t consensus.nex -l treeinfo.txt
+smrt-utils treeinfo -t final_pruned.nex -l treeinfo.txt
 
 #save the number of terminals into treesp.txt
 cat treeinfo.txt | grep "Number of terminals" | grep -oE '[^ ]+$' > treesp.txt
