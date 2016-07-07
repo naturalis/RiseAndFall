@@ -33,7 +33,10 @@ files:
 - `final_pruned.nex` - contains the final tree, with any taxa causing negative branch
   lengths pruned out. If any pruning indeed took place, there will also be a file
   `final.nex` that contains the results before pruning.
-
+- `mammalia_COF.txt` - A text file that contains mammals taxonomy 
+  (Orders, Superfamilies, Families and number of species) extracted from Catalogue of Life.
+- `monocots_COF.txt` - A text file that contains monocots taxonomy
+  (Orders, Superfamilies, Families and number of species) extracted from Catalogue of Life.
 
 #### benchmark_trees
 
