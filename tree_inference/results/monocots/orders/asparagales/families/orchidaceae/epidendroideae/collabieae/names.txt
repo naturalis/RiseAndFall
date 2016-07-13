@@ -1,0 +1,119 @@
+        Elaeis guineensis
+        Elaeis oleifera
+        Acanthophippium mantinianum
+        Acanthophippium sylhetense
+        Ancistrochilus rothschildianus
+        Ancistrochilus sp. SH-2010
+        Ania angustifolia
+        Ania hongkongensis
+        Ania hookeriana
+        Ania penangiana
+        Ania ruybarrettoi
+        Ania viridifusca  
+        Calanthe alismifolia
+        Calanthe alleizettei
+        Calanthe alpina
+        Calanthe angustifolia
+        Calanthe arcuata
+        Calanthe argenteostriata
+        Calanthe arisanensis
+        Calanthe aristulifera
+        Calanthe bingtaoi
+        Calanthe brevicornu
+        Calanthe calanthoides
+        Calanthe cardioglossa
+        Calanthe clavata
+        Calanthe cleistogama
+        Calanthe davidii
+        Calanthe delavayi
+        Calanthe densiflora
+        Calanthe discolor
+        Calanthe graciliflora
+        Calanthe hancockii
+        Calanthe henryi
+        Calanthe herbacea
+        Calanthe labrosa
+        Calanthe lechangensis
+        Calanthe lyroglossa
+        Calanthe mannii
+        Calanthe odora
+        Calanthe plantaginea
+        Calanthe puberula
+        Calanthe reflexa
+        Calanthe rosea
+        Calanthe rubens
+        Calanthe sinica
+        Calanthe speciosa
+        Calanthe striata
+        Calanthe sylvatica
+        Calanthe tricarinata
+        Calanthe triplicata
+        Calanthe tsoongiana
+        Calanthe vestita
+        Calanthe wenshanensis
+        Calanthe x kibanakirishima
+        Calanthe sp. SH-2010
+        Cephalantheropsis calanthoides
+        Cephalantheropsis gracilis
+        Cephalantheropsis halconensis
+        Cephalantheropsis longipes
+        Cephalantheropsis obcordata
+        Cephalantheropsis sp. Heidelberg BG 125239
+        Cephalantheropsis sp. Zhai 198
+        Chrysoglossum assamicum
+        Chrysoglossum latifolium
+        Chrysoglossum ornatum
+        Collabium chinense
+        Collabium formosanum
+        Collabium nebulosum
+        Collabium simplex
+        Collabium sp. Chase O-821
+        Eriodes barbata
+        Gastrorchis francoisii
+        Gastrorchis humblotii
+        Gastrorchis lutea
+        Gastrorchis pulchra
+        Gastrorchis tuberculosa
+        Hancockia uniflora
+        Nephelaphyllum pulchrum
+        Nephelaphyllum tenuiflorum
+        Nephelaphyllum sp. Chase O-668
+        Pachystoma pubescens
+        Phaius amboinensis
+        Phaius australis
+        Phaius columnaris
+        Phaius flavus
+        Phaius graeffei
+        Phaius hainanensis
+        Phaius minor
+        Phaius mishmensis
+        Phaius pulchellus
+        Phaius tancarvilleae
+        Phaius wallichii
+        Pilophyllum villosum
+        Risleya atropurpurea
+        Spathoglottis affinis
+        Spathoglottis aurea
+        Spathoglottis gracilis
+        Spathoglottis hybrid cultivar
+        Spathoglottis kimballiana
+        Spathoglottis lobbii
+        Spathoglottis microchilina
+        Spathoglottis pacifica
+        Spathoglottis petri
+        Spathoglottis plicata
+        Spathoglottis pubescens
+        Spathoglottis unguiculata
+        Spathoglottis vanoverberghii
+        Spathoglottis vieillardii
+        Spathoglottis sp. SH-2010
+        Tainia cordifolia
+        Tainia dunnii
+        Tainia latifolia
+        Tainia longiscapa
+        Tainia macrantha
+        Tainia minor
+        Tainia papuana
+        Tainia paucifolia
+        Tainia sp. Li 150
+
