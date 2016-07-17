@@ -7,11 +7,11 @@
 
 
 INGROUP=Pandanales
-OUTGROUP=Zea
+OUTGROUP=Wolffiella
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
-smrt taxize -r Pandanales,Zea -b
+smrt taxize -r Pandanales,Wolffiella -b
 
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these
@@ -54,7 +54,7 @@ smrt bbdecompose -b
 smrt clademerge --enrich
 
 # run *BEAST for each clade
-smrt cladeinfer --ngens=25000000 --sfreq=1000 --lfreq=1000
+smrt cladeinfer --ngens=30000000 --sfreq=1000 --lfreq=1000
 
 # graft the *BEAST results on the backbone
 smrt cladegraft
@@ -63,4 +63,3 @@ smrt cladegraft
 smrt-utils prunetree -t final.nex -g "species_name" -f figtree
 
 #output of the command is final_pruned.nex
-
