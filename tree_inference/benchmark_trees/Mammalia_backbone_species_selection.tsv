@@ -1,0 +1,16 @@
+MAJOR CLADES	Carnivora	Cetaceae	Artiodactyla	Chiroptera	Marsupialia	Afrotheria	Xenarthra	Lagomorpha
+species	Lontra	Eubalaena	Lama	Macroglossus	Caenolestes	Rhynchocyon	Chaetophractus	Sylvilagus
+	Lynx	Lagenorhynchus	Hippopotamidae	Lophostoma	Petaurus	Oryzorictes	Myrmecophagidae	Pronolagus
+								
+reference	Agnarsson et al. (2009)		Agnarsson et al. (2008)		May-Collado et al. (2015)			
+								
+								
+MAJOR CLADES	Scadentia	Diprotodontia	Dermoptera	Didelphimorphia	Insectivora	Peramelemorphia	Perissodactyla	Pholidota
+species	Dendrogale	Petaurus		Marmosa	Mogera	Echymipera	Equus	Manis
+	Tupaia	Thylogale		Caluromys	Uropsilus	Isoodon	Rhinoceros	
+								
+MAJOR CLADES	Rodentia	Dasyuromorphia	Primates	Monotremata				
+species	Sciurus	Pseudantechinus	pan	Tachyglossus				
+	Trinomys	Smnthopsis	propithecus	Ornithirhynchus				
+								
+reference	Kanfi et al. (2009)							
