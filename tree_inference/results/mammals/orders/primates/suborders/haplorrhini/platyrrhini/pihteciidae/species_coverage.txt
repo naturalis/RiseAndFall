@@ -1,0 +1,3 @@
+data sample   : 27
+data included : 23
+coverage      : 85.00%
