@@ -1,0 +1,31 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Tue Aug 30 14:50:14 2016 ]
+	
+        DIMENSIONS NTAX=7;
+        TAXLABELS
+		Abolboda_macrostachya
+		Aratitiyopea_lopezii
+		Elaeis_guineensis
+		Elaeis_oleifera
+		Orectanthe_sceptrum
+		Xyris_bicephala
+		Xyris_involucrata
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Tue Aug 30 14:50:14 2016 ]
+	TRANSLATE
+		1 Elaeis_oleifera,
+		2 Elaeis_guineensis,
+		3 Abolboda_macrostachya,
+		4 Xyris_involucrata,
+		5 Xyris_bicephala,
+		6 Aratitiyopea_lopezii,
+		7 Orectanthe_sceptrum;
+	TREE TREE1 = [&R] ((1[&length_median=5.6377845,height_range={0.0,2.00000000916134E-6},length_95%_HPD={2.994166,8.329031},height=3.5825545375288084E-7,length_range={2.718626,11.26405},height_median=0.0,height_95%_HPD={0.0,1.0000000116860974E-6},length=5.725504350467283]:5.725504,2[&length_median=5.6377845,height_range={0.0,2.00000000916134E-6},length_95%_HPD={2.994166,8.329031},height=3.5825545375288084E-7,height_95%_HPD={0.0,1.0000000116860974E-6},height_median=0.0,length=5.725504350467283,length_range={2.718626,11.26405}]:5.725504)[&height=5.725504708722744,length_95%_HPD={77.13153,88.195862},height_range={2.7186260000000004,11.264050999999995},length_median=81.979473,posterior=1.0,length_range={75.780044,102.67117},length=82.48378825233651,height_median=5.637784500000009,height_95%_HPD={2.9941669999999903,8.329031}]:82.483788,((3[&length_95%_HPD={39.293392,56.214735},height_range={0.0,2.00000000916134E-6},height=3.380062329965045E-7,length_median=48.0229025,length_range={36.154492,61.92166},height_median=0.0,height_95%_HPD={0.0,1.0000000116860974E-6},length=48.115806799065425]:48.115807,(6[&height_95%_HPD={0.0,1.0000000116860974E-6},height_median=0.0,length=16.23492375389407,length_range={8.69339,23.797034},length_median=15.9527335,height_range={0.0,2.00000000916134E-6},length_95%_HPD={11.975594,21.557185},height=3.0373832037684283E-7]:16.234924,7[&length_range={8.69339,23.797034},height_median=0.0,height_95%_HPD={0.0,1.0000000116860974E-6},length=16.23492375389407,length_95%_HPD={11.975594,21.557185},height_range={0.0,2.00000000916134E-6},height=3.0373832037684283E-7,length_median=15.9527335]:16.234924)[&length_range={20.534627,48.413641},height_95%_HPD={11.975594000000001,21.557186000000016},height_median=15.952734000000007,length=31.880883079439286,height_range={8.693390000000008,23.797035},length_95%_HPD={24.396785,41.176677},height=16.234924057632384,length_median=31.5768295,posterior=1.0]:31.880883)[&length_range={24.899933,50.517865},length=38.570860029594975,height_95%_HPD={39.293392,56.214735000000005},height_median=48.02290300000001,length_median=38.713689,posterior=1.0,height=48.11580713707164,length_95%_HPD={30.1789,47.474479},height_range={36.154493,61.921660999999986}]:38.570860,(4[&length_median=39.5031645,height_range={0.0,2.00000000916134E-6},length_95%_HPD={31.236345,46.490511},height=3.4890965969384736E-7,height_median=0.0,height_95%_HPD={0.0,1.0000000116860974E-6},length=39.41154886760123,length_range={28.865651,51.953792}]:39.411549,5[&length_range={28.865651,51.953792},height_95%_HPD={0.0,1.0000000116860974E-6},height_median=0.0,length=39.41154886760123,length_95%_HPD={31.236345,46.490511},height_range={0.0,2.00000000916134E-6},height=3.4890965969384736E-7,length_median=39.5031645]:39.411549)[&length_median=47.252167,posterior=1.0,length_95%_HPD={40.250848,55.791379},height_range={28.865652000000004,51.953793000000005},height=39.4115492165109,length_range={34.936944,57.839913},height_95%_HPD={31.236345000000007,46.490511},height_median=39.5031645,length=47.27511795015578]:47.275118)[&posterior=1.0,length_median=0.127372,height_range={82.75772400000001,86.94589599999999},length_95%_HPD={0.091929,7.591618},height=86.6866671666667,height_median=86.902027,height_95%_HPD={85.92727800000002,86.94589599999999},length=1.5226257943925243,fossil_age={53.5,87},fossil_id=1,length_range={0.091929,20.932394},fossil_name=F_1]:1.522626)[&height_95%_HPD={86.798107,93.912054},height_median=87.04148500000001,length=0.0,posterior=1.0,height_range={84.894998,107.48355900000001},height=88.20929296105922];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Tue Aug 30 14:50:14 2016 ]
+END;
