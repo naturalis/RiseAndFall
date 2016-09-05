@@ -58,3 +58,7 @@ smrt cladeinfer --ngens=25000000 --sfreq=1000 --lfreq=1000
 
 # graft the *BEAST results on the backbone
 smrt cladegraft
+
+#prune negative branches 
+smrt-utils prunetree -t final.nex -g "species_name" -f figtree
+
