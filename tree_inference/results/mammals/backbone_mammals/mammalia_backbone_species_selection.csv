@@ -1,0 +1,13 @@
+ORDERS	Carnivora	Cetaceae	Artiodactyla	Chiroptera	Marsupialia	Afrotheria	Xenarthra	Rodentia
+GENUS	Lontra	Eubalaena	Lama	Macroglossus	Caenolestes	Rhynchocyon	Chaetophractus	ctenodactylus
+	Lynx	Lagenorhynchus	Hippopotamidae	Lophostoma	Petaurus	Oryzorictes	Choloepus	atherurus
+	Genetta	Delphius	Hexaprotodon	Pteronotus	Lasiorhinus	Loxodonta	Priodontes	castor/zapus
+REFERENCE	Agnarsson et al. (2009)		Agnarsson et al. (2008)		May-Collado et al. (2015)			Fabre et al. (2012)
+								
+ORDERS	Lagomorpha	Scadentia	Dermoptera	Insectivora	Peramelemorphia	Primates	Monotremata	Perissodactyla
+GENUS	Sylvilagus	Dendrogale	Cynocephalus	Mogera	Perameles	Eulemur	Tachyglossus	Equus
+	Pronolagus	Tupaia	Galeopterus	Crosidura	Isoodon	Callicebus	Ornithirhynchus	Diceros
+	Lepus			Chodsigoa	Echymipera	Macaca		Tapirus
+								
+OUTGROUP	Pholidota							
+	Manis							
