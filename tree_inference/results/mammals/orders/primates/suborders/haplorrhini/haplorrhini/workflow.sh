@@ -11,7 +11,7 @@ OUTGROUP=Dermoptera
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
-#smrt taxize -r Haplorrhini,Dermoptera -b
+smrt taxize -r Haplorrhini,Dermoptera -b
 
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these
