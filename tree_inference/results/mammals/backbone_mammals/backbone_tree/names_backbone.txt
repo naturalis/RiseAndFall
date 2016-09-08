@@ -1,0 +1,150 @@
+Lontra canadensis 
+Lontra felina 
+Lontra longicaudis 
+Lontra provocax 
+Lynx canadensis
+Lynx lynx 
+Lynx pardinus
+Lynx rufus
+Genetta genetta
+Genetta maculata
+Genetta pardina 
+Genetta thierryi    
+Eubalaena australis 
+Eubalaena glacialis 
+Eubalaena japonica 
+Lagenorhynchus acutus 
+Lagenorhynchus albirostris     
+Lagenorhynchus australis 
+Lagenorhynchus cruciger 
+Lagenorhynchus obliquidens 
+Lagenorhynchus obscurus
+Delphinus capensis 
+Delphinus delphis 
+Delphinus tropicalis  
+Hexaprotodon liberiensis
+Hippopotamus amphibius 
+Macroglossus minimus 
+Macroglossus sobrinus
+Lophostoma brasiliense 
+Lophostoma carrikeri 
+Lophostoma evotis 
+Lophostoma schulzi 
+Lophostoma silvicolum 
+Pteronotus gymnonotus   
+Pteronotus macleayii
+Pteronotus parnellii
+Caenolestes caniventer 
+Caenolestes convelatus 
+Caenolestes fuliginosus 
+Caenolestes sangay 
+Petaurus abidi 
+Petaurus australis 
+Petaurus breviceps
+Lasiorhinus krefftii 
+Lasiorhinus latifrons 
+Rhynchocyon cirnei
+Rhynchocyon cirnei reichardi
+Rhynchocyon petersi
+Rhynchocyon udzungwensis
+Oryzorictes hova 
+Oryzorictes talpoides
+Oryzorictes tetradactylus 
+Loxodonta africana 
+Loxodonta cyclotis  
+Chaetophractus vellerosus 
+Chaetophractus villosus 
+Choloepus didactylus
+Choloepus hoffmanni
+Priodontes maximus 
+Lepus americanus 
+Lepus arcticus
+Lepus brachyurus
+Lepus brachyurus angustidens
+Lepus californicus 
+Sylvilagus bachmani 
+Sylvilagus floridanus 
+Sylvilagus nuttallii
+Sylvilagus obscurus    
+Sylvilagus palustris 
+Sylvilagus robustus 
+Pronolagus crassicaudatus
+Pronolagus randensis 
+Pronolagus rupestris 
+Pronolagus saundersiae  
+Tupaia belangeri 
+Tupaia chinensis
+Tupaia glis 
+Tupaia splendidula 
+Tupaia tana 
+Dendrogale melanura 
+Dendrogale murina 
+Mogera imaizumii   
+Mogera insularis 
+Mogera insularis latouchei
+Mogera robusta 
+Mogera wogura
+Crocidura beccarii 
+Crocidura buettikoferi
+Crocidura dsinezumi 
+Crocidura eburnea   
+Crocidura goliath    
+Chodsigoa caovansunga
+Chodsigoa hypsibia
+Chodsigoa parca 
+Chodsigoa sodalis 
+Perameles bougainville
+Perameles gunnii 
+Perameles nasuta 
+Isodon effusus  
+Isodon eriocalyx  
+Isodon inflexus 
+Isodon japonicus
+Isodon rubescens    
+Echymipera clara 
+Echymipera kalubu
+Echymipera rufescens 
+Cynocephalus volans 
+Galeopterus variegatus
+Equus asinus somalicus
+Equus hemionus khur 
+Equus hemionus kulan
+Equus burchellii quagga   
+Diceros bicornis
+Diceros bicornis bicornis   
+Diceros bicornis michaeli   
+Diceros bicornis minor
+Tapirus bairdii 
+Tapirus indicus 
+Tapirus kabomani
+Tapirus pinchaque 
+Tapirus terrestris  
+Ctenodactylus gundi
+Ctenodactylus vali
+Atherurus africanus   
+Atherurus macrourus
+Castor canadensis 
+Castor fiber
+Castor fiber birulai 
+Castor fiber pohlei
+Zapus hudsonius intermedius 
+Zapus hudsonius luteus
+Zapus hudsonius pallidus  
+Zapus hudsonius preblei  
+Eulemur albifrons 
+Eulemur cinereiceps 
+Eulemur coronatus 
+Eulemur flavifrons 
+Eulemur fulvus 
+Callicebus coimbrai
+Callicebus discolor 
+Callicebus nigrifrons 
+Callicebus ornatus 
+Callicebus personatus 
+Macaca leonina 
+Macaca maura
+Macaca ochreata 
+Macaca pagensis 
+Macaca radiata 
+Macaca silenus
+
