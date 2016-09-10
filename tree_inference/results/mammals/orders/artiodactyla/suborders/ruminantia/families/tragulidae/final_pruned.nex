@@ -1,11 +1,12 @@
 #NEXUS
 
 BEGIN TAXA;
-[! Taxa block written by Bio::Phylo::Taxa 0.58 on Mon Jun  6 14:01:14 2016 ]
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Thu Sep  8 22:13:40 2016 ]
 	
-        DIMENSIONS NTAX=6;
+        DIMENSIONS NTAX=7;
         TAXLABELS
-		Giraffa_camelopardalis
+		Hexaprotodon_liberiensis
+		Hippopotamus_amphibius
 		Hyemoschus_aquaticus
 		Moschiola_indica
 		Moschiola_meminna
@@ -14,17 +15,17 @@ BEGIN TAXA;
         ;
 END;
 BEGIN TREES;
-[! Trees block written by Bio::Phylo::Forest 0.58 on Mon Jun  6 14:01:14 2016 ]
-[! Tree(s) include FigTree node annotations ]
+[! Trees block written by Bio::Phylo::Forest 0.58 on Thu Sep  8 22:13:40 2016 ]
 	TRANSLATE
-		1 Giraffa_camelopardalis,
-		2 Hyemoschus_aquaticus,
-		3 Tragulus_javanicus,
+		1 Hexaprotodon_liberiensis,
+		2 Hippopotamus_amphibius,
+		3 Hyemoschus_aquaticus,
 		4 Tragulus_napu,
-		5 Moschiola_meminna,
-		6 Moschiola_indica;
-	TREE TREE1 = [&R] (1[&length_95%_HPD={22.958851,23.015573},height=3.3644859870911615E-7,height_95%_HPD={0.0,1.0000000010279564E-6},height_median=0.0,length_range={22.844528,23.03},length_median=23.004117,length=22.998460666666652,height_range={0.0,2.0000000020559128E-6}]:22.998461,(2[&height_95%_HPD={0.0,1.0000000010279564E-6},height=3.0685358310236975E-7,length_95%_HPD={22.632998,23.0068},height_median=0.0,height_range={0.0,1.00000000458067E-6},length_median=22.9835915,length=22.90536934423675,length_range={18.238967,23.0068}]:22.905369,((3[&height_median=0.0,height=3.130841127425268E-7,length_95%_HPD={5.685557,8.725751},height_95%_HPD={0.0,1.0000000010279564E-6},length_range={5.21753,14.629741},length=7.1682503489096465,length_median=7.081284500000001,height_range={0.0,2.0000000020559128E-6}]:7.168945,4[&height_range={0.0,2.0000000020559128E-6},length=7.16836821495326,length_median=7.081284500000001,length_range={5.21753,14.754602},height_95%_HPD={0.0,1.0000000010279564E-6},length_95%_HPD={5.685557,8.725751},height=3.115264803366379E-7,height_median=0.0]:7.168945)[&posterior=0.9937694704049844,length_median=7.892679,length=7.84009652664577,length_range={2.185681,11.521575},height_range={5.21753,10.558362000000002},length_95%_HPD={5.649014,10.136899},height=7.130821706896546,height_95%_HPD={5.728587000000001,8.725751},height_median=7.079013000000001]:7.806500,(5[&length_range={7.914268,15.734355},length_median=12.221250999999999,length=12.2515316931464,height_range={0.0,1.00000000458067E-6},height_median=0.0,height=3.0685358319644473E-7,length_95%_HPD={10.10999,14.21958},height_95%_HPD={0.0,1.0000000010279564E-6}]:12.266783,6[&length=12.266782711837989,length_median=12.223469999999999,length_range={9.16391,17.705422},height_range={0.0,1.00000000458067E-6},length_95%_HPD={10.10999,14.21958},height=3.0685358320197855E-7,height_95%_HPD={0.0,1.0000000010279564E-6},height_median=0.0]:12.266783)[&length_median=2.675073,length=2.7116142995319836,posterior=0.9984423676012462,length_range={0.873178,4.605748},height_range={9.163910000000001,15.734355999999998},length_95%_HPD={1.505427,3.670142},height=12.258298402496084,height_95%_HPD={10.136795000000001,14.219580000000002},height_median=12.221521000000003]:2.708662)[&height_median=15.011578499999999,height=14.975444752336466,length_95%_HPD={5.966044,10.388781},height_95%_HPD={13.194200999999998,17.258468},length_range={3.684903,10.855095},length_median=7.9217875,length=7.929924898753893,posterior=1.0,height_range={12.128234,18.26479}]:7.929925)[&height_range={18.238968,23.006801000000003},length_median=0.0204045,length=0.0930913520249221,posterior=1.0,length_range={0.012414,4.717253},height_95%_HPD={22.632998,23.006801000000003},length_95%_HPD={0.012414,0.332997},height=22.905369651090318,height_median=22.9835915]:0.093091)[&fossil_name=F_1,fossil_age={12.75,23.03},fossil_id=1];
+		5 Tragulus_javanicus,
+		6 Moschiola_meminna,
+		7 Moschiola_indica;
+	TREE TREE1 = [&R] ((1[&height_range={0.0,2.00000000916134E-6},length_95%_HPD={4.227688,6.920231},height_median=0.0,length_median=5.540907499999999,height=3.1775701044716983E-7,length_range={3.384819,8.010148},length=5.579035934579441,height_95%_HPD={0.0,1.00000000458067E-6}]:5.579036,2[&length_range={3.384819,8.010148},length=5.579035934579441,height_95%_HPD={0.0,1.00000000458067E-6},length_median=5.540907499999999,height_median=0.0,height=3.1775701044716983E-7,length_95%_HPD={4.227688,6.920231},height_range={0.0,2.00000000916134E-6}]:5.579036)[&length_range={29.191225,38.324718},height_95%_HPD={4.227688000000001,6.920230999999998},length=32.154412451713405,length_median=31.853866,height_median=5.540908000000002,height=5.579036252336449,length_95%_HPD={29.62967,35.580978},posterior=1.0,height_range={3.3848199999999977,8.010148000000004}]:32.154412,(((4[&length_95%_HPD={10.875377,16.825705},height_range={0.0,2.0000000020559128E-6},length_median=14.067399,height_median=0.0,height=3.3489096698942116E-7,length_range={10.748289,20.523723},length=14.120789093457956,height_95%_HPD={0.0,1.00000000458067E-6}]:14.120789,5[&height_range={0.0,2.0000000020559128E-6},length_95%_HPD={10.875377,16.825705},height=3.3489096698942116E-7,height_median=0.0,length_median=14.067399,height_95%_HPD={0.0,1.00000000458067E-6},length=14.120789093457956,length_range={10.748289,20.523723}]:14.120789)[&length_range={8.051986,24.71425},length=15.54910831619937,height_95%_HPD={10.875377,16.825706000000004},length_95%_HPD={10.757563,21.66345},height_range={10.748289,20.523724},posterior=1.0,length_median=15.4524865,height_median=14.067399000000005,height=14.120789428348909]:15.631259,(6[&length_95%_HPD={1.921719,4.521125},height_range={0.0,1.9999999949504854E-6},height=3.3956386418495255E-7,length_median=3.0797855,height_median=0.0,height_95%_HPD={0.0,1.00000000458067E-6},length=3.1826776401869115,length_range={1.618111,5.609364}]:3.182678,7[&height=3.3956386418495255E-7,length_median=3.0797855,height_median=0.0,length_95%_HPD={1.921719,4.521125},height_range={0.0,1.9999999949504854E-6},height_95%_HPD={0.0,1.00000000458067E-6},length=3.1826776401869115,length_range={1.618111,5.609364}]:3.182678)[&height=3.18267797975078,height_median=3.0797855,length_median=26.448594,posterior=1.0,height_range={1.618110999999999,5.609364000000003},length_95%_HPD={21.111164,31.659104},length=26.52002552180684,height_95%_HPD={1.921719000000003,4.521125000000005},length_range={20.038872,35.161077}]:26.569371)[&length_range={0.419407,13.658495},height_95%_HPD={24.372185,33.773249},length=7.5616038486312265,posterior=0.9672897196261683,height_range={23.426932,36.675849},length_95%_HPD={3.410332,12.782636},height_median=29.561705000000003,length_median=7.521987,height=29.504987909822884]:7.314262,3[&height=3.3644859941744534E-7,height_median=0.0,length_median=37.144346999999996,height_range={0.0,1.0000000116860974E-6},length_95%_HPD={36.229515,37.171473},length=36.9348137071651,height_95%_HPD={0.0,1.00000000458067E-6},length_range={27.742791,37.171473}]:37.066310)[&height_range={35.145742,37.171473999999996},posterior=1.0,length_95%_HPD={0.037148,3.924899},height=37.06631053582554,fossil_name=F_1,height_median=37.144629,length_median=0.0599865,fossil_age={33.9,37.2},length=0.6671381682242989,height_95%_HPD={36.580776,37.171473999999996},length_range={0.037148,6.766133},fossil_id=1]:0.667138)[&height=37.73344870404982,height_median=37.210181,length=0.0,height_95%_HPD={36.258316,41.657615},height_range={35.186414,43.840277},posterior=1.0];
 END;
 BEGIN NOTES;
-[! Notes block written by Bio::Phylo::Project 0.58 on Mon Jun  6 14:01:14 2016 ]
+[! Notes block written by Bio::Phylo::Project 0.58 on Thu Sep  8 22:13:40 2016 ]
 END;

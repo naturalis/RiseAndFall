@@ -1,3 +1,3 @@
-data sample   : 8
-data included : 6
-coverage      : 75.00%
+data sample   : 9
+data included : 7
+coverage      : 77.00%
