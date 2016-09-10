@@ -11,7 +11,7 @@ pipeline. Here now follows a brief explanation of the subfolders:
 Contains trees (and other results). The subfolders below this level each contain
 the summarized results of a SUPERSMART run. 
 
-Files description:
+File description:
 
 - `workflow.sh` - a shell script that has all the steps taken to arrive at the 
   final result in it. Useful to recover parameter settings and INGROUP and
