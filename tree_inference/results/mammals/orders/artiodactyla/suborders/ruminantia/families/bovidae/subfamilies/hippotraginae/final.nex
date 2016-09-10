@@ -1,0 +1,27 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Fri Sep  9 12:20:51 2016 ]
+	
+        DIMENSIONS NTAX=5;
+        TAXLABELS
+		Addax_nasomaculatus
+		Hippotragus_equinus
+		Hippotragus_niger
+		Oryx_gazella
+		Oryx_leucoryx
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Fri Sep  9 12:20:51 2016 ]
+	TRANSLATE
+		1 Hippotragus_niger,
+		2 Hippotragus_equinus,
+		3 Addax_nasomaculatus,
+		4 Oryx_gazella,
+		5 Oryx_leucoryx;
+	TREE TREE1 = [&R] (1[&height_95%_HPD={0.0,1.0000000116860974E-6},length_95%_HPD={41.779043,71.961816},height_range={0.0,2.00000000916134E-6},length=63.54268010124614,height=2.8971962846928696E-7,length_range={34.342129,71.961816},height_median=0.0,length_median=71.846566]:70.260157,(((4[&height_median=0.0,length_median=23.0042145,length_95%_HPD={17.961327,27.702074},height_range={0.0,1.0000000116860974E-6},height_95%_HPD={0.0,1.0000000116860974E-6},length_range={15.327634,31.692316},height=2.6323987725928176E-7,length=23.04784564018692]:23.047846,5[&height_median=0.0,length_median=23.0042145,length=23.04784564018692,height=2.6323987725928176E-7,length_range={15.327634,31.692316},height_95%_HPD={0.0,1.0000000116860974E-6},height_range={0.0,1.0000000116860974E-6},length_95%_HPD={17.961327,27.702074}]:23.047846)[&height_median=23.00421450000001,length_median=25.334241499999997,posterior=1.0,length_95%_HPD={17.45,37.159411},height_range={15.327634000000003,31.692316000000005},height_95%_HPD={17.961327000000004,27.702073999999996},height=23.047845903426808,length=25.819054847352017,length_range={14.344266,44.389538}]:25.819055,3[&height_median=0.0,length_median=47.8669045,length_95%_HPD={38.983363,61.221487},height_range={0.0,1.0000000116860974E-6},height_95%_HPD={0.0,1.0000000116860974E-6},length_range={34.994686,69.675584},length=48.8669005031153,height=2.476635533774751E-7]:48.866901)[&height_95%_HPD={38.983363000000004,61.22148700000001},length_95%_HPD={7.495468,31.84406},height_range={34.99468600000001,69.675584},height=48.86690075077886,length=21.323264632398782,length_range={2.214282,36.877475},height_median=47.866905,length_median=22.87516,posterior=1.0]:21.351175,2[&length_median=71.828619,height_median=0.0,height_95%_HPD={0.0,1.0000000116860974E-6},length_95%_HPD={41.779043,71.96335},height_range={0.0,1.0000000258969521E-6},height=2.8660436356896805E-7,length=63.5285095264798,length_range={34.342129,71.96335}]:70.218076)[&height_95%_HPD={67.860821,71.886173},length_95%_HPD={0.08033,0.129151},height_range={58.269493,71.886173},length_range={0.07054,1.127279},height=71.19204409638552,length=0.10849877911646583,length_median=0.103724,height_median=71.836432,posterior=0.3878504672897196]:0.042081)[&height_median=71.932582,fossil_name=F_1,fossil_id=1,posterior=1.0,height_range={52.030412,71.96335},height_95%_HPD={62.453720000000004,71.96335},fossil_age={42,72},length=0.0,height=70.26015740965735];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Fri Sep  9 12:20:52 2016 ]
+END;
