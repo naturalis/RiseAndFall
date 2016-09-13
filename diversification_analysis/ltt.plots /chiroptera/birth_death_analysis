@@ -1,0 +1,14 @@
+Estimation of Speciation and Extinction Rates
+            with Birth-Death Models
+
+     Phylogenetic tree: chiroptera 
+        Number of tips: 548 
+              Deviance: -1968.683 
+        Log-likelihood: 984.3413 
+   Parameter estimates:
+      d / b = 0.5101044   StdErr = 0.05806077 
+      b - d = 0.05538382   StdErr = 0.004278663 
+   (b: speciation rate, d: extinction rate)
+   Profile likelihood 95% confidence intervals:
+      d / b: [0.4283675, 0.5804569]
+      b - d: [0.05001617, 0.06115967]

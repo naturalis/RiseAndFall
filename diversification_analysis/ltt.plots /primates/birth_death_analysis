@@ -1,0 +1,14 @@
+Estimation of Speciation and Extinction Rates
+            with Birth-Death Models
+
+     Phylogenetic tree: primates
+        Number of tips: 267 
+              Deviance: -722.293 
+        Log-likelihood: 361.1465 
+   Parameter estimates:
+      d / b = 0.7754631   StdErr = 0.04737571 
+      b - d = 0.04136962   StdErr = 0.006960418 
+   (b: speciation rate, d: extinction rate)
+   Profile likelihood 95% confidence intervals:
+      d / b: [0.7229588, 0.8181012]
+      b - d: [0.03492124, 0.0487731]

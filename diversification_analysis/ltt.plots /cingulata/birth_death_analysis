@@ -1,0 +1,16 @@
+
+
+Estimation of Speciation and Extinction Rates
+            with Birth-Death Models
+
+     Phylogenetic tree: Cingulata
+        Number of tips: 13 
+              Deviance: 62.15879 
+        Log-likelihood: -31.0794 
+   Parameter estimates:
+      d / b = 0.2590574   StdErr = 0.7348806 
+      b - d = 0.02175705   StdErr = 0.01488349 
+   (b: speciation rate, d: extinction rate)
+   Profile likelihood 95% confidence intervals:
+      d / b: [-0.892786, 0.7094105]
+      b - d: [0.01080616, 0.03894036]
