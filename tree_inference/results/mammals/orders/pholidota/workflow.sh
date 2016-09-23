@@ -58,4 +58,3 @@ smrt cladeinfer --ngens=15000000 --sfreq=1000 --lfreq=1000
 
 # graft the *BEAST results on the backbone
 smrt cladegraft
-
