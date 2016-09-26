@@ -45,7 +45,7 @@ smrt consense -b 0.2 --prob -i chronogram.dnd --prob
 # decompose the backbone tree into monophyletic clades. writes a directory
 # with suitable alignments for each clade
 export SUPERSMART_CLADE_MAX_DISTANCE="0.3"
-export SUPERSMART_CLADE_MIN_DENSITY="0.3"
+export SUPERSMART_CLADE_MIN_DENSITY="0.2"
 export SUPERSMART_CLADE_MIN_COVERAGE="2"
 export SUPERSMART_CLADE_MAX_COVERAGE="10"
 smrt bbdecompose -b
@@ -61,4 +61,3 @@ smrt cladegraft
 
 #prune negative branches
 smrt-utils prunetree -t final.nex -g "species_name" -f figtree
-
