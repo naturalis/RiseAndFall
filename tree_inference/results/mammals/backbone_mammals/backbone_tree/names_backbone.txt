@@ -68,31 +68,34 @@ Sylvilagus nuttallii
 Sylvilagus obscurus    
 Sylvilagus palustris 
 Sylvilagus robustus 
-Pronolagus crassicaudatus
-Pronolagus randensis 
-Pronolagus rupestris 
-Pronolagus saundersiae  
-Tupaia belangeri 
+Ochotona hoffmanni
+Ochotona hyperborea
+Ochotona pusilla
+Ochotona roylei 
+Ochotona rufescens
+Ochotona thibetana 
 Tupaia chinensis
 Tupaia glis 
 Tupaia splendidula 
 Tupaia tana 
 Dendrogale melanura 
 Dendrogale murina 
+Sorex antinorii
+Sorex cylindricauda
+Sorex minutissimus
+Sorex tundrensis
+Sorex ugyunak 
 Mogera imaizumii   
 Mogera insularis 
 Mogera insularis latouchei
 Mogera robusta 
 Mogera wogura
 Crocidura beccarii 
-Crocidura buettikoferi
-Crocidura dsinezumi 
-Crocidura eburnea   
-Crocidura goliath    
-Chodsigoa caovansunga
-Chodsigoa hypsibia
-Chodsigoa parca 
-Chodsigoa sodalis 
+Crocidura brunnea 
+Crocidura lepidura
+Crocidura maxi
+Crocidura obscurior  
+Crocidura paradoxura
 Perameles bougainville
 Perameles gunnii 
 Perameles nasuta 
@@ -121,21 +124,17 @@ Tapirus pinchaque
 Tapirus terrestris  
 Ctenodactylus gundi
 Ctenodactylus vali
-Atherurus africanus   
-Atherurus macrourus
-Castor canadensis 
-Castor fiber
-Castor fiber birulai 
-Castor fiber pohlei
-Zapus hudsonius intermedius 
-Zapus hudsonius luteus
-Zapus hudsonius pallidus  
-Zapus hudsonius preblei  
-Eulemur albifrons 
-Eulemur cinereiceps 
-Eulemur coronatus 
-Eulemur flavifrons 
-Eulemur fulvus 
+Bathyergus janetta 
+Bathyergus suillus 
+Sciurus carolinensis
+Sciurus lis 
+Sciurus niger
+Sciurus vulgaris 
+Proechimys cuvieri
+Proechimys gularis
+Proechimys guyannensis 
+Proechimys hoplomyoides 
+Proechimys simonsi
 Callicebus coimbrai
 Callicebus discolor 
 Callicebus nigrifrons 
