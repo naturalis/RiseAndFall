@@ -1,5 +1,0 @@
-consensus is used as final tree. This is because final.nex has either low posterior values either clades are compressed and 
-the results are not displayed well.
-species.tsv has 54 species , consensus 33. 
-
-prune command not used
