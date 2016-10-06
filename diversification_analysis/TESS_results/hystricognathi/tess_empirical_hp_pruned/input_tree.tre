@@ -1,0 +1,313 @@
+#NEXUS
+[R-package APE, Thu Oct  6 14:25:34 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 150;
+	TAXLABELS
+		Laonastes_aenigmamus
+		Atherurus_macrourus
+		Hystrix_indica
+		Heterocephalus_glaber
+		Petromus_typicus
+		Thryonomys_swinderianus
+		Chinchilla_lanigera
+		Dinomys_branickii
+		Erethizon_dorsatum
+		Heliophobius_argenteocinereus
+		Hystrix_cristata
+		Trichys_fasciculata
+		Hystrix_brachyurus
+		Abrocoma_cinerea
+		Abrocoma_bennettii
+		Cuniculus_paca
+		Cuniculus_taczanowskii
+		Sphiggurus_melanura
+		Atherurus_africanus
+		Hystrix_africaeaustralis
+		Coendou_prehensilis
+		Coendou_bicolor
+		Georychus_capensis
+		Cryptomys_hottentotus
+		Capromys_pilorides
+		Myoprocta_acouchy
+		Myoprocta_pratti
+		Dasyprocta_punctata
+		Dasyprocta_leporina
+		Galea_musteloides
+		Galea_spixii
+		Bathyergus_janetta
+		Bathyergus_suillus
+		Fukomys_darlingi
+		Thrichomys_apereoides
+		Octodontomys_gliroides
+		Octomys_mimax
+		Ctenomys_dorbignyi
+		Microcavia_australis
+		Myocastor_coypus
+		Clyomys_laticeps
+		Euryzygomatomys_spinosus
+		Pipanacoctomys_aureus
+		Tympanoctomys_barrerae
+		Ctenomys_frater
+		Ctenomys_tucumanus
+		Hydrochoerus_hydrochaeris
+		Kerodon_rupestris
+		Dolichotis_salinicola
+		Dolichotis_patagonum
+		Cavia_patzelti
+		Fukomys_kafuensis
+		Fukomys_damarensis
+		Lonchothrix_emiliae
+		Isothrix_negrensis
+		Isothrix_orinoci
+		Kannabateomys_amblyonyx
+		Hoplomys_gymnurus
+		Trinomys_yonenagae
+		Trinomys_dimidiatus
+		Octodon_degus
+		Aconaemys_fuscus
+		Spalacopus_cyanus
+		Ctenomys_fulvus
+		Fukomys_anselli
+		Fukomys_amatus
+		Mesomys_hispidus
+		Mesomys_occultus
+		Dactylomys_peruanus
+		Echimys_chrysurus
+		Trinomys_iheringi
+		Trinomys_paratus
+		Trinomys_eliasi
+		Trinomys_albispinus
+		Octodon_bridgesi
+		Octodon_lunatus
+		Ctenomys_leucodon
+		Ctenomys_steinbachi
+		Ctenomys_latro
+		Ctenomys_lewisi
+		Ctenomys_occultus
+		Cavia_tschudii
+		Cavia_aperea
+		Cavia_magna
+		Fukomys_mechowii
+		Fukomys_micklemi
+		Fukomys_bocagei
+		Fukomys_whytei
+		Dactylomys_boliviensis
+		Dactylomys_dactylinus
+		Phyllomys_dasythrix
+		Makalata_didelphoides
+		Ctenomys_torquatus
+		Ctenomys_fodax
+		Ctenomys_magellanicus
+		Ctenomys_tuconax
+		Ctenomys_roigi
+		Ctenomys_pearsoni
+		Ctenomys_perrensi
+		Ctenomys_australis
+		Ctenomys_azarae
+		Ctenomys_yolandae
+		Cavia_fulgida
+		Cavia_porcellus
+		Echimys_semivillosus
+		Makalata_macrura
+		Phyllomys_lamarum
+		Phyllomys_nigrispinus
+		Phyllomys_unicolor
+		Proechimys_steerei
+		Proechimys_guyannensis
+		Proechimys_hoplomyoides
+		Proechimys_quadruplicatus
+		Proechimys_roberti
+		Proechimys_cuvieri
+		Proechimys_simonsi
+		Ctenomys_pilarensis
+		Ctenomys_talarum
+		Ctenomys_coyhaiquensis
+		Ctenomys_lami
+		Ctenomys_porteousi
+		Ctenomys_colburni
+		Ctenomys_rionegrensis
+		Ctenomys_maulinus
+		Ctenomys_minutus
+		Ctenomys_argentinus
+		Ctenomys_opimus
+		Phyllomys_brasiliensis
+		Phyllomys_lundi
+		Phyllomys_sulinus
+		Makalata_grandis
+		Phyllomys_pattoni
+		Phyllomys_blainvillii
+		Proechimys_longicaudatus
+		Proechimys_gularis
+		Ctenomys_sericeus
+		Ctenomys_goodfellowi
+		Ctenomys_conoveri
+		Ctenomys_bergi
+		Ctenomys_mendocinus
+		Ctenomys_boliviensis
+		Ctenomys_sociabilis
+		Ctenomys_pundti
+		Ctenomys_nattereri
+		Ctenomys_bonettoi
+		Ctenomys_rosendopascuali
+		Ctenomys_flamarioni
+		Ctenomys_juris
+		Ctenomys_scagliai
+		Ctenomys_haigi
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Laonastes_aenigmamus,
+		2	Atherurus_macrourus,
+		3	Hystrix_indica,
+		4	Heterocephalus_glaber,
+		5	Petromus_typicus,
+		6	Thryonomys_swinderianus,
+		7	Chinchilla_lanigera,
+		8	Dinomys_branickii,
+		9	Erethizon_dorsatum,
+		10	Heliophobius_argenteocinereus,
+		11	Hystrix_cristata,
+		12	Trichys_fasciculata,
+		13	Hystrix_brachyurus,
+		14	Abrocoma_cinerea,
+		15	Abrocoma_bennettii,
+		16	Cuniculus_paca,
+		17	Cuniculus_taczanowskii,
+		18	Sphiggurus_melanura,
+		19	Atherurus_africanus,
+		20	Hystrix_africaeaustralis,
+		21	Coendou_prehensilis,
+		22	Coendou_bicolor,
+		23	Georychus_capensis,
+		24	Cryptomys_hottentotus,
+		25	Capromys_pilorides,
+		26	Myoprocta_acouchy,
+		27	Myoprocta_pratti,
+		28	Dasyprocta_punctata,
+		29	Dasyprocta_leporina,
+		30	Galea_musteloides,
+		31	Galea_spixii,
+		32	Bathyergus_janetta,
+		33	Bathyergus_suillus,
+		34	Fukomys_darlingi,
+		35	Thrichomys_apereoides,
+		36	Octodontomys_gliroides,
+		37	Octomys_mimax,
+		38	Ctenomys_dorbignyi,
+		39	Microcavia_australis,
+		40	Myocastor_coypus,
+		41	Clyomys_laticeps,
+		42	Euryzygomatomys_spinosus,
+		43	Pipanacoctomys_aureus,
+		44	Tympanoctomys_barrerae,
+		45	Ctenomys_frater,
+		46	Ctenomys_tucumanus,
+		47	Hydrochoerus_hydrochaeris,
+		48	Kerodon_rupestris,
+		49	Dolichotis_salinicola,
+		50	Dolichotis_patagonum,
+		51	Cavia_patzelti,
+		52	Fukomys_kafuensis,
+		53	Fukomys_damarensis,
+		54	Lonchothrix_emiliae,
+		55	Isothrix_negrensis,
+		56	Isothrix_orinoci,
+		57	Kannabateomys_amblyonyx,
+		58	Hoplomys_gymnurus,
+		59	Trinomys_yonenagae,
+		60	Trinomys_dimidiatus,
+		61	Octodon_degus,
+		62	Aconaemys_fuscus,
+		63	Spalacopus_cyanus,
+		64	Ctenomys_fulvus,
+		65	Fukomys_anselli,
+		66	Fukomys_amatus,
+		67	Mesomys_hispidus,
+		68	Mesomys_occultus,
+		69	Dactylomys_peruanus,
+		70	Echimys_chrysurus,
+		71	Trinomys_iheringi,
+		72	Trinomys_paratus,
+		73	Trinomys_eliasi,
+		74	Trinomys_albispinus,
+		75	Octodon_bridgesi,
+		76	Octodon_lunatus,
+		77	Ctenomys_leucodon,
+		78	Ctenomys_steinbachi,
+		79	Ctenomys_latro,
+		80	Ctenomys_lewisi,
+		81	Ctenomys_occultus,
+		82	Cavia_tschudii,
+		83	Cavia_aperea,
+		84	Cavia_magna,
+		85	Fukomys_mechowii,
+		86	Fukomys_micklemi,
+		87	Fukomys_bocagei,
+		88	Fukomys_whytei,
+		89	Dactylomys_boliviensis,
+		90	Dactylomys_dactylinus,
+		91	Phyllomys_dasythrix,
+		92	Makalata_didelphoides,
+		93	Ctenomys_torquatus,
+		94	Ctenomys_fodax,
+		95	Ctenomys_magellanicus,
+		96	Ctenomys_tuconax,
+		97	Ctenomys_roigi,
+		98	Ctenomys_pearsoni,
+		99	Ctenomys_perrensi,
+		100	Ctenomys_australis,
+		101	Ctenomys_azarae,
+		102	Ctenomys_yolandae,
+		103	Cavia_fulgida,
+		104	Cavia_porcellus,
+		105	Echimys_semivillosus,
+		106	Makalata_macrura,
+		107	Phyllomys_lamarum,
+		108	Phyllomys_nigrispinus,
+		109	Phyllomys_unicolor,
+		110	Proechimys_steerei,
+		111	Proechimys_guyannensis,
+		112	Proechimys_hoplomyoides,
+		113	Proechimys_quadruplicatus,
+		114	Proechimys_roberti,
+		115	Proechimys_cuvieri,
+		116	Proechimys_simonsi,
+		117	Ctenomys_pilarensis,
+		118	Ctenomys_talarum,
+		119	Ctenomys_coyhaiquensis,
+		120	Ctenomys_lami,
+		121	Ctenomys_porteousi,
+		122	Ctenomys_colburni,
+		123	Ctenomys_rionegrensis,
+		124	Ctenomys_maulinus,
+		125	Ctenomys_minutus,
+		126	Ctenomys_argentinus,
+		127	Ctenomys_opimus,
+		128	Phyllomys_brasiliensis,
+		129	Phyllomys_lundi,
+		130	Phyllomys_sulinus,
+		131	Makalata_grandis,
+		132	Phyllomys_pattoni,
+		133	Phyllomys_blainvillii,
+		134	Proechimys_longicaudatus,
+		135	Proechimys_gularis,
+		136	Ctenomys_sericeus,
+		137	Ctenomys_goodfellowi,
+		138	Ctenomys_conoveri,
+		139	Ctenomys_bergi,
+		140	Ctenomys_mendocinus,
+		141	Ctenomys_boliviensis,
+		142	Ctenomys_sociabilis,
+		143	Ctenomys_pundti,
+		144	Ctenomys_nattereri,
+		145	Ctenomys_bonettoi,
+		146	Ctenomys_rosendopascuali,
+		147	Ctenomys_flamarioni,
+		148	Ctenomys_juris,
+		149	Ctenomys_scagliai,
+		150	Ctenomys_haigi
+	;
+	TREE * UNTITLED = [&R] ((((((7:24.89224,8:24.89224):17.657614,(((((((54:19.139724,(67:16.475419,68:16.475419):2.664304):9.851422,(55:24.903784,56:24.903784):4.08736):2.630621,((57:19.852178,((89:8.263308,90:8.263308):3.117333,69:11.380641):8.471537):10.514142,((70:23.356701,(((128:13.796221,129:13.796221):4.45878,(130:13.713587,131:13.713587):4.541414):1.465996,((132:13.83926,133:13.83926):3.124883,105:16.964143):2.756854):3.635704):6.287189,(((106:12.876971,107:12.876971):4.331214,(108:12.820558,109:12.820558):4.387628):1.197626,(91:12.975505,92:12.975505):5.430306):11.238079):0.72243):1.255446):2.514972,(((58:21.696462,(((110:14.606133,111:14.606133):3.811844,(112:13.931032,113:13.931032):4.486945):1.42576,((114:10.421264,115:10.421264):7.58482,(116:16.486372,(134:13.202348,135:13.202348):3.284025):1.519712):1.837653):1.852724):6.176197,40:27.872659):2.216285,35:30.088944):4.047794):3.068403,(25:25.785761,((41:12.710074,42:12.710074):12.157437,(((71:7.741725,72:7.741725):1.98153,(73:6.915639,74:6.915639):2.807615):1.375339,(59:6.818294,60:6.818294):4.2803):13.768917):0.91825):11.41938):1.989764,(((36:14.799802,((61:9.036376,(75:2.406802,76:2.406802):6.629574):3.659952,(62:8.019028,63:8.019028):4.6773):2.103474):5.866187,((43:3.153121,44:3.153121):6.836895,37:9.990016):10.675973):14.611347,(((45:2.463826,46:2.463826):0.877628,38:3.341454):10.329244,((((77:9.042523,(93:7.571534,94:7.571534):1.470989):1.326381,(((117:7.506814,118:7.506814):1.520085,95:9.026899):1.056271,((119:7.577453,120:7.577453):1.462729,96:9.040182):1.042989):0.285734):0.223235,((78:9.026733,(97:7.452879,98:7.452879):1.573854):1.187826,((99:7.487272,100:7.487272):2.102311,(101:7.458215,102:7.458215):2.131367):0.624977):0.37758):0.166132,(((((121:7.488654,122:7.488654):2.934396,((136:8.9463,(142:7.411268,143:7.411268):1.535033):1.354868,((144:7.569315,145:7.569315):2.344531,(146:9.033291,(149:7.536983,150:7.536983):1.496308):0.880555):0.387323):0.121881):0.161709,((123:7.511052,124:7.511052):2.423189,((137:7.561382,138:7.561382):1.48005,125:9.041431):0.89281):0.650517):0.093019,((((139:7.511419,140:7.511419):2.419099,((147:7.664196,148:7.664196):1.438681,141:9.102877):0.827641):0.289871,(126:7.43762,127:7.43762):2.782769):0.094785,79:10.315173):0.362605):0.021399,(64:8.989868,(80:7.430337,81:7.430337):1.559531):1.709308):0.059095):2.912426):21.606639):3.91757):0.314841,(14:10.534293,15:10.534293):28.975454):3.040107):0.578925,(((((26:11.297426,27:11.297426):5.812573,(28:8.872024,29:8.872024):8.237975):18.860133,((30:16.836018,31:16.836018):15.214138,(((47:20.216792,48:20.216792):5.612982,(49:18.128488,50:18.128488):7.701286):4.297562,(39:25.067379,(51:13.639414,((82:0.882628,83:0.882628):8.563758,(84:3.323634,(103:2.588268,104:2.588268):0.735367):6.122752):4.193028):11.427964):5.059957):1.922819):3.919977):0.437492,(16:4.454336,17:4.454336):31.953288):5.636466,(9:14.207925,(18:9.056233,(21:0.767154,22:0.767154):8.289078):5.151693):27.836165):1.084688):1.317029,((4:37.967396,((((32:5.878737,33:5.878737):13.320947,23:19.199684):1.479287,(24:14.989935,(((52:5.351803,53:5.351803):2.630592,((65:7.037032,(85:5.197396,86:5.197396):1.839636):0.78359,((87:5.583444,88:5.583444):0.85552,66:6.438964):1.381658):0.161773):0.809948,34:8.792344):6.197591):5.689036):3.056527,10:23.735498):14.231898):3.4157,(5:26.600547,6:26.600547):14.78255):3.062712):0.484305,(2:24.95096,(3:1.963722,((11:1.330705,12:1.330705):0.569146,((19:1.353296,20:1.353296):0.280662,13:1.633958):0.265893):0.063871):22.987238):19.979153):3.638198,1:48.568311):0.011741;
+END;
