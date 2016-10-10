@@ -1,0 +1,109 @@
+#NEXUS
+[R-package APE, Sun Oct  9 12:06:03 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 48;
+	TAXLABELS
+		Brachylagus_idahoensis
+		Sylvilagus_cunicularis
+		Sylvilagus_palustris
+		Sylvilagus_audubonii
+		Sylvilagus_obscurus
+		Caprolagus_hispidus
+		Oryctolagus_cuniculus
+		Bunolagus_monticularis
+		Pentalagus_furnessi
+		Romerolagus_diazi
+		Lepus_granatensis
+		Sylvilagus_floridanus
+		Sylvilagus_robustus
+		Nesolagus_netscheri
+		Nesolagus_timinsi
+		Poelagus_marjorita
+		Lepus_oiostolus
+		Lepus_sinensis
+		Lepus_yarkandensis
+		Lepus_europaeus
+		Lepus_starcki
+		Sylvilagus_brasiliensis
+		Sylvilagus_aquaticus
+		Sylvilagus_nuttallii
+		Sylvilagus_transitionalis
+		Pronolagus_saundersiae
+		Pronolagus_rupestris
+		Pronolagus_crassicaudatus
+		Pronolagus_randensis
+		Lepus_hainanus
+		Lepus_corsicanus
+		Lepus_castroviejoi
+		Lepus_arcticus
+		Lepus_tolai
+		Lepus_comus
+		Lepus_habessinicus
+		Lepus_insularis
+		Lepus_coreanus
+		Lepus_capensis
+		Lepus_saxatilis
+		Lepus_callotis
+		Lepus_brachyurus
+		Lepus_alleni
+		Lepus_timidus
+		Lepus_othus
+		Lepus_mandshuricus
+		Lepus_townsendii
+		Lepus_flavigularis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Brachylagus_idahoensis,
+		2	Sylvilagus_cunicularis,
+		3	Sylvilagus_palustris,
+		4	Sylvilagus_audubonii,
+		5	Sylvilagus_obscurus,
+		6	Caprolagus_hispidus,
+		7	Oryctolagus_cuniculus,
+		8	Bunolagus_monticularis,
+		9	Pentalagus_furnessi,
+		10	Romerolagus_diazi,
+		11	Lepus_granatensis,
+		12	Sylvilagus_floridanus,
+		13	Sylvilagus_robustus,
+		14	Nesolagus_netscheri,
+		15	Nesolagus_timinsi,
+		16	Poelagus_marjorita,
+		17	Lepus_oiostolus,
+		18	Lepus_sinensis,
+		19	Lepus_yarkandensis,
+		20	Lepus_europaeus,
+		21	Lepus_starcki,
+		22	Sylvilagus_brasiliensis,
+		23	Sylvilagus_aquaticus,
+		24	Sylvilagus_nuttallii,
+		25	Sylvilagus_transitionalis,
+		26	Pronolagus_saundersiae,
+		27	Pronolagus_rupestris,
+		28	Pronolagus_crassicaudatus,
+		29	Pronolagus_randensis,
+		30	Lepus_hainanus,
+		31	Lepus_corsicanus,
+		32	Lepus_castroviejoi,
+		33	Lepus_arcticus,
+		34	Lepus_tolai,
+		35	Lepus_comus,
+		36	Lepus_habessinicus,
+		37	Lepus_insularis,
+		38	Lepus_coreanus,
+		39	Lepus_capensis,
+		40	Lepus_saxatilis,
+		41	Lepus_callotis,
+		42	Lepus_brachyurus,
+		43	Lepus_alleni,
+		44	Lepus_timidus,
+		45	Lepus_othus,
+		46	Lepus_mandshuricus,
+		47	Lepus_townsendii,
+		48	Lepus_flavigularis
+	;
+	TREE * UNTITLED = [&R] (1:55.973518,(((2:1.497821,3:1.497821):40.266957,((5:12.388594,(12:9.383428,(((22:1.86301,23:1.86301):0.690107,(24:1.977272,25:1.977272):0.575844):0.333535,13:2.886651):6.496777):3.005165):13.079824,4:25.468418):16.29636):4.416671,(((6:36.802653,7:36.802653):2.472906,(8:32.296361,9:32.296361):6.979198):4.152194,((((14:6.90951,15:6.90951):21.171262,(((26:7.244202,27:7.244202):10.720008,(28:5.352638,29:5.352638):12.611572):5.007917,16:22.972127):5.108646):9.28573,10:37.366502):1.25233,((((18:2.476161,19:2.476161):14.419987,17:16.896147):3.284394,(((((((41:1.468967,42:1.468967):0.242389,37:1.711356):0.372414,((43:1.324574,44:1.324574):0.591713,(45:1.719835,46:1.719835):0.196452):0.167483):7.978504,(33:9.593754,((47:1.326082,48:1.326082):8.231607,38:9.557689):0.036065):0.46852):4.384208,((34:1.591679,35:1.591679):0.671148,(36:1.8342,(39:1.325778,40:1.325778):0.508422):0.428627):12.183654):1.765175,20:16.211657):1.144112,(((31:0.587027,32:0.587027):0.117102,30:0.704129):0.233963,21:0.938092):16.417677):2.824772):15.320316,11:35.500857):3.117976):4.808921):2.753696):9.792069):240.575295;
+END;

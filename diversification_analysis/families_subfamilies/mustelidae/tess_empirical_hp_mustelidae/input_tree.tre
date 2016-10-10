@@ -1,0 +1,119 @@
+#NEXUS
+[R-package APE, Sun Oct  9 11:58:47 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 53;
+	TAXLABELS
+		Taxidea_taxus
+		Mellivora_capensis
+		Arctonyx_collaris
+		Eira_barbara
+		Meles_anakuma
+		Melogale_cucphuongensis
+		Gulo_gulo
+		Meles_meles
+		Meles_leucurus
+		Melogale_moschata
+		Melogale_personata
+		Mustela_nivalis
+		Pteronura_brasiliensis
+		Vormela_peregusna
+		Lyncodon_patagonicus
+		Martes_foina
+		Martes_pennanti
+		Martes_flavigula
+		Ictonyx_libyca
+		Galictis_cuja
+		Galictis_vittata
+		Mustela_itatsi
+		Lontra_canadensis
+		Ictonyx_striatus
+		Poecilogale_albinucha
+		Martes_melampus
+		Martes_americana
+		Martes_zibellina
+		Martes_martes
+		Mustela_erminea
+		Neovison_vison
+		Mustela_sibirica
+		Enhydra_lutris
+		Hydrictis_maculicollis
+		Lontra_longicaudis
+		Mustela_nudipes
+		Mustela_frenata
+		Mustela_kathiah
+		Aonyx_capensis
+		Lutra_sumatrana
+		Lutra_lutra
+		Lontra_felina
+		Lontra_provocax
+		Mustela_africana
+		Mustela_putorius
+		Mustela_eversmannii
+		Mustela_nigripes
+		Lutrogale_perspicillata
+		Aonyx_cinerea
+		Mustela_altaica
+		Mustela_strigidorsa
+		Mustela_lutreola
+		Mustela_felipei
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Taxidea_taxus,
+		2	Mellivora_capensis,
+		3	Arctonyx_collaris,
+		4	Eira_barbara,
+		5	Meles_anakuma,
+		6	Melogale_cucphuongensis,
+		7	Gulo_gulo,
+		8	Meles_meles,
+		9	Meles_leucurus,
+		10	Melogale_moschata,
+		11	Melogale_personata,
+		12	Mustela_nivalis,
+		13	Pteronura_brasiliensis,
+		14	Vormela_peregusna,
+		15	Lyncodon_patagonicus,
+		16	Martes_foina,
+		17	Martes_pennanti,
+		18	Martes_flavigula,
+		19	Ictonyx_libyca,
+		20	Galictis_cuja,
+		21	Galictis_vittata,
+		22	Mustela_itatsi,
+		23	Lontra_canadensis,
+		24	Ictonyx_striatus,
+		25	Poecilogale_albinucha,
+		26	Martes_melampus,
+		27	Martes_americana,
+		28	Martes_zibellina,
+		29	Martes_martes,
+		30	Mustela_erminea,
+		31	Neovison_vison,
+		32	Mustela_sibirica,
+		33	Enhydra_lutris,
+		34	Hydrictis_maculicollis,
+		35	Lontra_longicaudis,
+		36	Mustela_nudipes,
+		37	Mustela_frenata,
+		38	Mustela_kathiah,
+		39	Aonyx_capensis,
+		40	Lutra_sumatrana,
+		41	Lutra_lutra,
+		42	Lontra_felina,
+		43	Lontra_provocax,
+		44	Mustela_africana,
+		45	Mustela_putorius,
+		46	Mustela_eversmannii,
+		47	Mustela_nigripes,
+		48	Lutrogale_perspicillata,
+		49	Aonyx_cinerea,
+		50	Mustela_altaica,
+		51	Mustela_strigidorsa,
+		52	Mustela_lutreola,
+		53	Mustela_felipei
+	;
+	TREE * UNTITLED = [&R] (((((((((((36:10.579219,((50:1.440456,51:1.440456):1.348898,44:2.789355):7.789864):7.086881,30:17.6661):4.921691,((37:4.840638,38:4.840638):11.034148,31:15.874786):6.713005):0.785067,((((45:1.400572,46:1.400572):6.735383,((52:4.185934,53:4.185934):2.037946,47:6.22388):1.912075):4.031602,32:12.167557):3.737657,22:15.905214):7.467644):0.497405,12:23.870263):9.941262,(13:32.360688,(((33:26.991227,34:26.991227):0.199543,(((48:3.56383,49:3.56383):11.37752,39:14.94135):4.307693,(40:8.592906,41:8.592906):10.656138):7.941727):2.92268,(((42:0.513992,43:0.513992):3.920466,35:4.434458):8.257371,23:12.691829):17.421621):2.247238):1.450838):0.409052,((((24:8.739702,25:8.739702):10.416227,19:19.155929):3.784264,14:22.940193):8.497686,(15:14.817883,(20:13.180228,21:13.180228):1.637655):16.619996):2.782698):3.054166,((10:7.482853,11:7.482853):10.339675,6:17.822528):19.452215):0.462603,(4:25.968755,(7:23.340551,((16:11.032044,((26:4.546799,27:4.546799):1.520582,(28:0.633634,29:0.633634):5.433747):4.964662):10.124023,(17:14.370571,18:14.370571):6.785496):2.184484):2.628203):11.768591):1.080445,(((8:0.180815,9:0.180815):4.795052,5:4.975867):7.263187,3:12.239054):26.578736):1.564032,(1:38.091701,2:38.091701):2.290122):403.645271;
+END;

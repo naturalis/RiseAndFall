@@ -11,11 +11,11 @@ OUTGROUP=Hippopotamidae
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
-#smrt taxize -r Suina,Hippopotamidae -b
+smrt taxize -r Suina,Hippopotamidae -b
 
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these
-#smrt align
+smrt align
 
 # assign orthology among the aligned clusters by reciprocal BLAST
 export SUPERSMART_BACKBONE_MAX_DISTANCE="0.2"
