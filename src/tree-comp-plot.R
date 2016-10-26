@@ -1,27 +1,38 @@
 ## This script plots two trees side-by-side and connects matching species.
 ## Both trees are pruned to the terminals that are present in both trees.
-## The trees are then visualized using ape's 'cophyloplot'
+## The trees are then visualized using ape's 'cophyloplot'.
+## Provided trees must be in nexus format
+
+## USAGE:
+## Rscript tree-comp-plot.R [tree1] [tree2] [oufilename]
 
 require('ape')
 
-## Caution, hard-coded paths.
-## Change the file names to the trees to be plotted
-supersmart.treefile <- '../tree_inference/results/mammals/backbone_mammals/consensus.nex'
-benchmark.treefile <- '../tree_inference/benchmark_trees/external_data/faurby_mammal_tree/Fully_resolved_phylogeny-consensus.nex'
+args <- commandArgs(trailingOnly=TRUE)
 
-supersmart.pruned <- "supersmart-pruned.nex"
-benchmark.pruned <- "benchmark-pruned.nex"
+if (length(args) < 3) {
+    stop("Need three arguments: [tree1] [tree2] [oufilename]")
+}
 
-## prune and align tips with supersmart
-cmd <- paste('smrt-utils aligntips -t', supersmart.treefile,  ' -u', benchmark.treefile,  '-f nexus -o', supersmart.pruned, '-q', benchmark.pruned,  '-p')
+treefile1 <- args[1]
+treefile2 <- args[2]
+plotfile <- args[3]
+
+treefile1.pruned <- tempfile()
+treefile2.pruned <- tempfile()
+
+## Prune and align tips
+## we use supersmart because the arrangement is much nicer than
+## with ape's ladderize
+cmd <- paste('smrt-utils aligntips -t', treefile1,  ' -u', treefile2,  '-f nexus -o', treefile1.pruned, '-q', treefile2.pruned,  '-p')
 system(cmd)
 
-## load trees
-tree.supersmart <- read.nexus(supersmart.pruned)
-tree.benchmark <- read.nexus(benchmark.pruned)
+## load pruned and sorted trees
+tree1 <- read.nexus(treefile1.pruned)
+tree2 <- read.nexus(treefile2.pruned)
 
-## make cophyloplot of benchmark and supersmart tree
-assoc <- cbind(specs.intersect, specs.intersect)
-pdf('tree-comp.pdf', width=20, height=40)
-cophyloplot(tree.supersmart, tree.benchmark, cex=0.1, assoc=assoc, use.edge.length=T, space=300)
+## make cophyloplot of tree2 and tree1 tree
+assoc <- cbind(tree1$tip.label, tree1$tip.label)
+pdf(plotfile, width=20, height=40)
+cophyloplot(tree1, tree2, cex=0.1, assoc=assoc, space=200, gap=10, use.edge.length=T)
 dev.off()
