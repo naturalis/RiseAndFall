@@ -1,0 +1,14 @@
+Summary of the empirical hyperprior analysis
+============================================
+
+Specation rate hyperprior
+-------------------------
+Form:	 normal 
+mean:	 0.2506333 
+sd:		 0.08795345 
+
+Extinction rate hyperprior
+-------------------------
+Form:	 normal 
+mean:	 0.1700786 
+sd:		 0.1068257 

@@ -1,0 +1,117 @@
+#NEXUS
+[R-package APE, Mon Oct 10 10:15:38 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 52;
+	TAXLABELS
+		Hyladelphys_kalinowskii
+		Glironia_venusta
+		Caluromys_derbianus
+		Tlacuatzin_canescens
+		Caluromysiops_irrupta
+		Marmosa_robinsoni
+		Metachirus_nudicaudatus
+		Caluromys_lanatus
+		Caluromys_philander
+		Chironectes_minimus
+		Marmosops_incanus
+		Marmosa_murina
+		Micoureus_regina
+		Lutreolina_crassicaudata
+		Lestodelphys_halli
+		Marmosops_invictus
+		Marmosa_rubra
+		Marmosa_mexicana
+		Micoureus_demerarae
+		Didelphis_virginiana
+		Gracilinanus_emiliae
+		Cryptonanus_unduaviensis
+		Cryptonanus_chacoensis
+		Thylamys_sponsorius
+		Micoureus_constantiae
+		Micoureus_paraguayanus
+		Gracilinanus_aceramarcae
+		Thylamys_citellus
+		Marmosops_parvidens
+		Marmosops_pinheiroi
+		Marmosops_noctivagus
+		Marmosops_impavidus
+		Philander_andersoni
+		Gracilinanus_microtarsus
+		Gracilinanus_agilis
+		Thylamys_cinderella
+		Didelphis_marsupialis
+		Didelphis_pernigra
+		Didelphis_albiventris
+		Philander_opossum
+		Philander_frenatus
+		Didelphis_aurita
+		Philander_mcilhennyi
+		Didelphis_imperfecta
+		Thylamys_karimii
+		Thylamys_pallidior
+		Thylamys_venustus
+		Thylamys_pusillus
+		Thylamys_tatei
+		Thylamys_velutinus
+		Thylamys_macrura
+		Thylamys_elegans
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Hyladelphys_kalinowskii,
+		2	Glironia_venusta,
+		3	Caluromys_derbianus,
+		4	Tlacuatzin_canescens,
+		5	Caluromysiops_irrupta,
+		6	Marmosa_robinsoni,
+		7	Metachirus_nudicaudatus,
+		8	Caluromys_lanatus,
+		9	Caluromys_philander,
+		10	Chironectes_minimus,
+		11	Marmosops_incanus,
+		12	Marmosa_murina,
+		13	Micoureus_regina,
+		14	Lutreolina_crassicaudata,
+		15	Lestodelphys_halli,
+		16	Marmosops_invictus,
+		17	Marmosa_rubra,
+		18	Marmosa_mexicana,
+		19	Micoureus_demerarae,
+		20	Didelphis_virginiana,
+		21	Gracilinanus_emiliae,
+		22	Cryptonanus_unduaviensis,
+		23	Cryptonanus_chacoensis,
+		24	Thylamys_sponsorius,
+		25	Micoureus_constantiae,
+		26	Micoureus_paraguayanus,
+		27	Gracilinanus_aceramarcae,
+		28	Thylamys_citellus,
+		29	Marmosops_parvidens,
+		30	Marmosops_pinheiroi,
+		31	Marmosops_noctivagus,
+		32	Marmosops_impavidus,
+		33	Philander_andersoni,
+		34	Gracilinanus_microtarsus,
+		35	Gracilinanus_agilis,
+		36	Thylamys_cinderella,
+		37	Didelphis_marsupialis,
+		38	Didelphis_pernigra,
+		39	Didelphis_albiventris,
+		40	Philander_opossum,
+		41	Philander_frenatus,
+		42	Didelphis_aurita,
+		43	Philander_mcilhennyi,
+		44	Didelphis_imperfecta,
+		45	Thylamys_karimii,
+		46	Thylamys_pallidior,
+		47	Thylamys_venustus,
+		48	Thylamys_pusillus,
+		49	Thylamys_tatei,
+		50	Thylamys_velutinus,
+		51	Thylamys_macrura,
+		52	Thylamys_elegans
+	;
+	TREE * UNTITLED = [&R] ((1:97.915864,((4:89.23845,(6:75.525117,((12:43.070866,(17:23.236995,18:23.236995):19.833871):12.156172,(13:36.626776,((25:5.854257,26:5.854257):7.976418,19:13.830675):22.796101):18.600262):20.298079):13.713333):6.538787,(((((20:29.382033,((((41:0.709976,42:0.709976):7.295204,37:8.00518):2.626074,(38:4.362709,39:4.362709):6.268545):5.668947,((40:1.07901,(43:0.730418,44:0.730418):0.348592):5.168267,33:6.247277):10.052925):13.081832):6.391305,14:35.773338):12.204909,10:47.978246):29.559303,7:77.53755):14.024336,((((((34:3.575976,35:3.575976):2.169354,27:5.74533):28.650353,21:34.395683):20.949679,(22:10.891421,23:10.891421):44.453941):10.476777,((24:52.87515,(28:0.321428,((((45:0.175331,46:0.175331):0.048094,(47:0.174828,48:0.174828):0.048596):0.01643,((49:0.17456,50:0.17456):0.049005,(51:0.173768,52:0.173768):0.049797):0.016289):0.001665,36:0.241519):0.079909):52.553722):6.039966,15:58.915115):6.907024):17.4282,((16:59.633383,((29:44.87499,30:44.87499):12.903036,(31:45.462261,32:45.462261):12.315765):1.855357):21.078936,11:80.712319):2.538021):8.311546):4.215351):2.138627):7.361745,((3:42.582537,(5:20.414487,(8:15.362052,9:15.362052):5.052434):22.16805):50.047572,2:92.630109):12.6475):125.98814;
+END;
