@@ -1,20 +1,15 @@
 Node	Afrotheria	Artiodactyla	Carnivora	Cetacea	Chiroptera
-NCBI	76		276	95	868
-COF	79		288	91	1308
-Species	41		237	86	548
-Percentage	0.53		0.85	0.9	0.63
+NCBI	76	241	276	95	868
+COF	79	245	288	91	1308
+Species	41	149	237	86	548
+Percentage	0.53	61	0.85	0.9	0.63
 Node	Cingulata	Perissodactyla	Pholidota	Insectivora	Lagomorpha
 NCBI	15	27	10	287	91
 COF	21	24	8	439	92
 Species	13	24	7	261	84
 Percentage	0.86	0.88	0.7	0.9	0.92
 Node	Marsupialia	Primates	Rodentia	Scandentia	Xenarthra
-NCBI	293	363		25	31
-COF	-	505		20	31
-Species	257	267		24	24
-Percentage	0.87	0.73		0.96	0.77
-Overall					
-NCBI					
-COF					
-Species					
-Percentage					
+NCBI	293	363	1610	25	31
+COF	335	505	2368	20	31
+Species	257	267	1091	24	24
+Percentage	0.87	0.73	0.67	0.96	0.77
