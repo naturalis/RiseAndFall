@@ -1,0 +1,311 @@
+#NEXUS
+[R-package APE, Tue Nov 15 14:37:47 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 149;
+	TAXLABELS
+		Pecari_tajacu
+		Babyrousa_babyrussa
+		Hyemoschus_aquaticus
+		Lama_guanicoe
+		Camelus_dromedarius
+		Tayassu_pecari
+		Catagonus_wagneri
+		Rucervus_duvaucelii
+		Lama_glama
+		Camelus_bactrianus
+		Camelus_ferus
+		Hylochoerus_meinertzhageni
+		Tragulus_napu
+		Tragulus_javanicus
+		Moschiola_meminna
+		Moschiola_indica
+		Vicugna_vicugna
+		Vicugna_pacos
+		Sus_barbatus
+		Sus_verrucosus
+		Phacochoerus_aethiopicus
+		Phacochoerus_africanus
+		Potamochoerus_larvatus
+		Potamochoerus_porcus
+		Tetracerus_quadricornis
+		Boselaphus_tragocamelus
+		Neotragus_moschatus
+		Aepyceros_melampus
+		Megaloceros_giganteus
+		Tragelaphus_imberbis
+		Oreotragus_oreotragus
+		Dama_dama
+		Dama_mesopotamica
+		Elaphurus_davidianus
+		Cervus_hortulorum
+		Pseudoryx_nghetinhensis
+		Pseudonovibos_spiralis
+		Tragelaphus_eurycerus
+		Taurotragus_derbianus
+		Cervus_yesoensis
+		Syncerus_caffer
+		Bos_taurus
+		Alcelaphus_caama
+		Kobus_vardonii
+		Philantomba_maxwellii
+		Philantomba_monticola
+		Cephalophus_adersi
+		Rucervus_eldi
+		Cervus_nippon
+		Cervus_taiouanus
+		Bubalus_depressicornis
+		Bos_grunniens
+		Procapra_picticaudata
+		Procapra_gutturosa
+		Ourebia_ourebi
+		Pelea_capreolus
+		Pantholops_hodgsonii
+		Sylvicapra_grimmia
+		Cephalophus_jentinki
+		Axis_axis
+		Axis_porcinus
+		Rusa_timorensis
+		Rusa_unicolor
+		Bubalus_bubalis
+		Bubalus_carabanensis
+		Bison_bonasus
+		Bison_bison
+		Saiga_tatarica
+		Dorcatragus_megalotis
+		Raphicerus_campestris
+		Raphicerus_melanotis
+		Elaphodus_cephalophus
+		Madoqua_saltiana
+		Capricornis_swinhoei
+		Kobus_leche
+		Redunca_arundinum
+		Redunca_fulvorufula
+		Connochaetes_gnou
+		Connochaetes_taurinus
+		Beatragus_hunteri
+		Hippotragus_equinus
+		Hippotragus_leucophaeus
+		Addax_nasomaculatus
+		Ovibos_moschatus
+		Myotragus_balearicus
+		Hydropotes_inermis
+		Muntiacus_vuquangensis
+		Antidorcas_marsupialis
+		Litocranius_walleri
+		Antilope_cervicapra
+		Madoqua_kirkii
+		Madoqua_guentheri
+		Alcelaphus_buselaphus
+		Oryx_dammah
+		Oryx_gazella
+		Hemitragus_hylocrius
+		Pudu_puda
+		Rangifer_tarandus
+		Capreolus_capreolus
+		Capreolus_pygargus
+		Damaliscus_pygargus
+		Damaliscus_lunatus
+		Budorcas_taxicolor
+		Odocoileus_hemionus
+		Odocoileus_virginianus
+		Muntiacus_feae
+		Muntiacus_reevesi
+		Gazella_arabica
+		Ovis_canadensis
+		Ovis_orientalis
+		Ovis_aries
+		Rupicapra_rupicapra
+		Rupicapra_pyrenaica
+		Oreamnos_americanus
+		Ozotoceros_bezoarticus
+		Hippocamelus_antisensis
+		Blastocerus_dichotomus
+		Hippocamelus_bisulcus
+		Muntiacus_muntjak
+		Muntiacus_rooseveltorum
+		Eudorcas_rufifrons
+		Eudorcas_thomsonii
+		Nanger_granti
+		Nanger_dama
+		Ammotragus_lervia
+		Hemitragus_jayakari
+		Capricornis_crispus
+		Muntiacus_crinifrons
+		Muntiacus_gongshanensis
+		Muntiacus_putaoensis
+		Muntiacus_truongsonensis
+		Gazella_spekei
+		Gazella_gazella
+		Ovis_dalli
+		Ovis_ammon
+		Ovis_nivicola
+		Ovis_vignei
+		Pseudois_nayaur
+		Pseudois_schaeferi
+		Capra_pyrenaica
+		Capra_cylindricornis
+		Naemorhedus_goral
+		Naemorhedus_caudatus
+		Gazella_dorcas
+		Gazella_leptoceros
+		Gazella_cuvieri
+		Gazella_bennettii
+		Gazella_subgutturosa
+		Gazella_saudiya
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Pecari_tajacu,
+		2	Babyrousa_babyrussa,
+		3	Hyemoschus_aquaticus,
+		4	Lama_guanicoe,
+		5	Camelus_dromedarius,
+		6	Tayassu_pecari,
+		7	Catagonus_wagneri,
+		8	Rucervus_duvaucelii,
+		9	Lama_glama,
+		10	Camelus_bactrianus,
+		11	Camelus_ferus,
+		12	Hylochoerus_meinertzhageni,
+		13	Tragulus_napu,
+		14	Tragulus_javanicus,
+		15	Moschiola_meminna,
+		16	Moschiola_indica,
+		17	Vicugna_vicugna,
+		18	Vicugna_pacos,
+		19	Sus_barbatus,
+		20	Sus_verrucosus,
+		21	Phacochoerus_aethiopicus,
+		22	Phacochoerus_africanus,
+		23	Potamochoerus_larvatus,
+		24	Potamochoerus_porcus,
+		25	Tetracerus_quadricornis,
+		26	Boselaphus_tragocamelus,
+		27	Neotragus_moschatus,
+		28	Aepyceros_melampus,
+		29	Megaloceros_giganteus,
+		30	Tragelaphus_imberbis,
+		31	Oreotragus_oreotragus,
+		32	Dama_dama,
+		33	Dama_mesopotamica,
+		34	Elaphurus_davidianus,
+		35	Cervus_hortulorum,
+		36	Pseudoryx_nghetinhensis,
+		37	Pseudonovibos_spiralis,
+		38	Tragelaphus_eurycerus,
+		39	Taurotragus_derbianus,
+		40	Cervus_yesoensis,
+		41	Syncerus_caffer,
+		42	Bos_taurus,
+		43	Alcelaphus_caama,
+		44	Kobus_vardonii,
+		45	Philantomba_maxwellii,
+		46	Philantomba_monticola,
+		47	Cephalophus_adersi,
+		48	Rucervus_eldi,
+		49	Cervus_nippon,
+		50	Cervus_taiouanus,
+		51	Bubalus_depressicornis,
+		52	Bos_grunniens,
+		53	Procapra_picticaudata,
+		54	Procapra_gutturosa,
+		55	Ourebia_ourebi,
+		56	Pelea_capreolus,
+		57	Pantholops_hodgsonii,
+		58	Sylvicapra_grimmia,
+		59	Cephalophus_jentinki,
+		60	Axis_axis,
+		61	Axis_porcinus,
+		62	Rusa_timorensis,
+		63	Rusa_unicolor,
+		64	Bubalus_bubalis,
+		65	Bubalus_carabanensis,
+		66	Bison_bonasus,
+		67	Bison_bison,
+		68	Saiga_tatarica,
+		69	Dorcatragus_megalotis,
+		70	Raphicerus_campestris,
+		71	Raphicerus_melanotis,
+		72	Elaphodus_cephalophus,
+		73	Madoqua_saltiana,
+		74	Capricornis_swinhoei,
+		75	Kobus_leche,
+		76	Redunca_arundinum,
+		77	Redunca_fulvorufula,
+		78	Connochaetes_gnou,
+		79	Connochaetes_taurinus,
+		80	Beatragus_hunteri,
+		81	Hippotragus_equinus,
+		82	Hippotragus_leucophaeus,
+		83	Addax_nasomaculatus,
+		84	Ovibos_moschatus,
+		85	Myotragus_balearicus,
+		86	Hydropotes_inermis,
+		87	Muntiacus_vuquangensis,
+		88	Antidorcas_marsupialis,
+		89	Litocranius_walleri,
+		90	Antilope_cervicapra,
+		91	Madoqua_kirkii,
+		92	Madoqua_guentheri,
+		93	Alcelaphus_buselaphus,
+		94	Oryx_dammah,
+		95	Oryx_gazella,
+		96	Hemitragus_hylocrius,
+		97	Pudu_puda,
+		98	Rangifer_tarandus,
+		99	Capreolus_capreolus,
+		100	Capreolus_pygargus,
+		101	Damaliscus_pygargus,
+		102	Damaliscus_lunatus,
+		103	Budorcas_taxicolor,
+		104	Odocoileus_hemionus,
+		105	Odocoileus_virginianus,
+		106	Muntiacus_feae,
+		107	Muntiacus_reevesi,
+		108	Gazella_arabica,
+		109	Ovis_canadensis,
+		110	Ovis_orientalis,
+		111	Ovis_aries,
+		112	Rupicapra_rupicapra,
+		113	Rupicapra_pyrenaica,
+		114	Oreamnos_americanus,
+		115	Ozotoceros_bezoarticus,
+		116	Hippocamelus_antisensis,
+		117	Blastocerus_dichotomus,
+		118	Hippocamelus_bisulcus,
+		119	Muntiacus_muntjak,
+		120	Muntiacus_rooseveltorum,
+		121	Eudorcas_rufifrons,
+		122	Eudorcas_thomsonii,
+		123	Nanger_granti,
+		124	Nanger_dama,
+		125	Ammotragus_lervia,
+		126	Hemitragus_jayakari,
+		127	Capricornis_crispus,
+		128	Muntiacus_crinifrons,
+		129	Muntiacus_gongshanensis,
+		130	Muntiacus_putaoensis,
+		131	Muntiacus_truongsonensis,
+		132	Gazella_spekei,
+		133	Gazella_gazella,
+		134	Ovis_dalli,
+		135	Ovis_ammon,
+		136	Ovis_nivicola,
+		137	Ovis_vignei,
+		138	Pseudois_nayaur,
+		139	Pseudois_schaeferi,
+		140	Capra_pyrenaica,
+		141	Capra_cylindricornis,
+		142	Naemorhedus_goral,
+		143	Naemorhedus_caudatus,
+		144	Gazella_dorcas,
+		145	Gazella_leptoceros,
+		146	Gazella_cuvieri,
+		147	Gazella_bennettii,
+		148	Gazella_subgutturosa,
+		149	Gazella_saudiya
+	;
+	TREE * UNTITLED = [&R] (((((((25:7.276553,26:7.276553):10.019797,(((36:13.226869,(41:9.967527,((64:4.202175,65:4.202175):2.184767,51:6.386942):3.580585):3.259343):1.139109,(37:11.612859,(42:9.596156,((66:4.490141,67:4.490141):2.448938,52:6.93908):2.657076):2.016704):2.75312):1.818738,(30:8.857782,(38:6.204403,39:6.204403):2.653379):7.326935):1.111632):9.957687,((27:20.787612,28:20.787612):4.048285,((((43:19.276324,(53:12.049813,54:12.049813):7.226511):3.481139,((55:17.695307,(68:14.685417,((88:11.615854,89:11.615854):1.805095,(90:10.096006,((((132:3.027449,(144:1.979242,(147:1.240335,(148:0.462435,149:0.462435):0.777899):0.738907):1.048207):1.039252,(133:2.63405,(145:0.683119,146:0.683119):1.950931):1.43265):0.612704,108:4.679406):4.723721,((121:1.23517,122:1.23517):6.644813,(123:3.753571,124:3.753571):4.126413):1.523142):0.69288):3.324942):1.264468):3.00989):1.830014,((69:11.263243,((91:1.691044,92:1.691044):6.950655,73:8.641699):2.621544):5.256064,(70:6.675275,71:6.675275):9.844033):3.006013):3.232143):1.285316,(((56:21.067514,((74:13.469484,75:13.469484):7.235819,(76:9.208851,77:9.208851):11.496451):0.362211):0.07741,44:21.144924):2.378152,((((78:2.38281,79:2.38281):7.024893,(((101:4.993529,102:4.993529):2.009523,93:7.003054):0.672612,80:7.675666):1.732037):8.966093,((81:8.786247,82:8.786247):3.832934,(83:5.960042,(94:3.09224,95:3.09224):2.867801):6.659139):5.754615):2.873006,((((((109:0.776357,110:0.776357):6.279828,(((134:0.351449,135:0.351449):0.205537,(136:0.362979,137:0.362979):0.194006):2.69071,111:3.247696):3.808489):2.777161,96:9.833346):8.661552,((((125:10.141305,126:10.141305):7.102932,((138:3.268703,139:3.268703):13.569532,(140:15.784843,141:15.784843):1.053393):0.406003):0.977396,103:18.221635):0.159575,((112:3.674194,113:3.674194):11.717932,(((142:2.523491,143:2.523491):8.664414,127:11.187904):4.066472,114:15.254377):0.137749):2.989084):0.113687):0.709033,(84:17.132937,85:17.132937):2.070993):0.61335,57:19.81728):1.429522):2.276275):0.519704):0.327884,(31:18.518703,((45:5.035785,46:5.035785):5.46026,(47:8.554313,(58:7.121958,59:7.121958):1.432355):1.941731):8.022659):5.85196):0.465235):2.418137):11.345208,((((32:14.71131,33:14.71131):1.336759,29:16.048069):13.138909,((34:23.745788,((((((((115:9.146398,116:9.146398):2.013529,(117:9.226632,118:9.226632):1.933294):1.113259,97:12.273185):2.399797,((104:1.994196,105:1.994196):11.930929,98:13.925125):0.747857):4.013719,(86:13.305119,(99:4.880002,100:4.880002):8.425116):5.381582):1.111966,(72:15.991248,(87:5.821792,(((119:2.247331,(128:0.926276,129:0.926276):1.321055):0.675046,106:2.922378):0.833762,(107:3.457767,((130:1.271737,131:1.271737):1.115527,120:2.387264):1.070502):0.298372):2.065652):10.169455):3.807419):1.24728,(60:9.816007,61:9.816007):11.229939):0.668356,((62:2.298494,63:2.298494):9.639137,48:11.937631):9.77667):2.031487):5.178763,(((49:0.62323,50:0.62323):0.402253,40:1.025485):0.527977,35:1.553465):27.371087):0.262425):0.768221,8:29.955199):8.644046):21.301586,(((13:12.850269,14:12.850269):14.224834,(15:2.896316,16:2.896316):24.178789):6.65616,3:33.731264):26.169565):5.484648,((((17:3.351878,18:3.351878):1.374912,9:4.72679):10.828367,4:15.555157):40.346054,((10:12.112264,11:12.112264):14.374382,5:26.486647):29.414563):9.48427):0.605235,((1:13.632617,(6:7.729068,7:7.729068):5.903549):38.560478,(2:29.180722,(((19:3.554853,20:3.554853):22.340009,(21:5.139588,22:5.139588):20.755274):1.400994,((23:4.968687,24:4.968687):2.124361,12:7.093046):20.202809):1.884868):23.012374):13.797617):0.004939;
+END;
