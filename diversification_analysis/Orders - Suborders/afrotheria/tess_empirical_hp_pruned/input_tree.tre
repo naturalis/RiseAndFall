@@ -1,0 +1,91 @@
+#NEXUS
+[R-package APE, Fri Nov 18 14:55:46 2016]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 39;
+	TAXLABELS
+		Orycteropus_afer
+		Chrysospalax_trevelyani
+		Chrysochloris_asiatica
+		Amblysomus_hottentotus
+		Micropotamogale_lamottei
+		Dugong_dugon
+		Elephas_maximus
+		Rhynchocyon_petersi
+		Trichechus_senegalensis
+		Dendrohyrax_dorsalis
+		Mammuthus_primigenius
+		Oryzorictes_talpoides
+		Macroscelides_proboscideus
+		Trichechus_inunguis
+		Trichechus_manatus
+		Procavia_capensis
+		Heterohyrax_brucei
+		Mammut_americanum
+		Hemicentetes_semispinosus
+		Tenrec_ecaudatus
+		Setifer_setosus
+		Echinops_telfairi
+		Geogale_aurita
+		Elephantulus_rozeti
+		Loxodonta_cyclotis
+		Loxodonta_africana
+		Microgale_talazaci
+		Limnogale_mergulus
+		Microgale_brevicaudata
+		Petrodromus_tetradactylus
+		Elephantulus_rufescens
+		Elephantulus_brachyrhynchus
+		Elephantulus_fuscipes
+		Elephantulus_edwardii
+		Elephantulus_myurus
+		Elephantulus_revoili
+		Elephantulus_fuscus
+		Elephantulus_rupestris
+		Elephantulus_intufi
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Orycteropus_afer,
+		2	Chrysospalax_trevelyani,
+		3	Chrysochloris_asiatica,
+		4	Amblysomus_hottentotus,
+		5	Micropotamogale_lamottei,
+		6	Dugong_dugon,
+		7	Elephas_maximus,
+		8	Rhynchocyon_petersi,
+		9	Trichechus_senegalensis,
+		10	Dendrohyrax_dorsalis,
+		11	Mammuthus_primigenius,
+		12	Oryzorictes_talpoides,
+		13	Macroscelides_proboscideus,
+		14	Trichechus_inunguis,
+		15	Trichechus_manatus,
+		16	Procavia_capensis,
+		17	Heterohyrax_brucei,
+		18	Mammut_americanum,
+		19	Hemicentetes_semispinosus,
+		20	Tenrec_ecaudatus,
+		21	Setifer_setosus,
+		22	Echinops_telfairi,
+		23	Geogale_aurita,
+		24	Elephantulus_rozeti,
+		25	Loxodonta_cyclotis,
+		26	Loxodonta_africana,
+		27	Microgale_talazaci,
+		28	Limnogale_mergulus,
+		29	Microgale_brevicaudata,
+		30	Petrodromus_tetradactylus,
+		31	Elephantulus_rufescens,
+		32	Elephantulus_brachyrhynchus,
+		33	Elephantulus_fuscipes,
+		34	Elephantulus_edwardii,
+		35	Elephantulus_myurus,
+		36	Elephantulus_revoili,
+		37	Elephantulus_fuscus,
+		38	Elephantulus_rupestris,
+		39	Elephantulus_intufi
+	;
+	TREE * UNTITLED = [&R] ((((3:8.255915,4:8.255915):5.38325,2:13.639166):73.316987,((5:23.026782,(((19:11.918739,20:11.918739):2.927521,(21:5.088676,22:5.088676):9.757585):5.902459,(12:20.093029,(23:18.748394,(27:13.497221,(28:10.405104,29:10.405104):3.092116):5.251174):1.344635):0.65569):2.278063):61.741005,((((((30:0.117103,(32:0.093015,33:0.093015):0.024087):0.123299,(((34:0.12246,35:0.12246):0.046304,((36:0.122531,37:0.122531):0.03721,(38:0.122917,39:0.122917):0.036825):0.009022):0.002336,31:0.1711):0.069302):43.77848,24:44.018881):5.439978,13:49.458859):16.43777,8:65.896629):15.76707,(9:23.479264,(14:2.697884,15:2.697884):20.78138):58.184435):3.104089):2.188365):7.808807,(1:89.331085,(((10:47.836999,(16:7.150904,17:7.150904):40.686095):31.10595,6:78.942949):0.762188,((11:8.692154,((25:4.645776,26:4.645776):2.845458,18:7.491234):1.20092):1.131558,7:9.823713):69.881425):9.625947):5.433875):0.11413;
+END;
