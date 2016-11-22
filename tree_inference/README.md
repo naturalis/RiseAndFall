@@ -39,6 +39,8 @@ File description:
 - `monocots_COF.txt` - A text file that contains monocots taxonomy
   (Orders, Superfamilies, Families and number of species) extracted from Catalogue of Life.
 - `xxxidmapped.nex`  - A tree that mapped between taxon names and NCBI taxonomy taxon IDs.
+- `tree-comp-plot.R` - An R script used for tree comparison
+- `Fossils_table.tsv`- A table representing the fossil data used in the calibration step.
 
 #### benchmark_trees
 
