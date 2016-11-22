@@ -38,6 +38,7 @@ File description:
   (Orders, Superfamilies, Families and number of species) extracted from Catalogue of Life.
 - `monocots_COF.txt` - A text file that contains monocots taxonomy
   (Orders, Superfamilies, Families and number of species) extracted from Catalogue of Life.
+- `xxxidmapped.nex`  - A tree that mapped between taxon names and NCBI taxonomy taxon IDs.
 
 #### benchmark_trees
 
