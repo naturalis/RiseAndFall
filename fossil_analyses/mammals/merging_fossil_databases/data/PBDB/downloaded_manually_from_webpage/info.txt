@@ -1,0 +1,27 @@
+# downloaded from https://paleobiodb.org/cgi-bin/bridge.pl?a=displayDownloadGenerator
+# 2016-11-25, 11:30 am
+
+# the following options where checked:
+
+# Occurences
+# Comma-separated values (csv)
+
+# Select by taxonomy
+# Taxon or taxa to include: "Mammalia"
+# Taxonomic resolution: "all, species, genus" (3 separate datasets)
+
+# Additional output blocks:
+# classification
+# ident components
+# classification ext.
+# reference
+# genus
+
+# Include metadata at the beginning of the output
+
+
+
+# resulted into following dataset size:
+# taxonomic resolution: species = 55915 records
+# taxonomic resolution: genus = 88174 records
+# taxonomic resolution: all = 101928 records

@@ -1,0 +1,68 @@
+# downloaded from PBDB with R package (paleobioDB)
+# the output columns are explained below:
+
+oid				occurrence_no				basic				A positive integer that uniquely identifies the occurrence
+typ				record_type				basic				The type of this object: 'occ' for an occurrence
+eid				reid_no				basic				If this occurrence was reidentified, a positive integer that uniquely identifies the reidentification
+sps				superceded				basic				The value of this field will be true if this occurrence was later identified under a different taxon
+cid				collection_no				basic				The identifier of the collection with which this occurrence is associated.
+tna				taxon_name				basic				The taxonomic name by which this occurrence is identified
+rnk				taxon_rank				basic				The taxonomic rank of the name, if this can be determined
+tid				taxon_no				basic				The unique identifier of the identified taxonomic name. If this is empty, then the name was never entered into the taxonomic hierarchy stored in this database and we have no further information about the classification of this occurrence.
+mna				matched_name				basic				The senior synonym and/or currently accepted spelling of the closest matching name in the database to the identified taxonomic name, if any is known, and if this name is different from the value of taxon_name.
+mra				matched_rank				basic				The taxonomic rank of the matched name, if different from the value of taxon_rank
+mid				matched_no				basic				The unique identifier of the closest matching name in the database to the identified taxonomic name, if any is known.
+oei				early_interval				basic				The specific geologic time range associated with this collection (not necessarily a standard interval), or the interval that begins the range if late_interval is also given
+oli				late_interval				basic				The interval that ends the specific geologic time range associated with this collection, if different from the value of early_interval
+eag				early_age				basic				The early bound of the geologic time range associated with this occurrence (in Ma)
+lag				late_age				basic				The late bound of the geologic time range associated with this occurrence (in Ma)
+rid				reference_no				basic				The identifier(s) of the references from which this data was entered
+lng				lng				coords				The longitude at which the occurrence was found (in degrees)
+lat				lat				coords				The latitude at which the occurrence was found (in degrees)
+idt				genus_name				ident				The taxonomic name (less species) by which this occurrence was identified. This is often a genus, but may be a higher taxon.
+rst				genus_reso				ident				The resolution of this taxonomic name, i.e. sensu lato or aff.
+idf				subgenus_name				ident				The subgenus name (if any) by which this occurrence was identified
+rsf				subgenus_reso				ident				The resolution of the subgenus name, i.e. informal or n. subgen.
+ids				species_name				ident				The species name (if any) by which this occurrence was identified
+rss				species_reso				ident				The resolution of the species name, i.e. sensu lato or n. sp.
+sgl				subgenus				phylo				The name of the genus in which this occurrence is classified
+sgn				subgenus_no				phylo				The identifier of the genus in which this occurrence is classified
+gnl				genus				phylo				The name of the genus in which this occurrence is classified
+gnn				genus_no				phylo				The identifier of the genus in which this occurrence is classified
+fml				family				phylo				The name of the family in which this occurrence is classified
+fmn				family_no				phylo				The identifier of the family in which this occurrence is classified
+odl				order				phylo				The name of the order in which this occurrence is classified
+odn				order_no				phylo				The identifier of the order in which this occurrence is classified
+cll				class				phylo				The name of the class in which this occurrence is classified
+cln				class_no				phylo				The identifier of the class in which this occurrence is classified
+phl				phylum				phylo				The name of the phylum in which this occurrence is classified
+phn				phylum_no				phylo				The identifier of the phylum in which this occurrence is classified
+sgl				subgenus				genus				The name of the genus in which this occurrence is classified
+sgn				subgenus_no				genus				The identifier of the genus in which this occurrence is classified
+gnl				genus				genus				The name of the genus in which this occurrence is classified
+gnn				genus_no				genus				The identifier of the genus in which this occurrence is classified
+cc2				cc				loc				The country in which the collection is located, encoded as ISO-3166-1 alpha-2
+sta				state				loc				The state or province in which the collection is located, if known
+cny				county				loc				The county or municipal area in which the collection is located, if known
+gsc				geogscale				loc				The geographic scale of the collection.
+pm1				paleomodel				paleoloc				The primary model specified by the parameter pgm. This field will only be included if more than one model is indicated.
+pln				paleolng				paleoloc				The paleolongitude of the collection, evaluated according to the primary model indicated by the parameter pgm.
+pla				paleolat				paleoloc				The paleolatitude of the collection, evaluated according to the primary model indicated by the parameter pgm.
+gpl				geoplate				paleoloc				The identifier of the geological plate on which the collection lies, evaluated according to the primary model indicated by the parameter pgm. This might be either a number or a string.
+pm2				paleomodel2				paleoloc				An alternate model specified by the parameter pgm. This field will only be included if more than one model is indicated. There may also be paleomodel3, etc.
+pn2				paleolng2				paleoloc				An alternate paleolongitude for the collection, if the pgm parameter indicates more than one model. There may also be paleolng3, etc.
+pa2				paleolat2				paleoloc				An alternate paleolatitude for the collection, if the pgm parameter indicates more than one model. There may also be paleolat3, etc.
+gp2				geoplate2				paleoloc				An alternate geological plate identifier, if the pgm parameter indicates more than one model. There may also be geoplate3, etc.
+eag				early_age				time				The early bound of the geologic time range associated with the collection or cluster (in Ma)
+lag				late_age				time				The late bound of the geologic time range associated with the collection or cluster (in Ma)
+cxi				cx_int_no				time				The identifier of the most specific single interval from the selected timescale that covers the entire time range associated with the collection or cluster.
+ein				early_int_no				time				The beginning of a range of intervals from the selected timescale that most closely brackets the time range associated with the collection or cluster (with late_int_no)
+lin				late_int_no				time				The end of a range of intervals from the selected timescale that most closely brackets the time range associated with the collection or cluster (with early_int_no)
+abv				abund_value				abund				The abundance of this occurrence within its containing collection
+abu				abund_unit				abund				The unit in which this abundance is expressed
+env				environment				geo				The paleoenvironment of the collection site
+tec				tectonic_setting				geo				The tectonic setting of the collection site
+gcm				geology_comments				geo				General comments about the geology of the collection site
+ref				primary_reference				ref				The primary reference associated with this record (as formatted text)
+dcr				created				crmod				The date and time at which this record was created.
+dmd				modified				crmod				The date and time at which this record was last modified.

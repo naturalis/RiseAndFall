@@ -1,0 +1,8 @@
+# downloaded 1,067,189 Mammalia fossil records from gbif
+# date: 2016-11-25, 10:00 am
+# various clenaing steps executed by Alexander Zizka
+# Download
+#    doi:10.15468/dl.cthriu 25th November 2016 
+#Query
+#    Taxon 	Mammalia
+#    Basis of record 	Fossil
