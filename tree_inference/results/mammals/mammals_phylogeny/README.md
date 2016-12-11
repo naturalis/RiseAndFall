@@ -3,7 +3,7 @@ The complete mammalian phylogeny
 
 This folder structure contains the results of the full mammalian phylogeny
 performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http://github.com/naturalis/supersmart)
-pipeline. Here now follows a brief explanation of the subfolders:
+pipeline. Here now follows a brief explanation of the files and the subfolders:
 
 File description:
 
