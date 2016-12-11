@@ -1,7 +1,7 @@
 Reconstruction of the backbone phylogeny 
 --------------
 
-This folder structure contains the results of the backbone phylogenetic inference steps
+This folder structure contains the results of the backbone phylogenetic inference
 performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http://github.com/naturalis/supersmart)
 pipeline. Here now follows a brief explanation of the files:
 
@@ -17,7 +17,7 @@ File description:
   ones in this file.
 - `fossils.tsv` - contains the calibration points that were used.
  pipeline. 
-- `names_backbone` - contains all the species that were chosen for the reconstructiont of the backbone phylogeny.
-- `consensus` - the backbone tree in nexus format.
-- `consensus_pruned` - the pruned backbone tree in nexus format. Specific species were pruned in order to achieve monophyly in the tree.
+- `names_backbone.tsv` - contains all the species that were chosen for the reconstruction of the backbone phylogeny.
+- `consensus.nex` - the backbone tree in nexus format.
+- `consensus_pruned.nex` - the pruned backbone tree in nexus format. Specific species were pruned in order to achieve monophyly in the tree.
 - `final_backbone_tree.png` - A visual representation of the backbone phylogeny.
