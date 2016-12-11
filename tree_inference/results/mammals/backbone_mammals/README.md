@@ -1,4 +1,4 @@
-Tree inference
+Reconstruction of the backbone phylogeny 
 --------------
 
 This folder structure contains the results of the backbone phylogenetic inference steps
