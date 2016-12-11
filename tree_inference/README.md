@@ -46,6 +46,10 @@ File description:
 - `consensus_pruned.nex` - the pruned backbone tree in nexus format. Specific species were pruned in order to achieve monophyly in the tree.
 - `final_backbone_tree.png` - A visual representation of the backbone phylogeny.
 - `markers-backbone.tsv` - A summary table with included markers used for the inference of the backbone phylogeny.
+- `xxx_idmapped.nex`  - A tree that mapped between taxon names and NCBI taxonomy taxon IDs.
+- `clade_xxx` - Each directory contains the phylogeny of a mammalian order.
+- `mammals_phylogeny.nex` - The complete mammalian phylogeny in nexus format.
+
 
 #### benchmark_trees
 
