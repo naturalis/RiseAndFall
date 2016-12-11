@@ -41,6 +41,11 @@ File description:
 - `xxxidmapped.nex`  - A tree that mapped between taxon names and NCBI taxonomy taxon IDs.
 - `tree-comp-plot.R` - An R script used for tree comparison
 - `Fossils_table.tsv`- A table representing the fossil data used in the calibration step.
+- `names_backbone.tsv` - A file that contains all the species that were chosen for the reconstruction of the backbone phylogeny.
+- `consensus.nex` - the backbone tree in nexus format.
+- `consensus_pruned.nex` - the pruned backbone tree in nexus format. Specific species were pruned in order to achieve monophyly in the tree.
+- `final_backbone_tree.png` - A visual representation of the backbone phylogeny.
+- `markers-backbone.tsv` - A summary table with included markers used for the inference of the backbone phylogeny.
 
 #### benchmark_trees
 
