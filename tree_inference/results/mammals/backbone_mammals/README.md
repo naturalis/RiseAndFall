@@ -15,7 +15,8 @@ File description:
   expanded out of the NCBI taxonomy). This will have both the ingroup as well as
   the outgroup in it. As such the final result will be fewer species than the 
   ones in this file.
-- `fossils.tsv` - A file that contains the calibration points. 
+- `fossils.tsv` - A file that contains the calibration points.
+- `fossil_reference` - describes where the calibration points came from. 
 - `names_backbone.tsv` - A file that contains all the species that were chosen for the reconstruction of the backbone phylogeny.
 - `consensus.nex` - the backbone tree in nexus format.
 - `consensus_pruned.nex` - the pruned backbone tree in nexus format. Specific species were pruned in order to achieve monophyly in the tree.
