@@ -11,35 +11,35 @@ OUTGROUP=Bdeogale
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
-#smrt taxize -r Herpestidae,Bdeogale -b
+smrt taxize -r Herpestidae,Bdeogale -b
 
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these
-#smrt align
+smrt align
 
 # assign orthology among the aligned clusters by reciprocal BLAST
-#export SUPERSMART_BACKBONE_MAX_DISTANCE="0.15"
-#smrt orthologize
+export SUPERSMART_BACKBONE_MAX_DISTANCE="0.15"
+smrt orthologize
 
 # merge the orthologous clusters into a supermatrix with exemplar
 # species, two per genus
-#export SUPERSMART_BACKBONE_MIN_COVERAGE="3"
-#export SUPERSMART_BACKBONE_MAX_COVERAGE="10"
-#smrt bbmerge
+export SUPERSMART_BACKBONE_MIN_COVERAGE="3"
+export SUPERSMART_BACKBONE_MAX_COVERAGE="10"
+smrt bbmerge
 
 # run an exabayes search on the supermatrix, resulting in a backbone
 # posterior sample
-#export SUPERSMART_EXABAYES_NUMGENS="100000"
-#smrt bbinfer --inferencetool=exabayes --cleanup
+export SUPERSMART_EXABAYES_NUMGENS="100000"
+smrt bbinfer --inferencetool=exabayes --cleanup
 
 # root the backbone sample  on the outgroup
-#smrt bbreroot -g $OUTGROUP --smooth
+smrt bbreroot -g $OUTGROUP --smooth
 
 # calibrate the re-rooted backbone tree using treePL
-#smrt bbcalibrate --tree backbone-rerooted.dnd --supermatrix supermatrix.phy -f fossils.tsv
+smrt bbcalibrate --tree backbone-rerooted.dnd --supermatrix supermatrix.phy -f fossils.tsv
 
 # build a consensus
-#smrt consense -b 0.2 -i chronogram.dnd --prob
+smrt consense -b 0.2 -i chronogram.dnd --prob
 
 
 # decompose the backbone tree into monophyletic clades. writes a directory
