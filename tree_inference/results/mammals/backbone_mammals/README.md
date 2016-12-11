@@ -21,3 +21,4 @@ File description:
 - `consensus.nex` - the backbone tree in nexus format.
 - `consensus_pruned.nex` - the pruned backbone tree in nexus format. Specific species were pruned in order to achieve monophyly in the tree.
 - `final_backbone_tree.png` - A visual representation of the backbone phylogeny.
+- `markers-backbone.tsv` - A summary table with included markers used for the inference of the backbone phylogeny.
