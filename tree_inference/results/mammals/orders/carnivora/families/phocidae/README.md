@@ -1,7 +1,7 @@
-Phylogenetic reconstruction of the order Phocidae
+Phylogenetic reconstruction of the family Phocidae
 --------------
 
-This folder structure contains the results of the phylogenetic inference of the order Phocidae
+This folder structure contains the results of the phylogenetic inference of the family Phocidae
 performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http://github.com/naturalis/supersmart)
 pipeline. Here now follows a brief explanation of the files and the subfolders:
 

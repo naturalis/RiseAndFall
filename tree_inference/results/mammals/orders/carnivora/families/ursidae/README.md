@@ -1,7 +1,7 @@
-Phylogenetic reconstruction of the order Ursidae
+Phylogenetic reconstruction of the family Ursidae
 --------------
 
-This folder structure contains the results of the phylogenetic inference of the order Ursidae
+This folder structure contains the results of the phylogenetic inference of the family Ursidae
 performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http://github.com/naturalis/supersmart)
 pipeline. Here now follows a brief explanation of the files and the subfolders:
 
