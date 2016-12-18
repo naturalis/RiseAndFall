@@ -7,8 +7,8 @@ pipeline. Here now follows a brief explanation of the files and the subfolders:
 
 File description:
 
-- `rodentia_clade.nex` - The complete mammalian phylogeny in nexus format.
-- `rodentia_bacbone.nex` - The backbone phylogeny of order Artiodactyla in nexus format.
+- `rodentia_clade.nex` - The complete Rodentia phylogeny in nexus format.
+- `rodentia_bacbone.nex` - The backbone phylogeny of order Rodentia in nexus format.
 - `species.tsv` - contains the results of the TNRS step, i.e. the maximum possible
   number of species that could be included in the analysis (because they get
   expanded out of the NCBI taxonomy). This will have both the ingroup as well as
