@@ -1,7 +1,7 @@
-Phylogenetic reconstruction of the family Cervidae
+Phylogenetic reconstruction of the family Spalacidae
 --------------
 
-This folder structure contains the results of the phylogenetic inference of the family Cervidae
+This folder structure contains the results of the phylogenetic inference of the family Spalacidae
 performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http://github.com/naturalis/supersmart)
 pipeline. Here now follows a brief explanation of the files and the subfolders:
 
@@ -20,6 +20,9 @@ File description:
 - `species_coverage.txt` - a text file that contains the number of exemplars 
   from NCBI taxonomy, the number of species included in the phylogeny and the coverage 
   percentage.
+- `species_coverage_COF.txt` - another text file that contains the number of exemplars from
+  Catalogue Of Life taxonomy, the number of species included in the phylogeny and the 
+  coverage percentage.
 - `fossils.tsv` - contains the calibration points that were used.
 - `fossil_reference` - describes where the calibration points came from.
 - `final_pruned.nex` - contains the final tree, with any taxa causing negative branch

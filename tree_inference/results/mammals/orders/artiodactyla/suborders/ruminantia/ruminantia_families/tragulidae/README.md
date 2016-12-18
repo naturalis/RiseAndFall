@@ -20,9 +20,6 @@ File description:
 - `species_coverage.txt` - a text file that contains the number of exemplars 
   from NCBI taxonomy, the number of species included in the phylogeny and the coverage 
   percentage.
-- `species_coverage_COF.txt` - another text file that contains the number of exemplars from
-  Catalogue Of Life taxonomy, the number of species included in the phylogeny and the 
-  coverage percentage.
 - `fossils.tsv` - contains the calibration points that were used.
 - `fossil_reference` - describes where the calibration points came from.
 - `final_pruned.nex` - contains the final tree, with any taxa causing negative branch
