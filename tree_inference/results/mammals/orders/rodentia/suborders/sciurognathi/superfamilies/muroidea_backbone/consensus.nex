@@ -1,0 +1,59 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Tue Oct 11 17:18:01 2016 ]
+	
+        DIMENSIONS NTAX=21;
+        TAXLABELS
+		Abrothrix_longipilis
+		Abrothrix_olivaceus
+		Acomys_spinosissimus
+		Acomys_wilsoni
+		Eliurus_majori
+		Eliurus_myoxinus
+		Eospalax_baileyi
+		Eospalax_fontanierii
+		Maxomys_bartelsii
+		Maxomys_whiteheadi
+		Nannospalax_galili
+		Nannospalax_nehringi
+		Niviventer_confucianus
+		Niviventer_cremoriventer
+		Pan_paniscus
+		Pan_troglodytes
+		Reithrodontomys_fulvescens
+		Reithrodontomys_mexicanus
+		Saccostomus_campestris
+		Sigmodon_alstoni
+		Sigmodon_toltecus
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Tue Oct 11 17:18:01 2016 ]
+	TRANSLATE
+		1 Pan_paniscus,
+		2 Pan_troglodytes,
+		3 Acomys_wilsoni,
+		4 Acomys_spinosissimus,
+		5 Eospalax_baileyi,
+		6 Eospalax_fontanierii,
+		7 Nannospalax_galili,
+		8 Nannospalax_nehringi,
+		9 Saccostomus_campestris,
+		10 Maxomys_whiteheadi,
+		11 Maxomys_bartelsii,
+		12 Niviventer_cremoriventer,
+		13 Niviventer_confucianus,
+		14 Eliurus_majori,
+		15 Eliurus_myoxinus,
+		16 Reithrodontomys_mexicanus,
+		17 Reithrodontomys_fulvescens,
+		18 Sigmodon_alstoni,
+		19 Sigmodon_toltecus,
+		20 Abrothrix_olivaceus,
+		21 Abrothrix_longipilis;
+	TREE TREE1 = [&R] ((1[&length=4.759417,height=1.0000000116860974E-6]:4.759417,2[&height=1.0000000116860974E-6,length=4.759417]:4.759417)[&posterior=1.0,height=4.759418000000011,length=64.273517]:64.273517,((((5[&length=9.296167,height=1.4210854715202004E-14]:9.296167,6[&height=1.4210854715202004E-14,length=9.296167]:9.296167)[&length=13.729256,height=9.296167000000011,posterior=1.0]:13.729256,(7[&length=8.725918,height=0.0]:8.725918,8[&length=8.725918,height=0.0]:8.725918)[&posterior=1.0,height=8.725918000000007,length=14.299505]:14.299505)[&fossil_name=F_5,length=26.050247,fossil_id=5,posterior=1.0,fossil_age={15.97,23.03},height=23.02542300000001]:26.050247,(((14[&height=1.0000000116860974E-6,length=6.128068]:6.128068,15[&height=1.0000000116860974E-6,length=6.128068]:6.128068)[&height=6.128069000000011,posterior=1.0,length=5.479713]:5.479713,9[&height=1.0000000116860974E-6,length=11.607781]:11.607781)[&height=11.607782000000007,fossil_age={9.7,11.61},fossil_id=4,posterior=1.0,length=31.405135,fossil_name=F_4]:31.405135,(((18[&height=2.00000000916134E-6,length=10.292531]:10.292531,19[&height=2.00000000916134E-6,length=10.292531]:10.292531)[&posterior=1.0,height=10.292533000000006,length=11.524872]:11.524872,(20[&length=8.487122,height=1.0000000116860974E-6]:8.487122,21[&height=1.0000000116860974E-6,length=8.487122]:8.487122)[&posterior=1.0,height=8.487123000000011,length=13.330282]:13.330282)[&length=15.382596,height=21.817405000000008,posterior=1.0]:15.382596,(16[&length=14.72121,height=1.0000000116860974E-6]:14.721210,17[&height=1.0000000116860974E-6,length=14.72121]:14.721210)[&height=14.721211000000011,posterior=1.0,length=22.47879]:22.478790)[&posterior=1.0,fossil_id=2,height=37.20000100000001,fossil_age={37.2,48.6},fossil_name=F_2,length=5.812916]:5.812916)[&height=43.01291700000001,posterior=1.0,length=6.062753]:6.062753)[&length=6.924331,height=49.07567000000001,posterior=1.0]:6.924331,(((10[&height=2.00000000916134E-6,length=7.485797]:7.485797,11[&height=2.00000000916134E-6,length=7.485797]:7.485797)[&length=1.709991,height=7.485799000000007,posterior=1.0]:1.709991,(12[&length=7.43413,height=1.0000000116860974E-6]:7.434130,13[&height=1.0000000116860974E-6,length=7.43413]:7.434130)[&length=1.761659,posterior=1.0,height=7.434131000000008]:1.761659)[&height=9.19579000000001,posterior=1.0,length=2.403818]:2.403818,(3[&height=1.0000000116860974E-6,length=7.80599]:7.805990,4[&length=7.80599,height=1.0000000116860974E-6]:7.805990)[&height=7.805991000000013,posterior=1.0,length=3.793617]:3.793617)[&fossil_name=F_3,length=44.400393,posterior=1.0,fossil_id=3,height=11.59960800000001,fossil_age={5.33,11.6}]:44.400393)[&fossil_age={56,66},height=56.00000100000001,fossil_id=1,posterior=1.0,fossil_name=F_1,length=13.032934]:13.032934)[&height=69.03293500000001,posterior=1.0,length=0.0];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Tue Oct 11 17:18:02 2016 ]
+END;
