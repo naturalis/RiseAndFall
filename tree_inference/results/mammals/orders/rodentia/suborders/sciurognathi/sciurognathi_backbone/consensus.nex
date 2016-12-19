@@ -1,0 +1,105 @@
+#NEXUS
+
+BEGIN TAXA;
+[! Taxa block written by Bio::Phylo::Taxa 0.58 on Thu Oct 13 10:17:46 2016 ]
+	
+        DIMENSIONS NTAX=44;
+        TAXLABELS
+		Acomys_cahirinus
+		Acomys_percivali
+		Allactaga_bullata
+		Allactaga_elater
+		Anomalurus_beecrofti
+		Apodemus_argenteus
+		Apodemus_draco
+		Callosciurus_caniceps
+		Callosciurus_prevostii
+		Castor_canadensis
+		Castor_fiber
+		Chaetodipus_hispidus
+		Chaetodipus_intermedius
+		Ctenodactylus_gundi
+		Ctenodactylus_vali
+		Dipodomys_heermanni
+		Dipodomys_nelsoni
+		Dipus_sagitta
+		Dryomys_nitedula
+		Eliomys_quercinus
+		Geomys_texensis
+		Glirulus_japonicus
+		Glis_glis
+		Graphiurus_murinus
+		Heteromys_anomalus
+		Heteromys_gaumeri
+		Idiurus_macrotis
+		Massoutiera_mzabi
+		Meriones_tamariscinus
+		Meriones_unguiculatus
+		Muscardinus_avellanarius
+		Orthogeomys_cherriei
+		Orthogeomys_grandis
+		Pan_paniscus
+		Pan_troglodytes
+		Perognathus_flavus
+		Sciurus_carolinensis
+		Sciurus_lis
+		Sicista_kazbegica
+		Sicista_tianshanica
+		Tamias_quadrivittatus
+		Tamias_senex
+		Thomomys_bottae
+		Thomomys_mazama
+        ;
+END;
+BEGIN TREES;
+[! Trees block written by Bio::Phylo::Forest 0.58 on Thu Oct 13 10:17:46 2016 ]
+	TRANSLATE
+		1 Pan_paniscus,
+		2 Pan_troglodytes,
+		3 Massoutiera_mzabi,
+		4 Ctenodactylus_vali,
+		5 Ctenodactylus_gundi,
+		6 Tamias_senex,
+		7 Tamias_quadrivittatus,
+		8 Glirulus_japonicus,
+		9 Glis_glis,
+		10 Graphiurus_murinus,
+		11 Anomalurus_beecrofti,
+		12 Idiurus_macrotis,
+		13 Castor_fiber,
+		14 Castor_canadensis,
+		15 Callosciurus_prevostii,
+		16 Callosciurus_caniceps,
+		17 Sciurus_lis,
+		18 Sciurus_carolinensis,
+		19 Muscardinus_avellanarius,
+		20 Eliomys_quercinus,
+		21 Dryomys_nitedula,
+		22 Apodemus_argenteus,
+		23 Apodemus_draco,
+		24 Sicista_kazbegica,
+		25 Sicista_tianshanica,
+		26 Dipus_sagitta,
+		27 Dipodomys_heermanni,
+		28 Dipodomys_nelsoni,
+		29 Heteromys_anomalus,
+		30 Heteromys_gaumeri,
+		31 Perognathus_flavus,
+		32 Meriones_unguiculatus,
+		33 Meriones_tamariscinus,
+		34 Acomys_percivali,
+		35 Acomys_cahirinus,
+		36 Allactaga_bullata,
+		37 Allactaga_elater,
+		38 Thomomys_bottae,
+		39 Thomomys_mazama,
+		40 Geomys_texensis,
+		41 Chaetodipus_hispidus,
+		42 Chaetodipus_intermedius,
+		43 Orthogeomys_cherriei,
+		44 Orthogeomys_grandis;
+	TREE TREE1 = [&R] ((1[&height=1.00000000458067E-6,length=1.453647]:1.453647,2[&length=1.453647,height=1.00000000458067E-6]:1.453647)[&posterior=1.0,length=54.643749,height=1.4536480000000012]:54.643749,(((((11[&height=9.999999974752427E-7,length=15.897547]:15.897547,12[&height=9.999999974752427E-7,length=15.897547]:15.897547)[&posterior=1.0,length=39.834516,height=15.897548]:39.834516,(((22[&length=19.256561,height=9.999999974752427E-7]:19.256561,23[&length=19.256561,height=9.999999974752427E-7]:19.256561)[&height=19.256561999999995,posterior=1.0,length=35.743439]:35.743439,((32[&height=9.999999974752427E-7,length=26.626415]:26.626415,33[&length=26.626415,height=9.999999974752427E-7]:26.626415)[&posterior=1.0,length=14.718311,height=26.626416]:14.718311,(34[&height=9.999999974752427E-7,length=18.802119]:18.802119,35[&length=18.802119,height=9.999999974752427E-7]:18.802119)[&height=18.802120000000002,length=22.542607,posterior=1.0]:22.542607)[&posterior=1.0,length=13.655274,height=41.344727]:13.655274)[&height=55.000001,fossil_name=F_6,fossil_age={55,56},fossil_id=6,length=0.593072,posterior=1.0]:0.593072,((24[&height=2.0000000020559128E-6,length=4.92498]:4.924980,25[&length=4.92498,height=2.0000000020559128E-6]:4.924980)[&posterior=1.0,length=26.307,height=4.924982]:26.307000,(26[&length=17.33006,height=1.9999999949504854E-6]:17.330060,(36[&length=6.155948,height=9.999999974752427E-7]:6.155948,37[&length=6.155948,height=9.999999974752427E-7]:6.155948)[&length=11.174113,posterior=1.0,height=6.155949]:11.174113)[&height=17.330061999999998,length=13.90192,posterior=1.0]:13.901920)[&fossil_id=2,length=24.361091,posterior=1.0,height=31.231982000000002,fossil_name=F_2,fossil_age={28.4,33.9}]:24.361091)[&posterior=1.0,length=0.138991,height=55.593073000000004]:0.138991)[&posterior=1.0,length=0.204834,height=55.732064]:0.204834,((13[&length=13.116023,height=1.00000000458067E-6]:13.116023,14[&height=1.00000000458067E-6,length=13.116023]:13.116023)[&height=13.116024000000003,length=38.647188,posterior=1.0]:38.647188,((((38[&height=9.999999974752427E-7,length=23.31082]:23.310820,39[&height=9.999999974752427E-7,length=23.31082]:23.310820)[&height=23.310820999999997,length=10.515931,posterior=1.0]:10.515931,((43[&height=9.999999974752427E-7,length=25.499662]:25.499662,44[&height=9.999999974752427E-7,length=25.499662]:25.499662)[&height=25.499662999999998,length=8.310181,posterior=1.0]:8.310181,40[&length=33.809843,height=9.999999974752427E-7]:33.809843)[&posterior=1.0,length=0.016908,height=33.809844]:0.016908)[&fossil_age={33.3,33.9},fossil_name=F_3,height=33.826752,posterior=1.0,fossil_id=3,length=2.843102]:2.843102,(27[&height=0.0,length=17.291907]:17.291907,28[&length=17.291907,height=0.0]:17.291907)[&length=19.377947,posterior=1.0,height=17.291907000000002]:19.377947)[&posterior=1.0,length=4.25071,height=36.669854]:4.250710,((29[&length=18.786742,height=9.999999974752427E-7]:18.786742,30[&length=18.786742,height=9.999999974752427E-7]:18.786742)[&height=18.786743,posterior=1.0,length=19.736642]:19.736642,((41[&length=27.227372,height=1.00000000458067E-6]:27.227372,42[&length=27.227372,height=1.00000000458067E-6]:27.227372)[&height=27.227373000000004,length=6.237702,posterior=1.0]:6.237702,31[&height=0.0,length=33.465075]:33.465075)[&posterior=1.0,length=5.05831,height=33.465075]:5.058310)[&height=38.523385000000005,posterior=1.0,length=2.397179]:2.397179)[&height=40.920564,length=10.842648,posterior=1.0]:10.842648)[&posterior=1.0,length=4.173686,height=51.763212]:4.173686)[&posterior=1.0,length=0.074927,height=55.936898]:0.074927,((4[&height=0.0,length=2.445293]:2.445293,5[&length=2.445293,height=0.0]:2.445293)[&height=2.4452929999999995,length=1.702227,posterior=1.0]:1.702227,3[&length=4.147519,height=9.999999974752427E-7]:4.147519)[&height=4.14752,length=51.864305,posterior=1.0]:51.864305)[&length=0.078996,posterior=1.0,height=56.011825]:0.078996,(((6[&height=2.0000000020559128E-6,length=9.725876]:9.725876,7[&height=2.0000000020559128E-6,length=9.725876]:9.725876)[&height=9.725878000000002,posterior=1.0,length=46.074124]:46.074124,((15[&height=9.999999974752427E-7,length=27.175417]:27.175417,16[&length=27.175417,height=9.999999974752427E-7]:27.175417)[&posterior=1.0,length=17.445749,height=27.175418]:17.445749,(17[&length=23.064678,height=2.0000000020559128E-6]:23.064678,18[&height=2.0000000020559128E-6,length=23.064678]:23.064678)[&height=23.064680000000003,posterior=1.0,length=21.556487]:21.556487)[&posterior=1.0,length=11.178835,height=44.621167]:11.178835)[&fossil_id=5,length=0.232804,posterior=1.0,fossil_name=F_5,height=55.800002,fossil_age={55.8,56.8}]:0.232804,((8[&length=10.200073,height=1.9999999949504854E-6]:10.200073,9[&height=1.9999999949504854E-6,length=10.200073]:10.200073)[&posterior=1.0,length=1.408295,height=10.200074999999998]:1.408295,((19[&length=9.861911,height=2.9999999995311555E-6]:9.861911,(20[&length=7.63164,height=2.0000000020559128E-6]:7.631640,21[&length=7.63164,height=2.0000000020559128E-6]:7.631640)[&height=7.631641999999999,posterior=1.0,length=2.230272]:2.230272)[&length=1.451625,posterior=1.0,height=9.861913999999999]:1.451625,10[&height=1.9999999949504854E-6,length=11.313537]:11.313537)[&posterior=1.0,length=0.294831,height=11.313538999999999]:0.294831)[&length=44.424436,fossil_id=4,posterior=1.0,fossil_name=F_4,height=11.60837,fossil_age={7.25,11.61}]:44.424436)[&height=56.032806,posterior=1.0,length=0.058015]:0.058015)[&posterior=1.0,length=0.006576,fossil_id=1,fossil_age={56,56.1},fossil_name=F_1,height=56.090821]:0.006576)[&posterior=1.0,length=0.0,height=56.097397];
+END;
+BEGIN NOTES;
+[! Notes block written by Bio::Phylo::Project 0.58 on Thu Oct 13 10:17:46 2016 ]
+END;
