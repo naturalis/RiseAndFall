@@ -3,7 +3,7 @@ Tree inference
 
 This folder structure contains the results of the phylogenetic inference steps
 performed by [@dimbots](http://github.com/dimbots) using the [SUPERSMART](http://github.com/naturalis/supersmart)
-pipeline. Here now follows a brief explanation of the subfolders:
+pipeline. Here now follows a brief explanation of the files and the subfolders:
 
 
 #### results
@@ -32,12 +32,25 @@ File description:
 - `fossils.tsv` - contains the calibration points that were used.
 - `fossil_reference` - describes where the calibration points came from.
 - `final_pruned.nex` - contains the final tree, with any taxa causing negative branch
-  lengths pruned out. If any pruning indeed took place, there will also be a file
-  `final.nex` that contains the results before pruning.
+  lengths pruned out. If any pruning indeed took place, there will also be a file that contains the results before pruning.
+- `final.nex` - contains the final tree before pruning. If there is not a final_pruned.nex that means that the prune command 
+was not used. A comment file will also exist in the directory indicating that the prune command was not used.
 - `mammalia_COF.txt` - A text file that contains mammals taxonomy 
   (Orders, Superfamilies, Families and number of species) extracted from Catalogue of Life.
 - `monocots_COF.txt` - A text file that contains monocots taxonomy
   (Orders, Superfamilies, Families and number of species) extracted from Catalogue of Life.
+- `xxxidmapped.nex`  - A tree that mapped between taxon names and NCBI taxonomy taxon IDs.
+- `tree-comp-plot.R` - An R script used for tree comparison
+- `Fossils_table.tsv`- A table representing the fossil data used in the calibration step.
+- `names_backbone.tsv` - A file that contains all the species that were chosen for the reconstruction of the backbone phylogeny.
+- `consensus.nex` - the backbone tree in nexus format.
+- `consensus_pruned.nex` - the pruned backbone tree in nexus format. Specific species were pruned in order to achieve monophyly in the tree.
+- `final_backbone_tree.png` - A visual representation of the backbone phylogeny.
+- `markers-backbone.tsv` - A summary table with included markers used for the inference of the backbone phylogeny.
+- `xxx_idmapped.nex`  - A tree that mapped between taxon names and NCBI taxonomy taxon IDs.
+- `clade_xxx` - Each directory contains the phylogeny of a mammalian order.
+- `mammals_phylogeny.nex` - The complete mammalian phylogeny in nexus format.
+
 
 #### benchmark_trees
 

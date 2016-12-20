@@ -11,7 +11,7 @@ OUTGROUP=Monotremata
 
 # perform taxonomic name reconciliation on an input list of names.
 # creates a table of NCBI taxonomy identifiers (the taxa table).
-smrt taxize -i names_backbone.txt -r Manis,Monotremata -b
+smrt taxize -i names_backbone.txt -r Manis,Monotremata,Tayassuidae -b
 
 # align all phylota clusters for the species in the taxa table.
 # produces many aligned fasta files and a file listing these

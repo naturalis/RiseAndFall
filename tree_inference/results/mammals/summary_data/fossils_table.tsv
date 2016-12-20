@@ -1,0 +1,23 @@
+Node	Afrotheria	Artiodactyla	Carnivora	Cetacea
+Age	56 / 164.6	52.4 / 66	37.3 / 66	33.9 / 56
+Geological age (oldest)	Callovian	Late Danian	Late Danian	Early Thanetian
+Source	Benton et al. 2015	Benton et al. 2015	Benton et al. 2015	Benton et al. 2015
+				
+Node	Chiroptera	Cingulata	Perissodactyla	Pholidota
+Age	45 / 58.9	38 / 79	36.3 / 95.4	64 / 84.9
+Geological age (oldest)	Thanetian	Campanian	Cenomanian	Santonian
+Source	Phillips 2015	"Kullberg et al. 2006
+Arnason et al. 2008"	"Babb et al. 2010
+Waddell et al. 1999"	"Arnason et al. 2002
+Bininda-Emonds et al. 2007"
+				
+Node	Insectivora	Lagomorpha	Marsupialia	Monotremata
+Age	86.3 / 89.8	47.6 / 66	47.6 / 131.3	169.8
+Geological age (oldest)	Late Coniacian	Late Danian	Hauterivian	
+Source	PD	Benton et al. 2015	Benton et al. 2015	Hedges et al. 2015
+				
+Node	Primates	Rodentia	Scandentia	Xenarthra
+Age	56 / 66	56 / 66	67.5 / 105	47.6 / 164.6
+Geological age (oldest)	Late Danian	Late Danian	Albian	Callovian
+Source	Benton et al. 2015	Benton et al. 2015	"Kitazoe et al. 2007
+Arnason et al. 2002"	Benton et al. 2015

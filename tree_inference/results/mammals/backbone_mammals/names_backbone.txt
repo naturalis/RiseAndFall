@@ -24,6 +24,8 @@ Delphinus delphis
 Delphinus tropicalis  
 Hexaprotodon liberiensis
 Hippopotamus amphibius 
+Tragulus javanicus 
+Tragulus napu 
 Macroglossus minimus 
 Macroglossus sobrinus
 Lophostoma brasiliense 
