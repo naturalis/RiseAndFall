@@ -16,7 +16,6 @@ hyaenidae	951
 canidae	789
 elephantidae	778
 gomphotheriidae	761
-NA	745
 giraffidae	737
 eomyidae	722
 ursidae	688
@@ -311,3 +310,4 @@ amphicynodontidae	1
 megatheriidae	1
 ernanodontidae	1
 astrapotheriidae	1
+NA	0

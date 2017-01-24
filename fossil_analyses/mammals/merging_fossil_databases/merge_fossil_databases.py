@@ -5,7 +5,7 @@ import numpy as np
 
 #import all fossil and IUCN files
 now_fossil_file = "./data/NOW/NOW_all_mammal_fossils.csv"	#raw_input('Path to NOW fossil file: ')
-pbdb_fossil_file = "./data/PBDB/downloaded_manually_from_webpage/pbdb_mammalia_all_res.csv"	#raw_input('Path to PBDB fossil file: ')
+pbdb_fossil_file = "./data/PBDB/downloaded_manually_from_webpage/pbdb_mammalia_species_res.csv"	#raw_input('Path to PBDB fossil file: ')
 #gbif_fossil_file = "./data/GBIF/all_mammalia_occurences_gbif.csv" #raw_input('Path to GBIF fossil file: ')
 iucn_file = './data/IUCN/IUCN_Mammal_Categories.csv'
 iucn_pbdb_translation_file = './data/IUCN/paleobiodb_iucn_dictionary.csv'
@@ -82,10 +82,30 @@ def read_iucn_file(iucn_file):
 	return extant_species_iucn, extinct_species_iucn
 
 
+
+def clean_identification(id,ident):
+	unidentified = []
+	# correct some common misspellings
+	if ident == "didelphimorpha":
+		ident = "didelphimorphia"
+	elif ident == "euliptyphla":
+		ident = "eulipotyphla"
+	# take care of all unassigned records and join them under "NA"
+	if ident in ["","indet.","Indet.","indet","Indet","incertae sedis"]:
+		unidentified.append(id)
+	return unidentified, ident
+
+
 # this function reads the PBDB fossil file and creates several dictionaries, which include lists of all ids belonging to each order and family, and dictionaries with the min and max time and the species name for each ID (record)
 def summarize_pbdb(pbdb_fossil_file):
 	print "reading PBDB database..."
 	with open(pbdb_fossil_file, 'r') as f:
+		#these lists serve the purpose to later run a clustering algorithm over them and see which groups of names are sufficiently similar
+		pbdb_order_list = []
+		pbdb_fam_list = []
+		pbdb_genus_list = []
+		pbdb_species_list = []
+
 		pbdb_order_id_dict = {}
 		pbdb_fam_id_dict = {}
 		pbdb_id_min_max = {}
@@ -113,8 +133,6 @@ def summarize_pbdb(pbdb_fossil_file):
 				order_col = header.index(column)
 			if column == 'family':
 				family_col = header.index(column)
-		undefined_ord = []
-		undefined_fam = []
 		for row in body:
 			id = "pbdb_%s" %row[id_col]
 			name = row[name_col]
@@ -131,33 +149,30 @@ def summarize_pbdb(pbdb_fossil_file):
 			pbdb_id_min_max.setdefault(id,[])
 			pbdb_id_min_max[id].append([min_age,max_age])
 
-			#create another dict where each ID is assigned the species name as a list [genus,species]
+			#create another dict where each ID is assigned to the species name as a list [genus,species]
 			pbdb_id_genus_species_dict.setdefault(id,name)
 
-
-
-			##THIS NEEDS TO BE DONE MORE ADVANCED (also for family, genus and species names) WITH AUTOMATED NAME MATCHING/CLUSTERING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-			# correct some common misspellings
-			if order == "didelphimorpha":
-				order = "didelphimorphia"
-			elif order == "euliptyphla":
-				order = "eulipotyphla"
-
-
-
-			# take care of all unassigned records and join them under "NA"
-			if order in ["","indet.","Indet.","indet","Indet","incertae sedis"]:
-				undefined_ord.append(id)
-			else:
+			undefined_ord, order = clean_identification(id,order)
+			undefined_fam, family = clean_identification(id,family)
+			if id not in undefined_ord:
 				pbdb_order_id_dict.setdefault(order,[])
 				pbdb_order_id_dict[order].append(id)
-
-			if family in ["","indet.","Indet.","indet","Indet","incertae sedis"]:
-				undefined_fam.append(id)	
-			else:
+			if id not in undefined_fam:
 				pbdb_fam_id_dict.setdefault(family,[])
 				pbdb_fam_id_dict[family].append(id)
-		
+
+			# add new records to the lists
+			species = '_'.join(name)
+			if order not in pbdb_order_list:
+				pbdb_order_list.append(order)
+			if family not in pbdb_fam_list:
+				pbdb_fam_list.append(family)
+			if genus not in pbdb_genus_list:
+				pbdb_genus_list.append(genus)
+			if species not in pbdb_species_list:
+				if name[0] != 'NA' and name[1] != 'NA':
+					pbdb_species_list.append(species)
+
 		#summarize all unidentified records under 'NA' in the dicitonaries
 		pbdb_order_id_dict.setdefault("NA",[])
 		for element in undefined_ord:
@@ -166,13 +181,20 @@ def summarize_pbdb(pbdb_fossil_file):
 		for element2 in undefined_fam:
 			pbdb_fam_id_dict["NA"].append(element2)
 		
-	return pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max
+	return pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list
 
 
 
 def summarize_now(now_fossil_file):
 	print "reading NOW database..."
 	with open(now_fossil_file, 'r') as f:
+		
+		#these lists serve the purpose to later run a clustering algorithm over them and see which groups of names are sufficiently similar
+		now_order_list = []
+		now_fam_list = []
+		now_genus_list = []
+		now_species_list = []
+
 		now_order_id_dict = {}
 		now_fam_id_dict = {}
 		now_id_min_max = {}
@@ -225,29 +247,29 @@ def summarize_now(now_fossil_file):
 			now_id_min_max.setdefault(id,[])
 			now_id_min_max[id].append([min_age,max_age])
 
+			#create another dict where each ID is assigned to the species name as a list [genus,species]
 			now_id_genus_species_dict.setdefault(id,name)
 
-
-			##THIS NEEDS TO BE DONE MORE ADVANCED (also for family, genus and species names) WITH AUTOMATED NAME MATCHING/CLUSTERING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-			# correct some common misspellings
-			if order == "didelphimorpha":
-				order = "didelphimorphia"
-			elif order == "euliptyphla":
-				order = "eulipotyphla"
-
-
-			# take care of all unassigned records and join them under "NA"		
-			if order in ["","indet.","Indet.","indet","Indet","incertae sedis"]:
-				undefined_ord.append(id)
-			else:
+			undefined_ord, order = clean_identification(id,order)
+			undefined_fam, family = clean_identification(id,family)
+			if id not in undefined_ord:
 				now_order_id_dict.setdefault(order,[])
 				now_order_id_dict[order].append(id)
-
-			if family in ["","indet.","Indet.","indet","Indet","incertae sedis"]:
-				undefined_fam.append(id)	
-			else:
+			if id not in undefined_fam:
 				now_fam_id_dict.setdefault(family,[])
 				now_fam_id_dict[family].append(id)
+
+			# add new records to the lists
+			species = '_'.join(name)
+			if order not in now_order_list:
+				now_order_list.append(order)
+			if family not in now_fam_list:
+				now_fam_list.append(family)
+			if genus not in now_genus_list:
+				now_genus_list.append(genus)
+			if species not in now_species_list:
+				if name[0] != 'NA' and name[1] != 'NA':
+					now_species_list.append(species)
 
 		#summarize all unidentified records under 'NA' in the dicitonaries
 		now_order_id_dict.setdefault("NA",[])
@@ -257,7 +279,14 @@ def summarize_now(now_fossil_file):
 		for element2 in undefined_fam:
 			now_fam_id_dict["NA"].append(element2)
 
-	return now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max
+	return now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list
+
+def join_lists(list1,list2):
+	joined = list1[:]
+	for element in list2:
+		if element not in joined:
+			joined.append(element)
+	return joined
 
 # Get the number of fossil occurences for each order
 def print_no_occurences_pbdb():
@@ -396,10 +425,15 @@ def create_pyrate_input_files(key_id,id_species,id_date,extant_list):
 #########################################################################################
 
 #return all data dictionaries and check if all IDs are unique
-pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max = summarize_pbdb(pbdb_fossil_file)
+pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list = summarize_pbdb(pbdb_fossil_file)
 check_unique_ids(pbdb_id_min_max)
-now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max = summarize_now(now_fossil_file)
+now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list = summarize_now(now_fossil_file)
 check_unique_ids(now_id_min_max)
+
+joined_order_list = join_lists(pbdb_order_list,now_order_list)
+joined_fam_list = join_lists(pbdb_fam_list,now_fam_list)
+joined_genus_list = join_lists(pbdb_genus_list,now_genus_list)
+joined_species_list = join_lists(pbdb_species_list,now_species_list)
 
 # join the two _id_genus_species_dicts
 joined_id_genus_species_dicts = join_dictionaries_with_unique_keys(pbdb_id_genus_species_dict,now_id_genus_species_dict)

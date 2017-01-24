@@ -1,2 +1,2 @@
 assuming that all data deficient species (DD) are still extant
-currently only records that are identified to species level are being processed
+only records that are identified to species level are being processed
