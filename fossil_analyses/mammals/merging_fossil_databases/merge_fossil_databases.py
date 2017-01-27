@@ -40,7 +40,7 @@ def clean_name(name):
 	if name[0] in ["","indet.","Indet.","indet","Indet","incertae sedis","gen.","gen"]:
 		name[0] = "NA"
 	if len(name) > 1:
-		if name[1] in ["","indet.","Indet.","indet","Indet","incertae sedis"]:
+		if name[1] in ["","indet.","Indet.","indet","Indet","incertae sedis","sp.","ssp.","sp"]:
 			name[1] = "NA"
 	return name
 
@@ -106,6 +106,7 @@ def summarize_pbdb(pbdb_fossil_file):
 		pbdb_genus_list = []
 		pbdb_species_list = []
 
+		pbdb_all_in_one_dict = {}
 		pbdb_order_id_dict = {}
 		pbdb_fam_id_dict = {}
 		pbdb_id_min_max = {}
@@ -144,7 +145,19 @@ def summarize_pbdb(pbdb_fossil_file):
 			family = str.lower(row[family_col])
 			# use the cleaned genus name
 			genus = name[0]
-			
+			# determine if the taxon is identified to species level
+			species_level = ''
+			if name[1] != '' and name[1] != 'NA':
+				species_level='TRUE'
+			else:
+				species_level='FALSE'
+
+			# add all info into the all_in_one_dict
+			capital_genus = name[0].capitalize()
+			species2 = ' '.join([capital_genus,name[1]])
+			pbdb_all_in_one_dict.setdefault(id,[])
+			pbdb_all_in_one_dict[id].append(['pbdb',species2,min_age,max_age,genus,family,order,species_level])
+
 			# setting up the min max age dict this way (list in a list) is done, so that in case there are ids that are non unique they will show by having more than one list item (more than one min,max-age pair)
 			pbdb_id_min_max.setdefault(id,[])
 			pbdb_id_min_max[id].append([min_age,max_age])
@@ -181,7 +194,7 @@ def summarize_pbdb(pbdb_fossil_file):
 		for element2 in undefined_fam:
 			pbdb_fam_id_dict["NA"].append(element2)
 		
-	return pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list
+	return pbdb_all_in_one_dict, pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list
 
 
 
@@ -195,6 +208,7 @@ def summarize_now(now_fossil_file):
 		now_genus_list = []
 		now_species_list = []
 
+		now_all_in_one_dict = {}
 		now_order_id_dict = {}
 		now_fam_id_dict = {}
 		now_id_min_max = {}
@@ -242,6 +256,18 @@ def summarize_now(now_fossil_file):
 			family = str.lower(row[family_col])
 			# use the cleaned genus name
 			genus = name[0]
+			# determine if the taxon is identified to species level
+			species_level = ''
+			if name[1] != '' and name[1] != 'NA':
+				species_level='TRUE'
+			else:
+				species_level='FALSE'
+
+			# add all info into the all_in_one_dict
+			capital_genus = name[0].capitalize()
+			species2 = ' '.join([capital_genus,name[1]])
+			now_all_in_one_dict.setdefault(id,[])
+			now_all_in_one_dict[id].append(['now',species2,min_age,max_age,genus,family,order,species_level])
 
 			# setting up the min max age dict this way (list in a list) is done, so that in case there are ids that are non unique they will show (this is tested for later) by having more than one list item (more than one min,max-age pair)
 			now_id_min_max.setdefault(id,[])
@@ -279,7 +305,7 @@ def summarize_now(now_fossil_file):
 		for element2 in undefined_fam:
 			now_fam_id_dict["NA"].append(element2)
 
-	return now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list
+	return now_all_in_one_dict, now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list
 
 def join_lists(list1,list2):
 	joined = list1[:]
@@ -422,12 +448,34 @@ def create_pyrate_input_files(key_id,id_species,id_date,extant_list):
 				key_occ_log = csv.writer(write_key_occ_file, delimiter='\t')
 				key_occ_log.writerow([species, status, mint, maxt, source_database])
 
+
+def output_merged_database():
+	merged_database = open("%s/merged_databases.csv" %outdir, "wb")
+	merged_database_log=csv.writer(merged_database, delimiter='\t')
+	merged_database_log.writerow(['id','source','species','min_age','max_age','genus','family','order','identified_to_species','extant'])
+	for id in joined_all_in_one_dict:
+		proper_id = id.replace("pbdb_", "")
+		proper_id = proper_id.replace("now_", "")
+		source = joined_all_in_one_dict[id][0][0]
+		species = joined_all_in_one_dict[id][0][1]
+		min_age = joined_all_in_one_dict[id][0][2]
+		max_age = joined_all_in_one_dict[id][0][3]
+		genus = joined_all_in_one_dict[id][0][4]
+		family = joined_all_in_one_dict[id][0][5]
+		order = joined_all_in_one_dict[id][0][6]
+		species_ident = joined_all_in_one_dict[id][0][7]
+		extant = 'FALSE'
+		
+		if species in extant_species:
+			extant = 'TRUE'
+		merged_database_log.writerow([proper_id,source,species,min_age,max_age,genus,family,order,species_ident,extant])
+
 #########################################################################################
 
 #return all data dictionaries and check if all IDs are unique
-pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list = summarize_pbdb(pbdb_fossil_file)
+pbdb_all_in_one_dict, pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list = summarize_pbdb(pbdb_fossil_file)
 check_unique_ids(pbdb_id_min_max)
-now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list = summarize_now(now_fossil_file)
+now_all_in_one_dict,now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list = summarize_now(now_fossil_file)
 check_unique_ids(now_id_min_max)
 
 joined_order_list = join_lists(pbdb_order_list,now_order_list)
@@ -435,8 +483,10 @@ joined_fam_list = join_lists(pbdb_fam_list,now_fam_list)
 joined_genus_list = join_lists(pbdb_genus_list,now_genus_list)
 joined_species_list = join_lists(pbdb_species_list,now_species_list)
 
-# join the two _id_genus_species_dicts
+# join some of the dicts with unique ids
 joined_id_genus_species_dicts = join_dictionaries_with_unique_keys(pbdb_id_genus_species_dict,now_id_genus_species_dict)
+joined_all_in_one_dict = join_dictionaries_with_unique_keys(pbdb_all_in_one_dict,now_all_in_one_dict)
+
 
 #get two lists, one with all extant species and one with all recently extinct species (IUCN taxonomy)
 extant_species_iucn, extinct_species_iucn = read_iucn_file(iucn_file)
@@ -462,3 +512,5 @@ joined_id_min_max_dict = join_overlapping_dictionaries(now_id_min_max,pbdb_id_mi
 # create pyrate input files
 create_pyrate_input_files(joined_order_id_dicts,joined_id_genus_species_dict,joined_id_min_max_dict,extant_species)
 
+# write an output file that joins the input databases
+output_merged_database()

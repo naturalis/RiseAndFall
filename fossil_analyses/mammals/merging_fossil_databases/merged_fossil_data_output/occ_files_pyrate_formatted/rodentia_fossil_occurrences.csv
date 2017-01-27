@@ -9,7 +9,6 @@ Mimomys_newtoni	extinct	1.95	2.6	now
 Promimomys_baschkirica	extinct	1.95	2.6	now
 Orientalomys_adirganus	extinct	1.95	2.6	now
 Meriones_meridianus	extant	1.95	2.6	now
-Mimomys_sp.	extinct	1.95	2.6	now
 Villanyia_petenyii	extinct	1.95	2.6	now
 Steneofiber_depereti	extinct	17.0	18.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
@@ -51,7 +50,6 @@ Ligerimys_magnus	extinct	18.0	20.0	now
 Glamys_priscus	extinct	34.0	35.0	now
 Theridomys_pseudosiderolithicus	extinct	34.0	35.0	now
 Paradelomys_spelaeus	extinct	34.0	35.0	now
-Treposciurus_sp.	extinct	34.0	35.0	now
 Gliravus_daamsi	extinct	34.0	35.0	now
 Microdyromys_misonnei	extinct	34.0	35.0	now
 Theridomys_perrealensis	extinct	34.0	35.0	now
@@ -108,7 +106,6 @@ Rhagapodemus_primaevus	extinct	4.2	5.3	now
 Ruscinomys_lasallei	extinct	4.2	5.3	now
 Anthracomys_ellenbergeri	extinct	4.2	5.3	now
 Apocricetus_alberti	extinct	4.2	5.3	now
-Debruijnimys_sp.	extinct	4.2	5.3	now
 Apodemus_dominans	extinct	4.2	5.3	now
 Occitanomys_adroveri	extinct	4.2	5.3	now
 Stephanomys_donnezani	extinct	4.2	5.3	now
@@ -292,10 +289,6 @@ Protalactaga_tunggurensis	extinct	9.5	11.2	now
 Heterosminthus_orientalis	extinct	9.5	11.2	now
 Protalactaga_grabaui	extinct	9.5	11.2	now
 Eutamias_ertemtensis	extinct	9.5	11.2	now
-Leptodontomys_sp.	extinct	9.5	11.2	now
-Leptodontomys_sp.	extinct	9.5	11.2	now
-Gobicricetodon_sp.	extinct	9.5	11.2	now
-Gobicricetodon_sp.	extinct	9.5	11.2	now
 Prosiphneus_qiui	extinct	9.5	11.2	now
 Dipoides_problematicus	extinct	8.2	9.0	now
 Trogontherium_minutum	extinct	8.2	9.0	now
@@ -482,8 +475,6 @@ Megacricetodon_minor	extinct	15.2	17.0	now
 Spermophilinus_bredai	extinct	15.2	17.0	now
 Keramidomys_carpathicus	extinct	15.2	17.0	now
 Megacricetodon_lappi	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Heteroxerus_huerzeleri	extinct	9.0	9.5	now
 Spermophilinus_bredai	extinct	9.0	9.5	now
 Hispanomys_peralensis	extinct	9.0	9.5	now
@@ -523,22 +514,18 @@ Iberomys_brecciensis	extinct	0.242	0.364	now
 Arvicola_sapidus	extant	0.242	0.364	now
 Terricola_atapuerquensis	extinct	0.364	0.787	now
 Iberomys_brecciensis	extinct	0.364	0.787	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
 Pliomys_lenki	extinct	0.129	0.364	now
 Iberomys_brecciensis	extinct	0.129	0.364	now
 Arvicola_sapidus	extant	0.129	0.364	now
-Marmota_sp.	extinct	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
 Pliomys_lenki	extinct	0.129	0.364	now
 Iberomys_brecciensis	extinct	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Eliomys_quercinus	extant	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
@@ -547,13 +534,11 @@ Microtus_jansoni	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Arvicola_sapidus	extant	0.129	0.364	now
 Hystrix_vinogradovi	extinct	0.129	0.364	now
-Marmota_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Eliomys_quercinus	extant	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
 Arvicola_sapidus	extant	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Hystrix_vinogradovi	extinct	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
@@ -665,8 +650,6 @@ Huerzelerimys_vireti	extinct	8.2	9.0	now
 Anthracoglis_marinoi	extinct	8.2	9.0	now
 Huerzelerimys_oreopitheci	extinct	7.1	9.0	now
 Anthracoglis_marinoi	extinct	7.1	9.0	now
-Parapodemus_sp.	extinct	7.1	9.0	now
-Parapodemus_sp.	extinct	7.1	9.0	now
 Anthracomys_majori	extinct	7.1	8.2	now
 Anthracomys_lorenzi	extinct	7.1	8.2	now
 Anthracoglis_marinoi	extinct	7.1	8.2	now
@@ -700,7 +683,6 @@ Cricetodon_ozansoyi	extinct	11.2	15.2	now
 Progonomys_cathalai	extinct	7.1	9.5	now
 Myocricetodon_trerki	extinct	7.1	9.5	now
 Protalactaga_major	extinct	7.1	9.5	now
-Abudhabia_sp.	extinct	7.1	9.5	now
 Lophocricetus_gansus	extinct	7.1	9.5	now
 Steneofiber_depereti	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	17.0	18.0	now
@@ -781,7 +763,6 @@ Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Ligerimys_magnus	extinct	18.0	20.0	now
 Pararhizomys_hipparionum	extinct	6.63	7.59	now
 Lophocricetus_gansus	extinct	6.63	7.59	now
-Dipus_sp.	extinct	6.63	7.59	now
 Hansdebruijnia_perpusilla	extinct	6.63	7.59	now
 Agathaeromys_donovani	extinct	0.01	1.95	now
 Pseudotheridomys_parvulus	extinct	20.0	22.8	now
@@ -824,7 +805,6 @@ Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Mimomys_polonicus	extinct	2.6	3.4	now
 Castillomys_crusafonti	extinct	2.6	3.4	now
 Mimomys_capettai	extinct	2.6	3.4	now
-Mimomys_sp.	extinct	2.6	3.4	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Heteroxerus_rubricati	extinct	18.0	20.0	now
 Pseudodryomys_ibericus	extinct	18.0	20.0	now
@@ -851,7 +831,6 @@ Glis_glis	extant	0.0419	0.0441	now
 Sicista_betulina	extant	0.0419	0.0441	now
 Parapelomys_charkhensis	extinct	7.1	8.2	now
 Abudhabia_baynunensis	extinct	7.1	8.2	now
-Myocricetodon_sp.	extinct	7.1	8.2	now
 Dendromus_melanotus	extinct	7.1	8.2	now
 Byzantinia_bayraktepensis	extinct	11.2	12.5	now
 Byzantinia_ozansoyi	extinct	11.2	12.5	now
@@ -893,9 +872,6 @@ Megacricetodon_minor	extinct	9.5	11.2	now
 Microtocricetus_molassicus	extinct	9.5	11.2	now
 Glirulus_werenfelsi	extinct	9.5	11.2	now
 Collimys_transversus	extinct	9.5	11.2	now
-Eomyops_sp.	extinct	9.5	11.2	now
-Keramidomys_sp.	extinct	9.5	11.2	now
-Democricetodon_sp.	extinct	9.5	11.2	now
 Anomalomys_minor	extinct	12.5	17.0	now
 Democricetodon_gracilis	extinct	12.5	17.0	now
 Democricetodon_vindobonensis	extinct	12.5	17.0	now
@@ -1017,12 +993,10 @@ Apodemus_atavus	extinct	1.95	3.4	now
 Mimomys_pitymyoides	extinct	1.95	3.4	now
 Cricetulus_migratorius	extant	1.95	3.4	now
 Mesocricetus_primitivus	extinct	1.95	3.4	now
-Kalymnomys_sp.	extinct	1.95	3.4	now
 Borsodia_newtoniarankoides	extinct	1.95	3.4	now
 Apodemus_flavicollis	extant	1.95	3.4	now
 Ligerimys_lophidens	extinct	19.0	20.0	now
 Ligerimys_antiquus	extinct	19.0	20.0	now
-Eucricetodon_sp.	extinct	19.0	20.0	now
 Pentabuneomys_rhodanicus	extinct	19.0	20.0	now
 Ligerimys_oberlii	extinct	19.0	20.0	now
 Thryonomys_asakomae	extinct	5.7	5.7	now
@@ -1406,7 +1380,6 @@ Theridomys_calafensis	extinct	31.0	32.0	now
 Eucricetodon_atavus	extinct	31.0	32.0	now
 Gliravus_fordi	extinct	31.0	32.0	now
 Theridomys_calafensis	extinct	31.0	32.0	now
-Blainvillimys_sp.	extinct	31.0	32.0	now
 Theridomys_calafensis	extinct	31.0	32.0	now
 Paraethomys_meini	extinct	5.3	7.1	now
 Occitanomys_alcalai	extinct	5.3	7.1	now
@@ -1510,7 +1483,6 @@ Spermophilinus_bredai	extinct	9.5	12.5	now
 Megacricetodon_ibericus	extinct	9.5	12.5	now
 Democricetodon_crusafonti	extinct	9.5	12.5	now
 Hispanomys_daamsi	extinct	9.5	12.5	now
-Muscardinus_sp	extinct	9.5	12.5	now
 Eomyops_catalaunicus	extinct	9.5	11.2	now
 Anomalomys_gaillardi	extinct	9.5	11.2	now
 Cricetulodon_hartenbergeri	extinct	9.5	11.2	now
@@ -1822,7 +1794,6 @@ Democricetodon_freisingensis	extinct	11.2	12.5	now
 Megacricetodon_minor	extinct	11.2	12.5	now
 Spermophilinus_bredai	extinct	11.2	12.5	now
 Megacricetodon_gersii	extinct	11.2	12.5	now
-Megacricetodon_sp.	extinct	11.2	12.5	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
 Parapodemus_lugdunensis	extinct	8.2	9.0	now
@@ -1838,7 +1809,6 @@ Spermophilinus_bredai	extinct	12.5	15.2	now
 Keramidomys_carpathicus	extinct	12.5	15.2	now
 Eomyops_hebeiseni	extinct	12.5	15.2	now
 Microdyromys_miocaenicus	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
 Karydomys_wigharti	extinct	12.5	15.2	now
 Steneofiber_depereti	extinct	18.0	20.0	now
 Steneofiber_depereti	extinct	15.2	17.0	now
@@ -2003,8 +1973,6 @@ Rhodanomys_schlosseri	extinct	20.0	22.8	now
 Ritteneria_molinae	extinct	20.0	22.8	now
 Hystrix_primigenia	extinct	7.1	8.2	now
 Occitanomys_provocator	extinct	7.1	8.2	now
-Byzantinia_sp.	extinct	7.1	8.2	now
-Byzantinia_sp.	extinct	7.1	8.2	now
 Pseudomeriones_rhodius	extinct	7.1	8.2	now
 Occitanomys_neutrum	extinct	7.1	8.2	now
 Karnimata_provocator	extinct	7.1	8.2	now
@@ -2074,7 +2042,6 @@ Parapodemus_barbarae	extinct	7.1	8.2	now
 Castillomys_crusafonti	extinct	2.6	3.4	now
 Stephanomys_minor	extinct	2.6	3.4	now
 Kislangia_ischus	extinct	2.6	3.4	now
-Mimomys_sp.	extinct	2.6	3.4	now
 Mimomys_stehlini	extinct	2.6	3.4	now
 Microparamys_nanus	extinct	34.0	55.0	now
 Pseudoparamys_teilhardi	extinct	34.0	55.0	now
@@ -2096,7 +2063,6 @@ Lartetomys_mirabilis	extinct	15.2	17.0	now
 Steneofiber_depereti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Eomuscardinus_sansaniensis	extinct	15.2	17.0	now
-Pseudodryomys_sp.	extinct	15.2	17.0	now
 Byzantinia_hellenicus	extinct	7.1	9.0	now
 Byzantinia_pikermiensis	extinct	7.1	9.0	now
 Pseudomeriones_latidens	extinct	7.1	9.0	now
@@ -2232,7 +2198,6 @@ Simplomys_robustus	extinct	18.0	20.0	now
 Chalicomys_jaegeri	extinct	9.0	9.5	now
 Anomalomys_gaillardi	extinct	8.2	9.0	now
 Kowalskia_schaubi	extinct	8.2	9.0	now
-Parapodemus_sp.	extinct	8.2	9.0	now
 Spermophilinus_bredai	extinct	8.2	9.0	now
 Hystrix_parvae	extinct	8.2	9.0	now
 Trogontherium_minutum	extinct	8.2	9.0	now
@@ -2255,8 +2220,6 @@ Mimomys_occitanus	extinct	3.4	4.2	now
 Pliomys_hungaricus	extinct	3.4	4.2	now
 Microtodon_loczyi	extinct	3.4	4.2	now
 Paramys_savagei	extinct	34.0	55.0	now
-Ailuravus_sp.	extinct	34.0	55.0	now
-Ailuravus_sp.	extinct	34.0	55.0	now
 Byzantinia_nikosi	extinct	8.2	9.5	now
 Chalicomys_jaegeri	extinct	8.2	9.5	now
 Myomimus_multicristatus	extinct	8.2	9.5	now
@@ -2481,7 +2444,6 @@ Megalomys_curazensis	extinct	0.01	1.95	now
 Miodyromys_aegercii	extinct	15.2	17.0	now
 Megacricetodon_lappi	extinct	15.2	17.0	now
 Eomyops_hebeiseni	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Castor_fiber	extant	0.01	1.95	now
 Trogontherium_cuvieri	extinct	0.01	1.95	now
 Cricetulus_migratorius	extant	0.01	1.95	now
@@ -2503,22 +2465,13 @@ Keramidomys_tuioliensis	extinct	7.1	8.2	now
 Hystrix_primigenia	extinct	5.3	7.1	now
 Promimomys_stehlini	extinct	2.675	3.158	now
 Aratomys_multifidus	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Aratomys_sp.	extinct	4.033	4.667	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
 Aratomys_multifidus	extinct	2.675	3.158	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
 Aratomys_multifidus	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Aratomys_sp.	extinct	4.033	4.667	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
-Euchoreutes_sp.	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Aratomys_sp.	extinct	4.033	4.667	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
 Sinocastor_zdanskyi	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Euchoreutes_sp.	extinct	4.033	4.667	now
 Asiaparamya_schevyrevae	extinct	55.0	62.3	now
 Lemmus_lemmus	extant	0.01	0.115	now
 Neocometes_similis	extinct	17.0	18.0	now
@@ -2586,7 +2539,6 @@ Rhodanomys_transiens	extinct	23.8	24.0	now
 Eomyodon_mayoi	extinct	23.8	24.0	now
 Apeomys_tuerkheimae	extinct	23.8	24.0	now
 Glirudinus_eggingensis	extinct	23.8	24.0	now
-Peridyromys_sp.	extinct	23.8	24.0	now
 Pseudotheridomys_schaubi	extinct	23.8	24.0	now
 Microdyromys_monspeliensis	extinct	23.8	24.0	now
 Suevoglis_wannemacheri	extinct	23.8	24.0	now
@@ -2626,7 +2578,6 @@ Pliopetaurista_bressana	extinct	8.2	9.0	now
 Hylopetes_hungaricus	extinct	8.2	9.0	now
 Hylopetes_hoeckarum	extinct	8.2	9.0	now
 Chalicomys_jaegeri	extinct	8.2	9.0	now
-Spermophilinus_sp.	extinct	8.2	9.0	now
 Keramidomys_ermannorum	extinct	8.2	9.0	now
 Keramidomys_mohleri	extinct	8.2	9.5	now
 Collimys_primus	extinct	8.2	9.5	now
@@ -2722,7 +2673,6 @@ Megacricetodon_bavaricus	extinct	15.2	18.0	now
 Miopetaurista_dehmi	extinct	15.2	18.0	now
 Palaeosciurus_sutteri	extinct	15.2	18.0	now
 Spermophilinus_bredai	extinct	15.2	18.0	now
-Miodyromys_sp.	extinct	15.2	18.0	now
 Democricetodon_gracilis	extinct	15.2	18.0	now
 Megacricetodon_bavaricus	extinct	15.2	18.0	now
 Keramidomys_thaleri	extinct	15.2	18.0	now
@@ -2794,8 +2744,6 @@ Sinocastor_anderssoni	extinct	5.3	7.1	now
 Prosiphneus_eriksoni	extinct	5.3	7.1	now
 Micromys_chalceus	extinct	5.3	7.1	now
 Pseudoaplodon_asiaticus	extinct	5.3	7.1	now
-Sciurus_sp.	extinct	5.3	7.1	now
-Sicista_sp.	extinct	5.3	7.1	now
 Eozapus_similis	extinct	5.3	7.1	now
 Brachyscirtetes_wimani	extinct	5.3	7.1	now
 Dipus_fraudator	extinct	5.3	7.1	now
@@ -2855,8 +2803,6 @@ Pseudotheridomys_fejfari	extinct	18.0	20.0	now
 Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Palaeosciurus_fissurae	extinct	18.0	20.0	now
 Heteroxerus_paulhiacensis	extinct	18.0	20.0	now
-Peridyromys_sp.	extinct	18.0	20.0	now
-Bransatoglis_sp.	extinct	18.0	20.0	now
 Pseudotheridomys_parvulus	extinct	18.0	20.0	now
 Ligerimys_lophidens	extinct	18.0	20.0	now
 Peridyromys_murinus	extinct	19.0	20.0	now
@@ -2896,14 +2842,12 @@ Spanocricetodon_ningensis	extinct	17.0	18.0	now
 Phiomys_andrewsi	extinct	24.6	34.0	now
 Metaphiomys_beadnelli	extinct	24.6	34.0	now
 Phiomys_lavocati	extinct	34.0	40.0	now
-Gaudeamus_sp.	extinct	34.0	40.0	now
 Phiomys_lavocati	extinct	34.0	40.0	now
 Phiomys_andrewsi	extinct	34.0	40.0	now
 Gaudeamus_aegyptius	extinct	34.0	40.0	now
 Metaphiomys_beadnelli	extinct	24.6	34.0	now
 Phiomys_paraphiomyoides	extinct	24.6	34.0	now
 Metaphiomys_beadnelli	extinct	24.6	34.0	now
-Phiomys_sp.	extinct	24.6	34.0	now
 Paraphiomys_simonsi	extinct	24.6	34.0	now
 Phiocricetomys_minutus	extinct	24.6	34.0	now
 Progonomys_cathalai	extinct	9.0	9.5	now
@@ -2993,8 +2937,6 @@ Blackia_miocaenica	extinct	11.2	12.5	now
 Spermophilinus_bredai	extinct	11.2	12.5	now
 Keramidomys_pertesunatoi	extinct	11.2	12.5	now
 Trogontherium_minutum	extinct	11.2	12.5	now
-Collimys_sp.	extinct	11.2	12.5	now
-Cricetodon_sp.	extinct	11.2	12.5	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Otomys_irroratus	extant	0.01	1.95	now
 Xerus_capensis	extinct	0.01	1.95	now
@@ -3008,9 +2950,6 @@ Trilophomys_castroi	extinct	1.675	1.95	now
 Stephanomys_vandeweerdi	extinct	1.675	1.95	now
 Remys_garimondi	extinct	34.0	55.0	now
 Adelomys_fontensis	extinct	34.0	55.0	now
-Adelomys_sp.	extinct	34.0	55.0	now
-Adelomys_sp.	extinct	34.0	55.0	now
-Adelomys_sp.	extinct	34.0	55.0	now
 Tyrrhenicola_henseli	extinct	0.01	1.95	now
 Tyrrhenicola_sondaari	extinct	0.01	1.95	now
 Agathaeromys_donovani	extinct	0.01	1.95	now
@@ -3095,18 +3034,15 @@ Trogontherium_minutum	extinct	9.0	9.5	now
 Rotundomys_freiriensis	extinct	9.0	9.5	now
 Miodyromys_aegercii	extinct	15.2	17.0	now
 Megacricetodon_lappi	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Frontanyamys_russelli	extinct	43.6	52.0	now
 Pseudoltinomys_cuvieri	extinct	33.0	34.0	now
 Bransatoglis_parvus	extinct	33.0	34.0	now
 Gliravus_fordi	extinct	33.0	34.0	now
 Glamys_olallensis	extinct	33.0	34.0	now
-Theridomys_sp.	extinct	33.0	34.0	now
 Pseudoltinomys_cuvieri	extinct	33.0	34.0	now
 Bransatoglis_parvus	extinct	33.0	34.0	now
 Gliravus_fordi	extinct	33.0	34.0	now
 Glamys_olallensis	extinct	33.0	34.0	now
-Theridomys_sp.	extinct	33.0	34.0	now
 Palaeosciurus_fissurae	extinct	20.0	22.8	now
 Simplomys_simplicidens	extinct	20.0	22.8	now
 Peridyromys_murinus	extinct	20.0	22.8	now
@@ -3142,7 +3078,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -3151,7 +3086,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -3166,7 +3100,6 @@ Glamys_priscus	extinct	33.0	35.0	now
 Pseudoltinomys_cuvieri	extinct	33.0	35.0	now
 Gliravus_daamsi	extinct	33.0	35.0	now
 Gliravus_fordi	extinct	33.0	35.0	now
-Theridomys_sp.	extinct	33.0	35.0	now
 Pararhizomys_hipparionum	extinct	9.0	9.5	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
@@ -3239,19 +3172,12 @@ Hattomys_nazarii	extinct	4.2	7.1	now
 Mikrotia_magna	extinct	4.2	7.1	now
 Mikrotia_maiuscula	extinct	4.2	7.1	now
 Mikrotia_parva	extinct	4.2	7.1	now
-Ansomys_sp.	extinct	15.2	18.0	now
-Ansomys_sp.	extinct	15.2	18.0	now
-Ansomys_sp.	extinct	15.2	18.0	now
 Parasminthus_parvulus	extinct	15.2	18.0	now
-Democricetodon_sp.	extinct	15.2	18.0	now
-Democricetodon_sp.	extinct	15.2	18.0	now
 Parasminthus_tangingoli	extinct	15.2	18.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
 Armantomys_jasperi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
-Sayimys_sp.	extinct	16.4	20.5	now
-Sayimys_sp.	extinct	14.8	16.4	now
 Byzantinia_pikermiensis	extinct	7.1	8.2	now
 Myomimus_dehmi	extinct	7.1	8.2	now
 Hystrix_primigenia	extinct	7.1	8.2	now
@@ -3436,7 +3362,6 @@ Mimomys_minor	extinct	1.81	2.59	now
 Stephanomys_thaleri	extinct	1.81	2.59	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Ligerimys_antiquus	extinct	18.0	20.0	now
-Eucricetodon_sp.	extinct	18.0	20.0	now
 Ligerimys_oberlii	extinct	18.0	20.0	now
 Keramidomys_mohleri	extinct	11.2	12.5	now
 Keramidomys_anwilensis	extinct	11.2	12.5	now
@@ -3478,7 +3403,6 @@ Pararhizomys_hipparionum	extinct	9.0	9.5	now
 Hystrix_gausuensis	extinct	5.3	9.0	now
 Hystrix_subcristata	extinct	0.6	1.3	now
 Rhizomys_sinensis	extant	0.6	1.3	now
-Theridomys_sp.	extinct	31.0	32.0	now
 Eucricetodon_atavus	extinct	31.0	32.0	now
 Chalicomys_jaegeri	extinct	15.2	17.0	now
 Mimomys_polonicus	extinct	2.6	3.4	now
@@ -3707,7 +3631,6 @@ Prokanisamys_arifi	extinct	13.5	16.3	now
 Prokanisamys_major	extinct	13.5	16.3	now
 Myocricetodon_sivalensis	extinct	13.5	16.3	now
 Antemus_mancharensis	extinct	13.5	16.3	now
-Sayimys_sp.	extinct	13.5	16.3	now
 Sayimys_intermedius	extinct	18.4	18.4	now
 Prokanisamys_benjavuni	extinct	18.4	18.4	now
 Democricetodon_kohatensis	extinct	18.4	18.4	now
@@ -3765,7 +3688,6 @@ Potwarmus_primitivus	extinct	13.5	16.3	now
 Prokanisamys_major	extinct	13.5	16.3	now
 Myocricetodon_sivalensis	extinct	13.5	16.3	now
 Antemus_mancharensis	extinct	13.5	16.3	now
-Sayimys_sp.	extinct	13.5	16.3	now
 Prokanisamys_benjavuni	extinct	13.5	16.3	now
 Democricetodon_kohatensis	extinct	13.5	16.3	now
 Sayimys_sivalensis	extinct	13.5	16.3	now
@@ -3828,8 +3750,6 @@ Eucricetodon_atavus	extinct	32.0	33.0	now
 Suevosciurus_palustris	extinct	32.0	33.0	now
 Tenuiglis_exiguus	extinct	32.0	33.0	now
 Glamys_devoogdi	extinct	32.0	33.0	now
-Eucricetodon_sp.	extinct	32.0	33.0	now
-Eucricetodon_sp.	extinct	32.0	33.0	now
 Steneofiber_butselensis	extinct	32.0	33.0	now
 Kubwaxerus_pattersoni	extinct	2.6	7.1	now
 Cricetodon_tobieni	extinct	17.0	18.0	now
@@ -3858,7 +3778,6 @@ Miodyromys_aegercii	extinct	15.2	17.0	now
 Microdyromys_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_bavaricus	extinct	15.2	17.0	now
 Keramidomys_carpathicus	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Dipoides_majori	extinct	5.3	7.1	now
 Karakoromys_decessus	extinct	24.6	34.0	now
 Yindirtemys_shevyrevae	extinct	24.6	34.0	now
@@ -3916,8 +3835,6 @@ Myoglis_larteti	extinct	12.5	15.2	now
 Democricetodon_brevis	extinct	12.5	15.2	now
 Miodyromys_aegercii	extinct	12.5	15.2	now
 Microdyromys_miocaenicus	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
 Megacricetodon_sinensis	extinct	12.5	15.2	now
 Protalactaga_tunggurensis	extinct	12.5	15.2	now
 Apodemus_dominans	extinct	4.2	5.3	now
@@ -3975,7 +3892,6 @@ Germanomys_weileri	extinct	3.4	4.2	now
 Mimomys_occitanus	extinct	3.4	4.2	now
 Allocricetus_bursae	extinct	3.4	4.2	now
 Trilophomys_depereti	extinct	3.4	4.2	now
-Glis_sp.	extinct	3.4	4.2	now
 Leukaristomys_vagui	extinct	3.4	4.2	now
 Germanomys_helleri	extinct	3.4	4.2	now
 Germanomys_parvidens	extinct	3.4	4.2	now
@@ -3999,7 +3915,6 @@ Progonomys_hussaini	extinct	9.5	11.2	now
 Dakkamys_asiaticus	extinct	9.5	11.2	now
 Pannonicola_brevidens	extinct	7.1	8.2	now
 Hystrix_cristata	extant	0.0293	0.0395	now
-Myocricetodon_sp.	extinct	5.3	8.2	now
 Parapelomys_charkhensis	extinct	5.3	8.2	now
 Myocricetodon_parvus	extinct	11.2	14.8	now
 Africanomys_pulcher	extinct	11.2	14.8	now
@@ -4064,7 +3979,6 @@ Megacricetodon_pusillus	extinct	11.2	12.5	now
 Democricetodon_lindsayi	extinct	11.2	12.5	now
 Democricetodon_tongi	extinct	11.2	12.5	now
 Paracricetulus_schaubi	extinct	11.2	12.5	now
-Cricetodon_sp.	extinct	11.2	12.5	now
 Pseudotheridomys_parvulus	extinct	20.0	22.8	now
 Peridyromys_murinus	extinct	20.0	22.8	now
 Eucricetodon_haslachensis	extinct	20.0	22.8	now
@@ -4258,20 +4172,17 @@ Occitanomys_adroveri	extinct	5.4	7.1	now
 Pseudomeriones_abbreviatus	extinct	5.4	7.1	now
 Microtoscoptes_mongolicus	extinct	5.4	7.1	now
 Microtoscoptes_tjuvanensis	extinct	5.4	7.1	now
-Scirtodipus_sp.	extinct	5.4	7.1	now
 Lophocricetus_vinogradovi	extinct	5.4	7.1	now
 Scirtodipus_kazakhstanica	extinct	5.4	7.1	now
 Lophocricetus_grabaui	extinct	5.4	7.1	now
 Pseudomeriones_abbreviatus	extinct	4.6	5.4	now
 Microtodon_atavus	extinct	4.6	5.4	now
-Scirtodipus_sp.	extinct	4.6	5.4	now
 Lophocricetus_grabaui	extinct	4.6	5.4	now
 Sinocastor_zdanskyi	extinct	4.6	5.4	now
 Mimomys_pliocaenicus	extinct	2.917	3.158	now
 Ellobius_primigenius	extinct	2.917	3.158	now
 Allocricetus_eversmani	extinct	2.917	3.158	now
 Mimomys_antis	extinct	2.917	3.158	now
-Mimomys_sp.	extinct	2.917	3.158	now
 Phodopus_minutus	extinct	2.917	3.158	now
 Pygerethmus_pygmaeus	extinct	2.917	3.158	now
 Microdyromys_koenigswaldi	extinct	18.0	20.0	now
@@ -4364,7 +4275,6 @@ Allophaiomys_deucalion	extinct	2.192	2.917	now
 Mimomys_haplodentatus	extinct	2.192	2.917	now
 Allactaga_anderssoni	extinct	2.192	2.917	now
 Villanyia_petenyii	extinct	2.192	2.917	now
-Clethrionomys_sp.	extinct	2.192	2.917	now
 Sicista_bagajevi	extinct	2.192	2.917	now
 Allocricetus_eversmani	extinct	1.95	2.433	now
 Ellobius_tscharynensis	extinct	1.95	2.433	now
@@ -4372,7 +4282,6 @@ Clethrionomys_mirus	extinct	1.95	2.433	now
 Prolagurus_praepannonicus	extinct	1.95	2.433	now
 Allophaiomys_deucalion	extinct	1.95	2.433	now
 Allophaiomys_pliocaenicus	extinct	1.95	2.433	now
-Clethrionomys_sp.	extinct	1.95	2.433	now
 Eolagurus_argyropuloi	extinct	1.95	2.433	now
 Apodemus_sylvaticus	extant	1.95	2.433	now
 Xerus_daamsi	extinct	4.2	5.3	now
@@ -4498,11 +4407,9 @@ Plesiodyromys_toriformis	extinct	20.0	22.8	now
 Microdyromys_hildebrandti	extinct	20.0	22.8	now
 Blackia_ulmensis	extinct	20.0	22.8	now
 Ritteneria_manca	extinct	20.0	22.8	now
-Peridyromys_sp.	extinct	20.0	22.8	now
 Paraglis_ingens	extinct	20.0	22.8	now
 Melissiodon_dominans	extinct	20.0	22.8	now
 Pseudotheridomys_lacombai	extinct	20.0	22.8	now
-Peridyromys_sp.	extinct	20.0	22.8	now
 Peridyromys_murinus	extinct	20.0	22.8	now
 Eucricetodon_aquitanicus	extinct	20.0	22.8	now
 Ritteneria_manca	extinct	20.0	22.8	now
@@ -4516,14 +4423,12 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Atlantoxerus_blacki	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -4533,7 +4438,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -4843,7 +4747,6 @@ Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
 Armantomys_jasperi	extinct	15.2	17.0	now
 Democricetodon_decipiens	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Progonomys_hispanicus	extinct	9.0	9.5	now
 Huerzelerimys_minor	extinct	9.0	9.5	now
 Progonomys_cathalai	extinct	9.0	9.5	now
@@ -4954,7 +4857,6 @@ Saccostomus_major	extinct	3.5	3.8	now
 Thallomys_laetolilensis	extinct	1.81	2.59	now
 Mastomys_cinereus	extinct	1.81	2.59	now
 Apodemus_sylvaticus	extant	1.29	1.62	now
-Apodemus_sp.	extinct	1.29	1.62	now
 Myomimus_roachi	extant	1.29	1.62	now
 Mimomys_ostramosensis	extinct	1.29	1.62	now
 Democricetodon_gracilis	extinct	12.5	15.2	now
@@ -5026,7 +4928,6 @@ Abudhabia_baheensis	extinct	9.5	11.2	now
 Lophocricetus_xianensis	extinct	9.5	11.2	now
 Sciurotamias_pusillus	extinct	9.5	11.2	now
 Nannocricetus_primitivus	extinct	9.5	11.2	now
-Prospalax_sp.	extinct	9.0	9.5	now
 Progonomys_sinensis	extinct	9.0	9.5	now
 Abudhabia_baheensis	extinct	9.0	9.5	now
 Eutamias_lishanensis	extinct	9.0	9.5	now
@@ -5094,7 +4995,6 @@ Democricetodon_lacombai	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Pseudodryomys_rex	extinct	15.2	17.0	now
@@ -5104,7 +5004,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Paraglirulus_werenfelsi	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Democricetodon_larteti	extinct	15.2	17.0	now
@@ -5154,7 +5053,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Microdyromys_complicatus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
@@ -5172,7 +5070,6 @@ Democricetodon_larteti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
@@ -5180,7 +5077,6 @@ Democricetodon_larteti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Microdyromys_complicatus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
@@ -5190,7 +5086,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Tempestia_ovilis	extinct	15.2	17.0	now
@@ -5198,7 +5093,6 @@ Democricetodon_larteti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Democricetodon_larteti	extinct	15.2	17.0	now
@@ -5212,7 +5106,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Democricetodon_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
@@ -5227,7 +5120,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Cricetodon_sansaniensis	extinct	12.5	15.2	now
 Democricetodon_larteti	extinct	12.5	15.2	now
 Cricetodon_sansaniensis	extinct	12.5	15.2	now
@@ -5261,7 +5153,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Pseudodryomys_rex	extinct	15.2	17.0	now
@@ -5270,7 +5161,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Microdyromys_complicatus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_rex	extinct	15.2	17.0	now
@@ -5279,7 +5169,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Anchitheriomys_suevicus	extinct	15.2	17.0	now
 Steneofiber_depereti	extinct	15.2	17.0	now
@@ -5334,14 +5223,11 @@ Anomalomys_gaudryi	extinct	11.2	12.5	now
 Miodyromys_aegercii	extinct	11.2	12.5	now
 Megacricetodon_minor	extinct	11.2	12.5	now
 Euroxenomys_minutus	extinct	11.2	12.5	now
-Democricetodon_sp.	extinct	11.2	12.5	now
-Democricetodon_sp.	extinct	11.2	12.5	now
 Anomalomys_gaudryi	extinct	11.2	12.5	now
 Miodyromys_aegercii	extinct	11.2	12.5	now
 Megacricetodon_minor	extinct	11.2	12.5	now
 Collimys_transversus	extinct	11.2	12.5	now
 Euroxenomys_minutus	extinct	11.2	12.5	now
-Democricetodon_sp.	extinct	11.2	12.5	now
 Democricetodon_freisingensis	extinct	11.2	12.5	now
 Miodyromys_aegercii	extinct	11.2	12.5	now
 Myoglis_meini	extinct	11.2	12.5	now
@@ -5493,14 +5379,10 @@ Pseudomeriones_abbreviatus	extinct	5.3	7.1	now
 Huaxiamys_primitivus	extinct	5.3	7.1	now
 Micromys_tedfordi	extinct	5.3	7.1	now
 Nannocricetus_mongolicus	extinct	5.3	7.1	now
-Huaxiamys_sp.	extinct	5.3	7.1	now
-Occitanomys_sp.	extinct	5.3	7.1	now
 Pseudomeriones_abbreviatus	extinct	3.4	5.3	now
 Huaxiamys_primitivus	extinct	3.4	5.3	now
 Micromys_tedfordi	extinct	3.4	5.3	now
 Nannocricetus_mongolicus	extinct	3.4	5.3	now
-Huaxiamys_sp.	extinct	3.4	5.3	now
-Occitanomys_sp.	extinct	3.4	5.3	now
 Karnimata_hipparionum	extinct	3.4	5.3	now
 Allocricetus_bursae	extinct	2.6	3.4	now
 Chardinomys_louisi	extinct	2.6	3.4	now
@@ -5508,8 +5390,6 @@ Pseudomeriones_abbreviatus	extinct	5.8	7.0	now
 Huaxiamys_primitivus	extinct	5.8	7.0	now
 Micromys_tedfordi	extinct	5.8	7.0	now
 Nannocricetus_mongolicus	extinct	5.8	7.0	now
-Huaxiamys_sp.	extinct	5.8	7.0	now
-Occitanomys_sp.	extinct	5.8	7.0	now
 Karnimata_hipparionum	extinct	5.8	7.0	now
 Micromys_chalceus	extinct	5.8	7.0	now
 Kowalskia_neimengensis	extinct	5.3	7.1	now
@@ -5525,17 +5405,13 @@ Kowalskia_neimengensis	extinct	4.2	5.3	now
 Allorattus_engesseri	extinct	4.2	5.3	now
 Chardinomys_yusheensis	extinct	4.2	5.3	now
 Sinocricetus_zdanskyi	extinct	4.2	5.3	now
-Huaxiamys_sp.	extinct	4.2	5.3	now
-Chardinomys_sp.	extinct	4.2	5.3	now
 Pliosiphneus_lyrathus	extinct	4.2	5.3	now
 Chardina_sinensis	extinct	4.2	5.3	now
 Pseudomeriones_abbreviatus	extinct	5.3	7.1	now
 Micromys_tedfordi	extinct	5.3	7.1	now
 Allorattus_engesseri	extinct	5.3	7.1	now
 Nannocricetus_mongolicus	extinct	5.3	7.1	now
-Huaxiamys_sp.	extinct	5.3	7.1	now
 Occitanomys_pusillus	extinct	5.3	7.1	now
-Occitanomys_sp.	extinct	5.3	7.1	now
 Prosiphneus_murinus	extinct	5.3	7.1	now
 Karnimata_hipparionum	extinct	5.3	7.1	now
 Apodemus_orientalis	extinct	5.3	7.1	now
@@ -5549,7 +5425,6 @@ Chardinomys_yusheensis	extinct	3.4	5.3	now
 Nannocricetus_mongolicus	extinct	3.4	5.3	now
 Sinocricetus_zdanskyi	extinct	3.4	5.3	now
 Pliosiphneus_lyrathus	extinct	3.4	5.3	now
-Apodemus_sp.	extinct	3.4	5.3	now
 Prosiphneus_murinus	extinct	3.4	5.3	now
 Pseudomeriones_abbreviatus	extinct	3.4	5.3	now
 Allocricetus_bursae	extinct	3.4	5.3	now
@@ -5564,14 +5439,12 @@ Paralactaga_anderssoni	extinct	3.4	5.3	now
 Pliosiphneus_lyrathus	extinct	3.4	5.3	now
 Chardina_truncatus	extinct	3.4	5.3	now
 Cricetinus_mesolophidus	extinct	3.4	5.3	now
-Apodemus_sp.	extinct	3.4	5.3	now
 Karnimata_hipparionum	extinct	3.4	5.3	now
 Pseudomeriones_abbreviatus	extinct	2.6	3.4	now
 Allocricetus_bursae	extinct	2.6	3.4	now
 Huaxiamys_downsi	extinct	2.6	3.4	now
 Chardinomys_yusheensis	extinct	2.6	3.4	now
 Pseudomeriones_complicidens	extinct	2.6	3.4	now
-Apodemus_sp.	extinct	2.6	3.4	now
 Cromeromys_gansunicus	extinct	2.6	3.4	now
 Myospalax_fontanieri	extinct	1.2	1.8	now
 Suevosciurus_frassi	extinct	32.0	33.0	now
@@ -5623,13 +5496,11 @@ Megacricetodon_minor	extinct	12.5	17.0	now
 Miopetaurista_dehmi	extinct	12.5	17.0	now
 Cricetodon_meini	extinct	12.5	17.0	now
 Spermophilinus_besanus	extinct	12.5	17.0	now
-Miodyromys_sp.	extinct	12.5	17.0	now
 Democricetodon_mutilus	extinct	12.5	17.0	now
 Megacricetodon_minor	extinct	12.5	17.0	now
 Palaeosciurus_sutteri	extinct	12.5	17.0	now
 Cricetodon_meini	extinct	12.5	17.0	now
 Spermophilinus_besanus	extinct	12.5	17.0	now
-Miodyromys_sp.	extinct	12.5	17.0	now
 Hystrix_subcristata	extinct	1.2	1.8	now
 Hystrix_magna	extinct	1.2	1.8	now
 Mus_musculus	extant	0.0	0.7	now
@@ -5698,14 +5569,12 @@ Keramidomys_carpathicus	extinct	11.2	17.0	now
 Heteroxerus_rubricati	extinct	11.2	17.0	now
 Democricetodon_affinis	extinct	11.2	17.0	now
 Megacricetodon_fournasi	extinct	11.2	17.0	now
-Heteroxerus_sp.	extinct	11.2	17.0	now
 Democricetodon_gracilis	extinct	11.2	15.2	now
 Miodyromys_aegercii	extinct	11.2	15.2	now
 Microdyromys_koenigswaldi	extinct	11.2	15.2	now
 Microdyromys_legidensis	extinct	11.2	15.2	now
 Democricetodon_affinis	extinct	11.2	15.2	now
 Megacricetodon_roussillonensis	extinct	11.2	15.2	now
-Megacricetodon_sp.	extinct	11.2	15.2	now
 Muscardinus_pliocaenicus	extinct	1.81	2.59	now
 Apodemus_dominans	extinct	1.81	2.59	now
 Castillomys_crusafonti	extinct	1.81	2.59	now
@@ -5744,7 +5613,6 @@ Simplomys_simplicidens	extinct	12.5	18.0	now
 Ligerimys_florancei	extinct	12.5	18.0	now
 Heteroxerus_rubricati	extinct	12.5	18.0	now
 Megacricetodon_gersii	extinct	12.5	18.0	now
-Heteroxerus_sp.	extinct	12.5	18.0	now
 Eomyops_catalaunicus	extinct	8.2	9.0	now
 Muscardinus_austriacus	extinct	8.2	9.0	now
 Kowalskia_skofleki	extinct	8.2	9.0	now
@@ -5992,7 +5860,6 @@ Atlantoxerus_adroveri	extinct	9.5	11.2	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
 Megacricetodon_minor	extinct	9.5	11.2	now
-Hystrix_sp.	extinct	6.54	7.44	now
 Kubwaxerus_pattersoni	extinct	6.54	7.44	now
 Karnimata_jacobsi	extinct	6.54	7.44	now
 Paraulacodus_johanesi	extinct	6.54	7.44	now
@@ -6147,7 +6014,6 @@ Allocricetus_ehiki	extinct	4.2	7.1	now
 Miopetaurista_thaleri	extinct	4.2	7.1	now
 Hypsocricetus_strimonis	extinct	4.2	7.1	now
 Tamias_atsali	extinct	4.2	7.1	now
-Kowalskia_sp.	extinct	4.2	7.1	now
 Micromys_cingulatus	extinct	4.2	7.1	now
 Occitanomys_neutrum	extinct	4.2	7.1	now
 Keramidomys_carpathicus	extinct	4.2	7.1	now
@@ -6193,7 +6059,6 @@ Calomyscus_minor	extinct	3.4	4.2	now
 Spalax_sotirisi	extinct	3.4	4.2	now
 Atlantoxerus_rhodius	extinct	3.4	4.2	now
 Spermophilinus_giganteus	extinct	3.4	4.2	now
-Cricetulus_sp.	extinct	3.4	4.2	now
 Rhagapodemus_vandeweerdi	extinct	3.4	4.2	now
 Occitanomys_debruijni	extinct	3.4	4.2	now
 Keramidomys_carpathicus	extinct	3.4	4.2	now
@@ -6208,7 +6073,6 @@ Pseudodryomys_ibericus	extinct	18.0	20.0	now
 Miodyromys_biradiculus	extinct	18.0	20.0	now
 Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Glirudinus_undosus	extinct	18.0	20.0	now
-Pseudotheridomys_sp.	extinct	18.0	20.0	now
 Ligerimys_lophidens	extinct	18.0	20.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
@@ -6255,7 +6119,6 @@ Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Parapodemus_barbarae	extinct	7.1	8.2	now
 Atlantoxerus_adroveri	extinct	7.1	8.2	now
 Hispanomys_freudenthali	extinct	7.1	8.2	now
-Spermophilinus_sp.	extinct	7.1	8.2	now
 Occitanomys_adroveri	extinct	7.1	8.2	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Ruscinomys_schaubi	extinct	7.1	8.2	now
@@ -6301,14 +6164,12 @@ Occitanomys_adroveri	extinct	7.1	8.2	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Parapodemus_barbarae	extinct	7.1	8.2	now
 Hispanomys_freudenthali	extinct	7.1	8.2	now
-Spermophilinus_sp.	extinct	7.1	8.2	now
 Eliomys_truci	extinct	7.1	8.2	now
 Kowalskia_occidentalis	extinct	7.1	8.2	now
 Occitanomys_adroveri	extinct	7.1	8.2	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Parapodemus_barbarae	extinct	7.1	8.2	now
 Hispanomys_freudenthali	extinct	7.1	8.2	now
-Spermophilinus_sp.	extinct	7.1	8.2	now
 Mastomys_natalensis	extant	0.5	0.78	now
 Arvicanthis_niloticus	extant	0.5	0.78	now
 Progonomys_cathalai	extinct	9.0	9.5	now
@@ -6542,12 +6403,10 @@ Mimomys_hanzhongenicus	extinct	2.6	5.3	now
 Byzantinia_dardanellensis	extinct	9.0	11.2	now
 Cricetulodon_hartenbergeri	extinct	9.0	11.2	now
 Myomimus_dehmi	extinct	9.0	11.2	now
-Myocricetodon_sp.	extinct	9.0	11.2	now
 Progonomys_cathalai	extinct	9.0	11.2	now
 Progonomys_cathalai	extinct	9.0	9.5	now
 Ischymomys_quadriradicatus	extinct	9.0	9.5	now
 Dolomys_milleri	extinct	1.95	3.4	now
-Mimomys_sp.	extinct	1.95	3.4	now
 Pseudocricetodon_incertus	extinct	26.0	27.0	now
 Pseudocricetodon_incertus	extinct	26.0	27.0	now
 Microdyromys_praemurinus	extinct	26.0	27.0	now
@@ -6796,7 +6655,6 @@ Microtus_oeconomus	extant	0.364	0.427	now
 Arvicola_cantiana	extinct	0.364	0.427	now
 Hystrix_primigenia	extinct	5.3	9.0	now
 Pliospalax_compositodontus	extinct	5.3	9.0	now
-Apodemus_sp.	extinct	5.3	9.0	now
 Pseudomeriones_latidens	extinct	5.3	9.0	now
 Pseudocricetus_kormosi	extinct	5.3	9.0	now
 Hansdebruijnia_neutrum	extinct	5.3	9.0	now
@@ -6880,8 +6738,6 @@ Atlantoxerus_blacki	extinct	12.5	18.0	now
 Armantomys_aragonensis	extinct	12.5	18.0	now
 Democricetodon_koenigswaldi	extinct	12.5	18.0	now
 Microdyromys_monspeliensis	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
 Simplomys_simplicidens	extinct	12.5	18.0	now
 Glirudinus_modestus	extinct	12.5	18.0	now
 Heteroxerus_rubricati	extinct	12.5	18.0	now
@@ -6890,8 +6746,6 @@ Democricetodon_koenigswaldi	extinct	12.5	18.0	now
 Democricetodon_corcolesi	extinct	12.5	18.0	now
 Democricetodon_jordensi	extinct	12.5	18.0	now
 Microdyromys_monspeliensis	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
 Glirudinus_undosus	extinct	18.0	20.0	now
 Microdyromys_koenigswaldi	extinct	18.0	20.0	now
 Simplomys_simplicidens	extinct	18.0	20.0	now
@@ -6927,7 +6781,6 @@ Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_murinus	extinct	19.0	20.0	now
 Ligerimys_antiquus	extinct	19.0	20.0	now
-Eucricetodon_sp.	extinct	19.0	20.0	now
 Pentabuneomys_rhodanicus	extinct	19.0	20.0	now
 Ligerimys_oberlii	extinct	19.0	20.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
@@ -6984,7 +6837,6 @@ Allocricetus_bursae	extinct	3.4	4.2	now
 Allocricetus_ehiki	extinct	3.4	4.2	now
 Dolomys_odessanus	extinct	3.4	4.2	now
 Pliomys_hungaricus	extinct	3.4	4.2	now
-Pliopetaurista_sp.	extinct	3.4	4.2	now
 Pliospalax_compositodontus	extinct	3.4	4.2	now
 Myomimus_complicidentatus	extinct	3.4	4.2	now
 Sylvaemus_dominans	extinct	3.4	4.2	now
@@ -7089,18 +6941,14 @@ Microdyromys_miocaenicus	extinct	9.5	11.2	now
 Collimys_longidens	extinct	9.5	11.2	now
 Megacricetodon_robustus	extinct	9.5	11.2	now
 Schizocricetodon_huerzeleri	extinct	9.5	11.2	now
-Democricetodon_sp.	extinct	9.5	11.2	now
 Clethrionomys_glareolus	extinct	0.364	0.427	now
 Apodemus_sylvaticus	extant	0.364	0.427	now
 Arvicola_cantiana	extinct	0.364	0.427	now
 Megapedetes_pentadactylus	extinct	17.0	20.0	now
 Pseudomys_higginsi	extant	0.78	1.77	now
-Pseudomys_sp.	extinct	0.78	1.77	now
 Mastacomys_fuscus	extant	0.78	1.77	now
 Steneofiber_depereti	extinct	18.0	20.0	now
-Paraulacodus_sp.	extinct	11.2	14.8	now
 Dakkamys_zaiani	extinct	11.2	14.8	now
-Paraulacodus_sp.	extinct	11.2	14.8	now
 Ratufa_affinis	extant	0.01	1.95	now
 Rheithrosciurus_macrotis	extant	0.01	1.95	now
 Sundasciurus_lowii	extant	0.01	1.95	now
@@ -7182,7 +7030,6 @@ Megacricetodon_minor	extinct	11.2	12.5	now
 Myomimus_dehmi	extinct	10.94	10.989	now
 Democricetodon_crusafonti	extinct	10.94	10.989	now
 Megacricetodon_minor	extinct	10.94	10.989	now
-Hispanomys_ssp.	extinct	10.94	10.989	now
 Glis_minor	extinct	3.92	3.97	now
 Apodemus_dominans	extinct	3.92	3.97	now
 Myomimus_maritsensis	extinct	3.92	3.97	now
@@ -7376,7 +7223,6 @@ Paralophocricetus_progressus	extinct	4.35	5.3	now
 Lophocricetus_orientalis	extinct	4.35	5.3	now
 Microtoscoptes_praetermissus	extinct	4.35	5.3	now
 Prosiphneus_ericksoni	extinct	4.35	5.3	now
-Trogontherium_sp.	extinct	16.4	20.5	now
 Simplomys_simplicidens	extinct	17.0	18.0	now
 Peridyromys_murinus	extinct	17.0	18.0	now
 Heteroxerus_rubricati	extinct	17.0	18.0	now
@@ -7462,7 +7308,6 @@ Eumyarion_valencianum	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Heterosminthus_mongoliensis	extinct	14.0	17.0	now
 Plesiosminthus_myarion	extinct	22.8	23.8	now
 Rhodanomys_oscensis	extinct	22.8	23.8	now
@@ -7751,7 +7596,6 @@ Myomimus_dehmi	extinct	9.5	11.2	now
 Ramys_multicrestatus	extinct	9.5	11.2	now
 Tempestia_hartenbergeri	extinct	9.5	11.2	now
 Megacricetodon_minor	extinct	9.5	11.2	now
-Hispanomys_ssp.	extinct	9.5	11.2	now
 Heteroxerus_spp.	extinct	9.5	11.2	now
 Cricetulodon_hartenbergeri	extinct	9.5	11.2	now
 Muscardinus_hispanicus	extinct	9.5	11.2	now
@@ -7761,7 +7605,6 @@ Megacricetodon_debruijni	extinct	9.5	11.2	now
 Progonomys_hispanicus	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
 Democricetodon_sulcatus	extinct	9.5	11.2	now
-Hispanomys_ssp.	extinct	9.5	11.2	now
 Heteroxerus_spp.	extinct	9.5	11.2	now
 Democricetodon_mutilus	extinct	17.0	18.0	now
 Forsythia_gaudryi	extinct	17.0	18.0	now
@@ -8100,8 +7943,6 @@ Anthracomys_lorenzi	extinct	5.3	8.2	now
 Apodemus_etruscus	extinct	5.3	8.2	now
 Eomyops_catalaunicus	extinct	4.2	5.3	now
 Keramidomys_mohleri	extinct	4.2	5.3	now
-Cricetus_sp.	extinct	4.2	5.3	now
-Cricetus_sp.	extinct	4.2	5.3	now
 Glis_minor	extinct	4.2	5.3	now
 Muscardinus_pliocaenicus	extinct	4.2	5.3	now
 Kowalskia_polonica	extinct	4.2	5.3	now
@@ -8190,7 +8031,6 @@ Simplomys_simplicidens	extinct	17.0	18.0	now
 Pseudodryomys_ibericus	extinct	17.0	18.0	now
 Megacricetodon_collongensis	extinct	17.0	18.0	now
 Glirudinus_gracilis	extinct	17.0	18.0	now
-Blainvillimys_sp.	extinct	31.0	32.0	now
 Agathaeromys_donovani	extinct	0.01	1.95	now
 Megacricetodon_fournasi	extinct	11.2	12.5	now
 Steneofiber_depereti	extinct	15.2	17.0	now
@@ -8542,7 +8382,6 @@ Mimomys_gracilis	extinct	2.6	5.3	now
 Trilophomys_pyrenaicus	extinct	2.6	5.3	now
 Eozapus_janossyi	extinct	2.6	5.3	now
 Mimomys_stehlini	extinct	2.6	5.3	now
-Apodemus_sp.	extinct	2.6	5.3	now
 Microtodon_loczyi	extinct	2.6	5.3	now
 Sivacanthion_complicates	extinct	11.2	14.8	now
 Apodemus_gudrunae	extinct	5.3	7.1	now
@@ -8622,7 +8461,6 @@ Megacricetodon_bavaricus	extinct	15.2	17.0	now
 Spermophilinus_bredai	extinct	15.2	17.0	now
 Keramidomys_carpathicus	extinct	15.2	17.0	now
 Eomuscardinus_sansaniensis	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Eomyops_catalaunicus	extinct	15.2	17.0	now
 Anomalomys_minor	extinct	15.2	17.0	now
 Bransatoglis_cadeoti	extinct	15.2	17.0	now
@@ -8778,9 +8616,6 @@ Stertomys_daamsi	extinct	4.2	7.1	now
 Dryomys_apulus	extinct	4.2	7.1	now
 Stertomys_lyrifer	extinct	4.2	7.1	now
 Stertomys_simplex	extinct	4.2	7.1	now
-Stertomys_sp.	extinct	4.2	7.1	now
-Stertomys_sp.	extinct	4.2	7.1	now
-Stertomys_sp.	extinct	4.2	7.1	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Heteroxerus_rubricati	extinct	18.0	20.0	now
 Pseudodryomys_ibericus	extinct	18.0	20.0	now
@@ -9145,10 +8980,7 @@ Simplomys_robustus	extinct	18.0	20.0	now
 Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Democricetodon_hispanicus	extinct	18.0	20.0	now
 Microdyromys_legidensis	extinct	18.0	20.0	now
-Melissiodon_sp.	extinct	18.0	20.0	now
-Palaeosciurus_sp.	extinct	18.0	20.0	now
 Peridyromys_darocensis	extinct	18.0	20.0	now
-Simplomys_sp.	extinct	18.0	20.0	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Glirudinus_modestus	extinct	18.0	20.0	now
 Heteroxerus_rubricati	extinct	18.0	20.0	now
@@ -9159,9 +8991,6 @@ Simplomys_robustus	extinct	18.0	20.0	now
 Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Democricetodon_hispanicus	extinct	18.0	20.0	now
 Microdyromys_legidensis	extinct	18.0	20.0	now
-Melissiodon_sp.	extinct	18.0	20.0	now
-Palaeosciurus_sp.	extinct	18.0	20.0	now
-Simplomys_sp.	extinct	18.0	20.0	now
 Simplomys_simplicidens	extinct	17.0	18.0	now
 Peridyromys_murinus	extinct	17.0	18.0	now
 Glirudinus_modestus	extinct	17.0	18.0	now
@@ -9298,7 +9127,6 @@ Microdyromys_complicatus	extinct	9.5	11.2	now
 Muscardinus_hispanicus	extinct	9.5	11.2	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
-Muscardinus_sp	extinct	9.5	11.2	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Steneofiber_depereti	extinct	9.5	11.2	now
 Issiodoromys_pauffiensis	extinct	27.0	28.0	now
@@ -9313,7 +9141,6 @@ Neocometes_brunonis	extinct	11.2	12.5	now
 Albanensia_albanensis	extinct	11.2	12.5	now
 Leptodontomys_catalarunicus	extinct	11.2	12.5	now
 Stephanomys_minor	extinct	3.4	4.2	now
-Sciurus_sp.	extinct	3.4	4.2	now
 Blancomys_meini	extinct	3.4	4.2	now
 Mimomys_ostramosensis	extinct	1.95	3.4	now
 Mimomys_ostramosensis	extinct	1.95	3.4	now
@@ -9363,7 +9190,6 @@ Spermophilinus_bredai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
 Eumyarion_weinfurteri	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
 Keramidomys_thaleri	extinct	15.2	17.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
@@ -9375,7 +9201,6 @@ Heteroxerus_rubricati	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
 Eumyarion_weinfurteri	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
 Glirulus_conjunctus	extinct	15.2	17.0	now
@@ -9385,9 +9210,6 @@ Spermophilinus_bredai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
 Eumyarion_weinfurteri	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
 Eomyops_catalaunicus	extinct	9.0	9.5	now
 Glirulus_lissiensis	extinct	9.0	9.5	now
 Muscardinus_austriacus	extinct	9.0	9.5	now
@@ -9510,7 +9332,6 @@ Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Pseudotheridomys_bouziguensis	extinct	18.0	20.0	now
 Freudenthalia_cuencae	extinct	18.0	20.0	now
 Atlantoxerus_martini	extinct	18.0	20.0	now
-Protatera_sp.	extinct	4.2	5.3	now
 Apodemus_dominans	extinct	3.4	4.2	now
 Occitanomys_brailloni	extinct	3.4	4.2	now
 Blancomys_neglectus	extinct	3.4	4.2	now
@@ -9534,13 +9355,6 @@ Stephanomys_thaleri	extinct	1.81	2.59	now
 Prospermophilus_orientalis	extinct	8.2	9.0	now
 Lophocricetus_gansus	extinct	8.2	9.0	now
 Eutamias_ertemtensis	extinct	8.2	9.0	now
-Microdyromys_sp.	extinct	8.2	9.0	now
-Microdyromys_sp.	extinct	8.2	9.0	now
-Leptodontomys_sp.	extinct	8.2	9.0	now
-Leptodontomys_sp.	extinct	8.2	9.0	now
-Paralactaga_sp.	extinct	8.2	9.0	now
-Paralactaga_sp.	extinct	8.2	9.0	now
-Dipus_sp.	extinct	8.2	9.0	now
 Mimomys_hintoni	extinct	2.675	3.158	now
 Chardinomys_sibiricus	extinct	2.675	3.158	now
 Villanyia_eleonorae	extinct	2.675	3.158	now
@@ -9576,7 +9390,6 @@ Saccostomus_major	extinct	4.2	5.3	now
 Saidomys_parvus	extinct	4.2	5.3	now
 Abudhabia_baynunensis	extinct	5.3	8.2	now
 Parapelomys_charkhensis	extinct	5.3	8.2	now
-Myocricetodon_sp.	extinct	5.3	8.2	now
 Dendromus_melanotus	extinct	5.3	8.2	now
 Anomalomys_minor	extinct	17.0	18.0	now
 Democricetodon_mutilus	extinct	17.0	18.0	now
@@ -9650,37 +9463,27 @@ Trogontherium_minutum	extinct	2.6	3.4	now
 Synaptomys_mimomyformis	extinct	2.6	3.4	now
 Steneofiber_depereti	extinct	11.2	15.2	now
 Progonomys_cathalai	extinct	9.777	10.834	now
-Sinapospalax_sp.	extinct	9.428	9.735	now
 Myocricetodon_eskihisarensis	extinct	9.777	10.834	now
 Heramys_anatolicus	extinct	9.777	10.834	now
 Sinapospalax_incliniformis	extinct	9.5	11.2	now
-Sinapospalax_sp.	extinct	9.5	11.2	now
-Sinapospalax_sp.	extinct	9.5	11.2	now
 Progonomys_cathalai	extinct	9.069	9.149	now
 Pseudomeriones_rhodius	extinct	9.069	9.149	now
 Spermophilinus_bredai	extinct	9.777	10.834	now
 Myocricetodon_eskihisarensis	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
 Myocricetodon_eskihisarensis	extinct	9.777	10.834	now
 Sinapospalax_canakkalensis	extinct	9.777	10.834	now
 Myomimus_dehmi	extinct	9.149	9.428	now
 Progonomys_cathalai	extinct	9.149	9.428	now
-Byzantinia_sp.	extinct	9.149	9.428	now
-Byzantinia_sp.	extinct	9.149	9.428	now
 Sinapospalax_sinapensis	extinct	9.149	9.428	now
 Sinapodemus_ibrahimi	extinct	9.149	9.428	now
 Byzantinia_bayraktepensis	extinct	9.735	9.777	now
 Byzantinia_ozansoyi	extinct	9.735	9.777	now
 Cricetulodon_hartenbergeri	extinct	9.735	9.777	now
 Myomimus_dehmi	extinct	9.735	9.777	now
-Myocricetodon_sp.	extinct	9.735	9.777	now
 Progonomys_cathalai	extinct	9.735	9.777	now
 Myocricetodon_eskihisarensis	extinct	9.735	9.777	now
 Progonomys_minus	extinct	9.735	9.777	now
 Peridyromys_dehmi	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
 Eucastor_tungurensis	extinct	11.2	12.5	now
 Dipoides_majori	extinct	5.3	11.2	now
 Steneofiber_eseri	extinct	18.0	20.0	now
@@ -9790,7 +9593,6 @@ Forsythia_gaudryi	extinct	11.852	12.0	now
 Spermophilinus_bredai	extinct	11.852	12.0	now
 Megacricetodon_minutus	extinct	11.852	12.0	now
 Cricetodon_fandli	extinct	11.852	12.0	now
-Democricetodon_sp.	extinct	11.852	12.0	now
 Anchitheriomys_wiedemanni	extinct	12.5	15.2	now
 Miopetaurista_gibberosa	extinct	12.5	15.2	now
 Trogontherium_minutum	extinct	12.5	15.2	now
@@ -10035,7 +9837,6 @@ Steneofiber_depereti	extinct	15.2	18.0	now
 Miodyromys_alter	extinct	9.0	11.2	now
 Kowalskia_fahlbuschi	extinct	9.0	11.2	now
 Prospalax_petteri	extinct	9.0	11.2	now
-Parapodemus_sp.	extinct	9.0	11.2	now
 Progonomys_cathalai	extinct	9.0	11.2	now
 Microdyromys_alter	extinct	9.0	11.2	now
 Spermophilinus_bredai	extinct	9.0	11.2	now
@@ -10069,7 +9870,6 @@ Mus_musculus	extant	0.6	1.3	now
 Niviventer_confuciacus	extinct	0.6	1.3	now
 Apodemus_peninsulae	extant	0.6	1.3	now
 Heterosminthus_orientalis	extinct	20.0	22.8	now
-Heterosminthus_sp.	extinct	20.0	22.8	now
 Heterosminthus_intermedius	extinct	20.0	22.8	now
 Heterosminthus_nanus	extinct	20.0	22.8	now
 Prodistylomys_xinjiangensis	extinct	20.0	22.8	now
@@ -10293,9 +10093,7 @@ Hystrix_cristata	extant	0.01	1.95	now
 Meriones_maghrebianus	extinct	0.01	1.95	now
 Gerbillus_grandis	extinct	0.01	1.95	now
 Paraethomys_tighennifae	extinct	0.01	1.95	now
-Paraethomys_sp.	extinct	0.8	1.8	now
 Gerbillus_grandis	extinct	0.8	1.8	now
-Gerbillus_sp.	extinct	0.8	1.8	now
 Meriones_maximus	extinct	0.8	1.8	now
 Hystrix_subcristata	extinct	0.6	1.3	now
 Hapalomys_delacouri	extant	0.6	1.3	now
@@ -10323,12 +10121,9 @@ Democricetodon_gracilis	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Cricetodon_meini	extinct	15.2	17.0	now
 Sayimys_intermedius	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Cricetodon_meini	extinct	15.2	17.0	now
 Sayimys_intermedius	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
 Mimomys_bilikeensis	extinct	3.5	4.2	now
 Yindirtemys_deflexus	extinct	23.8	26.0	now
 Tachyoryctoides_obrutschewi	extinct	23.8	26.0	now
@@ -10337,10 +10132,8 @@ Parasminthus_asiaecentralis	extinct	23.8	26.0	now
 Bohlinosminthus_parvulus	extinct	23.8	26.0	now
 Yindirtemys_ambiguus	extinct	23.8	26.0	now
 Parasminthus_tangingoli	extinct	23.8	26.0	now
-Eucricetodon_sp.	extinct	23.8	26.0	now
 Litodonomys_huangheensis	extinct	23.8	26.0	now
 Bohlinosminthus_parvulus	extinct	23.8	26.0	now
-Litodonomys_sp.	extinct	23.8	26.0	now
 Hystrix_cristata	extant	0.126	0.8	now
 Meriones_maghrebianus	extinct	0.126	0.8	now
 Meriones_maximus	extinct	0.126	0.8	now
@@ -10397,7 +10190,6 @@ Keramidomys_carpathicus	extinct	15.2	17.0	now
 Paraglirulus_conjunctus	extinct	15.2	17.0	now
 Eomuscardinus_sansaniensis	extinct	15.2	17.0	now
 Microdyromys_miocaenicus	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
 Miodyromys_aegercii	extinct	15.2	17.0	now
 Microdyromys_koenigswaldi	extinct	15.2	17.0	now
@@ -10637,7 +10429,6 @@ Mimomys_gracilis	extinct	2.6	3.4	now
 Micromys_alsomyoides	extinct	2.6	3.4	now
 Glirudinus_undosus	extinct	18.0	19.0	now
 Palaeosciurus_fissurae	extinct	18.0	19.0	now
-Pseudotheridomys_sp.	extinct	18.0	19.0	now
 Ligerimys_lophidens	extinct	18.0	19.0	now
 Microdyromys_legidensis	extinct	18.0	19.0	now
 Tribosphenomys_minutus	extinct	55.0	62.3	now
@@ -10823,7 +10614,6 @@ Megacricetodon_minor	extinct	12.5	15.2	now
 Cricetodon_aureus	extinct	12.5	15.2	now
 Eomuscardinus_sansaniensis	extinct	12.5	15.2	now
 Microdyromys_miocaenicus	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
 Democricetodon_gracilis	extinct	12.5	15.2	now
 Democricetodon_mutilus	extinct	12.5	15.2	now
 Miodyromys_aegercii	extinct	12.5	15.2	now
@@ -10858,7 +10648,6 @@ Keramidomys_carpathicus	extinct	12.5	15.2	now
 Glirulus_werenfelsi	extinct	12.5	15.2	now
 Tataromys_sigmodon	extinct	23.8	24.6	now
 Yindirtemys_ulantatalensis	extinct	23.8	24.6	now
-Thryonomys_sp.	extinct	5.3	6.54	now
 Allophaiomys_pliocaenicus	extinct	1.177	2.131	now
 Prolagurus_ternopolitanus	extinct	1.177	2.131	now
 Lagurodon_arankae	extinct	1.177	2.131	now
@@ -10956,7 +10745,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
@@ -10974,7 +10762,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -10983,7 +10770,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -11059,7 +10845,6 @@ Democricetodon_lacombai	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
@@ -11067,14 +10852,12 @@ Democricetodon_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Democricetodon_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -11086,7 +10869,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Muscardinus_thaleri	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
@@ -11200,7 +10982,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	17.0	18.0	now
 Simplomys_simplicidens	extinct	17.0	18.0	now
 Peridyromys_murinus	extinct	17.0	18.0	now
@@ -11262,7 +11043,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
@@ -11271,7 +11051,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
@@ -11378,7 +11157,6 @@ Heteroxerus_huerzeleri	extinct	15.2	17.0	now
 Palaeosciurus_fissurae	extinct	15.2	17.0	now
 Spermophilinus_bredai	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Bransatoglis_cadeoti	extinct	11.2	18.0	now
 Miodyromys_aegercii	extinct	11.2	18.0	now
 Microdyromys_koenigswaldi	extinct	11.2	18.0	now
@@ -11432,7 +11210,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -11440,7 +11217,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Myoglis_meini	extinct	11.2	12.5	now
@@ -11596,7 +11372,6 @@ Peridyromys_murinus	extinct	20.0	21.4	now
 Glirudinus_modestus	extinct	20.0	21.4	now
 Pseudotheridomys_lacombai	extinct	20.0	21.4	now
 Eucricetodon_infralactorensis	extinct	20.0	21.4	now
-Sayimys_sp.	extinct	14.8	16.4	now
 Clethrionomys_glareolus	extinct	0.01	0.155	now
 Apodemus_sylvaticus	extant	0.01	0.155	now
 Microtus_arvalis	extant	0.01	0.155	now
@@ -11702,7 +11477,6 @@ Mimomys_hassiacus	extinct	3.4	4.2	now
 Plioselevinia_gromovi	extinct	3.4	4.2	now
 Eozapus_janossyi	extinct	3.4	4.2	now
 Mimomys_stehlini	extinct	3.4	4.2	now
-Democricetodon_sp.	extinct	3.4	4.2	now
 Dolomys_milleri	extinct	3.4	4.2	now
 Chalicomys_jaegeri	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	12.5	15.2	now
@@ -11778,22 +11552,17 @@ Apodemus_zhangwagouensis	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Sinocricetus_progressus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
-Germanomys_sp.	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Mesosiphneus_praetingi	extinct	2.6	3.4	now
 Dipus_fraudator	extinct	2.6	3.4	now
 Mimomys_orientalis	extinct	2.6	3.4	now
 Apodemus_atavus	extinct	2.6	3.4	now
 Micromys_tedfordi	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
-Germanomys_sp.	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Micromys_tedfordi	extinct	2.6	3.4	now
 Apodemus_zhangwagouensis	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Sinocricetus_progressus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Mesosiphneus_praetingi	extinct	2.6	3.4	now
 Dipus_fraudator	extinct	2.6	3.4	now
 Micromys_tedfordi	extinct	2.6	3.4	now
@@ -11831,7 +11600,6 @@ Castillomys_gracilis	extinct	4.2	5.3	now
 Apocricetus_barrierei	extinct	4.2	5.3	now
 Byzantinia_eskihisarensis	extinct	11.2	12.5	now
 Myocricetodon_eskihisarensis	extinct	11.2	12.5	now
-Pliospalax_sp.	extinct	11.2	12.5	now
 Byzantinia_bayraktepensis	extinct	11.2	12.5	now
 Byzantinia_eskihisarensis	extinct	11.2	12.5	now
 Pliospalax_canakkalensis	extinct	11.2	12.5	now
@@ -11844,7 +11612,6 @@ Megacricetodon_bavaricus	extinct	15.2	20.0	now
 Kowalskia_yinanensis	extinct	2.6	3.4	now
 Mimomys_youhenicus	extinct	2.6	3.4	now
 Mimomys_orientalis	extinct	2.6	3.4	now
-Mimomys_sp.	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Hystrix_subcristata	extinct	0.0	0.78	now
 Anomalomys_aliverensis	extinct	17.0	18.0	now
@@ -11880,7 +11647,6 @@ Prosiphneus_praetingi	extinct	2.6	3.4	now
 Trogontherium_cuvieri	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Myospalax_tingi	extinct	2.6	3.4	now
-Hystrix_sp.	extinct	2.6	3.4	now
 Cromeromys_gansunicus	extinct	2.6	3.4	now
 Borsodia_chinensis	extinct	2.6	3.4	now
 Marmota_robusta	extinct	2.6	3.4	now
@@ -11899,8 +11665,6 @@ Sminthoides_fraudator	extinct	2.6	3.4	now
 Chardinomys_louisi	extinct	2.6	3.4	now
 Pliopetaurista_rugosus	extinct	2.6	3.4	now
 Rhizomys_shansius	extinct	2.6	3.4	now
-Germanomys_sp.	extinct	2.6	3.4	now
-Apodemus_sp.	extinct	2.6	3.4	now
 Prosiphneus_paratingi	extinct	2.6	3.4	now
 Apodemus_zhangwagouensis	extinct	2.6	3.4	now
 Rhizomys_shajius	extinct	3.4	5.3	now
@@ -11953,7 +11717,6 @@ Chardinomys_yusheensis	extinct	2.6	3.4	now
 Pseudomeriones_complicidens	extinct	2.6	3.4	now
 Pliosiphneus_lyrathus	extinct	2.6	3.4	now
 Chardina_truncatus	extinct	2.6	3.4	now
-Pliosiphneus_sp.	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
 Mesosiphneus_praetingi	extinct	2.6	3.4	now
@@ -11966,7 +11729,6 @@ Cromeromys_irtyshensis	extinct	2.6	3.4	now
 Sinocricetus_progressus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
 Pseudomeriones_complicidens	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Dipus_fraudator	extinct	2.6	3.4	now
 Mimomys_pusillus	extinct	0.3	1.95	now
 Cricetus_runtonensis	extinct	0.3	1.95	now
@@ -12124,7 +11886,6 @@ Mimomys_newtoni	extinct	1.95	2.6	now
 Promimomys_baschkirica	extinct	1.95	2.6	now
 Orientalomys_adirganus	extinct	1.95	2.6	now
 Meriones_meridianus	extant	1.95	2.6	now
-Mimomys_sp.	extinct	1.95	2.6	now
 Villanyia_petenyii	extinct	1.95	2.6	now
 Steneofiber_depereti	extinct	17.0	18.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
@@ -12166,7 +11927,6 @@ Ligerimys_magnus	extinct	18.0	20.0	now
 Glamys_priscus	extinct	34.0	35.0	now
 Theridomys_pseudosiderolithicus	extinct	34.0	35.0	now
 Paradelomys_spelaeus	extinct	34.0	35.0	now
-Treposciurus_sp.	extinct	34.0	35.0	now
 Gliravus_daamsi	extinct	34.0	35.0	now
 Microdyromys_misonnei	extinct	34.0	35.0	now
 Theridomys_perrealensis	extinct	34.0	35.0	now
@@ -12223,7 +11983,6 @@ Rhagapodemus_primaevus	extinct	4.2	5.3	now
 Ruscinomys_lasallei	extinct	4.2	5.3	now
 Anthracomys_ellenbergeri	extinct	4.2	5.3	now
 Apocricetus_alberti	extinct	4.2	5.3	now
-Debruijnimys_sp.	extinct	4.2	5.3	now
 Apodemus_dominans	extinct	4.2	5.3	now
 Occitanomys_adroveri	extinct	4.2	5.3	now
 Stephanomys_donnezani	extinct	4.2	5.3	now
@@ -12407,10 +12166,6 @@ Protalactaga_tunggurensis	extinct	9.5	11.2	now
 Heterosminthus_orientalis	extinct	9.5	11.2	now
 Protalactaga_grabaui	extinct	9.5	11.2	now
 Eutamias_ertemtensis	extinct	9.5	11.2	now
-Leptodontomys_sp.	extinct	9.5	11.2	now
-Leptodontomys_sp.	extinct	9.5	11.2	now
-Gobicricetodon_sp.	extinct	9.5	11.2	now
-Gobicricetodon_sp.	extinct	9.5	11.2	now
 Prosiphneus_qiui	extinct	9.5	11.2	now
 Dipoides_problematicus	extinct	8.2	9.0	now
 Trogontherium_minutum	extinct	8.2	9.0	now
@@ -12597,8 +12352,6 @@ Megacricetodon_minor	extinct	15.2	17.0	now
 Spermophilinus_bredai	extinct	15.2	17.0	now
 Keramidomys_carpathicus	extinct	15.2	17.0	now
 Megacricetodon_lappi	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Heteroxerus_huerzeleri	extinct	9.0	9.5	now
 Spermophilinus_bredai	extinct	9.0	9.5	now
 Hispanomys_peralensis	extinct	9.0	9.5	now
@@ -12638,22 +12391,18 @@ Iberomys_brecciensis	extinct	0.242	0.364	now
 Arvicola_sapidus	extant	0.242	0.364	now
 Terricola_atapuerquensis	extinct	0.364	0.787	now
 Iberomys_brecciensis	extinct	0.364	0.787	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
 Pliomys_lenki	extinct	0.129	0.364	now
 Iberomys_brecciensis	extinct	0.129	0.364	now
 Arvicola_sapidus	extant	0.129	0.364	now
-Marmota_sp.	extinct	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
 Pliomys_lenki	extinct	0.129	0.364	now
 Iberomys_brecciensis	extinct	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Eliomys_quercinus	extant	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
@@ -12662,13 +12411,11 @@ Microtus_jansoni	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Arvicola_sapidus	extant	0.129	0.364	now
 Hystrix_vinogradovi	extinct	0.129	0.364	now
-Marmota_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Eliomys_quercinus	extant	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
 Arvicola_sapidus	extant	0.129	0.364	now
 Microtus_jansoni	extinct	0.129	0.364	now
-Apodemus_sp.	extinct	0.129	0.364	now
 Allocricetus_bursae	extinct	0.129	0.364	now
 Hystrix_vinogradovi	extinct	0.129	0.364	now
 Terricola_atapuerquensis	extinct	0.129	0.364	now
@@ -12780,8 +12527,6 @@ Huerzelerimys_vireti	extinct	8.2	9.0	now
 Anthracoglis_marinoi	extinct	8.2	9.0	now
 Huerzelerimys_oreopitheci	extinct	7.1	9.0	now
 Anthracoglis_marinoi	extinct	7.1	9.0	now
-Parapodemus_sp.	extinct	7.1	9.0	now
-Parapodemus_sp.	extinct	7.1	9.0	now
 Anthracomys_majori	extinct	7.1	8.2	now
 Anthracomys_lorenzi	extinct	7.1	8.2	now
 Anthracoglis_marinoi	extinct	7.1	8.2	now
@@ -12815,7 +12560,6 @@ Cricetodon_ozansoyi	extinct	11.2	15.2	now
 Progonomys_cathalai	extinct	7.1	9.5	now
 Myocricetodon_trerki	extinct	7.1	9.5	now
 Protalactaga_major	extinct	7.1	9.5	now
-Abudhabia_sp.	extinct	7.1	9.5	now
 Lophocricetus_gansus	extinct	7.1	9.5	now
 Steneofiber_depereti	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	17.0	18.0	now
@@ -12896,7 +12640,6 @@ Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Ligerimys_magnus	extinct	18.0	20.0	now
 Pararhizomys_hipparionum	extinct	6.63	7.59	now
 Lophocricetus_gansus	extinct	6.63	7.59	now
-Dipus_sp.	extinct	6.63	7.59	now
 Hansdebruijnia_perpusilla	extinct	6.63	7.59	now
 Agathaeromys_donovani	extinct	0.01	1.95	now
 Pseudotheridomys_parvulus	extinct	20.0	22.8	now
@@ -12939,7 +12682,6 @@ Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Mimomys_polonicus	extinct	2.6	3.4	now
 Castillomys_crusafonti	extinct	2.6	3.4	now
 Mimomys_capettai	extinct	2.6	3.4	now
-Mimomys_sp.	extinct	2.6	3.4	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Heteroxerus_rubricati	extinct	18.0	20.0	now
 Pseudodryomys_ibericus	extinct	18.0	20.0	now
@@ -12966,7 +12708,6 @@ Glis_glis	extant	0.0419	0.0441	now
 Sicista_betulina	extant	0.0419	0.0441	now
 Parapelomys_charkhensis	extinct	7.1	8.2	now
 Abudhabia_baynunensis	extinct	7.1	8.2	now
-Myocricetodon_sp.	extinct	7.1	8.2	now
 Dendromus_melanotus	extinct	7.1	8.2	now
 Byzantinia_bayraktepensis	extinct	11.2	12.5	now
 Byzantinia_ozansoyi	extinct	11.2	12.5	now
@@ -13008,9 +12749,6 @@ Megacricetodon_minor	extinct	9.5	11.2	now
 Microtocricetus_molassicus	extinct	9.5	11.2	now
 Glirulus_werenfelsi	extinct	9.5	11.2	now
 Collimys_transversus	extinct	9.5	11.2	now
-Eomyops_sp.	extinct	9.5	11.2	now
-Keramidomys_sp.	extinct	9.5	11.2	now
-Democricetodon_sp.	extinct	9.5	11.2	now
 Anomalomys_minor	extinct	12.5	17.0	now
 Democricetodon_gracilis	extinct	12.5	17.0	now
 Democricetodon_vindobonensis	extinct	12.5	17.0	now
@@ -13132,12 +12870,10 @@ Apodemus_atavus	extinct	1.95	3.4	now
 Mimomys_pitymyoides	extinct	1.95	3.4	now
 Cricetulus_migratorius	extant	1.95	3.4	now
 Mesocricetus_primitivus	extinct	1.95	3.4	now
-Kalymnomys_sp.	extinct	1.95	3.4	now
 Borsodia_newtoniarankoides	extinct	1.95	3.4	now
 Apodemus_flavicollis	extant	1.95	3.4	now
 Ligerimys_lophidens	extinct	19.0	20.0	now
 Ligerimys_antiquus	extinct	19.0	20.0	now
-Eucricetodon_sp.	extinct	19.0	20.0	now
 Pentabuneomys_rhodanicus	extinct	19.0	20.0	now
 Ligerimys_oberlii	extinct	19.0	20.0	now
 Thryonomys_asakomae	extinct	5.7	5.7	now
@@ -13521,7 +13257,6 @@ Theridomys_calafensis	extinct	31.0	32.0	now
 Eucricetodon_atavus	extinct	31.0	32.0	now
 Gliravus_fordi	extinct	31.0	32.0	now
 Theridomys_calafensis	extinct	31.0	32.0	now
-Blainvillimys_sp.	extinct	31.0	32.0	now
 Theridomys_calafensis	extinct	31.0	32.0	now
 Paraethomys_meini	extinct	5.3	7.1	now
 Occitanomys_alcalai	extinct	5.3	7.1	now
@@ -13625,7 +13360,6 @@ Spermophilinus_bredai	extinct	9.5	12.5	now
 Megacricetodon_ibericus	extinct	9.5	12.5	now
 Democricetodon_crusafonti	extinct	9.5	12.5	now
 Hispanomys_daamsi	extinct	9.5	12.5	now
-Muscardinus_sp	extinct	9.5	12.5	now
 Eomyops_catalaunicus	extinct	9.5	11.2	now
 Anomalomys_gaillardi	extinct	9.5	11.2	now
 Cricetulodon_hartenbergeri	extinct	9.5	11.2	now
@@ -13937,7 +13671,6 @@ Democricetodon_freisingensis	extinct	11.2	12.5	now
 Megacricetodon_minor	extinct	11.2	12.5	now
 Spermophilinus_bredai	extinct	11.2	12.5	now
 Megacricetodon_gersii	extinct	11.2	12.5	now
-Megacricetodon_sp.	extinct	11.2	12.5	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
 Parapodemus_lugdunensis	extinct	8.2	9.0	now
@@ -13953,7 +13686,6 @@ Spermophilinus_bredai	extinct	12.5	15.2	now
 Keramidomys_carpathicus	extinct	12.5	15.2	now
 Eomyops_hebeiseni	extinct	12.5	15.2	now
 Microdyromys_miocaenicus	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
 Karydomys_wigharti	extinct	12.5	15.2	now
 Steneofiber_depereti	extinct	18.0	20.0	now
 Steneofiber_depereti	extinct	15.2	17.0	now
@@ -14118,8 +13850,6 @@ Rhodanomys_schlosseri	extinct	20.0	22.8	now
 Ritteneria_molinae	extinct	20.0	22.8	now
 Hystrix_primigenia	extinct	7.1	8.2	now
 Occitanomys_provocator	extinct	7.1	8.2	now
-Byzantinia_sp.	extinct	7.1	8.2	now
-Byzantinia_sp.	extinct	7.1	8.2	now
 Pseudomeriones_rhodius	extinct	7.1	8.2	now
 Occitanomys_neutrum	extinct	7.1	8.2	now
 Karnimata_provocator	extinct	7.1	8.2	now
@@ -14189,7 +13919,6 @@ Parapodemus_barbarae	extinct	7.1	8.2	now
 Castillomys_crusafonti	extinct	2.6	3.4	now
 Stephanomys_minor	extinct	2.6	3.4	now
 Kislangia_ischus	extinct	2.6	3.4	now
-Mimomys_sp.	extinct	2.6	3.4	now
 Mimomys_stehlini	extinct	2.6	3.4	now
 Microparamys_nanus	extinct	34.0	55.0	now
 Pseudoparamys_teilhardi	extinct	34.0	55.0	now
@@ -14211,7 +13940,6 @@ Lartetomys_mirabilis	extinct	15.2	17.0	now
 Steneofiber_depereti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Eomuscardinus_sansaniensis	extinct	15.2	17.0	now
-Pseudodryomys_sp.	extinct	15.2	17.0	now
 Byzantinia_hellenicus	extinct	7.1	9.0	now
 Byzantinia_pikermiensis	extinct	7.1	9.0	now
 Pseudomeriones_latidens	extinct	7.1	9.0	now
@@ -14347,7 +14075,6 @@ Simplomys_robustus	extinct	18.0	20.0	now
 Chalicomys_jaegeri	extinct	9.0	9.5	now
 Anomalomys_gaillardi	extinct	8.2	9.0	now
 Kowalskia_schaubi	extinct	8.2	9.0	now
-Parapodemus_sp.	extinct	8.2	9.0	now
 Spermophilinus_bredai	extinct	8.2	9.0	now
 Hystrix_parvae	extinct	8.2	9.0	now
 Trogontherium_minutum	extinct	8.2	9.0	now
@@ -14370,8 +14097,6 @@ Mimomys_occitanus	extinct	3.4	4.2	now
 Pliomys_hungaricus	extinct	3.4	4.2	now
 Microtodon_loczyi	extinct	3.4	4.2	now
 Paramys_savagei	extinct	34.0	55.0	now
-Ailuravus_sp.	extinct	34.0	55.0	now
-Ailuravus_sp.	extinct	34.0	55.0	now
 Byzantinia_nikosi	extinct	8.2	9.5	now
 Chalicomys_jaegeri	extinct	8.2	9.5	now
 Myomimus_multicristatus	extinct	8.2	9.5	now
@@ -14596,7 +14321,6 @@ Megalomys_curazensis	extinct	0.01	1.95	now
 Miodyromys_aegercii	extinct	15.2	17.0	now
 Megacricetodon_lappi	extinct	15.2	17.0	now
 Eomyops_hebeiseni	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Castor_fiber	extant	0.01	1.95	now
 Trogontherium_cuvieri	extinct	0.01	1.95	now
 Cricetulus_migratorius	extant	0.01	1.95	now
@@ -14618,22 +14342,13 @@ Keramidomys_tuioliensis	extinct	7.1	8.2	now
 Hystrix_primigenia	extinct	5.3	7.1	now
 Promimomys_stehlini	extinct	2.675	3.158	now
 Aratomys_multifidus	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Aratomys_sp.	extinct	4.033	4.667	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
 Aratomys_multifidus	extinct	2.675	3.158	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
 Aratomys_multifidus	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Aratomys_sp.	extinct	4.033	4.667	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
-Euchoreutes_sp.	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Aratomys_sp.	extinct	4.033	4.667	now
 Pseudomeriones_abbreviatus	extinct	4.033	4.667	now
 Sinocastor_zdanskyi	extinct	4.033	4.667	now
-Microtodon_sp.	extinct	4.033	4.667	now
-Euchoreutes_sp.	extinct	4.033	4.667	now
 Asiaparamya_schevyrevae	extinct	55.0	62.3	now
 Lemmus_lemmus	extant	0.01	0.115	now
 Neocometes_similis	extinct	17.0	18.0	now
@@ -14701,7 +14416,6 @@ Rhodanomys_transiens	extinct	23.8	24.0	now
 Eomyodon_mayoi	extinct	23.8	24.0	now
 Apeomys_tuerkheimae	extinct	23.8	24.0	now
 Glirudinus_eggingensis	extinct	23.8	24.0	now
-Peridyromys_sp.	extinct	23.8	24.0	now
 Pseudotheridomys_schaubi	extinct	23.8	24.0	now
 Microdyromys_monspeliensis	extinct	23.8	24.0	now
 Suevoglis_wannemacheri	extinct	23.8	24.0	now
@@ -14741,7 +14455,6 @@ Pliopetaurista_bressana	extinct	8.2	9.0	now
 Hylopetes_hungaricus	extinct	8.2	9.0	now
 Hylopetes_hoeckarum	extinct	8.2	9.0	now
 Chalicomys_jaegeri	extinct	8.2	9.0	now
-Spermophilinus_sp.	extinct	8.2	9.0	now
 Keramidomys_ermannorum	extinct	8.2	9.0	now
 Keramidomys_mohleri	extinct	8.2	9.5	now
 Collimys_primus	extinct	8.2	9.5	now
@@ -14837,7 +14550,6 @@ Megacricetodon_bavaricus	extinct	15.2	18.0	now
 Miopetaurista_dehmi	extinct	15.2	18.0	now
 Palaeosciurus_sutteri	extinct	15.2	18.0	now
 Spermophilinus_bredai	extinct	15.2	18.0	now
-Miodyromys_sp.	extinct	15.2	18.0	now
 Democricetodon_gracilis	extinct	15.2	18.0	now
 Megacricetodon_bavaricus	extinct	15.2	18.0	now
 Keramidomys_thaleri	extinct	15.2	18.0	now
@@ -14909,8 +14621,6 @@ Sinocastor_anderssoni	extinct	5.3	7.1	now
 Prosiphneus_eriksoni	extinct	5.3	7.1	now
 Micromys_chalceus	extinct	5.3	7.1	now
 Pseudoaplodon_asiaticus	extinct	5.3	7.1	now
-Sciurus_sp.	extinct	5.3	7.1	now
-Sicista_sp.	extinct	5.3	7.1	now
 Eozapus_similis	extinct	5.3	7.1	now
 Brachyscirtetes_wimani	extinct	5.3	7.1	now
 Dipus_fraudator	extinct	5.3	7.1	now
@@ -14970,8 +14680,6 @@ Pseudotheridomys_fejfari	extinct	18.0	20.0	now
 Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Palaeosciurus_fissurae	extinct	18.0	20.0	now
 Heteroxerus_paulhiacensis	extinct	18.0	20.0	now
-Peridyromys_sp.	extinct	18.0	20.0	now
-Bransatoglis_sp.	extinct	18.0	20.0	now
 Pseudotheridomys_parvulus	extinct	18.0	20.0	now
 Ligerimys_lophidens	extinct	18.0	20.0	now
 Peridyromys_murinus	extinct	19.0	20.0	now
@@ -15011,14 +14719,12 @@ Spanocricetodon_ningensis	extinct	17.0	18.0	now
 Phiomys_andrewsi	extinct	24.6	34.0	now
 Metaphiomys_beadnelli	extinct	24.6	34.0	now
 Phiomys_lavocati	extinct	34.0	40.0	now
-Gaudeamus_sp.	extinct	34.0	40.0	now
 Phiomys_lavocati	extinct	34.0	40.0	now
 Phiomys_andrewsi	extinct	34.0	40.0	now
 Gaudeamus_aegyptius	extinct	34.0	40.0	now
 Metaphiomys_beadnelli	extinct	24.6	34.0	now
 Phiomys_paraphiomyoides	extinct	24.6	34.0	now
 Metaphiomys_beadnelli	extinct	24.6	34.0	now
-Phiomys_sp.	extinct	24.6	34.0	now
 Paraphiomys_simonsi	extinct	24.6	34.0	now
 Phiocricetomys_minutus	extinct	24.6	34.0	now
 Progonomys_cathalai	extinct	9.0	9.5	now
@@ -15108,8 +14814,6 @@ Blackia_miocaenica	extinct	11.2	12.5	now
 Spermophilinus_bredai	extinct	11.2	12.5	now
 Keramidomys_pertesunatoi	extinct	11.2	12.5	now
 Trogontherium_minutum	extinct	11.2	12.5	now
-Collimys_sp.	extinct	11.2	12.5	now
-Cricetodon_sp.	extinct	11.2	12.5	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Otomys_irroratus	extant	0.01	1.95	now
 Xerus_capensis	extinct	0.01	1.95	now
@@ -15123,9 +14827,6 @@ Trilophomys_castroi	extinct	1.675	1.95	now
 Stephanomys_vandeweerdi	extinct	1.675	1.95	now
 Remys_garimondi	extinct	34.0	55.0	now
 Adelomys_fontensis	extinct	34.0	55.0	now
-Adelomys_sp.	extinct	34.0	55.0	now
-Adelomys_sp.	extinct	34.0	55.0	now
-Adelomys_sp.	extinct	34.0	55.0	now
 Tyrrhenicola_henseli	extinct	0.01	1.95	now
 Tyrrhenicola_sondaari	extinct	0.01	1.95	now
 Agathaeromys_donovani	extinct	0.01	1.95	now
@@ -15210,18 +14911,15 @@ Trogontherium_minutum	extinct	9.0	9.5	now
 Rotundomys_freiriensis	extinct	9.0	9.5	now
 Miodyromys_aegercii	extinct	15.2	17.0	now
 Megacricetodon_lappi	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Frontanyamys_russelli	extinct	43.6	52.0	now
 Pseudoltinomys_cuvieri	extinct	33.0	34.0	now
 Bransatoglis_parvus	extinct	33.0	34.0	now
 Gliravus_fordi	extinct	33.0	34.0	now
 Glamys_olallensis	extinct	33.0	34.0	now
-Theridomys_sp.	extinct	33.0	34.0	now
 Pseudoltinomys_cuvieri	extinct	33.0	34.0	now
 Bransatoglis_parvus	extinct	33.0	34.0	now
 Gliravus_fordi	extinct	33.0	34.0	now
 Glamys_olallensis	extinct	33.0	34.0	now
-Theridomys_sp.	extinct	33.0	34.0	now
 Palaeosciurus_fissurae	extinct	20.0	22.8	now
 Simplomys_simplicidens	extinct	20.0	22.8	now
 Peridyromys_murinus	extinct	20.0	22.8	now
@@ -15257,7 +14955,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -15266,7 +14963,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -15281,7 +14977,6 @@ Glamys_priscus	extinct	33.0	35.0	now
 Pseudoltinomys_cuvieri	extinct	33.0	35.0	now
 Gliravus_daamsi	extinct	33.0	35.0	now
 Gliravus_fordi	extinct	33.0	35.0	now
-Theridomys_sp.	extinct	33.0	35.0	now
 Pararhizomys_hipparionum	extinct	9.0	9.5	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
@@ -15354,19 +15049,12 @@ Hattomys_nazarii	extinct	4.2	7.1	now
 Mikrotia_magna	extinct	4.2	7.1	now
 Mikrotia_maiuscula	extinct	4.2	7.1	now
 Mikrotia_parva	extinct	4.2	7.1	now
-Ansomys_sp.	extinct	15.2	18.0	now
-Ansomys_sp.	extinct	15.2	18.0	now
-Ansomys_sp.	extinct	15.2	18.0	now
 Parasminthus_parvulus	extinct	15.2	18.0	now
-Democricetodon_sp.	extinct	15.2	18.0	now
-Democricetodon_sp.	extinct	15.2	18.0	now
 Parasminthus_tangingoli	extinct	15.2	18.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
 Armantomys_jasperi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
-Sayimys_sp.	extinct	16.4	20.5	now
-Sayimys_sp.	extinct	14.8	16.4	now
 Byzantinia_pikermiensis	extinct	7.1	8.2	now
 Myomimus_dehmi	extinct	7.1	8.2	now
 Hystrix_primigenia	extinct	7.1	8.2	now
@@ -15551,7 +15239,6 @@ Mimomys_minor	extinct	1.81	2.59	now
 Stephanomys_thaleri	extinct	1.81	2.59	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Ligerimys_antiquus	extinct	18.0	20.0	now
-Eucricetodon_sp.	extinct	18.0	20.0	now
 Ligerimys_oberlii	extinct	18.0	20.0	now
 Keramidomys_mohleri	extinct	11.2	12.5	now
 Keramidomys_anwilensis	extinct	11.2	12.5	now
@@ -15593,7 +15280,6 @@ Pararhizomys_hipparionum	extinct	9.0	9.5	now
 Hystrix_gausuensis	extinct	5.3	9.0	now
 Hystrix_subcristata	extinct	0.6	1.3	now
 Rhizomys_sinensis	extant	0.6	1.3	now
-Theridomys_sp.	extinct	31.0	32.0	now
 Eucricetodon_atavus	extinct	31.0	32.0	now
 Chalicomys_jaegeri	extinct	15.2	17.0	now
 Mimomys_polonicus	extinct	2.6	3.4	now
@@ -15822,7 +15508,6 @@ Prokanisamys_arifi	extinct	13.5	16.3	now
 Prokanisamys_major	extinct	13.5	16.3	now
 Myocricetodon_sivalensis	extinct	13.5	16.3	now
 Antemus_mancharensis	extinct	13.5	16.3	now
-Sayimys_sp.	extinct	13.5	16.3	now
 Sayimys_intermedius	extinct	18.4	18.4	now
 Prokanisamys_benjavuni	extinct	18.4	18.4	now
 Democricetodon_kohatensis	extinct	18.4	18.4	now
@@ -15880,7 +15565,6 @@ Potwarmus_primitivus	extinct	13.5	16.3	now
 Prokanisamys_major	extinct	13.5	16.3	now
 Myocricetodon_sivalensis	extinct	13.5	16.3	now
 Antemus_mancharensis	extinct	13.5	16.3	now
-Sayimys_sp.	extinct	13.5	16.3	now
 Prokanisamys_benjavuni	extinct	13.5	16.3	now
 Democricetodon_kohatensis	extinct	13.5	16.3	now
 Sayimys_sivalensis	extinct	13.5	16.3	now
@@ -15943,8 +15627,6 @@ Eucricetodon_atavus	extinct	32.0	33.0	now
 Suevosciurus_palustris	extinct	32.0	33.0	now
 Tenuiglis_exiguus	extinct	32.0	33.0	now
 Glamys_devoogdi	extinct	32.0	33.0	now
-Eucricetodon_sp.	extinct	32.0	33.0	now
-Eucricetodon_sp.	extinct	32.0	33.0	now
 Steneofiber_butselensis	extinct	32.0	33.0	now
 Kubwaxerus_pattersoni	extinct	2.6	7.1	now
 Cricetodon_tobieni	extinct	17.0	18.0	now
@@ -15973,7 +15655,6 @@ Miodyromys_aegercii	extinct	15.2	17.0	now
 Microdyromys_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_bavaricus	extinct	15.2	17.0	now
 Keramidomys_carpathicus	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Dipoides_majori	extinct	5.3	7.1	now
 Karakoromys_decessus	extinct	24.6	34.0	now
 Yindirtemys_shevyrevae	extinct	24.6	34.0	now
@@ -16031,8 +15712,6 @@ Myoglis_larteti	extinct	12.5	15.2	now
 Democricetodon_brevis	extinct	12.5	15.2	now
 Miodyromys_aegercii	extinct	12.5	15.2	now
 Microdyromys_miocaenicus	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
 Megacricetodon_sinensis	extinct	12.5	15.2	now
 Protalactaga_tunggurensis	extinct	12.5	15.2	now
 Apodemus_dominans	extinct	4.2	5.3	now
@@ -16090,7 +15769,6 @@ Germanomys_weileri	extinct	3.4	4.2	now
 Mimomys_occitanus	extinct	3.4	4.2	now
 Allocricetus_bursae	extinct	3.4	4.2	now
 Trilophomys_depereti	extinct	3.4	4.2	now
-Glis_sp.	extinct	3.4	4.2	now
 Leukaristomys_vagui	extinct	3.4	4.2	now
 Germanomys_helleri	extinct	3.4	4.2	now
 Germanomys_parvidens	extinct	3.4	4.2	now
@@ -16114,7 +15792,6 @@ Progonomys_hussaini	extinct	9.5	11.2	now
 Dakkamys_asiaticus	extinct	9.5	11.2	now
 Pannonicola_brevidens	extinct	7.1	8.2	now
 Hystrix_cristata	extant	0.0293	0.0395	now
-Myocricetodon_sp.	extinct	5.3	8.2	now
 Parapelomys_charkhensis	extinct	5.3	8.2	now
 Myocricetodon_parvus	extinct	11.2	14.8	now
 Africanomys_pulcher	extinct	11.2	14.8	now
@@ -16179,7 +15856,6 @@ Megacricetodon_pusillus	extinct	11.2	12.5	now
 Democricetodon_lindsayi	extinct	11.2	12.5	now
 Democricetodon_tongi	extinct	11.2	12.5	now
 Paracricetulus_schaubi	extinct	11.2	12.5	now
-Cricetodon_sp.	extinct	11.2	12.5	now
 Pseudotheridomys_parvulus	extinct	20.0	22.8	now
 Peridyromys_murinus	extinct	20.0	22.8	now
 Eucricetodon_haslachensis	extinct	20.0	22.8	now
@@ -16373,20 +16049,17 @@ Occitanomys_adroveri	extinct	5.4	7.1	now
 Pseudomeriones_abbreviatus	extinct	5.4	7.1	now
 Microtoscoptes_mongolicus	extinct	5.4	7.1	now
 Microtoscoptes_tjuvanensis	extinct	5.4	7.1	now
-Scirtodipus_sp.	extinct	5.4	7.1	now
 Lophocricetus_vinogradovi	extinct	5.4	7.1	now
 Scirtodipus_kazakhstanica	extinct	5.4	7.1	now
 Lophocricetus_grabaui	extinct	5.4	7.1	now
 Pseudomeriones_abbreviatus	extinct	4.6	5.4	now
 Microtodon_atavus	extinct	4.6	5.4	now
-Scirtodipus_sp.	extinct	4.6	5.4	now
 Lophocricetus_grabaui	extinct	4.6	5.4	now
 Sinocastor_zdanskyi	extinct	4.6	5.4	now
 Mimomys_pliocaenicus	extinct	2.917	3.158	now
 Ellobius_primigenius	extinct	2.917	3.158	now
 Allocricetus_eversmani	extinct	2.917	3.158	now
 Mimomys_antis	extinct	2.917	3.158	now
-Mimomys_sp.	extinct	2.917	3.158	now
 Phodopus_minutus	extinct	2.917	3.158	now
 Pygerethmus_pygmaeus	extinct	2.917	3.158	now
 Microdyromys_koenigswaldi	extinct	18.0	20.0	now
@@ -16479,7 +16152,6 @@ Allophaiomys_deucalion	extinct	2.192	2.917	now
 Mimomys_haplodentatus	extinct	2.192	2.917	now
 Allactaga_anderssoni	extinct	2.192	2.917	now
 Villanyia_petenyii	extinct	2.192	2.917	now
-Clethrionomys_sp.	extinct	2.192	2.917	now
 Sicista_bagajevi	extinct	2.192	2.917	now
 Allocricetus_eversmani	extinct	1.95	2.433	now
 Ellobius_tscharynensis	extinct	1.95	2.433	now
@@ -16487,7 +16159,6 @@ Clethrionomys_mirus	extinct	1.95	2.433	now
 Prolagurus_praepannonicus	extinct	1.95	2.433	now
 Allophaiomys_deucalion	extinct	1.95	2.433	now
 Allophaiomys_pliocaenicus	extinct	1.95	2.433	now
-Clethrionomys_sp.	extinct	1.95	2.433	now
 Eolagurus_argyropuloi	extinct	1.95	2.433	now
 Apodemus_sylvaticus	extant	1.95	2.433	now
 Xerus_daamsi	extinct	4.2	5.3	now
@@ -16613,11 +16284,9 @@ Plesiodyromys_toriformis	extinct	20.0	22.8	now
 Microdyromys_hildebrandti	extinct	20.0	22.8	now
 Blackia_ulmensis	extinct	20.0	22.8	now
 Ritteneria_manca	extinct	20.0	22.8	now
-Peridyromys_sp.	extinct	20.0	22.8	now
 Paraglis_ingens	extinct	20.0	22.8	now
 Melissiodon_dominans	extinct	20.0	22.8	now
 Pseudotheridomys_lacombai	extinct	20.0	22.8	now
-Peridyromys_sp.	extinct	20.0	22.8	now
 Peridyromys_murinus	extinct	20.0	22.8	now
 Eucricetodon_aquitanicus	extinct	20.0	22.8	now
 Ritteneria_manca	extinct	20.0	22.8	now
@@ -16631,14 +16300,12 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Atlantoxerus_blacki	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -16648,7 +16315,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -16958,7 +16624,6 @@ Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
 Armantomys_jasperi	extinct	15.2	17.0	now
 Democricetodon_decipiens	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Progonomys_hispanicus	extinct	9.0	9.5	now
 Huerzelerimys_minor	extinct	9.0	9.5	now
 Progonomys_cathalai	extinct	9.0	9.5	now
@@ -17069,7 +16734,6 @@ Saccostomus_major	extinct	3.5	3.8	now
 Thallomys_laetolilensis	extinct	1.81	2.59	now
 Mastomys_cinereus	extinct	1.81	2.59	now
 Apodemus_sylvaticus	extant	1.29	1.62	now
-Apodemus_sp.	extinct	1.29	1.62	now
 Myomimus_roachi	extant	1.29	1.62	now
 Mimomys_ostramosensis	extinct	1.29	1.62	now
 Democricetodon_gracilis	extinct	12.5	15.2	now
@@ -17141,7 +16805,6 @@ Abudhabia_baheensis	extinct	9.5	11.2	now
 Lophocricetus_xianensis	extinct	9.5	11.2	now
 Sciurotamias_pusillus	extinct	9.5	11.2	now
 Nannocricetus_primitivus	extinct	9.5	11.2	now
-Prospalax_sp.	extinct	9.0	9.5	now
 Progonomys_sinensis	extinct	9.0	9.5	now
 Abudhabia_baheensis	extinct	9.0	9.5	now
 Eutamias_lishanensis	extinct	9.0	9.5	now
@@ -17209,7 +16872,6 @@ Democricetodon_lacombai	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Pseudodryomys_rex	extinct	15.2	17.0	now
@@ -17219,7 +16881,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Paraglirulus_werenfelsi	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Democricetodon_larteti	extinct	15.2	17.0	now
@@ -17269,7 +16930,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Microdyromys_complicatus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
@@ -17287,7 +16947,6 @@ Democricetodon_larteti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
@@ -17295,7 +16954,6 @@ Democricetodon_larteti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Microdyromys_complicatus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
@@ -17305,7 +16963,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Tempestia_ovilis	extinct	15.2	17.0	now
@@ -17313,7 +16970,6 @@ Democricetodon_larteti	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Democricetodon_larteti	extinct	15.2	17.0	now
@@ -17327,7 +16983,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Democricetodon_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
@@ -17342,7 +16997,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Cricetodon_soriae	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Cricetodon_sansaniensis	extinct	12.5	15.2	now
 Democricetodon_larteti	extinct	12.5	15.2	now
 Cricetodon_sansaniensis	extinct	12.5	15.2	now
@@ -17376,7 +17030,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Armantomys_tricristatus	extinct	15.2	17.0	now
 Pseudodryomys_rex	extinct	15.2	17.0	now
@@ -17385,7 +17038,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Microdyromys_complicatus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_rex	extinct	15.2	17.0	now
@@ -17394,7 +17046,6 @@ Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Anchitheriomys_suevicus	extinct	15.2	17.0	now
 Steneofiber_depereti	extinct	15.2	17.0	now
@@ -17449,14 +17100,11 @@ Anomalomys_gaudryi	extinct	11.2	12.5	now
 Miodyromys_aegercii	extinct	11.2	12.5	now
 Megacricetodon_minor	extinct	11.2	12.5	now
 Euroxenomys_minutus	extinct	11.2	12.5	now
-Democricetodon_sp.	extinct	11.2	12.5	now
-Democricetodon_sp.	extinct	11.2	12.5	now
 Anomalomys_gaudryi	extinct	11.2	12.5	now
 Miodyromys_aegercii	extinct	11.2	12.5	now
 Megacricetodon_minor	extinct	11.2	12.5	now
 Collimys_transversus	extinct	11.2	12.5	now
 Euroxenomys_minutus	extinct	11.2	12.5	now
-Democricetodon_sp.	extinct	11.2	12.5	now
 Democricetodon_freisingensis	extinct	11.2	12.5	now
 Miodyromys_aegercii	extinct	11.2	12.5	now
 Myoglis_meini	extinct	11.2	12.5	now
@@ -17608,14 +17256,10 @@ Pseudomeriones_abbreviatus	extinct	5.3	7.1	now
 Huaxiamys_primitivus	extinct	5.3	7.1	now
 Micromys_tedfordi	extinct	5.3	7.1	now
 Nannocricetus_mongolicus	extinct	5.3	7.1	now
-Huaxiamys_sp.	extinct	5.3	7.1	now
-Occitanomys_sp.	extinct	5.3	7.1	now
 Pseudomeriones_abbreviatus	extinct	3.4	5.3	now
 Huaxiamys_primitivus	extinct	3.4	5.3	now
 Micromys_tedfordi	extinct	3.4	5.3	now
 Nannocricetus_mongolicus	extinct	3.4	5.3	now
-Huaxiamys_sp.	extinct	3.4	5.3	now
-Occitanomys_sp.	extinct	3.4	5.3	now
 Karnimata_hipparionum	extinct	3.4	5.3	now
 Allocricetus_bursae	extinct	2.6	3.4	now
 Chardinomys_louisi	extinct	2.6	3.4	now
@@ -17623,8 +17267,6 @@ Pseudomeriones_abbreviatus	extinct	5.8	7.0	now
 Huaxiamys_primitivus	extinct	5.8	7.0	now
 Micromys_tedfordi	extinct	5.8	7.0	now
 Nannocricetus_mongolicus	extinct	5.8	7.0	now
-Huaxiamys_sp.	extinct	5.8	7.0	now
-Occitanomys_sp.	extinct	5.8	7.0	now
 Karnimata_hipparionum	extinct	5.8	7.0	now
 Micromys_chalceus	extinct	5.8	7.0	now
 Kowalskia_neimengensis	extinct	5.3	7.1	now
@@ -17640,17 +17282,13 @@ Kowalskia_neimengensis	extinct	4.2	5.3	now
 Allorattus_engesseri	extinct	4.2	5.3	now
 Chardinomys_yusheensis	extinct	4.2	5.3	now
 Sinocricetus_zdanskyi	extinct	4.2	5.3	now
-Huaxiamys_sp.	extinct	4.2	5.3	now
-Chardinomys_sp.	extinct	4.2	5.3	now
 Pliosiphneus_lyrathus	extinct	4.2	5.3	now
 Chardina_sinensis	extinct	4.2	5.3	now
 Pseudomeriones_abbreviatus	extinct	5.3	7.1	now
 Micromys_tedfordi	extinct	5.3	7.1	now
 Allorattus_engesseri	extinct	5.3	7.1	now
 Nannocricetus_mongolicus	extinct	5.3	7.1	now
-Huaxiamys_sp.	extinct	5.3	7.1	now
 Occitanomys_pusillus	extinct	5.3	7.1	now
-Occitanomys_sp.	extinct	5.3	7.1	now
 Prosiphneus_murinus	extinct	5.3	7.1	now
 Karnimata_hipparionum	extinct	5.3	7.1	now
 Apodemus_orientalis	extinct	5.3	7.1	now
@@ -17664,7 +17302,6 @@ Chardinomys_yusheensis	extinct	3.4	5.3	now
 Nannocricetus_mongolicus	extinct	3.4	5.3	now
 Sinocricetus_zdanskyi	extinct	3.4	5.3	now
 Pliosiphneus_lyrathus	extinct	3.4	5.3	now
-Apodemus_sp.	extinct	3.4	5.3	now
 Prosiphneus_murinus	extinct	3.4	5.3	now
 Pseudomeriones_abbreviatus	extinct	3.4	5.3	now
 Allocricetus_bursae	extinct	3.4	5.3	now
@@ -17679,14 +17316,12 @@ Paralactaga_anderssoni	extinct	3.4	5.3	now
 Pliosiphneus_lyrathus	extinct	3.4	5.3	now
 Chardina_truncatus	extinct	3.4	5.3	now
 Cricetinus_mesolophidus	extinct	3.4	5.3	now
-Apodemus_sp.	extinct	3.4	5.3	now
 Karnimata_hipparionum	extinct	3.4	5.3	now
 Pseudomeriones_abbreviatus	extinct	2.6	3.4	now
 Allocricetus_bursae	extinct	2.6	3.4	now
 Huaxiamys_downsi	extinct	2.6	3.4	now
 Chardinomys_yusheensis	extinct	2.6	3.4	now
 Pseudomeriones_complicidens	extinct	2.6	3.4	now
-Apodemus_sp.	extinct	2.6	3.4	now
 Cromeromys_gansunicus	extinct	2.6	3.4	now
 Myospalax_fontanieri	extinct	1.2	1.8	now
 Suevosciurus_frassi	extinct	32.0	33.0	now
@@ -17738,13 +17373,11 @@ Megacricetodon_minor	extinct	12.5	17.0	now
 Miopetaurista_dehmi	extinct	12.5	17.0	now
 Cricetodon_meini	extinct	12.5	17.0	now
 Spermophilinus_besanus	extinct	12.5	17.0	now
-Miodyromys_sp.	extinct	12.5	17.0	now
 Democricetodon_mutilus	extinct	12.5	17.0	now
 Megacricetodon_minor	extinct	12.5	17.0	now
 Palaeosciurus_sutteri	extinct	12.5	17.0	now
 Cricetodon_meini	extinct	12.5	17.0	now
 Spermophilinus_besanus	extinct	12.5	17.0	now
-Miodyromys_sp.	extinct	12.5	17.0	now
 Hystrix_subcristata	extinct	1.2	1.8	now
 Hystrix_magna	extinct	1.2	1.8	now
 Mus_musculus	extant	0.0	0.7	now
@@ -17813,14 +17446,12 @@ Keramidomys_carpathicus	extinct	11.2	17.0	now
 Heteroxerus_rubricati	extinct	11.2	17.0	now
 Democricetodon_affinis	extinct	11.2	17.0	now
 Megacricetodon_fournasi	extinct	11.2	17.0	now
-Heteroxerus_sp.	extinct	11.2	17.0	now
 Democricetodon_gracilis	extinct	11.2	15.2	now
 Miodyromys_aegercii	extinct	11.2	15.2	now
 Microdyromys_koenigswaldi	extinct	11.2	15.2	now
 Microdyromys_legidensis	extinct	11.2	15.2	now
 Democricetodon_affinis	extinct	11.2	15.2	now
 Megacricetodon_roussillonensis	extinct	11.2	15.2	now
-Megacricetodon_sp.	extinct	11.2	15.2	now
 Muscardinus_pliocaenicus	extinct	1.81	2.59	now
 Apodemus_dominans	extinct	1.81	2.59	now
 Castillomys_crusafonti	extinct	1.81	2.59	now
@@ -17859,7 +17490,6 @@ Simplomys_simplicidens	extinct	12.5	18.0	now
 Ligerimys_florancei	extinct	12.5	18.0	now
 Heteroxerus_rubricati	extinct	12.5	18.0	now
 Megacricetodon_gersii	extinct	12.5	18.0	now
-Heteroxerus_sp.	extinct	12.5	18.0	now
 Eomyops_catalaunicus	extinct	8.2	9.0	now
 Muscardinus_austriacus	extinct	8.2	9.0	now
 Kowalskia_skofleki	extinct	8.2	9.0	now
@@ -18107,7 +17737,6 @@ Atlantoxerus_adroveri	extinct	9.5	11.2	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
 Megacricetodon_minor	extinct	9.5	11.2	now
-Hystrix_sp.	extinct	6.54	7.44	now
 Kubwaxerus_pattersoni	extinct	6.54	7.44	now
 Karnimata_jacobsi	extinct	6.54	7.44	now
 Paraulacodus_johanesi	extinct	6.54	7.44	now
@@ -18262,7 +17891,6 @@ Allocricetus_ehiki	extinct	4.2	7.1	now
 Miopetaurista_thaleri	extinct	4.2	7.1	now
 Hypsocricetus_strimonis	extinct	4.2	7.1	now
 Tamias_atsali	extinct	4.2	7.1	now
-Kowalskia_sp.	extinct	4.2	7.1	now
 Micromys_cingulatus	extinct	4.2	7.1	now
 Occitanomys_neutrum	extinct	4.2	7.1	now
 Keramidomys_carpathicus	extinct	4.2	7.1	now
@@ -18308,7 +17936,6 @@ Calomyscus_minor	extinct	3.4	4.2	now
 Spalax_sotirisi	extinct	3.4	4.2	now
 Atlantoxerus_rhodius	extinct	3.4	4.2	now
 Spermophilinus_giganteus	extinct	3.4	4.2	now
-Cricetulus_sp.	extinct	3.4	4.2	now
 Rhagapodemus_vandeweerdi	extinct	3.4	4.2	now
 Occitanomys_debruijni	extinct	3.4	4.2	now
 Keramidomys_carpathicus	extinct	3.4	4.2	now
@@ -18323,7 +17950,6 @@ Pseudodryomys_ibericus	extinct	18.0	20.0	now
 Miodyromys_biradiculus	extinct	18.0	20.0	now
 Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Glirudinus_undosus	extinct	18.0	20.0	now
-Pseudotheridomys_sp.	extinct	18.0	20.0	now
 Ligerimys_lophidens	extinct	18.0	20.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
@@ -18370,7 +17996,6 @@ Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Parapodemus_barbarae	extinct	7.1	8.2	now
 Atlantoxerus_adroveri	extinct	7.1	8.2	now
 Hispanomys_freudenthali	extinct	7.1	8.2	now
-Spermophilinus_sp.	extinct	7.1	8.2	now
 Occitanomys_adroveri	extinct	7.1	8.2	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Ruscinomys_schaubi	extinct	7.1	8.2	now
@@ -18416,14 +18041,12 @@ Occitanomys_adroveri	extinct	7.1	8.2	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Parapodemus_barbarae	extinct	7.1	8.2	now
 Hispanomys_freudenthali	extinct	7.1	8.2	now
-Spermophilinus_sp.	extinct	7.1	8.2	now
 Eliomys_truci	extinct	7.1	8.2	now
 Kowalskia_occidentalis	extinct	7.1	8.2	now
 Occitanomys_adroveri	extinct	7.1	8.2	now
 Huerzelerimys_turoliensis	extinct	7.1	8.2	now
 Parapodemus_barbarae	extinct	7.1	8.2	now
 Hispanomys_freudenthali	extinct	7.1	8.2	now
-Spermophilinus_sp.	extinct	7.1	8.2	now
 Mastomys_natalensis	extant	0.5	0.78	now
 Arvicanthis_niloticus	extant	0.5	0.78	now
 Progonomys_cathalai	extinct	9.0	9.5	now
@@ -18657,12 +18280,10 @@ Mimomys_hanzhongenicus	extinct	2.6	5.3	now
 Byzantinia_dardanellensis	extinct	9.0	11.2	now
 Cricetulodon_hartenbergeri	extinct	9.0	11.2	now
 Myomimus_dehmi	extinct	9.0	11.2	now
-Myocricetodon_sp.	extinct	9.0	11.2	now
 Progonomys_cathalai	extinct	9.0	11.2	now
 Progonomys_cathalai	extinct	9.0	9.5	now
 Ischymomys_quadriradicatus	extinct	9.0	9.5	now
 Dolomys_milleri	extinct	1.95	3.4	now
-Mimomys_sp.	extinct	1.95	3.4	now
 Pseudocricetodon_incertus	extinct	26.0	27.0	now
 Pseudocricetodon_incertus	extinct	26.0	27.0	now
 Microdyromys_praemurinus	extinct	26.0	27.0	now
@@ -18911,7 +18532,6 @@ Microtus_oeconomus	extant	0.364	0.427	now
 Arvicola_cantiana	extinct	0.364	0.427	now
 Hystrix_primigenia	extinct	5.3	9.0	now
 Pliospalax_compositodontus	extinct	5.3	9.0	now
-Apodemus_sp.	extinct	5.3	9.0	now
 Pseudomeriones_latidens	extinct	5.3	9.0	now
 Pseudocricetus_kormosi	extinct	5.3	9.0	now
 Hansdebruijnia_neutrum	extinct	5.3	9.0	now
@@ -18995,8 +18615,6 @@ Atlantoxerus_blacki	extinct	12.5	18.0	now
 Armantomys_aragonensis	extinct	12.5	18.0	now
 Democricetodon_koenigswaldi	extinct	12.5	18.0	now
 Microdyromys_monspeliensis	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
 Simplomys_simplicidens	extinct	12.5	18.0	now
 Glirudinus_modestus	extinct	12.5	18.0	now
 Heteroxerus_rubricati	extinct	12.5	18.0	now
@@ -19005,8 +18623,6 @@ Democricetodon_koenigswaldi	extinct	12.5	18.0	now
 Democricetodon_corcolesi	extinct	12.5	18.0	now
 Democricetodon_jordensi	extinct	12.5	18.0	now
 Microdyromys_monspeliensis	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
-Megacricetodon_sp.	extinct	12.5	18.0	now
 Glirudinus_undosus	extinct	18.0	20.0	now
 Microdyromys_koenigswaldi	extinct	18.0	20.0	now
 Simplomys_simplicidens	extinct	18.0	20.0	now
@@ -19042,7 +18658,6 @@ Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_murinus	extinct	19.0	20.0	now
 Ligerimys_antiquus	extinct	19.0	20.0	now
-Eucricetodon_sp.	extinct	19.0	20.0	now
 Pentabuneomys_rhodanicus	extinct	19.0	20.0	now
 Ligerimys_oberlii	extinct	19.0	20.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
@@ -19099,7 +18714,6 @@ Allocricetus_bursae	extinct	3.4	4.2	now
 Allocricetus_ehiki	extinct	3.4	4.2	now
 Dolomys_odessanus	extinct	3.4	4.2	now
 Pliomys_hungaricus	extinct	3.4	4.2	now
-Pliopetaurista_sp.	extinct	3.4	4.2	now
 Pliospalax_compositodontus	extinct	3.4	4.2	now
 Myomimus_complicidentatus	extinct	3.4	4.2	now
 Sylvaemus_dominans	extinct	3.4	4.2	now
@@ -19204,18 +18818,14 @@ Microdyromys_miocaenicus	extinct	9.5	11.2	now
 Collimys_longidens	extinct	9.5	11.2	now
 Megacricetodon_robustus	extinct	9.5	11.2	now
 Schizocricetodon_huerzeleri	extinct	9.5	11.2	now
-Democricetodon_sp.	extinct	9.5	11.2	now
 Clethrionomys_glareolus	extinct	0.364	0.427	now
 Apodemus_sylvaticus	extant	0.364	0.427	now
 Arvicola_cantiana	extinct	0.364	0.427	now
 Megapedetes_pentadactylus	extinct	17.0	20.0	now
 Pseudomys_higginsi	extant	0.78	1.77	now
-Pseudomys_sp.	extinct	0.78	1.77	now
 Mastacomys_fuscus	extant	0.78	1.77	now
 Steneofiber_depereti	extinct	18.0	20.0	now
-Paraulacodus_sp.	extinct	11.2	14.8	now
 Dakkamys_zaiani	extinct	11.2	14.8	now
-Paraulacodus_sp.	extinct	11.2	14.8	now
 Ratufa_affinis	extant	0.01	1.95	now
 Rheithrosciurus_macrotis	extant	0.01	1.95	now
 Sundasciurus_lowii	extant	0.01	1.95	now
@@ -19297,7 +18907,6 @@ Megacricetodon_minor	extinct	11.2	12.5	now
 Myomimus_dehmi	extinct	10.94	10.989	now
 Democricetodon_crusafonti	extinct	10.94	10.989	now
 Megacricetodon_minor	extinct	10.94	10.989	now
-Hispanomys_ssp.	extinct	10.94	10.989	now
 Glis_minor	extinct	3.92	3.97	now
 Apodemus_dominans	extinct	3.92	3.97	now
 Myomimus_maritsensis	extinct	3.92	3.97	now
@@ -19491,7 +19100,6 @@ Paralophocricetus_progressus	extinct	4.35	5.3	now
 Lophocricetus_orientalis	extinct	4.35	5.3	now
 Microtoscoptes_praetermissus	extinct	4.35	5.3	now
 Prosiphneus_ericksoni	extinct	4.35	5.3	now
-Trogontherium_sp.	extinct	16.4	20.5	now
 Simplomys_simplicidens	extinct	17.0	18.0	now
 Peridyromys_murinus	extinct	17.0	18.0	now
 Heteroxerus_rubricati	extinct	17.0	18.0	now
@@ -19577,7 +19185,6 @@ Eumyarion_valencianum	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Heterosminthus_mongoliensis	extinct	14.0	17.0	now
 Plesiosminthus_myarion	extinct	22.8	23.8	now
 Rhodanomys_oscensis	extinct	22.8	23.8	now
@@ -19866,7 +19473,6 @@ Myomimus_dehmi	extinct	9.5	11.2	now
 Ramys_multicrestatus	extinct	9.5	11.2	now
 Tempestia_hartenbergeri	extinct	9.5	11.2	now
 Megacricetodon_minor	extinct	9.5	11.2	now
-Hispanomys_ssp.	extinct	9.5	11.2	now
 Heteroxerus_spp.	extinct	9.5	11.2	now
 Cricetulodon_hartenbergeri	extinct	9.5	11.2	now
 Muscardinus_hispanicus	extinct	9.5	11.2	now
@@ -19876,7 +19482,6 @@ Megacricetodon_debruijni	extinct	9.5	11.2	now
 Progonomys_hispanicus	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
 Democricetodon_sulcatus	extinct	9.5	11.2	now
-Hispanomys_ssp.	extinct	9.5	11.2	now
 Heteroxerus_spp.	extinct	9.5	11.2	now
 Democricetodon_mutilus	extinct	17.0	18.0	now
 Forsythia_gaudryi	extinct	17.0	18.0	now
@@ -20215,8 +19820,6 @@ Anthracomys_lorenzi	extinct	5.3	8.2	now
 Apodemus_etruscus	extinct	5.3	8.2	now
 Eomyops_catalaunicus	extinct	4.2	5.3	now
 Keramidomys_mohleri	extinct	4.2	5.3	now
-Cricetus_sp.	extinct	4.2	5.3	now
-Cricetus_sp.	extinct	4.2	5.3	now
 Glis_minor	extinct	4.2	5.3	now
 Muscardinus_pliocaenicus	extinct	4.2	5.3	now
 Kowalskia_polonica	extinct	4.2	5.3	now
@@ -20305,7 +19908,6 @@ Simplomys_simplicidens	extinct	17.0	18.0	now
 Pseudodryomys_ibericus	extinct	17.0	18.0	now
 Megacricetodon_collongensis	extinct	17.0	18.0	now
 Glirudinus_gracilis	extinct	17.0	18.0	now
-Blainvillimys_sp.	extinct	31.0	32.0	now
 Agathaeromys_donovani	extinct	0.01	1.95	now
 Megacricetodon_fournasi	extinct	11.2	12.5	now
 Steneofiber_depereti	extinct	15.2	17.0	now
@@ -20657,7 +20259,6 @@ Mimomys_gracilis	extinct	2.6	5.3	now
 Trilophomys_pyrenaicus	extinct	2.6	5.3	now
 Eozapus_janossyi	extinct	2.6	5.3	now
 Mimomys_stehlini	extinct	2.6	5.3	now
-Apodemus_sp.	extinct	2.6	5.3	now
 Microtodon_loczyi	extinct	2.6	5.3	now
 Sivacanthion_complicates	extinct	11.2	14.8	now
 Apodemus_gudrunae	extinct	5.3	7.1	now
@@ -20737,7 +20338,6 @@ Megacricetodon_bavaricus	extinct	15.2	17.0	now
 Spermophilinus_bredai	extinct	15.2	17.0	now
 Keramidomys_carpathicus	extinct	15.2	17.0	now
 Eomuscardinus_sansaniensis	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Eomyops_catalaunicus	extinct	15.2	17.0	now
 Anomalomys_minor	extinct	15.2	17.0	now
 Bransatoglis_cadeoti	extinct	15.2	17.0	now
@@ -20893,9 +20493,6 @@ Stertomys_daamsi	extinct	4.2	7.1	now
 Dryomys_apulus	extinct	4.2	7.1	now
 Stertomys_lyrifer	extinct	4.2	7.1	now
 Stertomys_simplex	extinct	4.2	7.1	now
-Stertomys_sp.	extinct	4.2	7.1	now
-Stertomys_sp.	extinct	4.2	7.1	now
-Stertomys_sp.	extinct	4.2	7.1	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Heteroxerus_rubricati	extinct	18.0	20.0	now
 Pseudodryomys_ibericus	extinct	18.0	20.0	now
@@ -21260,10 +20857,7 @@ Simplomys_robustus	extinct	18.0	20.0	now
 Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Democricetodon_hispanicus	extinct	18.0	20.0	now
 Microdyromys_legidensis	extinct	18.0	20.0	now
-Melissiodon_sp.	extinct	18.0	20.0	now
-Palaeosciurus_sp.	extinct	18.0	20.0	now
 Peridyromys_darocensis	extinct	18.0	20.0	now
-Simplomys_sp.	extinct	18.0	20.0	now
 Peridyromys_murinus	extinct	18.0	20.0	now
 Glirudinus_modestus	extinct	18.0	20.0	now
 Heteroxerus_rubricati	extinct	18.0	20.0	now
@@ -21274,9 +20868,6 @@ Simplomys_robustus	extinct	18.0	20.0	now
 Ligerimys_fahlbuschi	extinct	18.0	20.0	now
 Democricetodon_hispanicus	extinct	18.0	20.0	now
 Microdyromys_legidensis	extinct	18.0	20.0	now
-Melissiodon_sp.	extinct	18.0	20.0	now
-Palaeosciurus_sp.	extinct	18.0	20.0	now
-Simplomys_sp.	extinct	18.0	20.0	now
 Simplomys_simplicidens	extinct	17.0	18.0	now
 Peridyromys_murinus	extinct	17.0	18.0	now
 Glirudinus_modestus	extinct	17.0	18.0	now
@@ -21413,7 +21004,6 @@ Microdyromys_complicatus	extinct	9.5	11.2	now
 Muscardinus_hispanicus	extinct	9.5	11.2	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Chalicomys_jaegeri	extinct	9.5	11.2	now
-Muscardinus_sp	extinct	9.5	11.2	now
 Trogontherium_minutum	extinct	9.5	11.2	now
 Steneofiber_depereti	extinct	9.5	11.2	now
 Issiodoromys_pauffiensis	extinct	27.0	28.0	now
@@ -21428,7 +21018,6 @@ Neocometes_brunonis	extinct	11.2	12.5	now
 Albanensia_albanensis	extinct	11.2	12.5	now
 Leptodontomys_catalarunicus	extinct	11.2	12.5	now
 Stephanomys_minor	extinct	3.4	4.2	now
-Sciurus_sp.	extinct	3.4	4.2	now
 Blancomys_meini	extinct	3.4	4.2	now
 Mimomys_ostramosensis	extinct	1.95	3.4	now
 Mimomys_ostramosensis	extinct	1.95	3.4	now
@@ -21478,7 +21067,6 @@ Spermophilinus_bredai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
 Eumyarion_weinfurteri	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
 Keramidomys_thaleri	extinct	15.2	17.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
@@ -21490,7 +21078,6 @@ Heteroxerus_rubricati	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
 Eumyarion_weinfurteri	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
 Democricetodon_gracilis	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
 Glirulus_conjunctus	extinct	15.2	17.0	now
@@ -21500,9 +21087,6 @@ Spermophilinus_bredai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
 Eumyarion_weinfurteri	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
-Miodyromys_sp.	extinct	15.2	17.0	now
 Eomyops_catalaunicus	extinct	9.0	9.5	now
 Glirulus_lissiensis	extinct	9.0	9.5	now
 Muscardinus_austriacus	extinct	9.0	9.5	now
@@ -21625,7 +21209,6 @@ Eucricetodon_infralactorensis	extinct	18.0	20.0	now
 Pseudotheridomys_bouziguensis	extinct	18.0	20.0	now
 Freudenthalia_cuencae	extinct	18.0	20.0	now
 Atlantoxerus_martini	extinct	18.0	20.0	now
-Protatera_sp.	extinct	4.2	5.3	now
 Apodemus_dominans	extinct	3.4	4.2	now
 Occitanomys_brailloni	extinct	3.4	4.2	now
 Blancomys_neglectus	extinct	3.4	4.2	now
@@ -21649,13 +21232,6 @@ Stephanomys_thaleri	extinct	1.81	2.59	now
 Prospermophilus_orientalis	extinct	8.2	9.0	now
 Lophocricetus_gansus	extinct	8.2	9.0	now
 Eutamias_ertemtensis	extinct	8.2	9.0	now
-Microdyromys_sp.	extinct	8.2	9.0	now
-Microdyromys_sp.	extinct	8.2	9.0	now
-Leptodontomys_sp.	extinct	8.2	9.0	now
-Leptodontomys_sp.	extinct	8.2	9.0	now
-Paralactaga_sp.	extinct	8.2	9.0	now
-Paralactaga_sp.	extinct	8.2	9.0	now
-Dipus_sp.	extinct	8.2	9.0	now
 Mimomys_hintoni	extinct	2.675	3.158	now
 Chardinomys_sibiricus	extinct	2.675	3.158	now
 Villanyia_eleonorae	extinct	2.675	3.158	now
@@ -21691,7 +21267,6 @@ Saccostomus_major	extinct	4.2	5.3	now
 Saidomys_parvus	extinct	4.2	5.3	now
 Abudhabia_baynunensis	extinct	5.3	8.2	now
 Parapelomys_charkhensis	extinct	5.3	8.2	now
-Myocricetodon_sp.	extinct	5.3	8.2	now
 Dendromus_melanotus	extinct	5.3	8.2	now
 Anomalomys_minor	extinct	17.0	18.0	now
 Democricetodon_mutilus	extinct	17.0	18.0	now
@@ -21765,37 +21340,27 @@ Trogontherium_minutum	extinct	2.6	3.4	now
 Synaptomys_mimomyformis	extinct	2.6	3.4	now
 Steneofiber_depereti	extinct	11.2	15.2	now
 Progonomys_cathalai	extinct	9.777	10.834	now
-Sinapospalax_sp.	extinct	9.428	9.735	now
 Myocricetodon_eskihisarensis	extinct	9.777	10.834	now
 Heramys_anatolicus	extinct	9.777	10.834	now
 Sinapospalax_incliniformis	extinct	9.5	11.2	now
-Sinapospalax_sp.	extinct	9.5	11.2	now
-Sinapospalax_sp.	extinct	9.5	11.2	now
 Progonomys_cathalai	extinct	9.069	9.149	now
 Pseudomeriones_rhodius	extinct	9.069	9.149	now
 Spermophilinus_bredai	extinct	9.777	10.834	now
 Myocricetodon_eskihisarensis	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
 Myocricetodon_eskihisarensis	extinct	9.777	10.834	now
 Sinapospalax_canakkalensis	extinct	9.777	10.834	now
 Myomimus_dehmi	extinct	9.149	9.428	now
 Progonomys_cathalai	extinct	9.149	9.428	now
-Byzantinia_sp.	extinct	9.149	9.428	now
-Byzantinia_sp.	extinct	9.149	9.428	now
 Sinapospalax_sinapensis	extinct	9.149	9.428	now
 Sinapodemus_ibrahimi	extinct	9.149	9.428	now
 Byzantinia_bayraktepensis	extinct	9.735	9.777	now
 Byzantinia_ozansoyi	extinct	9.735	9.777	now
 Cricetulodon_hartenbergeri	extinct	9.735	9.777	now
 Myomimus_dehmi	extinct	9.735	9.777	now
-Myocricetodon_sp.	extinct	9.735	9.777	now
 Progonomys_cathalai	extinct	9.735	9.777	now
 Myocricetodon_eskihisarensis	extinct	9.735	9.777	now
 Progonomys_minus	extinct	9.735	9.777	now
 Peridyromys_dehmi	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
-Byzantinia_sp.	extinct	9.777	10.834	now
 Eucastor_tungurensis	extinct	11.2	12.5	now
 Dipoides_majori	extinct	5.3	11.2	now
 Steneofiber_eseri	extinct	18.0	20.0	now
@@ -21905,7 +21470,6 @@ Forsythia_gaudryi	extinct	11.852	12.0	now
 Spermophilinus_bredai	extinct	11.852	12.0	now
 Megacricetodon_minutus	extinct	11.852	12.0	now
 Cricetodon_fandli	extinct	11.852	12.0	now
-Democricetodon_sp.	extinct	11.852	12.0	now
 Anchitheriomys_wiedemanni	extinct	12.5	15.2	now
 Miopetaurista_gibberosa	extinct	12.5	15.2	now
 Trogontherium_minutum	extinct	12.5	15.2	now
@@ -22150,7 +21714,6 @@ Steneofiber_depereti	extinct	15.2	18.0	now
 Miodyromys_alter	extinct	9.0	11.2	now
 Kowalskia_fahlbuschi	extinct	9.0	11.2	now
 Prospalax_petteri	extinct	9.0	11.2	now
-Parapodemus_sp.	extinct	9.0	11.2	now
 Progonomys_cathalai	extinct	9.0	11.2	now
 Microdyromys_alter	extinct	9.0	11.2	now
 Spermophilinus_bredai	extinct	9.0	11.2	now
@@ -22184,7 +21747,6 @@ Mus_musculus	extant	0.6	1.3	now
 Niviventer_confuciacus	extinct	0.6	1.3	now
 Apodemus_peninsulae	extant	0.6	1.3	now
 Heterosminthus_orientalis	extinct	20.0	22.8	now
-Heterosminthus_sp.	extinct	20.0	22.8	now
 Heterosminthus_intermedius	extinct	20.0	22.8	now
 Heterosminthus_nanus	extinct	20.0	22.8	now
 Prodistylomys_xinjiangensis	extinct	20.0	22.8	now
@@ -22408,9 +21970,7 @@ Hystrix_cristata	extant	0.01	1.95	now
 Meriones_maghrebianus	extinct	0.01	1.95	now
 Gerbillus_grandis	extinct	0.01	1.95	now
 Paraethomys_tighennifae	extinct	0.01	1.95	now
-Paraethomys_sp.	extinct	0.8	1.8	now
 Gerbillus_grandis	extinct	0.8	1.8	now
-Gerbillus_sp.	extinct	0.8	1.8	now
 Meriones_maximus	extinct	0.8	1.8	now
 Hystrix_subcristata	extinct	0.6	1.3	now
 Hapalomys_delacouri	extant	0.6	1.3	now
@@ -22438,12 +21998,9 @@ Democricetodon_gracilis	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Cricetodon_meini	extinct	15.2	17.0	now
 Sayimys_intermedius	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
 Cricetodon_meini	extinct	15.2	17.0	now
 Sayimys_intermedius	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
 Mimomys_bilikeensis	extinct	3.5	4.2	now
 Yindirtemys_deflexus	extinct	23.8	26.0	now
 Tachyoryctoides_obrutschewi	extinct	23.8	26.0	now
@@ -22452,10 +22009,8 @@ Parasminthus_asiaecentralis	extinct	23.8	26.0	now
 Bohlinosminthus_parvulus	extinct	23.8	26.0	now
 Yindirtemys_ambiguus	extinct	23.8	26.0	now
 Parasminthus_tangingoli	extinct	23.8	26.0	now
-Eucricetodon_sp.	extinct	23.8	26.0	now
 Litodonomys_huangheensis	extinct	23.8	26.0	now
 Bohlinosminthus_parvulus	extinct	23.8	26.0	now
-Litodonomys_sp.	extinct	23.8	26.0	now
 Hystrix_cristata	extant	0.126	0.8	now
 Meriones_maghrebianus	extinct	0.126	0.8	now
 Meriones_maximus	extinct	0.126	0.8	now
@@ -22512,7 +22067,6 @@ Keramidomys_carpathicus	extinct	15.2	17.0	now
 Paraglirulus_conjunctus	extinct	15.2	17.0	now
 Eomuscardinus_sansaniensis	extinct	15.2	17.0	now
 Microdyromys_miocaenicus	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	15.2	17.0	now
 Miodyromys_aegercii	extinct	15.2	17.0	now
 Microdyromys_koenigswaldi	extinct	15.2	17.0	now
@@ -22752,7 +22306,6 @@ Mimomys_gracilis	extinct	2.6	3.4	now
 Micromys_alsomyoides	extinct	2.6	3.4	now
 Glirudinus_undosus	extinct	18.0	19.0	now
 Palaeosciurus_fissurae	extinct	18.0	19.0	now
-Pseudotheridomys_sp.	extinct	18.0	19.0	now
 Ligerimys_lophidens	extinct	18.0	19.0	now
 Microdyromys_legidensis	extinct	18.0	19.0	now
 Tribosphenomys_minutus	extinct	55.0	62.3	now
@@ -22938,7 +22491,6 @@ Megacricetodon_minor	extinct	12.5	15.2	now
 Cricetodon_aureus	extinct	12.5	15.2	now
 Eomuscardinus_sansaniensis	extinct	12.5	15.2	now
 Microdyromys_miocaenicus	extinct	12.5	15.2	now
-Megacricetodon_sp.	extinct	12.5	15.2	now
 Democricetodon_gracilis	extinct	12.5	15.2	now
 Democricetodon_mutilus	extinct	12.5	15.2	now
 Miodyromys_aegercii	extinct	12.5	15.2	now
@@ -22973,7 +22525,6 @@ Keramidomys_carpathicus	extinct	12.5	15.2	now
 Glirulus_werenfelsi	extinct	12.5	15.2	now
 Tataromys_sigmodon	extinct	23.8	24.6	now
 Yindirtemys_ulantatalensis	extinct	23.8	24.6	now
-Thryonomys_sp.	extinct	5.3	6.54	now
 Allophaiomys_pliocaenicus	extinct	1.177	2.131	now
 Prolagurus_ternopolitanus	extinct	1.177	2.131	now
 Lagurodon_arankae	extinct	1.177	2.131	now
@@ -23071,7 +22622,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
@@ -23089,7 +22639,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -23098,7 +22647,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -23174,7 +22722,6 @@ Democricetodon_lacombai	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Heteroxerus_grivensis	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
@@ -23182,14 +22729,12 @@ Democricetodon_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Democricetodon_koenigswaldi	extinct	15.2	17.0	now
 Megacricetodon_collongensis	extinct	15.2	17.0	now
 Democricetodon_lacombai	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Microdyromys_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Prodryomys_satus	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	15.2	17.0	now
@@ -23201,7 +22746,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Democricetodon_sp.	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Muscardinus_thaleri	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
@@ -23315,7 +22859,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Democricetodon_moralesi	extinct	15.2	17.0	now
 Peridyromys_sondaari	extinct	15.2	17.0	now
-Heteroxerus_sp.	extinct	15.2	17.0	now
 Megacricetodon_primitivus	extinct	17.0	18.0	now
 Simplomys_simplicidens	extinct	17.0	18.0	now
 Peridyromys_murinus	extinct	17.0	18.0	now
@@ -23377,7 +22920,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Democricetodon_franconicus	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
@@ -23386,7 +22928,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
 Pseudodryomys_ibericus	extinct	15.2	17.0	now
 Armantomys_aragonensis	extinct	15.2	17.0	now
@@ -23493,7 +23034,6 @@ Heteroxerus_huerzeleri	extinct	15.2	17.0	now
 Palaeosciurus_fissurae	extinct	15.2	17.0	now
 Spermophilinus_bredai	extinct	15.2	17.0	now
 Microdyromys_praemurinus	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Bransatoglis_cadeoti	extinct	11.2	18.0	now
 Miodyromys_aegercii	extinct	11.2	18.0	now
 Microdyromys_koenigswaldi	extinct	11.2	18.0	now
@@ -23547,7 +23087,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Simplomys_simplicidens	extinct	15.2	17.0	now
@@ -23555,7 +23094,6 @@ Armantomys_aragonensis	extinct	15.2	17.0	now
 Democricetodon_jordensi	extinct	15.2	17.0	now
 Microdyromys_legidensis	extinct	15.2	17.0	now
 Heteroxerus_rubricati	extinct	15.2	17.0	now
-Megacricetodon_sp.	extinct	15.2	17.0	now
 Microdyromys_remmerti	extinct	15.2	17.0	now
 Microdyromys_monspeliensis	extinct	15.2	17.0	now
 Myoglis_meini	extinct	11.2	12.5	now
@@ -23711,7 +23249,6 @@ Peridyromys_murinus	extinct	20.0	21.4	now
 Glirudinus_modestus	extinct	20.0	21.4	now
 Pseudotheridomys_lacombai	extinct	20.0	21.4	now
 Eucricetodon_infralactorensis	extinct	20.0	21.4	now
-Sayimys_sp.	extinct	14.8	16.4	now
 Clethrionomys_glareolus	extinct	0.01	0.155	now
 Apodemus_sylvaticus	extant	0.01	0.155	now
 Microtus_arvalis	extant	0.01	0.155	now
@@ -23817,7 +23354,6 @@ Mimomys_hassiacus	extinct	3.4	4.2	now
 Plioselevinia_gromovi	extinct	3.4	4.2	now
 Eozapus_janossyi	extinct	3.4	4.2	now
 Mimomys_stehlini	extinct	3.4	4.2	now
-Democricetodon_sp.	extinct	3.4	4.2	now
 Dolomys_milleri	extinct	3.4	4.2	now
 Chalicomys_jaegeri	extinct	15.2	17.0	now
 Democricetodon_mutilus	extinct	12.5	15.2	now
@@ -23893,22 +23429,17 @@ Apodemus_zhangwagouensis	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Sinocricetus_progressus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
-Germanomys_sp.	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Mesosiphneus_praetingi	extinct	2.6	3.4	now
 Dipus_fraudator	extinct	2.6	3.4	now
 Mimomys_orientalis	extinct	2.6	3.4	now
 Apodemus_atavus	extinct	2.6	3.4	now
 Micromys_tedfordi	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
-Germanomys_sp.	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Micromys_tedfordi	extinct	2.6	3.4	now
 Apodemus_zhangwagouensis	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Sinocricetus_progressus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Mesosiphneus_praetingi	extinct	2.6	3.4	now
 Dipus_fraudator	extinct	2.6	3.4	now
 Micromys_tedfordi	extinct	2.6	3.4	now
@@ -23946,7 +23477,6 @@ Castillomys_gracilis	extinct	4.2	5.3	now
 Apocricetus_barrierei	extinct	4.2	5.3	now
 Byzantinia_eskihisarensis	extinct	11.2	12.5	now
 Myocricetodon_eskihisarensis	extinct	11.2	12.5	now
-Pliospalax_sp.	extinct	11.2	12.5	now
 Byzantinia_bayraktepensis	extinct	11.2	12.5	now
 Byzantinia_eskihisarensis	extinct	11.2	12.5	now
 Pliospalax_canakkalensis	extinct	11.2	12.5	now
@@ -23959,7 +23489,6 @@ Megacricetodon_bavaricus	extinct	15.2	20.0	now
 Kowalskia_yinanensis	extinct	2.6	3.4	now
 Mimomys_youhenicus	extinct	2.6	3.4	now
 Mimomys_orientalis	extinct	2.6	3.4	now
-Mimomys_sp.	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Hystrix_subcristata	extinct	0.0	0.78	now
 Anomalomys_aliverensis	extinct	17.0	18.0	now
@@ -23995,7 +23524,6 @@ Prosiphneus_praetingi	extinct	2.6	3.4	now
 Trogontherium_cuvieri	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Myospalax_tingi	extinct	2.6	3.4	now
-Hystrix_sp.	extinct	2.6	3.4	now
 Cromeromys_gansunicus	extinct	2.6	3.4	now
 Borsodia_chinensis	extinct	2.6	3.4	now
 Marmota_robusta	extinct	2.6	3.4	now
@@ -24014,8 +23542,6 @@ Sminthoides_fraudator	extinct	2.6	3.4	now
 Chardinomys_louisi	extinct	2.6	3.4	now
 Pliopetaurista_rugosus	extinct	2.6	3.4	now
 Rhizomys_shansius	extinct	2.6	3.4	now
-Germanomys_sp.	extinct	2.6	3.4	now
-Apodemus_sp.	extinct	2.6	3.4	now
 Prosiphneus_paratingi	extinct	2.6	3.4	now
 Apodemus_zhangwagouensis	extinct	2.6	3.4	now
 Rhizomys_shajius	extinct	3.4	5.3	now
@@ -24068,7 +23594,6 @@ Chardinomys_yusheensis	extinct	2.6	3.4	now
 Pseudomeriones_complicidens	extinct	2.6	3.4	now
 Pliosiphneus_lyrathus	extinct	2.6	3.4	now
 Chardina_truncatus	extinct	2.6	3.4	now
-Pliosiphneus_sp.	extinct	2.6	3.4	now
 Chardinomys_nihewanicus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
 Mesosiphneus_praetingi	extinct	2.6	3.4	now
@@ -24081,7 +23606,6 @@ Cromeromys_irtyshensis	extinct	2.6	3.4	now
 Sinocricetus_progressus	extinct	2.6	3.4	now
 Nannocricetus_mongolicus	extinct	2.6	3.4	now
 Pseudomeriones_complicidens	extinct	2.6	3.4	now
-Orientalomys_sp.	extinct	2.6	3.4	now
 Dipus_fraudator	extinct	2.6	3.4	now
 Mimomys_pusillus	extinct	0.3	1.95	now
 Cricetus_runtonensis	extinct	0.3	1.95	now

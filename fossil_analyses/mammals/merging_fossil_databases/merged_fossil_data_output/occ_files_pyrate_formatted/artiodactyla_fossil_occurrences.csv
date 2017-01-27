@@ -126,13 +126,9 @@ Tragelaphus_moroitu	extinct	5.7	5.7	now
 Tragoportax_abyssinicus	extinct	5.7	5.7	now
 Nyanzachoerus_jaegeri	extinct	5.3	7.1	now
 Nyanzachoerus_kanamensis	extinct	5.3	7.1	now
-Kobus_sp.	extinct	5.3	7.1	now
-Kobus_sp.	extinct	5.3	7.1	now
 Hexaprotodon_imagunculus	extinct	5.3	7.1	now
 Hippopotamus_kaisensis	extinct	5.3	7.1	now
-Hippopotamus_sp.	extinct	5.3	7.1	now
 Nyanzachoerus_kanamensis	extinct	5.3	7.1	now
-Simatherium_sp.	extinct	5.3	7.1	now
 Sivachoerus_syrticus	extinct	5.3	7.1	now
 Hippopotamus_gorgops	extinct	2.6	3.56	now
 Kolpochoerus_majus	extinct	2.6	3.56	now
@@ -140,7 +136,6 @@ Kobus_ellipsiprymnus	extant	2.6	3.56	now
 Hexaprotodon_imagunculus	extinct	2.6	3.56	now
 Hippopotamus_kaisensis	extinct	2.6	3.56	now
 Hylochoerus_meinertzhageni	extant	2.6	3.56	now
-Gazella_sp.	extinct	2.6	3.56	now
 Nyanzachoerus_jaegeri	extinct	5.3	7.1	now
 Brachyodus_aequatorialis	extinct	16.4	20.5	now
 Kolpochoerus_majus	extinct	2.6	3.56	now
@@ -154,17 +149,13 @@ Tragelaphus_nakuae	extinct	2.59	5.33	now
 Hexaprotodon_imagunculus	extinct	2.59	5.33	now
 Hippopotamus_kaisensis	extinct	2.59	5.33	now
 Tragelaphus_nkondoensis	extinct	2.59	5.33	now
-Menelikia_sp.	extinct	2.59	5.33	now
 Potamochoerus_porcus	extant	2.6	3.56	now
-Hippopotamus_sp.	extinct	2.6	3.56	now
 Phacochoerus_aethiopicus	extant	2.6	3.56	now
 Notochoerus_euilus	extinct	2.6	3.56	now
 Giraffa_stillei	extinct	2.6	3.56	now
-Kobus_sp.	extinct	2.6	3.56	now
 Aepyceros_shungurae	extinct	2.6	3.56	now
 Menelikia_lyrocera	extinct	2.6	3.56	now
 Kobus_kob	extant	2.6	3.56	now
-Hippopotamus_sp.	extinct	2.6	3.56	now
 Phacochoerus_aethiopicus	extant	2.6	3.56	now
 Kolpochoerus_phacochoeroides	extinct	2.6	3.56	now
 Pelorovis_kaisensis	extinct	2.6	3.56	now
@@ -230,7 +221,6 @@ Sus_scrofa	extant	0.0	0.01	now
 Bos_taurus	extinct	0.0	0.01	now
 Capra_hircus	extinct	0.0	0.01	now
 Neomegaloceros_gracilis	extinct	5.3	7.1	now
-Graecoryx_sp.	extinct	8.2	9.0	now
 Hippopotamus_lemerlei	extinct	0.0	0.01	now
 Bos_indicus	extinct	0.0	0.01	now
 Procamelus_chersonensis	extinct	7.1	13.6	now
@@ -249,7 +239,6 @@ Bunolistriodon_lockharti	extinct	17.0	17.0	now
 Dorcatherium_peneckei	extinct	17.0	17.0	now
 Palaeomeryx_kaupi	extinct	17.0	17.0	now
 Sanitherium_schlagintweiti	extinct	17.0	17.0	now
-Dorcatherium_sp.	extinct	17.0	17.0	now
 Hippopotamus_lemerlei	extinct	0.0	0.01	now
 Cervus_pardinensis	extinct	3.4	4.2	now
 Listriodon_splendens	extinct	11.2	12.5	now
@@ -297,7 +286,6 @@ Nyanzachoerus_jaegeri	extinct	4.4	4.4	now
 Nyanzachoerus_kanamensis	extinct	4.4	4.4	now
 Kolpochoerus_deheinzelini	extinct	4.4	4.4	now
 Tragelaphus_kyaloae	extinct	4.4	4.4	now
-Ugandax_sp.	extinct	4.4	4.4	now
 Ugandax_gautieri	extinct	4.4	4.4	now
 Kobus_preoricornis	extinct	4.4	4.4	now
 Listriodon_splendens	extinct	12.5	17.0	now
@@ -385,7 +373,6 @@ Bison_voigtstedtensis	extinct	0.01	1.95	now
 Cervus_elaphus	extant	0.129	0.364	now
 Bison_priscus	extinct	0.129	0.364	now
 Dama_dama	extant	0.129	0.364	now
-Megaloceros_sp.	extinct	0.129	0.364	now
 Cervus_elaphus	extant	0.129	0.364	now
 Bison_priscus	extinct	0.129	0.364	now
 Dama_dama	extant	0.129	0.364	now
@@ -429,11 +416,8 @@ Albanohyus_pygmaeus	extinct	9.5	11.2	now
 Dorcatherium_naui	extinct	9.5	11.2	now
 Palaeomeryx_eminens	extinct	9.5	11.2	now
 Micromeryx_flourensianus	extinct	9.5	11.2	now
-Euprox_sp.	extinct	9.5	11.2	now
-Miotragocerus_sp.	extinct	9.5	11.2	now
 Euprox_furcatus	extinct	11.2	12.5	now
 Protragocerus_chantrei	extinct	11.2	12.5	now
-Graecoryx_sp.	extinct	7.1	9.0	now
 Brachyodus_depereti	extinct	18.0	20.0	now
 Listriodon_splendens	extinct	9.5	12.5	now
 Brachyodus_intermedius	extinct	18.0	20.0	now
@@ -498,10 +482,8 @@ Palaeomeryx_kaupi	extinct	17.0	18.0	now
 Shaanxispira_chowi	extinct	7.1	9.5	now
 Palaeotragus_decipiens	extinct	7.1	9.5	now
 Gazella_lydekkeri	extinct	7.1	9.5	now
-Protoryx_sp.	extinct	7.1	9.5	now
 Dorcadoryx_triquetricornis	extinct	7.1	9.5	now
 Schansitherium_tafelli	extinct	7.1	9.5	now
-Shaanxispira_sp.	extinct	7.1	9.5	now
 Alephis_tigneresi	extinct	1.81	2.59	now
 Kolpochoerus_afarensis	extinct	2.6	3.56	now
 Hexaprotodon_protamphibius	extinct	2.6	3.56	now
@@ -702,7 +684,6 @@ Listriodon_splendens	extinct	9.5	11.2	now
 Conohyus_simorrensis	extinct	9.5	11.2	now
 Tragoportax_frolovi	extinct	9.0	9.5	now
 Lagomeryx_satensis	extinct	9.0	9.5	now
-Gazella_sp.	extinct	9.0	9.5	now
 Spirocerus_kiakhtensis	extinct	0.01	1.95	now
 Bison_priscus	extinct	0.01	1.95	now
 Bos_primigenius	extinct	0.01	1.95	now
@@ -900,7 +881,6 @@ Leptobos_furtivus	extinct	0.01	1.95	now
 Propotamochoerus_provincialis	extinct	4.2	7.1	now
 Hexaprotodon_pantanellii	extinct	4.2	7.1	now
 Euprox_elsanus	extinct	4.2	7.1	now
-Parabos_sp.	extinct	4.2	7.1	now
 Maremmia_hauptii	extinct	7.1	8.2	now
 Umbrotherium_azzarolii	extinct	7.1	8.2	now
 Cervus_elaphus	extant	0.01	1.95	now
@@ -1082,7 +1062,6 @@ Tragoportax_spectabilis	extinct	7.1	8.2	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Palaeoreas_lindermayeri	extinct	7.1	8.2	now
 Palaeoryx_pallasi	extinct	7.1	8.2	now
-Microstonyx_sp.	extinct	7.1	8.2	now
 Microstonyx_major	extinct	7.1	8.2	now
 Bunolistriodon_latidens	extinct	15.2	17.0	now
 Euprox_furcatus	extinct	15.2	17.0	now
@@ -1398,7 +1377,6 @@ Giraffa_jumae	extinct	3.18	3.2	now
 Tragelaphus_nakuae	extinct	3.18	3.2	now
 Sivatherium_maurusium	extinct	3.18	3.2	now
 Kobus_oricornus	extinct	3.18	3.2	now
-Kobus_sp.	extinct	3.18	3.2	now
 Gazella_praethomsoni	extinct	3.18	3.2	now
 Trilobophorus_afarensis	extinct	3.18	3.2	now
 Ugandax_coryndonae	extinct	3.18	3.2	now
@@ -1504,9 +1482,7 @@ Sivatherium_maurusium	extinct	2.6	3.56	now
 Hexaprotodon_afarensis	extinct	2.6	3.56	now
 Praedamalis_howelli	extinct	2.6	3.56	now
 Sus_arvernensis	extinct	3.4	5.3	now
-Microstonyx_sp.	extinct	8.2	9.0	now
 Palaeotragus_germaini	extinct	5.3	11.2	now
-Libycosaurus_sp.	extinct	5.3	11.2	now
 Sivatherium_maurusium	extinct	1.81	2.59	now
 Eucladoceros_senezensis	extinct	1.4	2.131	now
 Cervus_perrieri	extinct	1.4	2.131	now
@@ -1644,7 +1620,6 @@ Microstonyx_major	extinct	7.1	9.88	now
 Palaeotragus_coelophrys	extinct	9.0	9.5	now
 Tragoportax_leskewitschi	extinct	9.0	9.5	now
 Gazella_leilae	extinct	9.0	9.5	now
-Microstonyx_sp.	extinct	9.0	9.5	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Palaeoryx_pallasi	extinct	7.1	8.2	now
 Gazella_gaudryi	extinct	7.1	8.2	now
@@ -1688,7 +1663,6 @@ Procervulus_dichotomus	extinct	17.0	18.0	now
 Amphimoschus_artenensis	extinct	17.0	18.0	now
 Procervulus_praelucidus	extinct	17.0	18.0	now
 Eotragus_artenensis	extinct	17.0	18.0	now
-Eotragus_sp.	extinct	17.0	18.0	now
 Amphitragulus_elegans	extinct	5.3	23.8	now
 Listriodon_splendens	extinct	11.2	12.5	now
 Hispanomeryx_aragonensis	extinct	11.2	12.5	now
@@ -1780,7 +1754,6 @@ Mixtotherium_mezi	extinct	24.6	34.0	now
 Bothriogenys_parvus	extinct	34.0	40.0	now
 Bothriogenys_gorringei	extinct	34.0	40.0	now
 Rhagatherium_aegyptiacum	extinct	24.6	34.0	now
-Bothriogenys_sp.	extinct	24.6	34.0	now
 Microstonyx_etruscus	extinct	7.1	8.2	now
 Tyrrhenotragus_gracillimus	extinct	7.1	8.2	now
 Maremmia_lorenzi	extinct	7.1	8.2	now
@@ -1843,7 +1816,6 @@ Aureliachoerus_aurelianensis	extinct	18.0	20.0	now
 Listriodon_splendens	extinct	11.2	17.0	now
 Conohyus_simorrensis	extinct	11.2	17.0	now
 Dicrocerus_elegans	extinct	11.2	17.0	now
-Robiacina_sp.	extinct	43.6	52.0	now
 Tragoportax_spectabilis	extinct	5.3	9.0	now
 Tragocerus_gregarius	extinct	5.3	9.0	now
 Honanotherium_schlosseri	extinct	5.3	9.0	now
@@ -2048,7 +2020,6 @@ Rupicapra_rupicapra	extant	0.01	1.95	now
 Capra_ibex	extant	0.01	1.95	now
 Listriodon_splendens	extinct	9.5	12.5	now
 Gazella_brevicornis	extinct	9.0	9.5	now
-Microstonyx_sp.	extinct	9.0	9.5	now
 Cervavitus_variabilis	extinct	1.81	2.59	now
 Palaeomeryx_eminens	extinct	15.2	15.85	now
 Micromeryx_flourensianus	extinct	15.2	15.85	now
@@ -2211,7 +2182,6 @@ Listriodon_splendens	extinct	12.5	15.2	now
 Micromeryx_flourensianus	extinct	12.5	15.2	now
 Heteroprox_moralesi	extinct	12.5	15.2	now
 Cainotherium_miocaenicum	extinct	15.2	17.0	now
-Propotamochoerus_sp.	extinct	3.4	5.3	now
 Cervus_elaphus	extant	0.0148	0.03767	now
 Rangifer_tarandus	extant	0.0148	0.03767	now
 Hippopotamus_major	extinct	0.9	1.3	now
@@ -2304,9 +2274,7 @@ Notochoerus_euilus	extinct	2.6	7.1	now
 Nyanzachoerus_jaegeri	extinct	2.6	7.1	now
 Tragelaphus_kyaloae	extinct	2.6	7.1	now
 Hexaprotodon_harvardi	extinct	2.6	7.1	now
-Tragoportax_sp.	extinct	2.6	7.1	now
 Kobus_presigmoidalis	extinct	2.6	7.1	now
-Damalacra_sp.	extinct	2.6	7.1	now
 Aepyceros_premelampus	extinct	2.6	7.1	now
 Kobus_laticornis	extinct	2.6	7.1	now
 Tragelaphus_nakuae	extinct	2.6	7.1	now
@@ -2834,7 +2802,6 @@ Listriodon_splendens	extinct	11.2	12.5	now
 Euryceros_flabellatus	extinct	1.95	3.4	now
 Gazella_sinensis	extinct	1.81	2.59	now
 Metacervoceros_rhenanus	extinct	1.1	1.3	now
-Cervalces_sp.	extinct	1.1	1.3	now
 Microstonyx_major	extinct	8.2	9.0	now
 Palaeoreas_lindermayeri	extinct	8.2	9.0	now
 Microstonyx_major	extinct	8.2	9.0	now
@@ -2864,11 +2831,8 @@ Antidorcas_recki	extinct	0.8	1.8	now
 Tragelaphus_strepsiceros	extant	0.8	1.8	now
 Aepyceros_melampus	extant	0.8	1.8	now
 Connochaetes_gentryi	extinct	0.8	1.8	now
-Damaliscus_sp.	extinct	0.8	1.8	now
 Syncerus_acoelotus	extinct	0.8	1.8	now
 Pelorovis_turkanensis	extinct	0.8	1.8	now
-Tragelaphus_sp.	extinct	0.8	1.8	now
-Hippopotamus_sp.	extinct	0.8	1.8	now
 Kolpochoerus_heseloni	extinct	0.8	1.8	now
 Giraffa_jumae	extinct	0.01	1.95	now
 Kolpochoerus_olduvaiensis	extinct	0.01	1.95	now
@@ -2880,12 +2844,9 @@ Metridiochoerus_hopwoodi	extinct	0.01	1.95	now
 Metridiochoerus_compactus	extinct	0.01	1.95	now
 Connochaetes_gentryi	extinct	0.01	1.95	now
 Syncerus_acoelotus	extinct	0.01	1.95	now
-Hippopotamus_sp.	extinct	0.01	1.95	now
-Damaliscus_sp.	extinct	0.01	1.95	now
 Damaliscus_niro	extinct	0.01	1.95	now
 Rabaticeras_lemutai	extinct	0.01	1.95	now
 Parmularius_angusticornis	extinct	0.01	1.95	now
-Tragelaphus_sp.	extinct	0.01	1.95	now
 Metridiochoerus_modestus	extinct	0.01	1.95	now
 Notochoerus_euilus	extinct	2.59	5.33	now
 Tragelaphus_kyaloae	extinct	2.59	5.33	now
@@ -2922,7 +2883,6 @@ Nyanzachoerus_kanamensis	extinct	4.2	5.3	now
 Paracamelus_gigas	extinct	4.2	5.3	now
 Giraffa_jumae	extinct	4.2	5.3	now
 Kobus_korotorensis	extinct	4.2	5.3	now
-Suinae_sp.	extinct	4.2	5.3	now
 Kobus_ammolophi	extinct	4.2	5.3	now
 Tchadotragus_fanonei	extinct	4.2	5.3	now
 Hexaprotodon_mingoz	extinct	4.2	5.3	now
@@ -3231,7 +3191,6 @@ Madoqua_avifluminis	extinct	2.58	2.66	now
 Tragelaphus_buxtoni	extant	2.58	2.66	now
 Parestigorgon_gadjingeri	extinct	2.58	2.66	now
 Kolpochoerus_heseloni	extinct	2.58	2.66	now
-Antidorcas_sp.	extinct	2.58	2.66	now
 Listriodon_splendens	extinct	11.2	12.5	now
 Micromeryx_flourensianus	extinct	12.5	15.2	now
 Micromeryx_flourensianus	extinct	12.5	17.0	now
@@ -3274,7 +3233,6 @@ Bunolistriodon_lockharti	extinct	15.2	17.0	now
 Propalaeoryx_austroafricanus	extinct	18.0	22.8	now
 Sanitherium_africanus	extinct	18.0	22.8	now
 Cainotherium_laticurvatum	extinct	20.0	22.8	now
-Gazella_sp.	extinct	9.5	11.2	now
 Lantiantragus_longirostralis	extinct	9.5	11.2	now
 Dorcadoryx_triquetricornis	extinct	8.2	9.0	now
 Gazella_lydekkeri	extinct	8.2	9.0	now
@@ -3284,7 +3242,6 @@ Cervavitus_novorossiae	extinct	5.3	7.1	now
 Chleuastochoerus_stehlini	extinct	5.3	7.1	now
 Palaeotragus_microdon	extinct	5.3	7.1	now
 Procapreolus_latifrons	extinct	5.3	7.1	now
-Gazella_sp.	extinct	5.3	7.1	now
 Chleuastochoerus_stehlini	extinct	5.3	7.1	now
 Palaeotragus_microdon	extinct	5.3	7.1	now
 Shaanxispira_baheensis	extinct	7.1	8.2	now
@@ -3446,8 +3403,6 @@ Listriodon_splendens	extinct	11.2	12.5	now
 Turcocerus_lishanensis	extinct	11.2	12.5	now
 Diplobune_secundaria	extinct	34.0	35.0	now
 Anoplotherium_pompeckii	extinct	34.0	35.0	now
-Diplobune_sp.	extinct	34.0	35.0	now
-Diplobune_sp.	extinct	23.8	55.0	now
 Diplobune_secundaria	extinct	34.0	55.0	now
 Paragelocus_scotti	extinct	32.0	33.0	now
 Paragelocus_scotti	extinct	32.0	33.0	now
@@ -3504,7 +3459,6 @@ Dorcatherium_parvum	extinct	17.0	18.0	now
 Hyoboops_moneyi	extinct	17.0	18.0	now
 Nguruwe_kijivium	extinct	17.0	18.0	now
 Tethytragus_koehleri	extinct	11.2	12.5	now
-Eotragus_sp.	extinct	11.2	12.5	now
 Listriodon_splendens	extinct	9.5	12.5	now
 Bison_priscus	extinct	0.0276	0.0402	now
 Gazella_blacki	extinct	1.95	2.6	now
@@ -3589,7 +3543,6 @@ Dremotherium_feignouxi	extinct	20.0	22.8	now
 Andegameryx_laugnacensis	extinct	20.0	22.8	now
 Lorancameryx_pachyostoticus	extinct	20.0	22.8	now
 Brachyodus_onoideus	extinct	20.0	22.8	now
-Xenohyus_sp.	extinct	20.0	22.8	now
 Notochoerus_euilus	extinct	3.4	3.6	now
 Tragelaphus_nakuae	extinct	3.4	3.6	now
 Gazella_granti	extant	3.4	3.6	now
@@ -3632,12 +3585,8 @@ Palaeotragus_germaini	extinct	6.54	7.44	now
 Tragoportax_cyrenaicus	extinct	6.54	7.44	now
 Hexaprotodon_lothagamensis	extinct	6.54	7.44	now
 Hexaprotodon_harvardi	extinct	6.54	7.44	now
-Tragoportax_sp.	extinct	6.54	7.44	now
-Tragoportax_sp.	extinct	6.54	7.44	now
 Kobus_presigmoidalis	extinct	6.54	7.44	now
 Menelikia_leakeyi	extinct	6.54	7.44	now
-Damalacra_sp.	extinct	6.54	7.44	now
-Damalacra_sp.	extinct	6.54	7.44	now
 Aepyceros_premelampus	extinct	6.54	7.44	now
 Conohyus_giganteus	extinct	6.54	7.44	now
 Sivachoerus_syrticus	extinct	6.54	7.44	now
@@ -3662,7 +3611,6 @@ Tragelaphus_spekei	extinct	5.3	7.1	now
 Ugandax_gautieri	extinct	5.3	7.1	now
 Giraffokeryx_punjabiensis	extinct	5.3	7.1	now
 Samotherium_africanum	extinct	5.3	7.1	now
-Cephalophus_sp.	extinct	5.3	7.1	now
 Tragelaphus_spekei	extinct	5.3	7.1	now
 Kobus_porrecticornis	extinct	5.3	7.1	now
 Tragelaphus_spekei	extinct	5.3	7.1	now
@@ -3953,7 +3901,6 @@ Sivatherium_maurusium	extinct	2.6	3.56	now
 Notochoerus_scotti	extinct	2.6	3.56	now
 Kobus_kob	extant	2.6	3.56	now
 Metridiochoerus_jacksoni	extinct	2.6	3.56	now
-Hexaprotodon_sp.	extinct	2.6	3.56	now
 Kolpochoerus_heseloni	extinct	2.6	3.56	now
 Giraffa_pygmaea	extinct	2.6	3.56	now
 Awashia_suwai	extinct	2.6	3.56	now
@@ -4085,7 +4032,6 @@ Palaeotragus_rouenii	extinct	9.0	11.2	now
 Propotamochoerus_provincialis	extinct	5.3	7.1	now
 Hispanodorcas_torrubiae	extinct	5.3	7.1	now
 Pliocervus_matheroni	extinct	5.3	7.1	now
-Pliocervus_sp.	extinct	5.3	7.1	now
 Pliocervus_turolensis	extinct	5.3	7.1	now
 Paracamelus_alutensis	extinct	1.95	3.4	now
 Tetraconodon_minor	extinct	9.5	11.2	now
@@ -4216,7 +4162,6 @@ Sus_scrofa	extant	0.4501	0.474	now
 Bison_schoetensacki	extinct	0.4501	0.474	now
 Capreolus_suessenbornensis	extinct	0.4501	0.474	now
 Tragelaphus_spekei	extinct	6.0	7.0	now
-Madoqua_sp.	extinct	6.0	7.0	now
 Kobus_porrecticornis	extinct	6.0	7.0	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Miotragocerus_valenciennesi	extinct	7.1	8.2	now
@@ -4482,7 +4427,6 @@ Gazella_deperdita	extinct	7.1	9.0	now
 Gazella_schlosseri	extinct	7.1	9.0	now
 Protragelaphus_skouzesi	extinct	7.1	9.0	now
 Samotherium_eminens	extinct	7.1	9.0	now
-Microstonyx_sp.	extinct	7.1	9.0	now
 Palaeotragus_rouenii	extinct	7.1	9.0	now
 Protragelaphus_skouzesi	extinct	8.2	9.0	now
 Cervavitus_variabilis	extinct	5.3	11.467	now
@@ -4656,7 +4600,6 @@ Metridiochoerus_modestus	extinct	1.785	1.845	now
 Damalavus_makapaani	extinct	1.785	1.845	now
 Gazella_gazella	extant	1.785	1.845	now
 Gazella_granti	extant	1.785	1.845	now
-Hippopotamus_sp.	extinct	1.785	1.845	now
 Giraffa_stillei	extinct	1.15	1.785	now
 Giraffa_jumae	extinct	1.15	1.785	now
 Parmularius_altidens	extinct	1.15	1.785	now
@@ -5052,8 +4995,6 @@ Procervulus_dichotomus	extinct	17.0	18.0	now
 Procervulus_praelucidus	extinct	17.0	18.0	now
 Eotragus_artenensis	extinct	17.0	18.0	now
 Oriomeryx_willii	extinct	17.0	18.0	now
-Eotragus_sp.	extinct	17.0	18.0	now
-Amphimoschus_sp.	extinct	17.0	18.0	now
 Andegameryx_serum	extinct	17.0	18.0	now
 Cainotherium_huerzeleri	extinct	12.5	15.2	now
 Lagomeryx_parvulus	extinct	11.2	18.0	now
@@ -5301,7 +5242,6 @@ Sus_scrofa	extant	0.06	0.08	now
 Bubalus_arnee	extant	0.06	0.08	now
 Dama_dama	extant	0.01	1.95	now
 Tragoportax_amalthea	extinct	6.48	7.44	now
-Gazella_sp.	extinct	6.48	7.44	now
 Dicrocerus_elegans	extinct	17.0	20.0	now
 Lagomeryx_colberti	extinct	17.0	20.0	now
 Gazellospira_torticornis	extinct	2.675	3.4	now
@@ -5313,7 +5253,6 @@ Gazella_gaudryi	extinct	7.1	9.0	now
 Leptobos_etruscus	extinct	0.3	3.4	now
 Lagomeryx_tsaidamensis	extinct	12.5	15.2	now
 Olonbulukia_tsaidamensis	extinct	9.5	11.2	now
-Qurliqnoria_sp.	extinct	9.5	11.2	now
 Tossunnoria_pseudibex	extinct	9.5	11.2	now
 Tsaidamotherium_hedini	extinct	9.5	11.2	now
 Sus_scrofa	extant	0.0	0.7	now
@@ -5730,7 +5669,6 @@ Dorcatherium_pigotti	extinct	11.2	15.2	now
 Sanitherium_africanus	extinct	11.2	15.2	now
 Dorcatherium_chappuisi	extinct	11.2	15.2	now
 Climacoceras_gentryi	extinct	11.2	15.2	now
-Libycosaurus_sp.	extinct	11.2	15.2	now
 Walangania_africanus	extinct	11.2	15.2	now
 Kubanochoerus_khinzikebirus	extinct	14.8	16.4	now
 Dorcatherium_pigotti	extinct	14.8	16.4	now
@@ -6065,7 +6003,6 @@ Gazellospira_torticornis	extinct	1.95	2.6	now
 Sus_strozzii	extinct	1.95	2.6	now
 Mitilanotherium_martinii	extinct	1.95	2.6	now
 Gazella_bouvrainae	extinct	1.95	2.6	now
-Gazella_sp.	extinct	1.95	2.6	now
 Eucladoceros_ctenoides	extinct	1.95	2.6	now
 Metacervoceros_rhenanus	extinct	1.95	2.6	now
 Euthyceros_thessalicus	extinct	1.95	2.6	now
@@ -6122,7 +6059,6 @@ Metridiochoerus_andrewsi	extinct	3.0	3.44	now
 Aepyceros_shungurae	extinct	3.0	3.44	now
 Kobus_kob	extant	3.0	3.44	now
 Kobus_ancystrocera	extinct	3.0	3.44	now
-Aepyceros_sp.	extinct	3.0	3.44	now
 Kolpochoerus_heseloni	extinct	3.0	3.44	now
 Giraffa_gracilis	extinct	3.0	3.44	now
 Hippopotamus_shungurensis	extinct	3.0	3.44	now
@@ -6142,7 +6078,6 @@ Kobus_ancystrocera	extinct	2.53	3.07	now
 Kolpochoerus_heseloni	extinct	2.53	3.07	now
 Giraffa_gracilis	extinct	2.53	3.07	now
 Hippopotamus_protamphibius	extinct	2.53	3.07	now
-Menelikia_sp.	extinct	2.53	3.07	now
 Antilope_subtorta	extinct	2.53	3.07	now
 Parmularius_braini	extinct	2.53	3.07	now
 Parmularius_eppsi	extinct	2.53	3.07	now
@@ -6164,7 +6099,6 @@ Tragelaphus_gaudryi	extinct	2.44	2.53	now
 Kolpochoerus_heseloni	extinct	2.44	2.53	now
 Giraffa_gracilis	extinct	2.44	2.53	now
 Hippopotamus_protamphibius	extinct	2.44	2.53	now
-Menelikia_sp.	extinct	2.44	2.53	now
 Giraffa_pygmaea	extinct	2.44	2.53	now
 Giraffa_jumae	extinct	2.32	2.4	now
 Tragelaphus_nakuae	extinct	2.32	2.4	now
@@ -6220,7 +6154,6 @@ Giraffa_gracilis	extinct	1.87	2.27	now
 Hippopotamus_protamphibius	extinct	1.87	2.27	now
 Giraffa_pygmaea	extinct	1.87	2.27	now
 Phacochoerus_antiquus	extinct	1.87	2.27	now
-Notochoerus_sp.	extinct	1.87	2.27	now
 Parmularius_altidens	extinct	1.76	1.87	now
 Metridiochoerus_andrewsi	extinct	1.76	1.87	now
 Aepyceros_shungurae	extinct	1.76	1.87	now
@@ -6266,7 +6199,6 @@ Giraffa_jumae	extinct	3.2	3.446	now
 Tragelaphus_nakuae	extinct	3.2	3.446	now
 Sivatherium_maurusium	extinct	3.2	3.446	now
 Kobus_oricornus	extinct	3.2	3.446	now
-Kobus_sp.	extinct	3.2	3.446	now
 Gazella_praethomsoni	extinct	3.2	3.446	now
 Trilobophorus_afarensis	extinct	3.2	3.446	now
 Notochoerus_euilus	extinct	3.2	3.446	now
@@ -6283,18 +6215,13 @@ Microstonyx_major	extinct	4.2	7.1	now
 Listriodon_splendens	extinct	11.2	15.2	now
 Conohyus_simorrensis	extinct	11.2	15.2	now
 Palaeotragus_coelophrys	extinct	9.428	9.491	now
-Prostrepsiceros_sp.	extinct	9.5	12.5	now
 Protoryx_solignaci	extinct	9.777	10.834	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Hippopotamodon_antiquus	extinct	9.777	10.834	now
-Microstonyx_sp.	extinct	5.3	8.2	now
 Palaeotragus_coelophrys	extinct	9.428	9.735	now
-Prostrepsiceros_sp.	extinct	9.5	11.2	now
-Prostrepsiceros_sp.	extinct	9.5	11.2	now
 Pachytragus_laticeps	extinct	7.892	8.047	now
 Pseudotragus_capricornis	extinct	7.892	8.047	now
 Sinapodorcas_incarinatus	extinct	7.892	8.047	now
-Microstonyx_sp.	extinct	7.892	8.047	now
 Palaeotragus_rouenii	extinct	7.892	8.047	now
 Pseudotragus_capricornis	extinct	7.892	8.047	now
 Pachytragus_laticeps	extinct	7.892	8.047	now
@@ -6310,7 +6237,6 @@ Protoryx_solignaci	extinct	9.777	10.834	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Prostrepsiceros_vallesiensis	extinct	9.0	11.2	now
 Palaeotragus_coelophrys	extinct	9.0	11.2	now
-Prostrepsiceros_sp.	extinct	9.0	11.2	now
 Palaeotragus_coelophrys	extinct	9.069	9.149	now
 Bohlinia_attica	extinct	9.069	9.149	now
 Prostrepsiceros_elegans	extinct	9.069	9.149	now
@@ -6323,20 +6249,17 @@ Pseudotragus_capricornis	extinct	9.0	11.2	now
 Prostrepsiceros_rotundicornis	extinct	8.2	9.5	now
 Protoryx_solignaci	extinct	9.777	10.834	now
 Protoryx_solignaci	extinct	9.777	10.834	now
-Prostrepsiceros_sp.	extinct	9.5	11.2	now
 Palaeotragus_coelophrys	extinct	9.777	10.834	now
 Prostrepsiceros_vallesiensis	extinct	5.3	8.2	now
 Pachytragus_laticeps	extinct	5.3	8.2	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Palaeotragus_coelophrys	extinct	9.735	9.777	now
-Prostrepsiceros_sp.	extinct	9.735	9.777	now
 Palaeotragus_coelophrys	extinct	9.777	10.834	now
 Sinapodorcas_incarinatus	extinct	9.777	10.834	now
 Palaeotragus_coelophrys	extinct	9.777	10.834	now
 Protoryx_solignaci	extinct	9.777	10.834	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Bohlinia_attica	extinct	7.1	11.2	now
-Prostrepsiceros_sp.	extinct	9.0	11.2	now
 Brachyodus_aequatorialis	extinct	14.8	16.4	now
 Hippopotamus_imagunculus	extinct	4.2	5.3	now
 Hippopotamus_imagunculus	extinct	4.2	5.3	now
@@ -6582,8 +6505,6 @@ Brachyodus_intermedius	extinct	18.0	20.0	now
 Orygotherium_tagaiensis	extinct	18.0	20.0	now
 Cervavitus_novorossiae	extinct	8.2	9.0	now
 Palaeotragus_rouenii	extinct	8.2	9.0	now
-Dicrocerus_sp.	extinct	12.5	15.2	now
-Stephanocemas_sp.	extinct	12.5	15.2	now
 Bison_priscus	extinct	0.00325	0.00992	now
 Rangifer_tarandus	extant	0.00325	0.00992	now
 Ovibos_moschatus	extant	0.00325	0.00992	now
@@ -6644,7 +6565,6 @@ Bunolistriodon_adelli	extinct	15.2	17.0	now
 Micromeryx_flourensianus	extinct	15.2	17.0	now
 Tauromeryx_turiasonensis	extinct	15.2	17.0	now
 Pseudoeotragus_seegrabensis	extinct	15.2	17.0	now
-Micromeryx_sp.	extinct	15.2	17.0	now
 Tragoportax_cyrenaicus	extinct	5.3	8.2	now
 Elomeryx_cluai	extinct	30.0	31.0	now
 Cainotherium_gracile	extinct	30.0	31.0	now
@@ -6776,8 +6696,6 @@ Tethytragus_koehleri	extinct	15.2	17.0	now
 Sanitherium_schlagintweiti	extinct	15.2	17.0	now
 Hypsodontus_gaopense	extinct	15.2	17.0	now
 Georgiomeryx_georgialasi	extinct	15.2	17.0	now
-Qurliqnoria_sp.	extinct	3.5	4.2	now
-Sinopalaeoceros_sp.	extinct	23.8	26.0	now
 Hippotragus_gigas	extinct	0.126	0.8	now
 Metridiochoerus_compactus	extinct	0.126	0.8	now
 Connochaetes_taurinus	extant	0.126	0.8	now
@@ -6793,7 +6711,6 @@ Oryx_eleulmensis	extinct	0.126	0.8	now
 Cervus_elaphus	extant	0.427	0.621	now
 Procapreolus_cusanus	extinct	2.33	2.59	now
 Sivachoerus_sindiensis	extinct	7.1	11.2	now
-Microstonyx_sp.	extinct	9.0	9.5	now
 Helladotherium_duvernoyi	extinct	5.3	8.2	now
 Prostrepsiceros_zitteli	extinct	5.3	8.2	now
 Nisidorcas_planicornis	extinct	5.3	8.2	now
@@ -6938,7 +6855,6 @@ Tragoportax_frolovi	extinct	7.1	8.2	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Palaeoryx_pallasi	extinct	7.1	8.2	now
 Palaeoryx_majori	extinct	7.1	8.2	now
-Microstonyx_sp.	extinct	7.1	8.2	now
 Dorcatherium_pigotti	extinct	14.8	16.4	now
 Sanitherium_africanus	extinct	14.8	16.4	now
 Palaeotragus_primaevus	extinct	14.8	16.4	now
@@ -6964,7 +6880,6 @@ Turcocerus_noverca	extinct	11.2	12.5	now
 Listriodon_splendens	extinct	11.2	12.5	now
 Stephanocemas_thomsoni	extinct	11.2	12.5	now
 Dicrocerus_grangeri	extinct	11.2	12.5	now
-Dicrocerus_sp.	extinct	11.2	12.5	now
 Lagomeryx_triacuminatus	extinct	11.2	12.5	now
 Palaeotragus_tungurensis	extinct	11.2	12.5	now
 Turcocerus_noverca	extinct	11.2	12.5	now
@@ -6974,7 +6889,6 @@ Palaeotragus_tungurensis	extinct	11.2	12.5	now
 Turcocerus_noverca	extinct	11.2	12.5	now
 Turcocerus_grangeri	extinct	11.2	12.5	now
 Listriodon_mongolensis	extinct	11.2	12.5	now
-Bunolistriodon_sp.	extinct	239.5	325.6	now
 Bunolistriodon_anchidens	extinct	239.5	325.6	now
 Bunolistriodon_affinis	extinct	239.5	325.6	now
 Bunolistriodon_jeanneli	extinct	239.5	325.6	now
@@ -7005,8 +6919,6 @@ Bison_priscus	extinct	0.01676	0.02283	now
 Capra_sibirica	extant	0.01676	0.02283	now
 Cervus_elaphus	extant	0.01431	0.01431	now
 Bison_priscus	extinct	0.01431	0.01431	now
-Lagomeryx_sp.	extinct	14.8	16.4	now
-Eotragus_sp.	extinct	14.8	16.4	now
 Gobiocerus_mongolicus	extinct	15.6	18.45	now
 Stephanocemas_thomsoni	extinct	15.6	18.45	now
 Cervus_elaphus	extant	0.01	0.036	now
@@ -7034,11 +6946,8 @@ Palaeotragus_germaini	extinct	5.3	6.54	now
 Tragoportax_cyrenaicus	extinct	5.3	6.54	now
 Tragelaphus_kyaloae	extinct	5.3	6.54	now
 Hexaprotodon_harvardi	extinct	5.3	6.54	now
-Tragoportax_sp.	extinct	5.3	6.54	now
-Tragoportax_sp.	extinct	5.3	6.54	now
 Kobus_presigmoidalis	extinct	5.3	6.54	now
 Menelikia_leakeyi	extinct	5.3	6.54	now
-Damalacra_sp.	extinct	5.3	6.54	now
 Aepyceros_premelampus	extinct	5.3	6.54	now
 Nyanzachoerus_australis	extinct	5.3	6.54	now
 Kobus_laticornis	extinct	5.3	6.54	now
@@ -7073,14 +6982,12 @@ Hexaprotodon_protamphibius	extinct	2.6	3.56	now
 Giraffa_jumae	extinct	2.6	3.56	now
 Tragelaphus_nakuae	extinct	2.6	3.56	now
 Sivatherium_maurusium	extinct	2.6	3.56	now
-Aepyceros_sp.	extinct	2.6	3.56	now
 Notochoerus_euilus	extinct	2.6	3.56	now
 Nyanzachoerus_kanamensis	extinct	2.6	3.56	now
 Kolpochoerus_afarensis	extinct	2.6	3.56	now
 Giraffa_jumae	extinct	2.6	3.56	now
 Tragelaphus_nakuae	extinct	2.6	3.56	now
 Sivatherium_maurusium	extinct	2.6	3.56	now
-Aepyceros_sp.	extinct	2.6	3.56	now
 Kolpochoerus_heseloni	extinct	2.6	3.56	now
 Giraffa_gracilis	extinct	2.6	3.56	now
 Hippopotamus_protamphibius	extinct	2.6	3.56	now
@@ -7749,13 +7656,9 @@ Tragelaphus_moroitu	extinct	5.7	5.7	now
 Tragoportax_abyssinicus	extinct	5.7	5.7	now
 Nyanzachoerus_jaegeri	extinct	5.3	7.1	now
 Nyanzachoerus_kanamensis	extinct	5.3	7.1	now
-Kobus_sp.	extinct	5.3	7.1	now
-Kobus_sp.	extinct	5.3	7.1	now
 Hexaprotodon_imagunculus	extinct	5.3	7.1	now
 Hippopotamus_kaisensis	extinct	5.3	7.1	now
-Hippopotamus_sp.	extinct	5.3	7.1	now
 Nyanzachoerus_kanamensis	extinct	5.3	7.1	now
-Simatherium_sp.	extinct	5.3	7.1	now
 Sivachoerus_syrticus	extinct	5.3	7.1	now
 Hippopotamus_gorgops	extinct	2.6	3.56	now
 Kolpochoerus_majus	extinct	2.6	3.56	now
@@ -7763,7 +7666,6 @@ Kobus_ellipsiprymnus	extant	2.6	3.56	now
 Hexaprotodon_imagunculus	extinct	2.6	3.56	now
 Hippopotamus_kaisensis	extinct	2.6	3.56	now
 Hylochoerus_meinertzhageni	extant	2.6	3.56	now
-Gazella_sp.	extinct	2.6	3.56	now
 Nyanzachoerus_jaegeri	extinct	5.3	7.1	now
 Brachyodus_aequatorialis	extinct	16.4	20.5	now
 Kolpochoerus_majus	extinct	2.6	3.56	now
@@ -7777,17 +7679,13 @@ Tragelaphus_nakuae	extinct	2.59	5.33	now
 Hexaprotodon_imagunculus	extinct	2.59	5.33	now
 Hippopotamus_kaisensis	extinct	2.59	5.33	now
 Tragelaphus_nkondoensis	extinct	2.59	5.33	now
-Menelikia_sp.	extinct	2.59	5.33	now
 Potamochoerus_porcus	extant	2.6	3.56	now
-Hippopotamus_sp.	extinct	2.6	3.56	now
 Phacochoerus_aethiopicus	extant	2.6	3.56	now
 Notochoerus_euilus	extinct	2.6	3.56	now
 Giraffa_stillei	extinct	2.6	3.56	now
-Kobus_sp.	extinct	2.6	3.56	now
 Aepyceros_shungurae	extinct	2.6	3.56	now
 Menelikia_lyrocera	extinct	2.6	3.56	now
 Kobus_kob	extant	2.6	3.56	now
-Hippopotamus_sp.	extinct	2.6	3.56	now
 Phacochoerus_aethiopicus	extant	2.6	3.56	now
 Kolpochoerus_phacochoeroides	extinct	2.6	3.56	now
 Pelorovis_kaisensis	extinct	2.6	3.56	now
@@ -7853,7 +7751,6 @@ Sus_scrofa	extant	0.0	0.01	now
 Bos_taurus	extinct	0.0	0.01	now
 Capra_hircus	extinct	0.0	0.01	now
 Neomegaloceros_gracilis	extinct	5.3	7.1	now
-Graecoryx_sp.	extinct	8.2	9.0	now
 Hippopotamus_lemerlei	extinct	0.0	0.01	now
 Bos_indicus	extinct	0.0	0.01	now
 Procamelus_chersonensis	extinct	7.1	13.6	now
@@ -7872,7 +7769,6 @@ Bunolistriodon_lockharti	extinct	17.0	17.0	now
 Dorcatherium_peneckei	extinct	17.0	17.0	now
 Palaeomeryx_kaupi	extinct	17.0	17.0	now
 Sanitherium_schlagintweiti	extinct	17.0	17.0	now
-Dorcatherium_sp.	extinct	17.0	17.0	now
 Hippopotamus_lemerlei	extinct	0.0	0.01	now
 Cervus_pardinensis	extinct	3.4	4.2	now
 Listriodon_splendens	extinct	11.2	12.5	now
@@ -7920,7 +7816,6 @@ Nyanzachoerus_jaegeri	extinct	4.4	4.4	now
 Nyanzachoerus_kanamensis	extinct	4.4	4.4	now
 Kolpochoerus_deheinzelini	extinct	4.4	4.4	now
 Tragelaphus_kyaloae	extinct	4.4	4.4	now
-Ugandax_sp.	extinct	4.4	4.4	now
 Ugandax_gautieri	extinct	4.4	4.4	now
 Kobus_preoricornis	extinct	4.4	4.4	now
 Listriodon_splendens	extinct	12.5	17.0	now
@@ -8008,7 +7903,6 @@ Bison_voigtstedtensis	extinct	0.01	1.95	now
 Cervus_elaphus	extant	0.129	0.364	now
 Bison_priscus	extinct	0.129	0.364	now
 Dama_dama	extant	0.129	0.364	now
-Megaloceros_sp.	extinct	0.129	0.364	now
 Cervus_elaphus	extant	0.129	0.364	now
 Bison_priscus	extinct	0.129	0.364	now
 Dama_dama	extant	0.129	0.364	now
@@ -8052,11 +7946,8 @@ Albanohyus_pygmaeus	extinct	9.5	11.2	now
 Dorcatherium_naui	extinct	9.5	11.2	now
 Palaeomeryx_eminens	extinct	9.5	11.2	now
 Micromeryx_flourensianus	extinct	9.5	11.2	now
-Euprox_sp.	extinct	9.5	11.2	now
-Miotragocerus_sp.	extinct	9.5	11.2	now
 Euprox_furcatus	extinct	11.2	12.5	now
 Protragocerus_chantrei	extinct	11.2	12.5	now
-Graecoryx_sp.	extinct	7.1	9.0	now
 Brachyodus_depereti	extinct	18.0	20.0	now
 Listriodon_splendens	extinct	9.5	12.5	now
 Brachyodus_intermedius	extinct	18.0	20.0	now
@@ -8121,10 +8012,8 @@ Palaeomeryx_kaupi	extinct	17.0	18.0	now
 Shaanxispira_chowi	extinct	7.1	9.5	now
 Palaeotragus_decipiens	extinct	7.1	9.5	now
 Gazella_lydekkeri	extinct	7.1	9.5	now
-Protoryx_sp.	extinct	7.1	9.5	now
 Dorcadoryx_triquetricornis	extinct	7.1	9.5	now
 Schansitherium_tafelli	extinct	7.1	9.5	now
-Shaanxispira_sp.	extinct	7.1	9.5	now
 Alephis_tigneresi	extinct	1.81	2.59	now
 Kolpochoerus_afarensis	extinct	2.6	3.56	now
 Hexaprotodon_protamphibius	extinct	2.6	3.56	now
@@ -8325,7 +8214,6 @@ Listriodon_splendens	extinct	9.5	11.2	now
 Conohyus_simorrensis	extinct	9.5	11.2	now
 Tragoportax_frolovi	extinct	9.0	9.5	now
 Lagomeryx_satensis	extinct	9.0	9.5	now
-Gazella_sp.	extinct	9.0	9.5	now
 Spirocerus_kiakhtensis	extinct	0.01	1.95	now
 Bison_priscus	extinct	0.01	1.95	now
 Bos_primigenius	extinct	0.01	1.95	now
@@ -8523,7 +8411,6 @@ Leptobos_furtivus	extinct	0.01	1.95	now
 Propotamochoerus_provincialis	extinct	4.2	7.1	now
 Hexaprotodon_pantanellii	extinct	4.2	7.1	now
 Euprox_elsanus	extinct	4.2	7.1	now
-Parabos_sp.	extinct	4.2	7.1	now
 Maremmia_hauptii	extinct	7.1	8.2	now
 Umbrotherium_azzarolii	extinct	7.1	8.2	now
 Cervus_elaphus	extant	0.01	1.95	now
@@ -8705,7 +8592,6 @@ Tragoportax_spectabilis	extinct	7.1	8.2	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Palaeoreas_lindermayeri	extinct	7.1	8.2	now
 Palaeoryx_pallasi	extinct	7.1	8.2	now
-Microstonyx_sp.	extinct	7.1	8.2	now
 Microstonyx_major	extinct	7.1	8.2	now
 Bunolistriodon_latidens	extinct	15.2	17.0	now
 Euprox_furcatus	extinct	15.2	17.0	now
@@ -9021,7 +8907,6 @@ Giraffa_jumae	extinct	3.18	3.2	now
 Tragelaphus_nakuae	extinct	3.18	3.2	now
 Sivatherium_maurusium	extinct	3.18	3.2	now
 Kobus_oricornus	extinct	3.18	3.2	now
-Kobus_sp.	extinct	3.18	3.2	now
 Gazella_praethomsoni	extinct	3.18	3.2	now
 Trilobophorus_afarensis	extinct	3.18	3.2	now
 Ugandax_coryndonae	extinct	3.18	3.2	now
@@ -9127,9 +9012,7 @@ Sivatherium_maurusium	extinct	2.6	3.56	now
 Hexaprotodon_afarensis	extinct	2.6	3.56	now
 Praedamalis_howelli	extinct	2.6	3.56	now
 Sus_arvernensis	extinct	3.4	5.3	now
-Microstonyx_sp.	extinct	8.2	9.0	now
 Palaeotragus_germaini	extinct	5.3	11.2	now
-Libycosaurus_sp.	extinct	5.3	11.2	now
 Sivatherium_maurusium	extinct	1.81	2.59	now
 Eucladoceros_senezensis	extinct	1.4	2.131	now
 Cervus_perrieri	extinct	1.4	2.131	now
@@ -9267,7 +9150,6 @@ Microstonyx_major	extinct	7.1	9.88	now
 Palaeotragus_coelophrys	extinct	9.0	9.5	now
 Tragoportax_leskewitschi	extinct	9.0	9.5	now
 Gazella_leilae	extinct	9.0	9.5	now
-Microstonyx_sp.	extinct	9.0	9.5	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Palaeoryx_pallasi	extinct	7.1	8.2	now
 Gazella_gaudryi	extinct	7.1	8.2	now
@@ -9311,7 +9193,6 @@ Procervulus_dichotomus	extinct	17.0	18.0	now
 Amphimoschus_artenensis	extinct	17.0	18.0	now
 Procervulus_praelucidus	extinct	17.0	18.0	now
 Eotragus_artenensis	extinct	17.0	18.0	now
-Eotragus_sp.	extinct	17.0	18.0	now
 Amphitragulus_elegans	extinct	5.3	23.8	now
 Listriodon_splendens	extinct	11.2	12.5	now
 Hispanomeryx_aragonensis	extinct	11.2	12.5	now
@@ -9403,7 +9284,6 @@ Mixtotherium_mezi	extinct	24.6	34.0	now
 Bothriogenys_parvus	extinct	34.0	40.0	now
 Bothriogenys_gorringei	extinct	34.0	40.0	now
 Rhagatherium_aegyptiacum	extinct	24.6	34.0	now
-Bothriogenys_sp.	extinct	24.6	34.0	now
 Microstonyx_etruscus	extinct	7.1	8.2	now
 Tyrrhenotragus_gracillimus	extinct	7.1	8.2	now
 Maremmia_lorenzi	extinct	7.1	8.2	now
@@ -9466,7 +9346,6 @@ Aureliachoerus_aurelianensis	extinct	18.0	20.0	now
 Listriodon_splendens	extinct	11.2	17.0	now
 Conohyus_simorrensis	extinct	11.2	17.0	now
 Dicrocerus_elegans	extinct	11.2	17.0	now
-Robiacina_sp.	extinct	43.6	52.0	now
 Tragoportax_spectabilis	extinct	5.3	9.0	now
 Tragocerus_gregarius	extinct	5.3	9.0	now
 Honanotherium_schlosseri	extinct	5.3	9.0	now
@@ -9671,7 +9550,6 @@ Rupicapra_rupicapra	extant	0.01	1.95	now
 Capra_ibex	extant	0.01	1.95	now
 Listriodon_splendens	extinct	9.5	12.5	now
 Gazella_brevicornis	extinct	9.0	9.5	now
-Microstonyx_sp.	extinct	9.0	9.5	now
 Cervavitus_variabilis	extinct	1.81	2.59	now
 Palaeomeryx_eminens	extinct	15.2	15.85	now
 Micromeryx_flourensianus	extinct	15.2	15.85	now
@@ -9834,7 +9712,6 @@ Listriodon_splendens	extinct	12.5	15.2	now
 Micromeryx_flourensianus	extinct	12.5	15.2	now
 Heteroprox_moralesi	extinct	12.5	15.2	now
 Cainotherium_miocaenicum	extinct	15.2	17.0	now
-Propotamochoerus_sp.	extinct	3.4	5.3	now
 Cervus_elaphus	extant	0.0148	0.03767	now
 Rangifer_tarandus	extant	0.0148	0.03767	now
 Hippopotamus_major	extinct	0.9	1.3	now
@@ -9927,9 +9804,7 @@ Notochoerus_euilus	extinct	2.6	7.1	now
 Nyanzachoerus_jaegeri	extinct	2.6	7.1	now
 Tragelaphus_kyaloae	extinct	2.6	7.1	now
 Hexaprotodon_harvardi	extinct	2.6	7.1	now
-Tragoportax_sp.	extinct	2.6	7.1	now
 Kobus_presigmoidalis	extinct	2.6	7.1	now
-Damalacra_sp.	extinct	2.6	7.1	now
 Aepyceros_premelampus	extinct	2.6	7.1	now
 Kobus_laticornis	extinct	2.6	7.1	now
 Tragelaphus_nakuae	extinct	2.6	7.1	now
@@ -10457,7 +10332,6 @@ Listriodon_splendens	extinct	11.2	12.5	now
 Euryceros_flabellatus	extinct	1.95	3.4	now
 Gazella_sinensis	extinct	1.81	2.59	now
 Metacervoceros_rhenanus	extinct	1.1	1.3	now
-Cervalces_sp.	extinct	1.1	1.3	now
 Microstonyx_major	extinct	8.2	9.0	now
 Palaeoreas_lindermayeri	extinct	8.2	9.0	now
 Microstonyx_major	extinct	8.2	9.0	now
@@ -10487,11 +10361,8 @@ Antidorcas_recki	extinct	0.8	1.8	now
 Tragelaphus_strepsiceros	extant	0.8	1.8	now
 Aepyceros_melampus	extant	0.8	1.8	now
 Connochaetes_gentryi	extinct	0.8	1.8	now
-Damaliscus_sp.	extinct	0.8	1.8	now
 Syncerus_acoelotus	extinct	0.8	1.8	now
 Pelorovis_turkanensis	extinct	0.8	1.8	now
-Tragelaphus_sp.	extinct	0.8	1.8	now
-Hippopotamus_sp.	extinct	0.8	1.8	now
 Kolpochoerus_heseloni	extinct	0.8	1.8	now
 Giraffa_jumae	extinct	0.01	1.95	now
 Kolpochoerus_olduvaiensis	extinct	0.01	1.95	now
@@ -10503,12 +10374,9 @@ Metridiochoerus_hopwoodi	extinct	0.01	1.95	now
 Metridiochoerus_compactus	extinct	0.01	1.95	now
 Connochaetes_gentryi	extinct	0.01	1.95	now
 Syncerus_acoelotus	extinct	0.01	1.95	now
-Hippopotamus_sp.	extinct	0.01	1.95	now
-Damaliscus_sp.	extinct	0.01	1.95	now
 Damaliscus_niro	extinct	0.01	1.95	now
 Rabaticeras_lemutai	extinct	0.01	1.95	now
 Parmularius_angusticornis	extinct	0.01	1.95	now
-Tragelaphus_sp.	extinct	0.01	1.95	now
 Metridiochoerus_modestus	extinct	0.01	1.95	now
 Notochoerus_euilus	extinct	2.59	5.33	now
 Tragelaphus_kyaloae	extinct	2.59	5.33	now
@@ -10545,7 +10413,6 @@ Nyanzachoerus_kanamensis	extinct	4.2	5.3	now
 Paracamelus_gigas	extinct	4.2	5.3	now
 Giraffa_jumae	extinct	4.2	5.3	now
 Kobus_korotorensis	extinct	4.2	5.3	now
-Suinae_sp.	extinct	4.2	5.3	now
 Kobus_ammolophi	extinct	4.2	5.3	now
 Tchadotragus_fanonei	extinct	4.2	5.3	now
 Hexaprotodon_mingoz	extinct	4.2	5.3	now
@@ -10854,7 +10721,6 @@ Madoqua_avifluminis	extinct	2.58	2.66	now
 Tragelaphus_buxtoni	extant	2.58	2.66	now
 Parestigorgon_gadjingeri	extinct	2.58	2.66	now
 Kolpochoerus_heseloni	extinct	2.58	2.66	now
-Antidorcas_sp.	extinct	2.58	2.66	now
 Listriodon_splendens	extinct	11.2	12.5	now
 Micromeryx_flourensianus	extinct	12.5	15.2	now
 Micromeryx_flourensianus	extinct	12.5	17.0	now
@@ -10897,7 +10763,6 @@ Bunolistriodon_lockharti	extinct	15.2	17.0	now
 Propalaeoryx_austroafricanus	extinct	18.0	22.8	now
 Sanitherium_africanus	extinct	18.0	22.8	now
 Cainotherium_laticurvatum	extinct	20.0	22.8	now
-Gazella_sp.	extinct	9.5	11.2	now
 Lantiantragus_longirostralis	extinct	9.5	11.2	now
 Dorcadoryx_triquetricornis	extinct	8.2	9.0	now
 Gazella_lydekkeri	extinct	8.2	9.0	now
@@ -10907,7 +10772,6 @@ Cervavitus_novorossiae	extinct	5.3	7.1	now
 Chleuastochoerus_stehlini	extinct	5.3	7.1	now
 Palaeotragus_microdon	extinct	5.3	7.1	now
 Procapreolus_latifrons	extinct	5.3	7.1	now
-Gazella_sp.	extinct	5.3	7.1	now
 Chleuastochoerus_stehlini	extinct	5.3	7.1	now
 Palaeotragus_microdon	extinct	5.3	7.1	now
 Shaanxispira_baheensis	extinct	7.1	8.2	now
@@ -11069,8 +10933,6 @@ Listriodon_splendens	extinct	11.2	12.5	now
 Turcocerus_lishanensis	extinct	11.2	12.5	now
 Diplobune_secundaria	extinct	34.0	35.0	now
 Anoplotherium_pompeckii	extinct	34.0	35.0	now
-Diplobune_sp.	extinct	34.0	35.0	now
-Diplobune_sp.	extinct	23.8	55.0	now
 Diplobune_secundaria	extinct	34.0	55.0	now
 Paragelocus_scotti	extinct	32.0	33.0	now
 Paragelocus_scotti	extinct	32.0	33.0	now
@@ -11127,7 +10989,6 @@ Dorcatherium_parvum	extinct	17.0	18.0	now
 Hyoboops_moneyi	extinct	17.0	18.0	now
 Nguruwe_kijivium	extinct	17.0	18.0	now
 Tethytragus_koehleri	extinct	11.2	12.5	now
-Eotragus_sp.	extinct	11.2	12.5	now
 Listriodon_splendens	extinct	9.5	12.5	now
 Bison_priscus	extinct	0.0276	0.0402	now
 Gazella_blacki	extinct	1.95	2.6	now
@@ -11212,7 +11073,6 @@ Dremotherium_feignouxi	extinct	20.0	22.8	now
 Andegameryx_laugnacensis	extinct	20.0	22.8	now
 Lorancameryx_pachyostoticus	extinct	20.0	22.8	now
 Brachyodus_onoideus	extinct	20.0	22.8	now
-Xenohyus_sp.	extinct	20.0	22.8	now
 Notochoerus_euilus	extinct	3.4	3.6	now
 Tragelaphus_nakuae	extinct	3.4	3.6	now
 Gazella_granti	extant	3.4	3.6	now
@@ -11255,12 +11115,8 @@ Palaeotragus_germaini	extinct	6.54	7.44	now
 Tragoportax_cyrenaicus	extinct	6.54	7.44	now
 Hexaprotodon_lothagamensis	extinct	6.54	7.44	now
 Hexaprotodon_harvardi	extinct	6.54	7.44	now
-Tragoportax_sp.	extinct	6.54	7.44	now
-Tragoportax_sp.	extinct	6.54	7.44	now
 Kobus_presigmoidalis	extinct	6.54	7.44	now
 Menelikia_leakeyi	extinct	6.54	7.44	now
-Damalacra_sp.	extinct	6.54	7.44	now
-Damalacra_sp.	extinct	6.54	7.44	now
 Aepyceros_premelampus	extinct	6.54	7.44	now
 Conohyus_giganteus	extinct	6.54	7.44	now
 Sivachoerus_syrticus	extinct	6.54	7.44	now
@@ -11285,7 +11141,6 @@ Tragelaphus_spekei	extinct	5.3	7.1	now
 Ugandax_gautieri	extinct	5.3	7.1	now
 Giraffokeryx_punjabiensis	extinct	5.3	7.1	now
 Samotherium_africanum	extinct	5.3	7.1	now
-Cephalophus_sp.	extinct	5.3	7.1	now
 Tragelaphus_spekei	extinct	5.3	7.1	now
 Kobus_porrecticornis	extinct	5.3	7.1	now
 Tragelaphus_spekei	extinct	5.3	7.1	now
@@ -11576,7 +11431,6 @@ Sivatherium_maurusium	extinct	2.6	3.56	now
 Notochoerus_scotti	extinct	2.6	3.56	now
 Kobus_kob	extant	2.6	3.56	now
 Metridiochoerus_jacksoni	extinct	2.6	3.56	now
-Hexaprotodon_sp.	extinct	2.6	3.56	now
 Kolpochoerus_heseloni	extinct	2.6	3.56	now
 Giraffa_pygmaea	extinct	2.6	3.56	now
 Awashia_suwai	extinct	2.6	3.56	now
@@ -11708,7 +11562,6 @@ Palaeotragus_rouenii	extinct	9.0	11.2	now
 Propotamochoerus_provincialis	extinct	5.3	7.1	now
 Hispanodorcas_torrubiae	extinct	5.3	7.1	now
 Pliocervus_matheroni	extinct	5.3	7.1	now
-Pliocervus_sp.	extinct	5.3	7.1	now
 Pliocervus_turolensis	extinct	5.3	7.1	now
 Paracamelus_alutensis	extinct	1.95	3.4	now
 Tetraconodon_minor	extinct	9.5	11.2	now
@@ -11839,7 +11692,6 @@ Sus_scrofa	extant	0.4501	0.474	now
 Bison_schoetensacki	extinct	0.4501	0.474	now
 Capreolus_suessenbornensis	extinct	0.4501	0.474	now
 Tragelaphus_spekei	extinct	6.0	7.0	now
-Madoqua_sp.	extinct	6.0	7.0	now
 Kobus_porrecticornis	extinct	6.0	7.0	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Miotragocerus_valenciennesi	extinct	7.1	8.2	now
@@ -12105,7 +11957,6 @@ Gazella_deperdita	extinct	7.1	9.0	now
 Gazella_schlosseri	extinct	7.1	9.0	now
 Protragelaphus_skouzesi	extinct	7.1	9.0	now
 Samotherium_eminens	extinct	7.1	9.0	now
-Microstonyx_sp.	extinct	7.1	9.0	now
 Palaeotragus_rouenii	extinct	7.1	9.0	now
 Protragelaphus_skouzesi	extinct	8.2	9.0	now
 Cervavitus_variabilis	extinct	5.3	11.467	now
@@ -12279,7 +12130,6 @@ Metridiochoerus_modestus	extinct	1.785	1.845	now
 Damalavus_makapaani	extinct	1.785	1.845	now
 Gazella_gazella	extant	1.785	1.845	now
 Gazella_granti	extant	1.785	1.845	now
-Hippopotamus_sp.	extinct	1.785	1.845	now
 Giraffa_stillei	extinct	1.15	1.785	now
 Giraffa_jumae	extinct	1.15	1.785	now
 Parmularius_altidens	extinct	1.15	1.785	now
@@ -12675,8 +12525,6 @@ Procervulus_dichotomus	extinct	17.0	18.0	now
 Procervulus_praelucidus	extinct	17.0	18.0	now
 Eotragus_artenensis	extinct	17.0	18.0	now
 Oriomeryx_willii	extinct	17.0	18.0	now
-Eotragus_sp.	extinct	17.0	18.0	now
-Amphimoschus_sp.	extinct	17.0	18.0	now
 Andegameryx_serum	extinct	17.0	18.0	now
 Cainotherium_huerzeleri	extinct	12.5	15.2	now
 Lagomeryx_parvulus	extinct	11.2	18.0	now
@@ -12924,7 +12772,6 @@ Sus_scrofa	extant	0.06	0.08	now
 Bubalus_arnee	extant	0.06	0.08	now
 Dama_dama	extant	0.01	1.95	now
 Tragoportax_amalthea	extinct	6.48	7.44	now
-Gazella_sp.	extinct	6.48	7.44	now
 Dicrocerus_elegans	extinct	17.0	20.0	now
 Lagomeryx_colberti	extinct	17.0	20.0	now
 Gazellospira_torticornis	extinct	2.675	3.4	now
@@ -12936,7 +12783,6 @@ Gazella_gaudryi	extinct	7.1	9.0	now
 Leptobos_etruscus	extinct	0.3	3.4	now
 Lagomeryx_tsaidamensis	extinct	12.5	15.2	now
 Olonbulukia_tsaidamensis	extinct	9.5	11.2	now
-Qurliqnoria_sp.	extinct	9.5	11.2	now
 Tossunnoria_pseudibex	extinct	9.5	11.2	now
 Tsaidamotherium_hedini	extinct	9.5	11.2	now
 Sus_scrofa	extant	0.0	0.7	now
@@ -13353,7 +13199,6 @@ Dorcatherium_pigotti	extinct	11.2	15.2	now
 Sanitherium_africanus	extinct	11.2	15.2	now
 Dorcatherium_chappuisi	extinct	11.2	15.2	now
 Climacoceras_gentryi	extinct	11.2	15.2	now
-Libycosaurus_sp.	extinct	11.2	15.2	now
 Walangania_africanus	extinct	11.2	15.2	now
 Kubanochoerus_khinzikebirus	extinct	14.8	16.4	now
 Dorcatherium_pigotti	extinct	14.8	16.4	now
@@ -13688,7 +13533,6 @@ Gazellospira_torticornis	extinct	1.95	2.6	now
 Sus_strozzii	extinct	1.95	2.6	now
 Mitilanotherium_martinii	extinct	1.95	2.6	now
 Gazella_bouvrainae	extinct	1.95	2.6	now
-Gazella_sp.	extinct	1.95	2.6	now
 Eucladoceros_ctenoides	extinct	1.95	2.6	now
 Metacervoceros_rhenanus	extinct	1.95	2.6	now
 Euthyceros_thessalicus	extinct	1.95	2.6	now
@@ -13745,7 +13589,6 @@ Metridiochoerus_andrewsi	extinct	3.0	3.44	now
 Aepyceros_shungurae	extinct	3.0	3.44	now
 Kobus_kob	extant	3.0	3.44	now
 Kobus_ancystrocera	extinct	3.0	3.44	now
-Aepyceros_sp.	extinct	3.0	3.44	now
 Kolpochoerus_heseloni	extinct	3.0	3.44	now
 Giraffa_gracilis	extinct	3.0	3.44	now
 Hippopotamus_shungurensis	extinct	3.0	3.44	now
@@ -13765,7 +13608,6 @@ Kobus_ancystrocera	extinct	2.53	3.07	now
 Kolpochoerus_heseloni	extinct	2.53	3.07	now
 Giraffa_gracilis	extinct	2.53	3.07	now
 Hippopotamus_protamphibius	extinct	2.53	3.07	now
-Menelikia_sp.	extinct	2.53	3.07	now
 Antilope_subtorta	extinct	2.53	3.07	now
 Parmularius_braini	extinct	2.53	3.07	now
 Parmularius_eppsi	extinct	2.53	3.07	now
@@ -13787,7 +13629,6 @@ Tragelaphus_gaudryi	extinct	2.44	2.53	now
 Kolpochoerus_heseloni	extinct	2.44	2.53	now
 Giraffa_gracilis	extinct	2.44	2.53	now
 Hippopotamus_protamphibius	extinct	2.44	2.53	now
-Menelikia_sp.	extinct	2.44	2.53	now
 Giraffa_pygmaea	extinct	2.44	2.53	now
 Giraffa_jumae	extinct	2.32	2.4	now
 Tragelaphus_nakuae	extinct	2.32	2.4	now
@@ -13843,7 +13684,6 @@ Giraffa_gracilis	extinct	1.87	2.27	now
 Hippopotamus_protamphibius	extinct	1.87	2.27	now
 Giraffa_pygmaea	extinct	1.87	2.27	now
 Phacochoerus_antiquus	extinct	1.87	2.27	now
-Notochoerus_sp.	extinct	1.87	2.27	now
 Parmularius_altidens	extinct	1.76	1.87	now
 Metridiochoerus_andrewsi	extinct	1.76	1.87	now
 Aepyceros_shungurae	extinct	1.76	1.87	now
@@ -13889,7 +13729,6 @@ Giraffa_jumae	extinct	3.2	3.446	now
 Tragelaphus_nakuae	extinct	3.2	3.446	now
 Sivatherium_maurusium	extinct	3.2	3.446	now
 Kobus_oricornus	extinct	3.2	3.446	now
-Kobus_sp.	extinct	3.2	3.446	now
 Gazella_praethomsoni	extinct	3.2	3.446	now
 Trilobophorus_afarensis	extinct	3.2	3.446	now
 Notochoerus_euilus	extinct	3.2	3.446	now
@@ -13906,18 +13745,13 @@ Microstonyx_major	extinct	4.2	7.1	now
 Listriodon_splendens	extinct	11.2	15.2	now
 Conohyus_simorrensis	extinct	11.2	15.2	now
 Palaeotragus_coelophrys	extinct	9.428	9.491	now
-Prostrepsiceros_sp.	extinct	9.5	12.5	now
 Protoryx_solignaci	extinct	9.777	10.834	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Hippopotamodon_antiquus	extinct	9.777	10.834	now
-Microstonyx_sp.	extinct	5.3	8.2	now
 Palaeotragus_coelophrys	extinct	9.428	9.735	now
-Prostrepsiceros_sp.	extinct	9.5	11.2	now
-Prostrepsiceros_sp.	extinct	9.5	11.2	now
 Pachytragus_laticeps	extinct	7.892	8.047	now
 Pseudotragus_capricornis	extinct	7.892	8.047	now
 Sinapodorcas_incarinatus	extinct	7.892	8.047	now
-Microstonyx_sp.	extinct	7.892	8.047	now
 Palaeotragus_rouenii	extinct	7.892	8.047	now
 Pseudotragus_capricornis	extinct	7.892	8.047	now
 Pachytragus_laticeps	extinct	7.892	8.047	now
@@ -13933,7 +13767,6 @@ Protoryx_solignaci	extinct	9.777	10.834	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Prostrepsiceros_vallesiensis	extinct	9.0	11.2	now
 Palaeotragus_coelophrys	extinct	9.0	11.2	now
-Prostrepsiceros_sp.	extinct	9.0	11.2	now
 Palaeotragus_coelophrys	extinct	9.069	9.149	now
 Bohlinia_attica	extinct	9.069	9.149	now
 Prostrepsiceros_elegans	extinct	9.069	9.149	now
@@ -13946,20 +13779,17 @@ Pseudotragus_capricornis	extinct	9.0	11.2	now
 Prostrepsiceros_rotundicornis	extinct	8.2	9.5	now
 Protoryx_solignaci	extinct	9.777	10.834	now
 Protoryx_solignaci	extinct	9.777	10.834	now
-Prostrepsiceros_sp.	extinct	9.5	11.2	now
 Palaeotragus_coelophrys	extinct	9.777	10.834	now
 Prostrepsiceros_vallesiensis	extinct	5.3	8.2	now
 Pachytragus_laticeps	extinct	5.3	8.2	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Palaeotragus_coelophrys	extinct	9.735	9.777	now
-Prostrepsiceros_sp.	extinct	9.735	9.777	now
 Palaeotragus_coelophrys	extinct	9.777	10.834	now
 Sinapodorcas_incarinatus	extinct	9.777	10.834	now
 Palaeotragus_coelophrys	extinct	9.777	10.834	now
 Protoryx_solignaci	extinct	9.777	10.834	now
 Pseudotragus_capricornis	extinct	9.777	10.834	now
 Bohlinia_attica	extinct	7.1	11.2	now
-Prostrepsiceros_sp.	extinct	9.0	11.2	now
 Brachyodus_aequatorialis	extinct	14.8	16.4	now
 Hippopotamus_imagunculus	extinct	4.2	5.3	now
 Hippopotamus_imagunculus	extinct	4.2	5.3	now
@@ -14205,8 +14035,6 @@ Brachyodus_intermedius	extinct	18.0	20.0	now
 Orygotherium_tagaiensis	extinct	18.0	20.0	now
 Cervavitus_novorossiae	extinct	8.2	9.0	now
 Palaeotragus_rouenii	extinct	8.2	9.0	now
-Dicrocerus_sp.	extinct	12.5	15.2	now
-Stephanocemas_sp.	extinct	12.5	15.2	now
 Bison_priscus	extinct	0.00325	0.00992	now
 Rangifer_tarandus	extant	0.00325	0.00992	now
 Ovibos_moschatus	extant	0.00325	0.00992	now
@@ -14267,7 +14095,6 @@ Bunolistriodon_adelli	extinct	15.2	17.0	now
 Micromeryx_flourensianus	extinct	15.2	17.0	now
 Tauromeryx_turiasonensis	extinct	15.2	17.0	now
 Pseudoeotragus_seegrabensis	extinct	15.2	17.0	now
-Micromeryx_sp.	extinct	15.2	17.0	now
 Tragoportax_cyrenaicus	extinct	5.3	8.2	now
 Elomeryx_cluai	extinct	30.0	31.0	now
 Cainotherium_gracile	extinct	30.0	31.0	now
@@ -14399,8 +14226,6 @@ Tethytragus_koehleri	extinct	15.2	17.0	now
 Sanitherium_schlagintweiti	extinct	15.2	17.0	now
 Hypsodontus_gaopense	extinct	15.2	17.0	now
 Georgiomeryx_georgialasi	extinct	15.2	17.0	now
-Qurliqnoria_sp.	extinct	3.5	4.2	now
-Sinopalaeoceros_sp.	extinct	23.8	26.0	now
 Hippotragus_gigas	extinct	0.126	0.8	now
 Metridiochoerus_compactus	extinct	0.126	0.8	now
 Connochaetes_taurinus	extant	0.126	0.8	now
@@ -14416,7 +14241,6 @@ Oryx_eleulmensis	extinct	0.126	0.8	now
 Cervus_elaphus	extant	0.427	0.621	now
 Procapreolus_cusanus	extinct	2.33	2.59	now
 Sivachoerus_sindiensis	extinct	7.1	11.2	now
-Microstonyx_sp.	extinct	9.0	9.5	now
 Helladotherium_duvernoyi	extinct	5.3	8.2	now
 Prostrepsiceros_zitteli	extinct	5.3	8.2	now
 Nisidorcas_planicornis	extinct	5.3	8.2	now
@@ -14561,7 +14385,6 @@ Tragoportax_frolovi	extinct	7.1	8.2	now
 Gazella_deperdita	extinct	7.1	8.2	now
 Palaeoryx_pallasi	extinct	7.1	8.2	now
 Palaeoryx_majori	extinct	7.1	8.2	now
-Microstonyx_sp.	extinct	7.1	8.2	now
 Dorcatherium_pigotti	extinct	14.8	16.4	now
 Sanitherium_africanus	extinct	14.8	16.4	now
 Palaeotragus_primaevus	extinct	14.8	16.4	now
@@ -14587,7 +14410,6 @@ Turcocerus_noverca	extinct	11.2	12.5	now
 Listriodon_splendens	extinct	11.2	12.5	now
 Stephanocemas_thomsoni	extinct	11.2	12.5	now
 Dicrocerus_grangeri	extinct	11.2	12.5	now
-Dicrocerus_sp.	extinct	11.2	12.5	now
 Lagomeryx_triacuminatus	extinct	11.2	12.5	now
 Palaeotragus_tungurensis	extinct	11.2	12.5	now
 Turcocerus_noverca	extinct	11.2	12.5	now
@@ -14597,7 +14419,6 @@ Palaeotragus_tungurensis	extinct	11.2	12.5	now
 Turcocerus_noverca	extinct	11.2	12.5	now
 Turcocerus_grangeri	extinct	11.2	12.5	now
 Listriodon_mongolensis	extinct	11.2	12.5	now
-Bunolistriodon_sp.	extinct	239.5	325.6	now
 Bunolistriodon_anchidens	extinct	239.5	325.6	now
 Bunolistriodon_affinis	extinct	239.5	325.6	now
 Bunolistriodon_jeanneli	extinct	239.5	325.6	now
@@ -14628,8 +14449,6 @@ Bison_priscus	extinct	0.01676	0.02283	now
 Capra_sibirica	extant	0.01676	0.02283	now
 Cervus_elaphus	extant	0.01431	0.01431	now
 Bison_priscus	extinct	0.01431	0.01431	now
-Lagomeryx_sp.	extinct	14.8	16.4	now
-Eotragus_sp.	extinct	14.8	16.4	now
 Gobiocerus_mongolicus	extinct	15.6	18.45	now
 Stephanocemas_thomsoni	extinct	15.6	18.45	now
 Cervus_elaphus	extant	0.01	0.036	now
@@ -14657,11 +14476,8 @@ Palaeotragus_germaini	extinct	5.3	6.54	now
 Tragoportax_cyrenaicus	extinct	5.3	6.54	now
 Tragelaphus_kyaloae	extinct	5.3	6.54	now
 Hexaprotodon_harvardi	extinct	5.3	6.54	now
-Tragoportax_sp.	extinct	5.3	6.54	now
-Tragoportax_sp.	extinct	5.3	6.54	now
 Kobus_presigmoidalis	extinct	5.3	6.54	now
 Menelikia_leakeyi	extinct	5.3	6.54	now
-Damalacra_sp.	extinct	5.3	6.54	now
 Aepyceros_premelampus	extinct	5.3	6.54	now
 Nyanzachoerus_australis	extinct	5.3	6.54	now
 Kobus_laticornis	extinct	5.3	6.54	now
@@ -14696,14 +14512,12 @@ Hexaprotodon_protamphibius	extinct	2.6	3.56	now
 Giraffa_jumae	extinct	2.6	3.56	now
 Tragelaphus_nakuae	extinct	2.6	3.56	now
 Sivatherium_maurusium	extinct	2.6	3.56	now
-Aepyceros_sp.	extinct	2.6	3.56	now
 Notochoerus_euilus	extinct	2.6	3.56	now
 Nyanzachoerus_kanamensis	extinct	2.6	3.56	now
 Kolpochoerus_afarensis	extinct	2.6	3.56	now
 Giraffa_jumae	extinct	2.6	3.56	now
 Tragelaphus_nakuae	extinct	2.6	3.56	now
 Sivatherium_maurusium	extinct	2.6	3.56	now
-Aepyceros_sp.	extinct	2.6	3.56	now
 Kolpochoerus_heseloni	extinct	2.6	3.56	now
 Giraffa_gracilis	extinct	2.6	3.56	now
 Hippopotamus_protamphibius	extinct	2.6	3.56	now

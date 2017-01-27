@@ -128,7 +128,6 @@ Semigenetta_sansaniensis	extinct	11.2	12.5	now
 Ursavus_brevirhinus	extinct	11.2	12.5	now
 Leptoplesictis_filholi	extinct	11.2	12.5	now
 Ictitherium_ebu	extinct	4.2	5.3	now
-Dinofelis_sp.	extinct	4.2	5.3	now
 Ikelohyaena_abronia	extinct	4.2	5.3	now
 Amphicyon_major	extinct	12.5	15.2	now
 Vulpes_vulpes	extant	0.0	2.58	now
@@ -234,23 +233,17 @@ Panthera_leo	extant	0.129	0.364	now
 Felis_silvestris	extant	0.129	0.364	now
 Cuon_alpinus	extant	0.129	0.364	now
 Lynx_pardinus	extant	0.129	0.364	now
-Crocuta_sp.	extinct	0.129	0.364	now
-Mustela_sp.	extinct	0.129	0.364	now
 Vulpes_vulpes	extant	0.129	0.364	now
 Panthera_leo	extant	0.129	0.364	now
 Ursus_spelaeus	extinct	0.129	0.364	now
 Panthera_leo	extant	0.129	0.364	now
 Vulpes_vulpes	extant	0.129	0.364	now
-Crocuta_sp.	extinct	0.129	0.364	now
 Vulpes_vulpes	extant	0.129	0.364	now
 Cuon_alpinus	extant	0.129	0.364	now
 Lynx_pardinus	extant	0.129	0.364	now
-Mustela_sp.	extinct	0.129	0.364	now
 Dinocrocuta_robusta	extinct	9.5	11.2	now
 Thalassictis_montadai	extinct	9.5	11.2	now
 Sansanosmilus_vallesiensis	extinct	9.5	11.2	now
-Semigenetta_sp.	extinct	9.5	11.2	now
-Plesiogulo_sp.	extinct	9.5	11.2	now
 Indarctos_atticus	extinct	7.1	9.0	now
 Cynelos_schlosseri	extinct	18.0	20.0	now
 Palaeogale_hyaenoides	extinct	18.0	20.0	now
@@ -295,7 +288,6 @@ Tyrrhenolutra_helbingi	extinct	7.1	9.0	now
 Enhydriodon_campanii	extinct	7.1	8.2	now
 Metailurus_major	extinct	5.3	7.1	now
 Plesiogulo_crassa	extinct	5.3	7.1	now
-Viverra_sp.	extinct	5.3	7.1	now
 Crocuta_crocuta	extant	0.087	0.087	now
 Canis_lupus	extant	0.087	0.087	now
 Canis_lupus	extant	0.0	0.01	now
@@ -467,8 +459,6 @@ Amphicyon_giganteus	extinct	15.2	17.0	now
 Mellivora_benfieldi	extinct	5.3	7.1	now
 Plioviverrops_faventinus	extinct	5.3	7.1	now
 Eucyon_monticinensis	extinct	5.3	7.1	now
-Felis_sp.	extinct	5.3	7.1	now
-Lycyaena_sp.	extinct	5.3	7.1	now
 Panthera_leo	extant	0.0	2.58	now
 Panthera_pardus	extant	0.0	2.58	now
 Canis_adustus	extant	0.0	2.58	now
@@ -781,7 +771,6 @@ Paraenhydriodon_csakvarensis	extinct	8.2	9.0	now
 Paralutra_transdanubica	extinct	8.2	9.0	now
 Simocyon_hungaricus	extinct	8.2	9.0	now
 Protictitherium_csakvarense	extinct	8.2	9.0	now
-Hyaenictitherium_sp.	extinct	8.2	9.0	now
 Baranogale_beremendensis	extinct	3.4	4.2	now
 Xenictis_pilgrimi	extinct	3.4	4.2	now
 Mustela_palerminea	extinct	3.4	4.2	now
@@ -813,7 +802,6 @@ Amphimachairodus_giganteus	extinct	7.1	8.2	now
 Phoberocyon_aurelianensis	extinct	18.0	20.0	now
 Amphicticeps_shackelfordi	extinct	23.8	24.6	now
 Pliocrocuta_perrieri	extinct	3.18	3.2	now
-Enhydriodon_sp.	extinct	3.18	3.2	now
 Cynelos_schlosseri	extinct	18.0	20.0	now
 Hemicyon_gargan	extinct	18.0	20.0	now
 Ursavus_isorei	extinct	18.0	20.0	now
@@ -905,7 +893,6 @@ Indarctos_arctoides	extinct	8.2	9.0	now
 Eomellivora_wimani	extinct	8.2	9.0	now
 Allohyaena_kadici	extinct	8.2	9.0	now
 Ursavus_depereti	extinct	8.2	9.0	now
-Dinocrocuta_sp.	extinct	8.2	9.0	now
 Taxodon_hessicum	extinct	8.2	9.0	now
 Canis_mosbachensis	extinct	0.78	1.95	now
 Ursus_deningeri	extinct	0.78	1.95	now
@@ -956,8 +943,6 @@ Metailurus_parvulus	extinct	5.3	7.1	now
 Hyaenictitherium_hyaenoides	extinct	5.3	7.1	now
 Paludolutra_lluecai	extinct	5.3	7.1	now
 Sivaonyx_lehmani	extinct	5.3	7.1	now
-Ictitherium_sp.	extinct	5.3	7.1	now
-Lycyaena_sp.	extinct	5.3	7.1	now
 Hyaenictitherium_hipparionum	extinct	5.3	7.1	now
 Metailurus_acerensis	extinct	5.3	7.1	now
 Martes_munki	extinct	17.0	18.0	now
@@ -1011,7 +996,6 @@ Palaeomeles_pachecoi	extinct	11.2	12.5	now
 Ictitherium_aguirrei	extinct	11.2	12.5	now
 Lynx_issiodorensis	extinct	3.0	3.4	now
 Protictitherium_aegaeum	extinct	5.3	9.0	now
-Parataxidea_sp.	extinct	7.1	9.0	now
 Protictitherium_crassum	extinct	9.5	11.2	now
 Miomachairodus_pseudailuroides	extinct	9.5	11.2	now
 Dinocrocuta_senyureki	extinct	9.5	11.2	now
@@ -1123,7 +1107,6 @@ Martes_martes	extant	0.011	2.6	now
 Mustela_putorius	extant	0.011	2.6	now
 Hadrictis_fricki	extinct	9.5	11.2	now
 Homotherium_crenatidens	extinct	3.6	5.33	now
-Nyctereutes_sp.	extinct	3.4	4.2	now
 Pliocrocuta_perrieri	extinct	3.4	5.3	now
 Paralutra_garganensis	extinct	4.2	7.1	now
 Canis_lupus	extant	0.01	0.115	now
@@ -1234,7 +1217,6 @@ Vulpes_alopecoides	extinct	2.6	3.4	now
 Lynx_issiodorensis	extinct	2.6	3.4	now
 Pliocrocuta_perrieri	extinct	2.6	3.4	now
 Chasmaporthetes_lunensis	extinct	2.6	3.4	now
-Canis_sp.	extinct	2.6	3.4	now
 Pliocrocuta_perrieri	extinct	2.6	3.4	now
 Vulpes_praecorsac	extinct	2.6	3.4	now
 Pliocrocuta_perrieri	extinct	3.4	4.2	now
@@ -1383,7 +1365,6 @@ Parahyaena_brunnea	extant	0.01	1.95	now
 Lycaon_picta	extinct	0.01	1.95	now
 Leptailurus_serval	extant	0.01	1.95	now
 Lokotunjailurus_emageritus	extinct	2.6	7.1	now
-Dinofelis_sp.	extinct	2.6	7.1	now
 Plithocyon_armagnacensis	extinct	11.2	12.5	now
 Pseudaelurus_quadridentatus	extinct	11.2	12.5	now
 Styriofelis_lorteti	extinct	11.2	12.5	now
@@ -1451,8 +1432,6 @@ Ursus_deningeri	extinct	0.3	1.95	now
 Panthera_pardus	extant	0.3	1.95	now
 Homotherium_latidens	extinct	0.3	1.95	now
 Parailurus_anglicus	extinct	3.4	4.2	now
-Lutra_sp.	extinct	3.4	4.2	now
-Lutra_sp.	extinct	3.4	4.2	now
 Hesperoviverra_carpathorum	extinct	3.4	4.2	now
 Vulpes_vulpes	extant	0.045	0.08	now
 Crocuta_crocuta	extant	0.045	0.08	now
@@ -1514,7 +1493,6 @@ Dinofelis_piveteaui	extinct	0.01	1.95	now
 Enhydriodon_ekecaman	extinct	4.07	4.17	now
 Parahyaena_howelli	extinct	4.07	4.17	now
 Dinofelis_petteri	extinct	4.07	4.17	now
-Genetta_sp.	extinct	4.07	4.17	now
 Panthera_tigris	extant	0.01	1.95	now
 Trochictis_carbonaria	extinct	15.2	17.0	now
 Adcrocuta_eximia	extinct	5.3	7.1	now
@@ -1599,7 +1577,6 @@ Pachycrocuta_brevirostris	extinct	2.6	3.4	now
 Hyaenictitherium_namaquensis	extinct	1.81	2.59	now
 Sivaonyx_africana	extinct	1.81	2.59	now
 Adcrocuta_eximia	extinct	8.2	9.0	now
-Ictitherium_sp.	extinct	8.2	9.0	now
 Panthera_tigris	extant	0.01	1.95	now
 Mustela_sibiricus	extinct	0.01	1.95	now
 Ursus_thibetanus	extant	0.01	1.95	now
@@ -1614,7 +1591,6 @@ Dinofelis_piveteaui	extinct	0.01	1.95	now
 Canis_etruscus	extinct	2.192	2.917	now
 Canis_chihliensis	extinct	2.192	2.917	now
 Pachycrocuta_brevirostris	extinct	2.192	2.917	now
-Enhydriodon_sp.	extinct	3.0	3.5	now
 Vulpes_vulpes	extant	0.03	0.15	now
 Crocuta_crocuta	extant	0.03	0.15	now
 Canis_lupus	extant	0.03	0.15	now
@@ -1878,7 +1854,6 @@ Protictitherium_crassum	extinct	11.2	12.5	now
 Plioviverrops_gaudryi	extinct	11.2	12.5	now
 Styriofelis_turnauensis	extinct	11.2	12.5	now
 Protictitherium_gaillardi	extinct	11.2	12.5	now
-Percrocuta_sp.	extinct	11.2	12.5	now
 Proputorius_pusillus	extinct	11.2	12.5	now
 Leptoplesictis_filholi	extinct	11.2	12.5	now
 Rhodanictis_depereti	extinct	11.2	12.5	now
@@ -1976,7 +1951,6 @@ Nyctereutes_barryi	extinct	1.81	2.59	now
 Herpestes_palaeoserengetensis	extinct	1.81	2.59	now
 Herpestes_ichneumon	extant	1.81	2.59	now
 Mungos_dietrichi	extinct	1.81	2.59	now
-Mungos_sp.	extinct	1.81	2.59	now
 Crocuta_dietrichi	extinct	1.81	2.59	now
 Lycyaenops_silberbergi	extinct	1.81	2.59	now
 Pachycrocuta_brevirostris	extinct	0.78	0.984	now
@@ -2178,8 +2152,6 @@ Xenocyon_dubius	extinct	0.0	0.7	now
 Panthera_pardus	extant	0.0	0.7	now
 Enhydrictis_ardea	extinct	1.95	3.4	now
 Pachycrocuta_brevirostris	extinct	1.95	3.4	now
-Canis_sp.	extinct	1.95	3.4	now
-Canis_sp.	extinct	1.95	3.4	now
 Vulpes_vulpes	extant	0.0	0.01	now
 Ursus_arctos	extant	0.0	0.01	now
 Mustela_erminea	extant	0.0	0.01	now
@@ -2278,8 +2250,6 @@ Metailurus_parvulus	extinct	7.1	8.2	now
 Paludolutra_lluecai	extinct	7.1	8.2	now
 Baranogale_adroveri	extinct	7.1	8.2	now
 Plioviverrops_guerini	extinct	7.1	8.2	now
-Ictitherium_sp.	extinct	7.1	8.2	now
-Lycyaena_sp.	extinct	7.1	8.2	now
 Hyaenictitherium_hipparionum	extinct	7.1	8.2	now
 Hyaenictitherium_wongii	extinct	7.1	8.2	now
 Eucyon_cipio	extinct	7.1	8.2	now
@@ -2290,8 +2260,6 @@ Protictitherium_crassum	extinct	9.5	11.2	now
 Machairodus_aphanistus	extinct	9.5	11.2	now
 Thaumastocyon_dirus	extinct	9.5	11.2	now
 Machairodus_alberdiae	extinct	9.5	11.2	now
-Plioviverrops_sp.	extinct	9.5	11.2	now
-Hyaenictitherium_sp.	extinct	9.5	11.2	now
 Eomellivora_wimani	extinct	9.5	11.2	now
 Magericyon_castellanus	extinct	9.5	11.2	now
 Magericyon_anceps	extinct	9.5	11.2	now
@@ -2310,10 +2278,8 @@ Hyaenictitherium_parvum	extinct	6.54	7.44	now
 Viverra_leakeyi	extinct	6.54	7.44	now
 Ekorus_ekakoran	extinct	6.54	7.44	now
 Vishnuonyx_angololensis	extinct	6.54	7.44	now
-Genetta_sp.	extinct	6.54	7.44	now
 Ictitherium_ebu	extinct	6.54	7.44	now
 Lokotunjailurus_emageritus	extinct	6.54	7.44	now
-Dinofelis_sp.	extinct	6.54	7.44	now
 Ikelohyaena_abronia	extinct	6.54	7.44	now
 Martes_laevidens	extinct	18.0	20.0	now
 Hemicyon_sansaniensis	extinct	15.2	17.0	now
@@ -2505,12 +2471,10 @@ Ictitherium_intuberculatum	extinct	9.0	11.2	now
 Eomellivora_piveteaui	extinct	9.0	11.2	now
 Barbourofelis_piveteaui	extinct	9.0	11.2	now
 Amphimachairodus_giganteus	extinct	5.3	7.1	now
-Ictitherium_sp.	extinct	5.3	7.1	now
 Hyaenictitherium_hipparionum	extinct	5.3	7.1	now
 Ailuropoda_melanoleuca	extant	0.01	1.95	now
 Adcrocuta_eximia	extinct	7.1	8.2	now
 Felis_attica	extinct	7.1	8.2	now
-Ictitherium_sp.	extinct	7.1	8.2	now
 Dinofelis_cristata	extinct	7.1	8.2	now
 Pseudocyon_steinheimensis	extinct	17.0	18.0	now
 Stromeriella_franconica	extinct	17.0	18.0	now
@@ -2584,7 +2548,6 @@ Protictitherium_crassum	extinct	9.0	9.5	now
 Machairodus_aphanistus	extinct	9.0	9.5	now
 Ictitherium_viverrinum	extinct	9.0	9.5	now
 Metailurus_parvulus	extinct	9.0	9.5	now
-Simocyon_sp.	extinct	9.0	9.5	now
 Indarctos_arctoides	extinct	9.0	9.5	now
 Styriofelis_lorteti	extinct	15.2	17.0	now
 Felis_attica	extinct	5.3	9.0	now
@@ -2670,7 +2633,6 @@ Mungos_dietrichi	extinct	0.01	1.95	now
 Canis_africanus	extinct	0.01	1.95	now
 Herpestes_palaeogracilis	extinct	0.01	1.95	now
 Percrocuta_tobieni	extinct	7.1	12.5	now
-Mellivora_sp.	extinct	7.1	12.5	now
 Tugenictis_ngororaensis	extinct	11.2	14.8	now
 Agnotherium_kiptalami	extinct	11.2	14.8	now
 Vishnuonyx_chinjiensis	extinct	11.2	14.8	now
@@ -3496,7 +3458,6 @@ Pseudocyon_sansaniensis	extinct	12.5	15.2	now
 Pseudarctos_bavaricus	extinct	12.5	15.2	now
 Alopecocyon_leptorhynchus	extinct	12.5	15.2	now
 Plithocyon_armagnacensis	extinct	12.5	15.2	now
-Hemicyon_sp.	extinct	12.5	15.2	now
 Pseudaelurus_quadridentatus	extinct	12.5	15.2	now
 Styriofelis_lorteti	extinct	12.5	15.2	now
 Sansanosmilus_palmidens	extinct	12.5	15.2	now
@@ -3677,7 +3638,6 @@ Hyaena_hyaena	extant	1.87	2.27	now
 Helogale_hirtula	extant	1.87	2.27	now
 Panthera_tigris	extant	0.01	1.95	now
 Helarctos_malayanus	extant	0.01	1.95	now
-Enhydriodon_sp.	extinct	3.2	3.446	now
 Canis_mesomelas	extant	3.2	3.446	now
 Lynx_pardinus	extant	0.01	1.95	now
 Styriofelis_lorteti	extinct	17.0	18.0	now
@@ -3793,7 +3753,6 @@ Melidellavus_leptorhynchus	extinct	11.2	12.5	now
 Semigenetta_sansaniensis	extinct	11.2	12.5	now
 Paralutra_jaegeri	extinct	11.2	12.5	now
 Ischyrictis_mustelinus	extinct	11.2	12.5	now
-Proputorius_sp.	extinct	11.2	12.5	now
 Trochotherium_cyamoides	extinct	11.2	12.5	now
 Trocharion_albanense	extinct	11.2	12.5	now
 Martes_filholi	extinct	11.2	12.5	now
@@ -3851,7 +3810,6 @@ Meles_meles	extant	0.4501	0.474	now
 Lutra_lutra	extant	0.4501	0.474	now
 Felis_attica	extinct	9.0	11.2	now
 Protictitherium_sumegense	extinct	9.0	11.2	now
-Ictitherium_sp.	extinct	9.0	11.2	now
 Nyctereutes_sinensis	extinct	1.2	1.8	now
 Ursus_spelaeus	extinct	0.364	0.427	now
 Canis_mesomelas	extant	0.8	1.8	now
@@ -4011,7 +3969,6 @@ Arctonyx_collaris	extant	0.6	1.3	now
 Paradoxurus_hermaphroditus	extant	0.6	1.3	now
 Lophocyon_paraskevaidisi	extinct	15.2	17.0	now
 Nyctereutes_tingi	extinct	3.5	4.2	now
-Panthera_sp.	extinct	3.5	4.2	now
 Crocuta_crocuta	extant	0.126	0.8	now
 Panthera_leo	extant	0.126	0.8	now
 Canis_adustus	extant	0.126	0.8	now
@@ -4198,9 +4155,7 @@ Paramachaerodus_orientalis	extinct	7.1	8.2	now
 Hyaenictitherium_wongii	extinct	7.1	8.2	now
 Hyaenictitherium_parvum	extinct	5.3	6.54	now
 Lokotunjailurus_emageritus	extinct	5.3	6.54	now
-Dinofelis_sp.	extinct	5.3	6.54	now
 Erokomellivora_lothagamensis	extinct	5.3	6.54	now
-Genetta_sp.	extinct	5.3	6.54	now
 Bonisicyon_illacabo	extinct	5.3	6.54	now
 Vulpes_vulpes	extant	0.003	0.007	now
 Canis_lupus	extant	0.003	0.007	now
@@ -4233,7 +4188,6 @@ Enhydrictis_ardea	extinct	1.95	2.6	now
 Martes_wenzensis	extinct	1.95	2.6	now
 Ursus_minimus	extinct	1.95	2.6	now
 Vormela_petenyii	extinct	1.95	2.6	now
-Baranogale_sp.	extinct	1.95	2.6	now
 Baranogale_balkanica	extinct	1.95	2.6	now
 Nyctereutes_tingi	extinct	1.95	2.6	now
 Lynx_issiodorensis	extinct	1.95	2.6	now
@@ -4278,7 +4232,6 @@ Hyaenictitherium_hyaenoides	extinct	5.3	7.1	now
 Agriotherium_roblesi	extinct	5.3	7.1	now
 Plesiogulo_monspessulanus	extinct	5.3	7.1	now
 Meiniogale_getti	extinct	5.3	7.1	now
-Ictitherium_sp.	extinct	5.3	7.1	now
 Nyctereutes_donnezani	extinct	5.3	7.1	now
 Felis_christoli	extinct	5.3	7.1	now
 Paramachaerodus_maximiliani	extinct	5.3	7.1	now
@@ -4382,7 +4335,6 @@ Canis_lupus	extant	0.009375	0.02449	now
 Ursus_arctos	extant	0.009375	0.02449	now
 Mustela_nivalis	extant	0.009375	0.02449	now
 Percrocuta_algeriensis	extinct	1.81	2.59	now
-Cynelos_sp.	extinct	16.4	20.5	now
 Herpestides_aegypticus	extinct	16.4	20.5	now
 Ketketictis_solida	extinct	16.4	20.5	now
 Moghradictis_nedjema	extinct	16.4	20.5	now
@@ -4500,12 +4452,9 @@ Eomellivora_wimani	extinct	8.2	9.0	now
 Indarctos_sinensis	extinct	8.2	9.0	now
 Paramachaerodus_maximiliani	extinct	8.2	9.0	now
 Parataxidea_sinensis	extinct	8.2	9.0	now
-Ailurarctos_sp.	extinct	8.2	9.0	now
-Trochotherium_sp.	extinct	8.2	9.0	now
 Metailurus_parvulus	extinct	8.2	9.0	now
 Indarctos_sinensis	extinct	8.2	9.0	now
 Paramachaerodus_maximiliani	extinct	8.2	9.0	now
-Ailurarctos_sp.	extinct	8.2	9.0	now
 Canis_lupus	extant	0.01372	0.01487	now
 Ursus_arctos	extant	0.01372	0.01487	now
 Vulpes_lagopus	extant	0.01372	0.01487	now
@@ -4523,8 +4472,6 @@ Chasmaporthetes_lunensis	extinct	3.4	5.3	now
 Eucyon_zhoui	extinct	3.4	5.3	now
 Nyctereutes_tingi	extinct	3.4	5.3	now
 Indarctos_maraghanus	extinct	5.3	7.1	now
-Thalassictis_sp.	extinct	5.3	7.1	now
-Adcrocuta_sp.	extinct	5.3	7.1	now
 Eucyon_davisi	extinct	3.4	5.3	now
 Nyctereutes_tingi	extinct	3.4	5.3	now
 Nyctereutes_tingi	extinct	2.6	3.4	now
@@ -4740,7 +4687,6 @@ Semigenetta_sansaniensis	extinct	11.2	12.5	now
 Ursavus_brevirhinus	extinct	11.2	12.5	now
 Leptoplesictis_filholi	extinct	11.2	12.5	now
 Ictitherium_ebu	extinct	4.2	5.3	now
-Dinofelis_sp.	extinct	4.2	5.3	now
 Ikelohyaena_abronia	extinct	4.2	5.3	now
 Amphicyon_major	extinct	12.5	15.2	now
 Vulpes_vulpes	extant	0.0	2.58	now
@@ -4846,23 +4792,17 @@ Panthera_leo	extant	0.129	0.364	now
 Felis_silvestris	extant	0.129	0.364	now
 Cuon_alpinus	extant	0.129	0.364	now
 Lynx_pardinus	extant	0.129	0.364	now
-Crocuta_sp.	extinct	0.129	0.364	now
-Mustela_sp.	extinct	0.129	0.364	now
 Vulpes_vulpes	extant	0.129	0.364	now
 Panthera_leo	extant	0.129	0.364	now
 Ursus_spelaeus	extinct	0.129	0.364	now
 Panthera_leo	extant	0.129	0.364	now
 Vulpes_vulpes	extant	0.129	0.364	now
-Crocuta_sp.	extinct	0.129	0.364	now
 Vulpes_vulpes	extant	0.129	0.364	now
 Cuon_alpinus	extant	0.129	0.364	now
 Lynx_pardinus	extant	0.129	0.364	now
-Mustela_sp.	extinct	0.129	0.364	now
 Dinocrocuta_robusta	extinct	9.5	11.2	now
 Thalassictis_montadai	extinct	9.5	11.2	now
 Sansanosmilus_vallesiensis	extinct	9.5	11.2	now
-Semigenetta_sp.	extinct	9.5	11.2	now
-Plesiogulo_sp.	extinct	9.5	11.2	now
 Indarctos_atticus	extinct	7.1	9.0	now
 Cynelos_schlosseri	extinct	18.0	20.0	now
 Palaeogale_hyaenoides	extinct	18.0	20.0	now
@@ -4907,7 +4847,6 @@ Tyrrhenolutra_helbingi	extinct	7.1	9.0	now
 Enhydriodon_campanii	extinct	7.1	8.2	now
 Metailurus_major	extinct	5.3	7.1	now
 Plesiogulo_crassa	extinct	5.3	7.1	now
-Viverra_sp.	extinct	5.3	7.1	now
 Crocuta_crocuta	extant	0.087	0.087	now
 Canis_lupus	extant	0.087	0.087	now
 Canis_lupus	extant	0.0	0.01	now
@@ -5079,8 +5018,6 @@ Amphicyon_giganteus	extinct	15.2	17.0	now
 Mellivora_benfieldi	extinct	5.3	7.1	now
 Plioviverrops_faventinus	extinct	5.3	7.1	now
 Eucyon_monticinensis	extinct	5.3	7.1	now
-Felis_sp.	extinct	5.3	7.1	now
-Lycyaena_sp.	extinct	5.3	7.1	now
 Panthera_leo	extant	0.0	2.58	now
 Panthera_pardus	extant	0.0	2.58	now
 Canis_adustus	extant	0.0	2.58	now
@@ -5393,7 +5330,6 @@ Paraenhydriodon_csakvarensis	extinct	8.2	9.0	now
 Paralutra_transdanubica	extinct	8.2	9.0	now
 Simocyon_hungaricus	extinct	8.2	9.0	now
 Protictitherium_csakvarense	extinct	8.2	9.0	now
-Hyaenictitherium_sp.	extinct	8.2	9.0	now
 Baranogale_beremendensis	extinct	3.4	4.2	now
 Xenictis_pilgrimi	extinct	3.4	4.2	now
 Mustela_palerminea	extinct	3.4	4.2	now
@@ -5425,7 +5361,6 @@ Amphimachairodus_giganteus	extinct	7.1	8.2	now
 Phoberocyon_aurelianensis	extinct	18.0	20.0	now
 Amphicticeps_shackelfordi	extinct	23.8	24.6	now
 Pliocrocuta_perrieri	extinct	3.18	3.2	now
-Enhydriodon_sp.	extinct	3.18	3.2	now
 Cynelos_schlosseri	extinct	18.0	20.0	now
 Hemicyon_gargan	extinct	18.0	20.0	now
 Ursavus_isorei	extinct	18.0	20.0	now
@@ -5517,7 +5452,6 @@ Indarctos_arctoides	extinct	8.2	9.0	now
 Eomellivora_wimani	extinct	8.2	9.0	now
 Allohyaena_kadici	extinct	8.2	9.0	now
 Ursavus_depereti	extinct	8.2	9.0	now
-Dinocrocuta_sp.	extinct	8.2	9.0	now
 Taxodon_hessicum	extinct	8.2	9.0	now
 Canis_mosbachensis	extinct	0.78	1.95	now
 Ursus_deningeri	extinct	0.78	1.95	now
@@ -5568,8 +5502,6 @@ Metailurus_parvulus	extinct	5.3	7.1	now
 Hyaenictitherium_hyaenoides	extinct	5.3	7.1	now
 Paludolutra_lluecai	extinct	5.3	7.1	now
 Sivaonyx_lehmani	extinct	5.3	7.1	now
-Ictitherium_sp.	extinct	5.3	7.1	now
-Lycyaena_sp.	extinct	5.3	7.1	now
 Hyaenictitherium_hipparionum	extinct	5.3	7.1	now
 Metailurus_acerensis	extinct	5.3	7.1	now
 Martes_munki	extinct	17.0	18.0	now
@@ -5623,7 +5555,6 @@ Palaeomeles_pachecoi	extinct	11.2	12.5	now
 Ictitherium_aguirrei	extinct	11.2	12.5	now
 Lynx_issiodorensis	extinct	3.0	3.4	now
 Protictitherium_aegaeum	extinct	5.3	9.0	now
-Parataxidea_sp.	extinct	7.1	9.0	now
 Protictitherium_crassum	extinct	9.5	11.2	now
 Miomachairodus_pseudailuroides	extinct	9.5	11.2	now
 Dinocrocuta_senyureki	extinct	9.5	11.2	now
@@ -5735,7 +5666,6 @@ Martes_martes	extant	0.011	2.6	now
 Mustela_putorius	extant	0.011	2.6	now
 Hadrictis_fricki	extinct	9.5	11.2	now
 Homotherium_crenatidens	extinct	3.6	5.33	now
-Nyctereutes_sp.	extinct	3.4	4.2	now
 Pliocrocuta_perrieri	extinct	3.4	5.3	now
 Paralutra_garganensis	extinct	4.2	7.1	now
 Canis_lupus	extant	0.01	0.115	now
@@ -5846,7 +5776,6 @@ Vulpes_alopecoides	extinct	2.6	3.4	now
 Lynx_issiodorensis	extinct	2.6	3.4	now
 Pliocrocuta_perrieri	extinct	2.6	3.4	now
 Chasmaporthetes_lunensis	extinct	2.6	3.4	now
-Canis_sp.	extinct	2.6	3.4	now
 Pliocrocuta_perrieri	extinct	2.6	3.4	now
 Vulpes_praecorsac	extinct	2.6	3.4	now
 Pliocrocuta_perrieri	extinct	3.4	4.2	now
@@ -5995,7 +5924,6 @@ Parahyaena_brunnea	extant	0.01	1.95	now
 Lycaon_picta	extinct	0.01	1.95	now
 Leptailurus_serval	extant	0.01	1.95	now
 Lokotunjailurus_emageritus	extinct	2.6	7.1	now
-Dinofelis_sp.	extinct	2.6	7.1	now
 Plithocyon_armagnacensis	extinct	11.2	12.5	now
 Pseudaelurus_quadridentatus	extinct	11.2	12.5	now
 Styriofelis_lorteti	extinct	11.2	12.5	now
@@ -6063,8 +5991,6 @@ Ursus_deningeri	extinct	0.3	1.95	now
 Panthera_pardus	extant	0.3	1.95	now
 Homotherium_latidens	extinct	0.3	1.95	now
 Parailurus_anglicus	extinct	3.4	4.2	now
-Lutra_sp.	extinct	3.4	4.2	now
-Lutra_sp.	extinct	3.4	4.2	now
 Hesperoviverra_carpathorum	extinct	3.4	4.2	now
 Vulpes_vulpes	extant	0.045	0.08	now
 Crocuta_crocuta	extant	0.045	0.08	now
@@ -6126,7 +6052,6 @@ Dinofelis_piveteaui	extinct	0.01	1.95	now
 Enhydriodon_ekecaman	extinct	4.07	4.17	now
 Parahyaena_howelli	extinct	4.07	4.17	now
 Dinofelis_petteri	extinct	4.07	4.17	now
-Genetta_sp.	extinct	4.07	4.17	now
 Panthera_tigris	extant	0.01	1.95	now
 Trochictis_carbonaria	extinct	15.2	17.0	now
 Adcrocuta_eximia	extinct	5.3	7.1	now
@@ -6211,7 +6136,6 @@ Pachycrocuta_brevirostris	extinct	2.6	3.4	now
 Hyaenictitherium_namaquensis	extinct	1.81	2.59	now
 Sivaonyx_africana	extinct	1.81	2.59	now
 Adcrocuta_eximia	extinct	8.2	9.0	now
-Ictitherium_sp.	extinct	8.2	9.0	now
 Panthera_tigris	extant	0.01	1.95	now
 Mustela_sibiricus	extinct	0.01	1.95	now
 Ursus_thibetanus	extant	0.01	1.95	now
@@ -6226,7 +6150,6 @@ Dinofelis_piveteaui	extinct	0.01	1.95	now
 Canis_etruscus	extinct	2.192	2.917	now
 Canis_chihliensis	extinct	2.192	2.917	now
 Pachycrocuta_brevirostris	extinct	2.192	2.917	now
-Enhydriodon_sp.	extinct	3.0	3.5	now
 Vulpes_vulpes	extant	0.03	0.15	now
 Crocuta_crocuta	extant	0.03	0.15	now
 Canis_lupus	extant	0.03	0.15	now
@@ -6490,7 +6413,6 @@ Protictitherium_crassum	extinct	11.2	12.5	now
 Plioviverrops_gaudryi	extinct	11.2	12.5	now
 Styriofelis_turnauensis	extinct	11.2	12.5	now
 Protictitherium_gaillardi	extinct	11.2	12.5	now
-Percrocuta_sp.	extinct	11.2	12.5	now
 Proputorius_pusillus	extinct	11.2	12.5	now
 Leptoplesictis_filholi	extinct	11.2	12.5	now
 Rhodanictis_depereti	extinct	11.2	12.5	now
@@ -6588,7 +6510,6 @@ Nyctereutes_barryi	extinct	1.81	2.59	now
 Herpestes_palaeoserengetensis	extinct	1.81	2.59	now
 Herpestes_ichneumon	extant	1.81	2.59	now
 Mungos_dietrichi	extinct	1.81	2.59	now
-Mungos_sp.	extinct	1.81	2.59	now
 Crocuta_dietrichi	extinct	1.81	2.59	now
 Lycyaenops_silberbergi	extinct	1.81	2.59	now
 Pachycrocuta_brevirostris	extinct	0.78	0.984	now
@@ -6790,8 +6711,6 @@ Xenocyon_dubius	extinct	0.0	0.7	now
 Panthera_pardus	extant	0.0	0.7	now
 Enhydrictis_ardea	extinct	1.95	3.4	now
 Pachycrocuta_brevirostris	extinct	1.95	3.4	now
-Canis_sp.	extinct	1.95	3.4	now
-Canis_sp.	extinct	1.95	3.4	now
 Vulpes_vulpes	extant	0.0	0.01	now
 Ursus_arctos	extant	0.0	0.01	now
 Mustela_erminea	extant	0.0	0.01	now
@@ -6890,8 +6809,6 @@ Metailurus_parvulus	extinct	7.1	8.2	now
 Paludolutra_lluecai	extinct	7.1	8.2	now
 Baranogale_adroveri	extinct	7.1	8.2	now
 Plioviverrops_guerini	extinct	7.1	8.2	now
-Ictitherium_sp.	extinct	7.1	8.2	now
-Lycyaena_sp.	extinct	7.1	8.2	now
 Hyaenictitherium_hipparionum	extinct	7.1	8.2	now
 Hyaenictitherium_wongii	extinct	7.1	8.2	now
 Eucyon_cipio	extinct	7.1	8.2	now
@@ -6902,8 +6819,6 @@ Protictitherium_crassum	extinct	9.5	11.2	now
 Machairodus_aphanistus	extinct	9.5	11.2	now
 Thaumastocyon_dirus	extinct	9.5	11.2	now
 Machairodus_alberdiae	extinct	9.5	11.2	now
-Plioviverrops_sp.	extinct	9.5	11.2	now
-Hyaenictitherium_sp.	extinct	9.5	11.2	now
 Eomellivora_wimani	extinct	9.5	11.2	now
 Magericyon_castellanus	extinct	9.5	11.2	now
 Magericyon_anceps	extinct	9.5	11.2	now
@@ -6922,10 +6837,8 @@ Hyaenictitherium_parvum	extinct	6.54	7.44	now
 Viverra_leakeyi	extinct	6.54	7.44	now
 Ekorus_ekakoran	extinct	6.54	7.44	now
 Vishnuonyx_angololensis	extinct	6.54	7.44	now
-Genetta_sp.	extinct	6.54	7.44	now
 Ictitherium_ebu	extinct	6.54	7.44	now
 Lokotunjailurus_emageritus	extinct	6.54	7.44	now
-Dinofelis_sp.	extinct	6.54	7.44	now
 Ikelohyaena_abronia	extinct	6.54	7.44	now
 Martes_laevidens	extinct	18.0	20.0	now
 Hemicyon_sansaniensis	extinct	15.2	17.0	now
@@ -7117,12 +7030,10 @@ Ictitherium_intuberculatum	extinct	9.0	11.2	now
 Eomellivora_piveteaui	extinct	9.0	11.2	now
 Barbourofelis_piveteaui	extinct	9.0	11.2	now
 Amphimachairodus_giganteus	extinct	5.3	7.1	now
-Ictitherium_sp.	extinct	5.3	7.1	now
 Hyaenictitherium_hipparionum	extinct	5.3	7.1	now
 Ailuropoda_melanoleuca	extant	0.01	1.95	now
 Adcrocuta_eximia	extinct	7.1	8.2	now
 Felis_attica	extinct	7.1	8.2	now
-Ictitherium_sp.	extinct	7.1	8.2	now
 Dinofelis_cristata	extinct	7.1	8.2	now
 Pseudocyon_steinheimensis	extinct	17.0	18.0	now
 Stromeriella_franconica	extinct	17.0	18.0	now
@@ -7196,7 +7107,6 @@ Protictitherium_crassum	extinct	9.0	9.5	now
 Machairodus_aphanistus	extinct	9.0	9.5	now
 Ictitherium_viverrinum	extinct	9.0	9.5	now
 Metailurus_parvulus	extinct	9.0	9.5	now
-Simocyon_sp.	extinct	9.0	9.5	now
 Indarctos_arctoides	extinct	9.0	9.5	now
 Styriofelis_lorteti	extinct	15.2	17.0	now
 Felis_attica	extinct	5.3	9.0	now
@@ -7282,7 +7192,6 @@ Mungos_dietrichi	extinct	0.01	1.95	now
 Canis_africanus	extinct	0.01	1.95	now
 Herpestes_palaeogracilis	extinct	0.01	1.95	now
 Percrocuta_tobieni	extinct	7.1	12.5	now
-Mellivora_sp.	extinct	7.1	12.5	now
 Tugenictis_ngororaensis	extinct	11.2	14.8	now
 Agnotherium_kiptalami	extinct	11.2	14.8	now
 Vishnuonyx_chinjiensis	extinct	11.2	14.8	now
@@ -8108,7 +8017,6 @@ Pseudocyon_sansaniensis	extinct	12.5	15.2	now
 Pseudarctos_bavaricus	extinct	12.5	15.2	now
 Alopecocyon_leptorhynchus	extinct	12.5	15.2	now
 Plithocyon_armagnacensis	extinct	12.5	15.2	now
-Hemicyon_sp.	extinct	12.5	15.2	now
 Pseudaelurus_quadridentatus	extinct	12.5	15.2	now
 Styriofelis_lorteti	extinct	12.5	15.2	now
 Sansanosmilus_palmidens	extinct	12.5	15.2	now
@@ -8289,7 +8197,6 @@ Hyaena_hyaena	extant	1.87	2.27	now
 Helogale_hirtula	extant	1.87	2.27	now
 Panthera_tigris	extant	0.01	1.95	now
 Helarctos_malayanus	extant	0.01	1.95	now
-Enhydriodon_sp.	extinct	3.2	3.446	now
 Canis_mesomelas	extant	3.2	3.446	now
 Lynx_pardinus	extant	0.01	1.95	now
 Styriofelis_lorteti	extinct	17.0	18.0	now
@@ -8405,7 +8312,6 @@ Melidellavus_leptorhynchus	extinct	11.2	12.5	now
 Semigenetta_sansaniensis	extinct	11.2	12.5	now
 Paralutra_jaegeri	extinct	11.2	12.5	now
 Ischyrictis_mustelinus	extinct	11.2	12.5	now
-Proputorius_sp.	extinct	11.2	12.5	now
 Trochotherium_cyamoides	extinct	11.2	12.5	now
 Trocharion_albanense	extinct	11.2	12.5	now
 Martes_filholi	extinct	11.2	12.5	now
@@ -8463,7 +8369,6 @@ Meles_meles	extant	0.4501	0.474	now
 Lutra_lutra	extant	0.4501	0.474	now
 Felis_attica	extinct	9.0	11.2	now
 Protictitherium_sumegense	extinct	9.0	11.2	now
-Ictitherium_sp.	extinct	9.0	11.2	now
 Nyctereutes_sinensis	extinct	1.2	1.8	now
 Ursus_spelaeus	extinct	0.364	0.427	now
 Canis_mesomelas	extant	0.8	1.8	now
@@ -8623,7 +8528,6 @@ Arctonyx_collaris	extant	0.6	1.3	now
 Paradoxurus_hermaphroditus	extant	0.6	1.3	now
 Lophocyon_paraskevaidisi	extinct	15.2	17.0	now
 Nyctereutes_tingi	extinct	3.5	4.2	now
-Panthera_sp.	extinct	3.5	4.2	now
 Crocuta_crocuta	extant	0.126	0.8	now
 Panthera_leo	extant	0.126	0.8	now
 Canis_adustus	extant	0.126	0.8	now
@@ -8810,9 +8714,7 @@ Paramachaerodus_orientalis	extinct	7.1	8.2	now
 Hyaenictitherium_wongii	extinct	7.1	8.2	now
 Hyaenictitherium_parvum	extinct	5.3	6.54	now
 Lokotunjailurus_emageritus	extinct	5.3	6.54	now
-Dinofelis_sp.	extinct	5.3	6.54	now
 Erokomellivora_lothagamensis	extinct	5.3	6.54	now
-Genetta_sp.	extinct	5.3	6.54	now
 Bonisicyon_illacabo	extinct	5.3	6.54	now
 Vulpes_vulpes	extant	0.003	0.007	now
 Canis_lupus	extant	0.003	0.007	now
@@ -8845,7 +8747,6 @@ Enhydrictis_ardea	extinct	1.95	2.6	now
 Martes_wenzensis	extinct	1.95	2.6	now
 Ursus_minimus	extinct	1.95	2.6	now
 Vormela_petenyii	extinct	1.95	2.6	now
-Baranogale_sp.	extinct	1.95	2.6	now
 Baranogale_balkanica	extinct	1.95	2.6	now
 Nyctereutes_tingi	extinct	1.95	2.6	now
 Lynx_issiodorensis	extinct	1.95	2.6	now
@@ -8890,7 +8791,6 @@ Hyaenictitherium_hyaenoides	extinct	5.3	7.1	now
 Agriotherium_roblesi	extinct	5.3	7.1	now
 Plesiogulo_monspessulanus	extinct	5.3	7.1	now
 Meiniogale_getti	extinct	5.3	7.1	now
-Ictitherium_sp.	extinct	5.3	7.1	now
 Nyctereutes_donnezani	extinct	5.3	7.1	now
 Felis_christoli	extinct	5.3	7.1	now
 Paramachaerodus_maximiliani	extinct	5.3	7.1	now
@@ -8994,7 +8894,6 @@ Canis_lupus	extant	0.009375	0.02449	now
 Ursus_arctos	extant	0.009375	0.02449	now
 Mustela_nivalis	extant	0.009375	0.02449	now
 Percrocuta_algeriensis	extinct	1.81	2.59	now
-Cynelos_sp.	extinct	16.4	20.5	now
 Herpestides_aegypticus	extinct	16.4	20.5	now
 Ketketictis_solida	extinct	16.4	20.5	now
 Moghradictis_nedjema	extinct	16.4	20.5	now
@@ -9112,12 +9011,9 @@ Eomellivora_wimani	extinct	8.2	9.0	now
 Indarctos_sinensis	extinct	8.2	9.0	now
 Paramachaerodus_maximiliani	extinct	8.2	9.0	now
 Parataxidea_sinensis	extinct	8.2	9.0	now
-Ailurarctos_sp.	extinct	8.2	9.0	now
-Trochotherium_sp.	extinct	8.2	9.0	now
 Metailurus_parvulus	extinct	8.2	9.0	now
 Indarctos_sinensis	extinct	8.2	9.0	now
 Paramachaerodus_maximiliani	extinct	8.2	9.0	now
-Ailurarctos_sp.	extinct	8.2	9.0	now
 Canis_lupus	extant	0.01372	0.01487	now
 Ursus_arctos	extant	0.01372	0.01487	now
 Vulpes_lagopus	extant	0.01372	0.01487	now
@@ -9135,8 +9031,6 @@ Chasmaporthetes_lunensis	extinct	3.4	5.3	now
 Eucyon_zhoui	extinct	3.4	5.3	now
 Nyctereutes_tingi	extinct	3.4	5.3	now
 Indarctos_maraghanus	extinct	5.3	7.1	now
-Thalassictis_sp.	extinct	5.3	7.1	now
-Adcrocuta_sp.	extinct	5.3	7.1	now
 Eucyon_davisi	extinct	3.4	5.3	now
 Nyctereutes_tingi	extinct	3.4	5.3	now
 Nyctereutes_tingi	extinct	2.6	3.4	now

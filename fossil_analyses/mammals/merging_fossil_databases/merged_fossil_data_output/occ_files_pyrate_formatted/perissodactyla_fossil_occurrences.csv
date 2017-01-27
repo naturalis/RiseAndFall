@@ -182,7 +182,6 @@ Brachypotherium_goldfussi	extinct	9.5	11.2	now
 Aceratherium_incisivum	extinct	9.5	11.2	now
 Anchitherium_aurelianense	extinct	9.5	11.2	now
 Chalicotherium_goldfussi	extinct	9.5	11.2	now
-Hippotherium_sp.	extinct	9.5	11.2	now
 Hippotherium_depereti	extinct	8.2	9.0	now
 Hippotherium_primigenium	extinct	7.1	8.2	now
 Protaceratherium_minutum	extinct	18.0	20.0	now
@@ -197,7 +196,6 @@ Equus_caballus	extant	0.01	0.036	now
 Procoelodonta_tekkayai	extinct	12.5	15.2	now
 Cremohipparion_matthewi	extinct	7.0	7.0	now
 Cremohipparion_mediterraneum	extinct	7.0	7.0	now
-Acerorhinus_sp.	extinct	7.0	7.0	now
 Hippotherium_brachypus	extinct	7.0	7.0	now
 Stephanorhinus_kirchbergensis	extinct	0.01	1.95	now
 Equus_hydruntinus	extinct	0.01	1.95	now
@@ -217,7 +215,6 @@ Cormohipparion_weihoense	extinct	7.1	9.5	now
 Hipparion_chiai	extinct	7.1	9.5	now
 Stephanorhinus_orientalis	extinct	7.1	9.5	now
 Ceratotherium_praecox	extinct	2.6	3.56	now
-Hipparion_sp.	extinct	2.6	3.56	now
 Brachypotherium_brachypus	extinct	15.2	17.0	now
 Lartetotherium_sansaniensis	extinct	15.2	17.0	now
 Plesiaceratherium_lumiarense	extinct	15.2	17.0	now
@@ -341,7 +338,6 @@ Hipparion_gromovae	extinct	5.3	7.1	now
 Lartetotherium_sansaniensis	extinct	17.0	18.0	now
 Anchitherium_aurelianense	extinct	17.0	18.0	now
 Anisodon_grande	extinct	17.0	18.0	now
-Prosantorhinus_sp.	extinct	17.0	18.0	now
 Phyllotillon_nariscus	extinct	17.0	18.0	now
 Diaceratherium_aurelianense	extinct	17.0	18.0	now
 Equus_caballus	extant	0.0	0.01	now
@@ -356,7 +352,6 @@ Stephanorhinus_hundsheimensis	extinct	0.01	1.95	now
 Equus_antiquus	extinct	0.01	1.95	now
 Chilotherium_habereri	extinct	7.1	9.0	now
 Stephanorhinus_megarhinus	extinct	3.4	4.2	now
-Plesiohipparion_sp.	extinct	3.4	4.2	now
 Hipparion_heintzi	extinct	3.4	4.2	now
 Equus_hydruntinus	extinct	0.186	0.334	now
 Equus_ferus	extant	0.186	0.334	now
@@ -1156,7 +1151,6 @@ Eurygnathohippus_woldegabrieli	extinct	6.0	6.0	now
 Eurygnathohippus_feibeli	extinct	6.0	6.0	now
 Equus_germanicus	extinct	0.0293	0.0395	now
 Hipparion_abudhabiense	extinct	5.3	8.2	now
-Hipparion_sp.	extinct	5.3	8.2	now
 Hipparion_guizhongensis	extinct	7.1	8.2	now
 Chilotherium_xizangensis	extinct	7.1	8.2	now
 Hipparion_chilongensis	extinct	7.1	8.2	now
@@ -1315,7 +1309,6 @@ Itanzatherium_angustirostre	extinct	1.95	3.4	now
 Equus_sanmeniensis	extinct	1.95	3.4	now
 Itanzatherium_angustirostre	extinct	1.81	2.59	now
 Equus_sanmeniensis	extinct	1.81	2.59	now
-Equus_sp.	extinct	1.1	1.3	now
 Equus_altidens	extinct	1.1	1.3	now
 Stephanorhinus_etruscus	extinct	1.1	1.3	now
 Cremohipparion_mediterraneum	extinct	8.2	9.0	now
@@ -1331,7 +1324,6 @@ Ceratotherium_simum	extant	0.8	1.8	now
 Ancylotherium_hennigi	extinct	0.01	1.95	now
 Diceros_bicornis	extant	0.01	1.95	now
 Ceratotherium_simum	extant	0.01	1.95	now
-Equus_sp.	extinct	0.01	1.95	now
 Ceratotherium_praecox	extinct	2.59	5.33	now
 Eurygnathohippus_woldegabrieli	extinct	2.59	5.33	now
 Equus_stenonis	extinct	2.192	2.917	now
@@ -1344,8 +1336,6 @@ Equus_abeli	extinct	2.675	5.3	now
 Equus_asinus	extant	0.03	0.15	now
 Coelodonta_antiquitatis	extinct	0.03	0.15	now
 Equus_caballus	extant	0.03	0.15	now
-Hipparion_sp.	extinct	4.2	5.3	now
-Hipparion_sp.	extinct	4.2	5.3	now
 Aceratherium_incisivum	extinct	4.2	5.3	now
 Dihoplus_pikermiensis	extinct	4.2	5.3	now
 Tapirus_arvernensis	extinct	4.2	5.3	now
@@ -1518,18 +1508,12 @@ Prosantorhinus_germanicus	extinct	15.2	17.0	now
 Brachypotherium_brachypus	extinct	15.2	17.0	now
 Plesiaceratherium_lumiarense	extinct	15.2	17.0	now
 Stephanorhinus_orientalis	extinct	9.5	11.2	now
-Hipparion_sp.	extinct	9.5	11.2	now
-Chilotherium_sp.	extinct	9.5	11.2	now
 Hipparion_chiai	extinct	8.2	9.0	now
-Hipparion_sp.	extinct	8.2	9.0	now
 Chilotherium_habereri	extinct	5.3	7.1	now
 Hipparion_hippidiodus	extinct	5.3	7.1	now
 Acerorhinus_palaeosinensis	extinct	5.3	7.1	now
-Hipparion_sp.	extinct	5.3	7.1	now
 Hipparion_chiai	extinct	7.1	8.2	now
 Stephanorhinus_orientalis	extinct	7.1	8.2	now
-Hipparion_sp.	extinct	7.1	8.2	now
-Hipparion_sp.	extinct	7.1	8.2	now
 Chilotherium_habereri	extinct	5.3	9.0	now
 Hipparion_plocodus	extinct	5.3	9.0	now
 Chilotherium_habereri	extinct	9.0	11.2	now
@@ -1540,7 +1524,6 @@ Cormohipparion_weihoense	extinct	9.0	11.2	now
 Hipparion_dermatorhinum	extinct	9.0	11.2	now
 Hipparion_chiai	extinct	9.0	11.2	now
 Stephanorhinus_orientalis	extinct	9.0	11.2	now
-Brachypotherium_sp.	extinct	9.0	11.2	now
 Cormohipparion_weihoense	extinct	9.0	11.2	now
 Hipparion_chiai	extinct	9.0	11.2	now
 Hipparion_chiai	extinct	9.0	11.2	now
@@ -2154,7 +2137,6 @@ Equus_asinus	extant	0.0	0.01	now
 Equus_hemionus	extant	0.0	0.01	now
 Equus_caballus	extant	0.0	0.01	now
 Brachypotherium_brachypus	extinct	12.5	15.2	now
-Hoploaceratherium_sp.	extinct	12.5	15.2	now
 Procoelodonta_tekkayai	extinct	12.5	15.2	now
 Anchitherium_aurelianense	extinct	12.5	15.2	now
 Anisodon_grande	extinct	12.5	15.2	now
@@ -2642,7 +2624,6 @@ Plesiaceratherium_gracile	extinct	15.2	17.0	now
 Plesiotapirus_yagii	extinct	15.2	17.0	now
 Brachypotherium_shanwangensis	extinct	15.2	17.0	now
 Plesiaceratherium_shanwangensis	extinct	15.2	17.0	now
-Hipparion_sp.	extinct	9.0	9.5	now
 Equus_caballus	extant	0.01804	0.02566	now
 Dihoplus_schleiermacheri	extinct	5.3	11.2	now
 Hipparion_apcheronicum	extinct	1.81	2.59	now
@@ -2680,7 +2661,6 @@ Eurygnathohippus_cornelianus	extinct	1.76	1.87	now
 Equus_oldowayensis	extinct	1.53	1.76	now
 Eurygnathohippus_woldegabrieli	extinct	1.38	1.53	now
 Equus_grevyi	extant	0.7	1.3	now
-Hipparion_sp.	extinct	5.3	8.2	now
 Rhinoceros_sondaicus	extant	0.01	1.95	now
 Tapirus_indicus	extant	0.01	1.95	now
 Dicerorhinus_sumatrensis	extant	0.01	1.95	now
@@ -2693,30 +2673,21 @@ Cremohipparion_mediterraneum	extinct	4.2	7.1	now
 Brachypotherium_brachypus	extinct	11.2	15.2	now
 Alicornops_simorrensis	extinct	11.2	15.2	now
 Acerorhinus_zernowi	extinct	9.428	9.491	now
-Chilotherium_sp.	extinct	9.428	9.491	now
 Cormohipparion_sinapensis	extinct	9.777	10.834	now
 Hipparion_uzunagizli	extinct	9.777	10.834	now
 Acerorhinus_zernowi	extinct	9.428	9.735	now
-Chilotherium_sp.	extinct	9.428	9.735	now
 Cormohipparion_sinapensis	extinct	9.428	9.735	now
 Hipparion_uzunagizli	extinct	9.428	9.735	now
 Hipparion_kecigibi	extinct	9.428	9.735	now
-Acerorhinus_sp.	extinct	7.892	8.047	now
 Dihoplus_pikermiensis	extinct	7.892	8.047	now
-Acerorhinus_sp.	extinct	7.892	8.047	now
 Chilotherium_habereri	extinct	9.069	9.149	now
 Acerorhinus_zernowi	extinct	9.069	9.149	now
 Chilotherium_kiliasi	extinct	9.069	9.149	now
 Pliodiceros_neumayri	extinct	9.069	9.149	now
-Chilotherium_sp.	extinct	9.0	11.2	now
-Acerorhinus_sp.	extinct	7.1	11.2	now
-Chilotherium_sp.	extinct	9.777	10.834	now
-Hipparion_sp.	extinct	9.777	10.834	now
 Cormohipparion_sinapensis	extinct	9.735	9.777	now
 Hipparion_uzunagizli	extinct	9.735	9.777	now
 Hipparion_kecigibi	extinct	9.735	9.777	now
 Cormohipparion_sinapensis	extinct	9.777	10.834	now
-Hipparion_sp.	extinct	9.777	10.834	now
 Cormohipparion_sinapensis	extinct	9.777	10.834	now
 Hoploaceratherium_tetradactylum	extinct	14.8	16.4	now
 Aceratherium_acutirostratum	extinct	14.8	16.4	now
@@ -3063,7 +3034,6 @@ Equus_stenonis	extinct	2.675	3.4	now
 Cambaytherium_thewissi	extinct	52.0	55.0	now
 Cambaytherium_bidens	extinct	52.0	55.0	now
 Cambaytherium_minor	extinct	52.0	55.0	now
-Cambaytherium_sp.	extinct	52.0	55.0	now
 Kalitherium_marinus	extinct	52.0	55.0	now
 Hipparion_dietrichi	extinct	7.1	8.2	now
 Hipparion_dietrichi	extinct	7.1	8.2	now
@@ -3188,7 +3158,6 @@ Rhinoceros_sinensis	extinct	0.6	1.3	now
 Hispanotherium_grimmi	extinct	11.2	12.5	now
 Mesaceratherium_simorrense	extinct	11.2	12.5	now
 Pliodiceros_neumayri	extinct	7.1	11.2	now
-Hoploaceratherium_sp.	extinct	11.2	12.5	now
 Hispanotherium_grimmi	extinct	11.2	12.5	now
 Hispanotherium_grimmi	extinct	11.2	12.5	now
 Hoploaceratherium_tetradactylum	extinct	11.2	12.5	now
@@ -3435,7 +3404,6 @@ Brachypotherium_goldfussi	extinct	9.5	11.2	now
 Aceratherium_incisivum	extinct	9.5	11.2	now
 Anchitherium_aurelianense	extinct	9.5	11.2	now
 Chalicotherium_goldfussi	extinct	9.5	11.2	now
-Hippotherium_sp.	extinct	9.5	11.2	now
 Hippotherium_depereti	extinct	8.2	9.0	now
 Hippotherium_primigenium	extinct	7.1	8.2	now
 Protaceratherium_minutum	extinct	18.0	20.0	now
@@ -3450,7 +3418,6 @@ Equus_caballus	extant	0.01	0.036	now
 Procoelodonta_tekkayai	extinct	12.5	15.2	now
 Cremohipparion_matthewi	extinct	7.0	7.0	now
 Cremohipparion_mediterraneum	extinct	7.0	7.0	now
-Acerorhinus_sp.	extinct	7.0	7.0	now
 Hippotherium_brachypus	extinct	7.0	7.0	now
 Stephanorhinus_kirchbergensis	extinct	0.01	1.95	now
 Equus_hydruntinus	extinct	0.01	1.95	now
@@ -3470,7 +3437,6 @@ Cormohipparion_weihoense	extinct	7.1	9.5	now
 Hipparion_chiai	extinct	7.1	9.5	now
 Stephanorhinus_orientalis	extinct	7.1	9.5	now
 Ceratotherium_praecox	extinct	2.6	3.56	now
-Hipparion_sp.	extinct	2.6	3.56	now
 Brachypotherium_brachypus	extinct	15.2	17.0	now
 Lartetotherium_sansaniensis	extinct	15.2	17.0	now
 Plesiaceratherium_lumiarense	extinct	15.2	17.0	now
@@ -3594,7 +3560,6 @@ Hipparion_gromovae	extinct	5.3	7.1	now
 Lartetotherium_sansaniensis	extinct	17.0	18.0	now
 Anchitherium_aurelianense	extinct	17.0	18.0	now
 Anisodon_grande	extinct	17.0	18.0	now
-Prosantorhinus_sp.	extinct	17.0	18.0	now
 Phyllotillon_nariscus	extinct	17.0	18.0	now
 Diaceratherium_aurelianense	extinct	17.0	18.0	now
 Equus_caballus	extant	0.0	0.01	now
@@ -3609,7 +3574,6 @@ Stephanorhinus_hundsheimensis	extinct	0.01	1.95	now
 Equus_antiquus	extinct	0.01	1.95	now
 Chilotherium_habereri	extinct	7.1	9.0	now
 Stephanorhinus_megarhinus	extinct	3.4	4.2	now
-Plesiohipparion_sp.	extinct	3.4	4.2	now
 Hipparion_heintzi	extinct	3.4	4.2	now
 Equus_hydruntinus	extinct	0.186	0.334	now
 Equus_ferus	extant	0.186	0.334	now
@@ -4409,7 +4373,6 @@ Eurygnathohippus_woldegabrieli	extinct	6.0	6.0	now
 Eurygnathohippus_feibeli	extinct	6.0	6.0	now
 Equus_germanicus	extinct	0.0293	0.0395	now
 Hipparion_abudhabiense	extinct	5.3	8.2	now
-Hipparion_sp.	extinct	5.3	8.2	now
 Hipparion_guizhongensis	extinct	7.1	8.2	now
 Chilotherium_xizangensis	extinct	7.1	8.2	now
 Hipparion_chilongensis	extinct	7.1	8.2	now
@@ -4568,7 +4531,6 @@ Itanzatherium_angustirostre	extinct	1.95	3.4	now
 Equus_sanmeniensis	extinct	1.95	3.4	now
 Itanzatherium_angustirostre	extinct	1.81	2.59	now
 Equus_sanmeniensis	extinct	1.81	2.59	now
-Equus_sp.	extinct	1.1	1.3	now
 Equus_altidens	extinct	1.1	1.3	now
 Stephanorhinus_etruscus	extinct	1.1	1.3	now
 Cremohipparion_mediterraneum	extinct	8.2	9.0	now
@@ -4584,7 +4546,6 @@ Ceratotherium_simum	extant	0.8	1.8	now
 Ancylotherium_hennigi	extinct	0.01	1.95	now
 Diceros_bicornis	extant	0.01	1.95	now
 Ceratotherium_simum	extant	0.01	1.95	now
-Equus_sp.	extinct	0.01	1.95	now
 Ceratotherium_praecox	extinct	2.59	5.33	now
 Eurygnathohippus_woldegabrieli	extinct	2.59	5.33	now
 Equus_stenonis	extinct	2.192	2.917	now
@@ -4597,8 +4558,6 @@ Equus_abeli	extinct	2.675	5.3	now
 Equus_asinus	extant	0.03	0.15	now
 Coelodonta_antiquitatis	extinct	0.03	0.15	now
 Equus_caballus	extant	0.03	0.15	now
-Hipparion_sp.	extinct	4.2	5.3	now
-Hipparion_sp.	extinct	4.2	5.3	now
 Aceratherium_incisivum	extinct	4.2	5.3	now
 Dihoplus_pikermiensis	extinct	4.2	5.3	now
 Tapirus_arvernensis	extinct	4.2	5.3	now
@@ -4771,18 +4730,12 @@ Prosantorhinus_germanicus	extinct	15.2	17.0	now
 Brachypotherium_brachypus	extinct	15.2	17.0	now
 Plesiaceratherium_lumiarense	extinct	15.2	17.0	now
 Stephanorhinus_orientalis	extinct	9.5	11.2	now
-Hipparion_sp.	extinct	9.5	11.2	now
-Chilotherium_sp.	extinct	9.5	11.2	now
 Hipparion_chiai	extinct	8.2	9.0	now
-Hipparion_sp.	extinct	8.2	9.0	now
 Chilotherium_habereri	extinct	5.3	7.1	now
 Hipparion_hippidiodus	extinct	5.3	7.1	now
 Acerorhinus_palaeosinensis	extinct	5.3	7.1	now
-Hipparion_sp.	extinct	5.3	7.1	now
 Hipparion_chiai	extinct	7.1	8.2	now
 Stephanorhinus_orientalis	extinct	7.1	8.2	now
-Hipparion_sp.	extinct	7.1	8.2	now
-Hipparion_sp.	extinct	7.1	8.2	now
 Chilotherium_habereri	extinct	5.3	9.0	now
 Hipparion_plocodus	extinct	5.3	9.0	now
 Chilotherium_habereri	extinct	9.0	11.2	now
@@ -4793,7 +4746,6 @@ Cormohipparion_weihoense	extinct	9.0	11.2	now
 Hipparion_dermatorhinum	extinct	9.0	11.2	now
 Hipparion_chiai	extinct	9.0	11.2	now
 Stephanorhinus_orientalis	extinct	9.0	11.2	now
-Brachypotherium_sp.	extinct	9.0	11.2	now
 Cormohipparion_weihoense	extinct	9.0	11.2	now
 Hipparion_chiai	extinct	9.0	11.2	now
 Hipparion_chiai	extinct	9.0	11.2	now
@@ -5407,7 +5359,6 @@ Equus_asinus	extant	0.0	0.01	now
 Equus_hemionus	extant	0.0	0.01	now
 Equus_caballus	extant	0.0	0.01	now
 Brachypotherium_brachypus	extinct	12.5	15.2	now
-Hoploaceratherium_sp.	extinct	12.5	15.2	now
 Procoelodonta_tekkayai	extinct	12.5	15.2	now
 Anchitherium_aurelianense	extinct	12.5	15.2	now
 Anisodon_grande	extinct	12.5	15.2	now
@@ -5895,7 +5846,6 @@ Plesiaceratherium_gracile	extinct	15.2	17.0	now
 Plesiotapirus_yagii	extinct	15.2	17.0	now
 Brachypotherium_shanwangensis	extinct	15.2	17.0	now
 Plesiaceratherium_shanwangensis	extinct	15.2	17.0	now
-Hipparion_sp.	extinct	9.0	9.5	now
 Equus_caballus	extant	0.01804	0.02566	now
 Dihoplus_schleiermacheri	extinct	5.3	11.2	now
 Hipparion_apcheronicum	extinct	1.81	2.59	now
@@ -5933,7 +5883,6 @@ Eurygnathohippus_cornelianus	extinct	1.76	1.87	now
 Equus_oldowayensis	extinct	1.53	1.76	now
 Eurygnathohippus_woldegabrieli	extinct	1.38	1.53	now
 Equus_grevyi	extant	0.7	1.3	now
-Hipparion_sp.	extinct	5.3	8.2	now
 Rhinoceros_sondaicus	extant	0.01	1.95	now
 Tapirus_indicus	extant	0.01	1.95	now
 Dicerorhinus_sumatrensis	extant	0.01	1.95	now
@@ -5946,30 +5895,21 @@ Cremohipparion_mediterraneum	extinct	4.2	7.1	now
 Brachypotherium_brachypus	extinct	11.2	15.2	now
 Alicornops_simorrensis	extinct	11.2	15.2	now
 Acerorhinus_zernowi	extinct	9.428	9.491	now
-Chilotherium_sp.	extinct	9.428	9.491	now
 Cormohipparion_sinapensis	extinct	9.777	10.834	now
 Hipparion_uzunagizli	extinct	9.777	10.834	now
 Acerorhinus_zernowi	extinct	9.428	9.735	now
-Chilotherium_sp.	extinct	9.428	9.735	now
 Cormohipparion_sinapensis	extinct	9.428	9.735	now
 Hipparion_uzunagizli	extinct	9.428	9.735	now
 Hipparion_kecigibi	extinct	9.428	9.735	now
-Acerorhinus_sp.	extinct	7.892	8.047	now
 Dihoplus_pikermiensis	extinct	7.892	8.047	now
-Acerorhinus_sp.	extinct	7.892	8.047	now
 Chilotherium_habereri	extinct	9.069	9.149	now
 Acerorhinus_zernowi	extinct	9.069	9.149	now
 Chilotherium_kiliasi	extinct	9.069	9.149	now
 Pliodiceros_neumayri	extinct	9.069	9.149	now
-Chilotherium_sp.	extinct	9.0	11.2	now
-Acerorhinus_sp.	extinct	7.1	11.2	now
-Chilotherium_sp.	extinct	9.777	10.834	now
-Hipparion_sp.	extinct	9.777	10.834	now
 Cormohipparion_sinapensis	extinct	9.735	9.777	now
 Hipparion_uzunagizli	extinct	9.735	9.777	now
 Hipparion_kecigibi	extinct	9.735	9.777	now
 Cormohipparion_sinapensis	extinct	9.777	10.834	now
-Hipparion_sp.	extinct	9.777	10.834	now
 Cormohipparion_sinapensis	extinct	9.777	10.834	now
 Hoploaceratherium_tetradactylum	extinct	14.8	16.4	now
 Aceratherium_acutirostratum	extinct	14.8	16.4	now
@@ -6316,7 +6256,6 @@ Equus_stenonis	extinct	2.675	3.4	now
 Cambaytherium_thewissi	extinct	52.0	55.0	now
 Cambaytherium_bidens	extinct	52.0	55.0	now
 Cambaytherium_minor	extinct	52.0	55.0	now
-Cambaytherium_sp.	extinct	52.0	55.0	now
 Kalitherium_marinus	extinct	52.0	55.0	now
 Hipparion_dietrichi	extinct	7.1	8.2	now
 Hipparion_dietrichi	extinct	7.1	8.2	now
@@ -6441,7 +6380,6 @@ Rhinoceros_sinensis	extinct	0.6	1.3	now
 Hispanotherium_grimmi	extinct	11.2	12.5	now
 Mesaceratherium_simorrense	extinct	11.2	12.5	now
 Pliodiceros_neumayri	extinct	7.1	11.2	now
-Hoploaceratherium_sp.	extinct	11.2	12.5	now
 Hispanotherium_grimmi	extinct	11.2	12.5	now
 Hispanotherium_grimmi	extinct	11.2	12.5	now
 Hoploaceratherium_tetradactylum	extinct	11.2	12.5	now
