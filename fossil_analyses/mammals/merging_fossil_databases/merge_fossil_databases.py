@@ -106,6 +106,7 @@ def summarize_pbdb(pbdb_fossil_file):
 		pbdb_genus_list = []
 		pbdb_species_list = []
 
+		pbdb_species_order_family_genus_epithet_ids_dict = {}
 		pbdb_all_in_one_dict = {}
 		pbdb_order_id_dict = {}
 		pbdb_fam_id_dict = {}
@@ -145,6 +146,7 @@ def summarize_pbdb(pbdb_fossil_file):
 			family = str.lower(row[family_col])
 			# use the cleaned genus name
 			genus = name[0]
+			epithet = name[1]
 			# determine if the taxon is identified to species level
 			species_level = ''
 			if name[1] != '' and name[1] != 'NA':
@@ -153,10 +155,21 @@ def summarize_pbdb(pbdb_fossil_file):
 				species_level='FALSE'
 
 			# add all info into the all_in_one_dict
-			capital_genus = name[0].capitalize()
+			capital_genus = 'NA'
+			if name[0] != 'NA':
+				capital_genus = name[0].capitalize()
+			
 			species2 = ' '.join([capital_genus,name[1]])
 			pbdb_all_in_one_dict.setdefault(id,[])
 			pbdb_all_in_one_dict[id].append(['pbdb',species2,min_age,max_age,genus,family,order,species_level])
+
+
+			# output as requested by Soren
+			if not [capital_genus,epithet] == ['NA','NA']:	
+				if species2 not in pbdb_species_order_family_genus_epithet_ids_dict:
+					pbdb_species_order_family_genus_epithet_ids_dict.setdefault(species2,[order,family,genus,epithet,[id]])
+				elif species2 in pbdb_species_order_family_genus_epithet_ids_dict:
+					pbdb_species_order_family_genus_epithet_ids_dict[species2][4].append(id)
 
 			# setting up the min max age dict this way (list in a list) is done, so that in case there are ids that are non unique they will show by having more than one list item (more than one min,max-age pair)
 			pbdb_id_min_max.setdefault(id,[])
@@ -194,7 +207,7 @@ def summarize_pbdb(pbdb_fossil_file):
 		for element2 in undefined_fam:
 			pbdb_fam_id_dict["NA"].append(element2)
 		
-	return pbdb_all_in_one_dict, pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list
+	return pbdb_species_order_family_genus_epithet_ids_dict, pbdb_all_in_one_dict, pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list
 
 
 
@@ -209,6 +222,7 @@ def summarize_now(now_fossil_file):
 		now_species_list = []
 
 		now_all_in_one_dict = {}
+		now_species_order_family_genus_epithet_ids_dict = {}
 		now_order_id_dict = {}
 		now_fam_id_dict = {}
 		now_id_min_max = {}
@@ -256,6 +270,7 @@ def summarize_now(now_fossil_file):
 			family = str.lower(row[family_col])
 			# use the cleaned genus name
 			genus = name[0]
+			epithet = name[1]
 			# determine if the taxon is identified to species level
 			species_level = ''
 			if name[1] != '' and name[1] != 'NA':
@@ -264,10 +279,20 @@ def summarize_now(now_fossil_file):
 				species_level='FALSE'
 
 			# add all info into the all_in_one_dict
-			capital_genus = name[0].capitalize()
+			capital_genus = 'NA'
+			if name[0] != 'NA':
+				capital_genus = name[0].capitalize()
+			
 			species2 = ' '.join([capital_genus,name[1]])
 			now_all_in_one_dict.setdefault(id,[])
 			now_all_in_one_dict[id].append(['now',species2,min_age,max_age,genus,family,order,species_level])
+
+			# output as requested by Soren
+			if not [capital_genus,epithet] == ['NA','NA']:
+				if species2 not in now_species_order_family_genus_epithet_ids_dict:
+					now_species_order_family_genus_epithet_ids_dict.setdefault(species2,[order,family,genus,epithet,[id]])
+				elif species2 in now_species_order_family_genus_epithet_ids_dict:
+					now_species_order_family_genus_epithet_ids_dict[species2][4].append(id)
 
 			# setting up the min max age dict this way (list in a list) is done, so that in case there are ids that are non unique they will show (this is tested for later) by having more than one list item (more than one min,max-age pair)
 			now_id_min_max.setdefault(id,[])
@@ -305,7 +330,7 @@ def summarize_now(now_fossil_file):
 		for element2 in undefined_fam:
 			now_fam_id_dict["NA"].append(element2)
 
-	return now_all_in_one_dict, now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list
+	return now_species_order_family_genus_epithet_ids_dict, now_all_in_one_dict, now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list
 
 def join_lists(list1,list2):
 	joined = list1[:]
@@ -473,9 +498,9 @@ def output_merged_database():
 #########################################################################################
 
 #return all data dictionaries and check if all IDs are unique
-pbdb_all_in_one_dict, pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list = summarize_pbdb(pbdb_fossil_file)
+pbdb_sorens_dict, pbdb_all_in_one_dict, pbdb_order_id_dict, pbdb_fam_id_dict, pbdb_id_genus_species_dict, pbdb_id_min_max, pbdb_order_list, pbdb_fam_list, pbdb_genus_list, pbdb_species_list = summarize_pbdb(pbdb_fossil_file)
 check_unique_ids(pbdb_id_min_max)
-now_all_in_one_dict,now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list = summarize_now(now_fossil_file)
+now_sorens_dict, now_all_in_one_dict, now_order_id_dict, now_fam_id_dict, now_id_genus_species_dict, now_id_min_max, now_order_list, now_fam_list, now_genus_list, now_species_list = summarize_now(now_fossil_file)
 check_unique_ids(now_id_min_max)
 
 joined_order_list = join_lists(pbdb_order_list,now_order_list)
@@ -486,7 +511,6 @@ joined_species_list = join_lists(pbdb_species_list,now_species_list)
 # join some of the dicts with unique ids
 joined_id_genus_species_dicts = join_dictionaries_with_unique_keys(pbdb_id_genus_species_dict,now_id_genus_species_dict)
 joined_all_in_one_dict = join_dictionaries_with_unique_keys(pbdb_all_in_one_dict,now_all_in_one_dict)
-
 
 #get two lists, one with all extant species and one with all recently extinct species (IUCN taxonomy)
 extant_species_iucn, extinct_species_iucn = read_iucn_file(iucn_file)
@@ -514,3 +538,60 @@ create_pyrate_input_files(joined_order_id_dicts,joined_id_genus_species_dict,joi
 
 # write an output file that joins the input databases
 output_merged_database()
+
+final_sorens_dict = {}
+for species in pbdb_sorens_dict:
+	pbdb_order = pbdb_sorens_dict[species][0]
+	pbdb_fam = pbdb_sorens_dict[species][1]
+	genus = pbdb_sorens_dict[species][2]
+	epithet = pbdb_sorens_dict[species][3]
+	pbdb_count = len(pbdb_sorens_dict[species][4])
+	if species in now_sorens_dict:
+		now_order = now_sorens_dict[species][0]
+		now_fam = now_sorens_dict[species][1]
+		now_count = len(now_sorens_dict[species][4])
+		final_sorens_dict.setdefault(species,[pbdb_order,now_order,pbdb_fam,now_fam,genus,epithet,pbdb_count,now_count])
+	else:
+		final_sorens_dict.setdefault(species,[pbdb_order,'NA',pbdb_fam,'NA',genus,epithet,pbdb_count,'NA'])
+
+
+for species in now_sorens_dict:
+	epithet = species.split(" ")[1]
+	now_order = now_sorens_dict[species][0]
+	now_fam = now_sorens_dict[species][1]
+	genus = now_sorens_dict[species][2]
+	epithet = now_sorens_dict[species][3]
+	now_count = len(now_sorens_dict[species][4])
+	if not species in final_sorens_dict:
+		final_sorens_dict.setdefault(species,['NA',now_order,'NA',now_fam,genus,epithet,'NA',now_count])
+
+
+sorens_output = open("%s/output_for_soren.csv" %outdir, "wb")
+sorens_output_log=csv.writer(sorens_output, delimiter='\t')
+sorens_output_log.writerow(['species','order_pbdb','order_now','fam_pbdb','fam_now','genus','species','occ_pbdb','occ_now'])
+for species in final_sorens_dict:
+	a = final_sorens_dict[species][0]
+	if a == '':
+		a = 'NA'
+	b = final_sorens_dict[species][1]
+	if b == '':
+		b = 'NA'
+	c = final_sorens_dict[species][2]
+	if c == '':
+		c = 'NA'	
+	d = final_sorens_dict[species][3]
+	if d == '':
+		d = 'NA'
+	e = final_sorens_dict[species][4]
+	if e == '':
+		e = 'NA'
+	f = final_sorens_dict[species][5]
+	if f == '':
+		f = 'NA'
+	g = final_sorens_dict[species][6]
+	if g == '':
+		g = 'NA'
+	h = final_sorens_dict[species][7]
+	if h == '':
+		h = 'NA'
+	sorens_output_log.writerow([species,a,b,c,d,e,f,g,h])
