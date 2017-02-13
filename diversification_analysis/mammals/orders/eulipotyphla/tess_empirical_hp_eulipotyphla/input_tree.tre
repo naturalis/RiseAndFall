@@ -1,0 +1,207 @@
+#NEXUS
+[R-package APE, Fri Feb 10 17:17:47 2017]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 97;
+	TAXLABELS
+		Uropsilus_gracilis
+		Uropsilus_soricipes
+		Condylura_cristata
+		Solenodon_paradoxus
+		Diplomesodon_pulchellum
+		Congosorex_phillipsorum
+		Anourosorex_yamashinai
+		Anourosorex_squamipes
+		Urotrichus_talpoides
+		Parascalops_breweri
+		Galemys_pyrenaicus
+		Scalopus_aquaticus
+		Notiosorex_crawfordi
+		Blarinella_griselda
+		Erinaceus_europaeus
+		Paraechinus_aethiopicus
+		Neohylomys_hainanensis
+		Neotetracus_sinensis
+		Neurotrichus_gibbsii
+		Scaptonyx_fusicaudus
+		Scapanus_latimanus
+		Suncus_murinus
+		Myosorex_varius
+		Erinaceus_concolor
+		Hemiechinus_auritus
+		Hylomys_parvus
+		Hylomys_suillus
+		Podogymnura_truei
+		Echinosorex_gymnura
+		Scaptochirus_moschatus
+		Scapanus_orarius
+		Scapanus_townsendii
+		Sylvisorex_ollula
+		Suncus_stoliczkanus
+		Sylvisorex_johnstoni
+		Myosorex_sclateri
+		Myosorex_cafer
+		Myosorex_geata
+		Myosorex_longicaudatus
+		Myosorex_zinki
+		Chodsigoa_hypsibia
+		Nectogale_elegans
+		Blarina_brevicauda
+		Cryptotis_parva
+		Erinaceus_roumanicus
+		Erinaceus_amurensis
+		Mesechinus_hughi
+		Mesechinus_dauuricus
+		Talpa_altaica
+		Talpa_stankovici
+		Talpa_levantis
+		Talpa_caeca
+		Talpa_europaea
+		Talpa_romana
+		Talpa_caucasica
+		Talpa_occidentalis
+		Mogera_kanoana
+		Mogera_wogura
+		Mogera_tokudae
+		Euroscaptor_mizura
+		Euroscaptor_malayana
+		Suncus_lixus
+		Suncus_varilla
+		Myosorex_blarina
+		Myosorex_kihaulei
+		Chodsigoa_sodalis
+		Blarina_carolinensis
+		Blarina_hylophaga
+		Cryptotis_goldmani
+		Cryptotis_magna
+		Mogera_insularis
+		Mogera_imaizumii
+		Suncus_etruscus
+		Suncus_malayanus
+		Suncus_megalura
+		Suncus_infinitesimus
+		Chodsigoa_caovansunga
+		Chodsigoa_parca
+		Soriculus_nigrescens
+		Episoriculus_fumidus
+		Sylvisorex_megalura
+		Suncus_madagascariensis
+		Suncus_fellowesgordoni
+		Sylvisorex_lunaris
+		Sylvisorex_howelli
+		Suncus_remyi
+		Suncus_dayi
+		Sylvisorex_granti
+		Neomys_anomalus
+		Episoriculus_macrurus
+		Episoriculus_caudatus
+		Chimarrogale_phaeura
+		Episoriculus_leucops
+		Neomys_teres
+		Neomys_fodiens
+		Chimarrogale_himalayica
+		Chimarrogale_platycephala
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Uropsilus_gracilis,
+		2	Uropsilus_soricipes,
+		3	Condylura_cristata,
+		4	Solenodon_paradoxus,
+		5	Diplomesodon_pulchellum,
+		6	Congosorex_phillipsorum,
+		7	Anourosorex_yamashinai,
+		8	Anourosorex_squamipes,
+		9	Urotrichus_talpoides,
+		10	Parascalops_breweri,
+		11	Galemys_pyrenaicus,
+		12	Scalopus_aquaticus,
+		13	Notiosorex_crawfordi,
+		14	Blarinella_griselda,
+		15	Erinaceus_europaeus,
+		16	Paraechinus_aethiopicus,
+		17	Neohylomys_hainanensis,
+		18	Neotetracus_sinensis,
+		19	Neurotrichus_gibbsii,
+		20	Scaptonyx_fusicaudus,
+		21	Scapanus_latimanus,
+		22	Suncus_murinus,
+		23	Myosorex_varius,
+		24	Erinaceus_concolor,
+		25	Hemiechinus_auritus,
+		26	Hylomys_parvus,
+		27	Hylomys_suillus,
+		28	Podogymnura_truei,
+		29	Echinosorex_gymnura,
+		30	Scaptochirus_moschatus,
+		31	Scapanus_orarius,
+		32	Scapanus_townsendii,
+		33	Sylvisorex_ollula,
+		34	Suncus_stoliczkanus,
+		35	Sylvisorex_johnstoni,
+		36	Myosorex_sclateri,
+		37	Myosorex_cafer,
+		38	Myosorex_geata,
+		39	Myosorex_longicaudatus,
+		40	Myosorex_zinki,
+		41	Chodsigoa_hypsibia,
+		42	Nectogale_elegans,
+		43	Blarina_brevicauda,
+		44	Cryptotis_parva,
+		45	Erinaceus_roumanicus,
+		46	Erinaceus_amurensis,
+		47	Mesechinus_hughi,
+		48	Mesechinus_dauuricus,
+		49	Talpa_altaica,
+		50	Talpa_stankovici,
+		51	Talpa_levantis,
+		52	Talpa_caeca,
+		53	Talpa_europaea,
+		54	Talpa_romana,
+		55	Talpa_caucasica,
+		56	Talpa_occidentalis,
+		57	Mogera_kanoana,
+		58	Mogera_wogura,
+		59	Mogera_tokudae,
+		60	Euroscaptor_mizura,
+		61	Euroscaptor_malayana,
+		62	Suncus_lixus,
+		63	Suncus_varilla,
+		64	Myosorex_blarina,
+		65	Myosorex_kihaulei,
+		66	Chodsigoa_sodalis,
+		67	Blarina_carolinensis,
+		68	Blarina_hylophaga,
+		69	Cryptotis_goldmani,
+		70	Cryptotis_magna,
+		71	Mogera_insularis,
+		72	Mogera_imaizumii,
+		73	Suncus_etruscus,
+		74	Suncus_malayanus,
+		75	Suncus_megalura,
+		76	Suncus_infinitesimus,
+		77	Chodsigoa_caovansunga,
+		78	Chodsigoa_parca,
+		79	Soriculus_nigrescens,
+		80	Episoriculus_fumidus,
+		81	Sylvisorex_megalura,
+		82	Suncus_madagascariensis,
+		83	Suncus_fellowesgordoni,
+		84	Sylvisorex_lunaris,
+		85	Sylvisorex_howelli,
+		86	Suncus_remyi,
+		87	Suncus_dayi,
+		88	Sylvisorex_granti,
+		89	Neomys_anomalus,
+		90	Episoriculus_macrurus,
+		91	Episoriculus_caudatus,
+		92	Chimarrogale_phaeura,
+		93	Episoriculus_leucops,
+		94	Neomys_teres,
+		95	Neomys_fodiens,
+		96	Chimarrogale_himalayica,
+		97	Chimarrogale_platycephala
+	;
+	TREE * UNTITLED = [&R] ((1:57.061744,2:57.061744):32.664453,(((((((((62:14.029975,63:14.029975):3.64376,33:17.673734):9.303679,22:26.977414):21.09495,((34:24.148795,35:24.148795):10.442042,(((73:24.105602,74:24.105602):7.181074,(75:24.304978,76:24.304978):6.981699):3.107127,(((81:24.136765,82:24.136765):7.091224,(83:24.08165,84:24.08165):7.146339):2.449444,((85:24.242468,86:24.242468):6.934892,(87:24.077481,88:24.077481):7.099879):2.500073):0.716371):0.197034):13.481527):3.467101,5:51.539465):16.681223,((((36:4.409836,37:4.409836):0.737598,23:5.147434):16.853167,((38:3.553009,(64:2.645139,65:2.645139):0.907869):15.865538,(39:2.238775,40:2.238775):17.179771):2.582054):25.168575,6:47.169176):21.051512):9.142291,(((13:58.410669,((41:25.51543,(66:20.403918,(77:0.347879,78:0.347879):20.056039):5.111512):21.129654,(42:43.934532,((79:33.231862,80:33.231862):5.66466,(((((95:0.433036,(96:0.35879,97:0.35879):0.074246):0.132243,94:0.565279):0.102638,91:0.667917):22.795608,(92:0.29378,93:0.29378):23.169746):5.666959,(89:0.38874,90:0.38874):28.741744):9.766038):5.03801):2.710551):11.765586):8.693191,(((43:19.49047,(67:15.411584,68:15.411584):4.078886):10.702537,(44:21.177151,(69:15.116127,70:15.116127):6.061024):9.015857):15.993981,14:46.186989):20.916871):1.39052,(7:7.398083,8:7.398083):61.096297):8.868598):7.310109,(4:80.6055,(((15:28.171583,((45:11.407279,46:11.407279):8.773175,24:20.180454):7.991129):12.652426,(16:36.086106,((47:10.654232,48:10.654232):4.482122,25:15.136354):20.949752):4.737903):21.782945,((17:42.913358,18:42.913358):10.586807,((26:16.892141,27:16.892141):18.494961,(28:6.507163,29:6.507163):28.879939):18.113063):9.106789):17.998546):4.067587):1.173404,(3:49.78688,((((19:34.713579,20:34.713579):4.781177,9:39.494756):3.266939,((((49:14.673071,50:14.673071):9.565974,(51:13.120289,52:13.120289):11.118756):2.497652,((53:10.809697,54:10.809697):9.551702,(55:11.796852,56:11.796852):8.564548):6.375298):5.283959,((((71:1.846404,72:1.846404):1.128962,57:2.975366):16.405661,(58:17.237794,59:17.237794):2.143233):6.473302,((60:14.817382,61:14.817382):9.152317,30:23.969699):1.88463):6.166327):10.74104):4.100098,((10:23.845811,11:23.845811):16.770235,((21:22.551899,(31:9.865135,32:9.865135):12.686764):11.021655,12:33.573554):7.042491):6.245747):2.925087):36.059612):3.879706):1.040494;
+END;
