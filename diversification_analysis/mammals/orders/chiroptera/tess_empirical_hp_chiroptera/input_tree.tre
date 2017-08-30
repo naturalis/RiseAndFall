@@ -1,0 +1,361 @@
+#NEXUS
+[R-package APE, Fri Feb 10 16:35:12 2017]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 174;
+	TAXLABELS
+		Lynx_rufus
+		Lynx_canadensis
+		Lynx_pardinus
+		Lynx_lynx
+		Taphozous_nudiventris
+		Nycteris_macrotis
+		Megaderma_spasma
+		Aselliscus_stoliczkanus
+		Coelops_frithii
+		Noctilio_albiventris
+		Noctilio_leporinus
+		Chilonatalus_micropus
+		Natalus_stramineus
+		Otomops_martiensseni
+		Emballonura_atrata
+		Nycteris_thebaica
+		Pteropus_scapulatus
+		Ptenochirus_jagori
+		Dyacopterus_spadiceus
+		Mormoops_megalophylla
+		Macrotus_waterhousii
+		Megaderma_lyra
+		Macroderma_gigas
+		Scotonycteris_zenkeri
+		Casinycteris_argynnis
+		Eidolon_helvum
+		Rhynchonycteris_naso
+		Peropteryx_kappleri
+		Cormura_brevirostris
+		Nycteris_grandis
+		Nycteris_javanica
+		Nycteris_tragata
+		Nycteris_hispida
+		Cynopterus_horsfieldii
+		Megaerops_kusnotoi
+		Thoopterus_nigrescens
+		Sphaerias_blanfordi
+		Eonycteris_spelaea
+		Syconycteris_australis
+		Pteronotus_parnellii
+		Pteronotus_quadridens
+		Pteronotus_davyi
+		Desmodus_rotundus
+		Micronycteris_microtis
+		Nyctinomops_macrotis
+		Cynomops_abrasus
+		Eumops_auripendulus
+		Chaerephon_pumilus
+		Megaerops_ecaudatus
+		Balionycteris_maculata
+		Aethalops_alecto
+		Eonycteris_robusta
+		Eonycteris_major
+		Stenonycteris_lanosus
+		Boneia_bidens
+		Dobsonia_minor
+		Nyctimene_cephalotes
+		Macroglossus_minimus
+		Macroglossus_sobrinus
+		Nyctinomops_aurispinosus
+		Tadarida_teniotis
+		Chaerephon_jobensis
+		Saccopteryx_gymnura
+		Saccopteryx_leptura
+		Saccopteryx_canescens
+		Saccopteryx_bilineata
+		Cynopterus_titthaecheilus
+		Cynopterus_nusatenggara
+		Cynopterus_brachyotis
+		Cynopterus_sphinx
+		Megaerops_wetmorei
+		Megaerops_niphanae
+		Chironax_melanocephalus
+		Penthetor_lucasi
+		Alionycteris_paucidentata
+		Rousettus_obliviosus
+		Rousettus_amplexicaudatus
+		Rousettus_leschenaultii
+		Harpyionycteris_celebensis
+		Harpyionycteris_whiteheadi
+		Acerodon_celebensis
+		Desmalopex_leucopterus
+		Pteronotus_personatus
+		Pteronotus_rubiginosus
+		Pteronotus_gymnonotus
+		Pteronotus_macleayii
+		Nyctinomops_femorosaccus
+		Nyctinomops_laticaudatus
+		Chaerephon_pusillus
+		Chaerephon_jobimena
+		Tadarida_aegyptiaca
+		Chaerephon_ansorgei
+		Tadarida_insignis
+		Haplonycteris_fischeri
+		Otopteropus_cartilagonodus
+		Epomops_franqueti
+		Rousettus_madagascariensis
+		Rousettus_aegyptiacus
+		Dobsonia_praedatrix
+		Dobsonia_moluccensis
+		Pteropus_alecto
+		Pteropus_vampyrus
+		Melonycteris_melanops
+		Melonycteris_fardoulisi
+		Nyctimene_aello
+		Nyctimene_robinsoni
+		Nyctimene_vizcaccia
+		Nyctimene_albiventer
+		Lonchophylla_robusta
+		Chrotopterus_auritus
+		Vampyrum_spectrum
+		Trachops_cirrhosus
+		Micronycteris_brachyotis
+		Micronycteris_giovanniae
+		Micronycteris_nicefori
+		Micronycteris_megalotis
+		Micronycteris_hirsuta
+		Chaerephon_atsinanana
+		Chaerephon_chapini
+		Chaerephon_nigeriae
+		Sauromys_petrophilus
+		Tadarida_brasiliensis
+		Megaloglossus_azagnyi
+		Megaloglossus_woermanni
+		Myonycteris_relicta
+		Dobsonia_inermis
+		Dobsonia_viridis
+		Dobsonia_pannietensis
+		Dobsonia_andersoni
+		Anoura_geoffroyi
+		Lophostoma_silvicolum
+		Micronycteris_brosseti
+		Micronycteris_minuta
+		Micronycteris_homezi
+		Micronycteris_matses
+		Micronycteris_schmidtorum
+		Micronycteris_buriri
+		Chaerephon_leucogaster
+		Chaerephon_plicatus
+		Epomophorus_gambianus
+		Micropteropus_pusillus
+		Nanonycteris_veldkampii
+		Hypsignathus_monstrosus
+		Monophyllus_redmani
+		Erophylla_sezekorni
+		Hylonycteris_underwoodi
+		Musonycteris_harrisoni
+		Sturnira_lilium
+		Glyphonycteris_sylvestris
+		Phylloderma_stenops
+		Myonycteris_leptodon
+		Myonycteris_brachycephala
+		Myonycteris_torquata
+		Myonycteris_angolensis
+		Glossophaga_soricina
+		Phyllonycteris_poeyi
+		Brachyphylla_nana
+		Chiroderma_villosum
+		Phyllostomus_discolor
+		Leptonycteris_nivalis
+		Uroderma_bilobatum
+		Carollia_subrufa
+		Carollia_castanea
+		Carollia_benkeithi
+		Phyllostomus_latifolius
+		Leptonycteris_curasoae
+		Leptonycteris_yerbabuenae
+		Vampyrodes_caraccioli
+		Platyrrhinus_helleri
+		Carollia_sowelli
+		Phyllostomus_hastatus
+		Phyllostomus_elongatus
+		Carollia_perspicillata
+		Carollia_brevicauda
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Lynx_rufus,
+		2	Lynx_canadensis,
+		3	Lynx_pardinus,
+		4	Lynx_lynx,
+		5	Taphozous_nudiventris,
+		6	Nycteris_macrotis,
+		7	Megaderma_spasma,
+		8	Aselliscus_stoliczkanus,
+		9	Coelops_frithii,
+		10	Noctilio_albiventris,
+		11	Noctilio_leporinus,
+		12	Chilonatalus_micropus,
+		13	Natalus_stramineus,
+		14	Otomops_martiensseni,
+		15	Emballonura_atrata,
+		16	Nycteris_thebaica,
+		17	Pteropus_scapulatus,
+		18	Ptenochirus_jagori,
+		19	Dyacopterus_spadiceus,
+		20	Mormoops_megalophylla,
+		21	Macrotus_waterhousii,
+		22	Megaderma_lyra,
+		23	Macroderma_gigas,
+		24	Scotonycteris_zenkeri,
+		25	Casinycteris_argynnis,
+		26	Eidolon_helvum,
+		27	Rhynchonycteris_naso,
+		28	Peropteryx_kappleri,
+		29	Cormura_brevirostris,
+		30	Nycteris_grandis,
+		31	Nycteris_javanica,
+		32	Nycteris_tragata,
+		33	Nycteris_hispida,
+		34	Cynopterus_horsfieldii,
+		35	Megaerops_kusnotoi,
+		36	Thoopterus_nigrescens,
+		37	Sphaerias_blanfordi,
+		38	Eonycteris_spelaea,
+		39	Syconycteris_australis,
+		40	Pteronotus_parnellii,
+		41	Pteronotus_quadridens,
+		42	Pteronotus_davyi,
+		43	Desmodus_rotundus,
+		44	Micronycteris_microtis,
+		45	Nyctinomops_macrotis,
+		46	Cynomops_abrasus,
+		47	Eumops_auripendulus,
+		48	Chaerephon_pumilus,
+		49	Megaerops_ecaudatus,
+		50	Balionycteris_maculata,
+		51	Aethalops_alecto,
+		52	Eonycteris_robusta,
+		53	Eonycteris_major,
+		54	Stenonycteris_lanosus,
+		55	Boneia_bidens,
+		56	Dobsonia_minor,
+		57	Nyctimene_cephalotes,
+		58	Macroglossus_minimus,
+		59	Macroglossus_sobrinus,
+		60	Nyctinomops_aurispinosus,
+		61	Tadarida_teniotis,
+		62	Chaerephon_jobensis,
+		63	Saccopteryx_gymnura,
+		64	Saccopteryx_leptura,
+		65	Saccopteryx_canescens,
+		66	Saccopteryx_bilineata,
+		67	Cynopterus_titthaecheilus,
+		68	Cynopterus_nusatenggara,
+		69	Cynopterus_brachyotis,
+		70	Cynopterus_sphinx,
+		71	Megaerops_wetmorei,
+		72	Megaerops_niphanae,
+		73	Chironax_melanocephalus,
+		74	Penthetor_lucasi,
+		75	Alionycteris_paucidentata,
+		76	Rousettus_obliviosus,
+		77	Rousettus_amplexicaudatus,
+		78	Rousettus_leschenaultii,
+		79	Harpyionycteris_celebensis,
+		80	Harpyionycteris_whiteheadi,
+		81	Acerodon_celebensis,
+		82	Desmalopex_leucopterus,
+		83	Pteronotus_personatus,
+		84	Pteronotus_rubiginosus,
+		85	Pteronotus_gymnonotus,
+		86	Pteronotus_macleayii,
+		87	Nyctinomops_femorosaccus,
+		88	Nyctinomops_laticaudatus,
+		89	Chaerephon_pusillus,
+		90	Chaerephon_jobimena,
+		91	Tadarida_aegyptiaca,
+		92	Chaerephon_ansorgei,
+		93	Tadarida_insignis,
+		94	Haplonycteris_fischeri,
+		95	Otopteropus_cartilagonodus,
+		96	Epomops_franqueti,
+		97	Rousettus_madagascariensis,
+		98	Rousettus_aegyptiacus,
+		99	Dobsonia_praedatrix,
+		100	Dobsonia_moluccensis,
+		101	Pteropus_alecto,
+		102	Pteropus_vampyrus,
+		103	Melonycteris_melanops,
+		104	Melonycteris_fardoulisi,
+		105	Nyctimene_aello,
+		106	Nyctimene_robinsoni,
+		107	Nyctimene_vizcaccia,
+		108	Nyctimene_albiventer,
+		109	Lonchophylla_robusta,
+		110	Chrotopterus_auritus,
+		111	Vampyrum_spectrum,
+		112	Trachops_cirrhosus,
+		113	Micronycteris_brachyotis,
+		114	Micronycteris_giovanniae,
+		115	Micronycteris_nicefori,
+		116	Micronycteris_megalotis,
+		117	Micronycteris_hirsuta,
+		118	Chaerephon_atsinanana,
+		119	Chaerephon_chapini,
+		120	Chaerephon_nigeriae,
+		121	Sauromys_petrophilus,
+		122	Tadarida_brasiliensis,
+		123	Megaloglossus_azagnyi,
+		124	Megaloglossus_woermanni,
+		125	Myonycteris_relicta,
+		126	Dobsonia_inermis,
+		127	Dobsonia_viridis,
+		128	Dobsonia_pannietensis,
+		129	Dobsonia_andersoni,
+		130	Anoura_geoffroyi,
+		131	Lophostoma_silvicolum,
+		132	Micronycteris_brosseti,
+		133	Micronycteris_minuta,
+		134	Micronycteris_homezi,
+		135	Micronycteris_matses,
+		136	Micronycteris_schmidtorum,
+		137	Micronycteris_buriri,
+		138	Chaerephon_leucogaster,
+		139	Chaerephon_plicatus,
+		140	Epomophorus_gambianus,
+		141	Micropteropus_pusillus,
+		142	Nanonycteris_veldkampii,
+		143	Hypsignathus_monstrosus,
+		144	Monophyllus_redmani,
+		145	Erophylla_sezekorni,
+		146	Hylonycteris_underwoodi,
+		147	Musonycteris_harrisoni,
+		148	Sturnira_lilium,
+		149	Glyphonycteris_sylvestris,
+		150	Phylloderma_stenops,
+		151	Myonycteris_leptodon,
+		152	Myonycteris_brachycephala,
+		153	Myonycteris_torquata,
+		154	Myonycteris_angolensis,
+		155	Glossophaga_soricina,
+		156	Phyllonycteris_poeyi,
+		157	Brachyphylla_nana,
+		158	Chiroderma_villosum,
+		159	Phyllostomus_discolor,
+		160	Leptonycteris_nivalis,
+		161	Uroderma_bilobatum,
+		162	Carollia_subrufa,
+		163	Carollia_castanea,
+		164	Carollia_benkeithi,
+		165	Phyllostomus_latifolius,
+		166	Leptonycteris_curasoae,
+		167	Leptonycteris_yerbabuenae,
+		168	Vampyrodes_caraccioli,
+		169	Platyrrhinus_helleri,
+		170	Carollia_sowelli,
+		171	Phyllostomus_hastatus,
+		172	Phyllostomus_elongatus,
+		173	Carollia_perspicillata,
+		174	Carollia_brevicauda
+	;
+	TREE * UNTITLED = [&R] ((1:0.856809,(2:0.401797,(3:0.14754,4:0.14754):0.254256):0.455012):56.416228,((((((20:24.920456,((40:3.23607,41:3.23607):3.95852,(42:5.515679,((83:3.755259,84:3.755259):1.082838,(85:3.745997,86:3.745997):1.0921):0.677582):1.678911):17.725866):2.133039,(((43:19.49213,(((((144:10.978138,(155:9.178312,((166:1.295971,167:1.295971):3.784945,160:5.080916):4.097396):1.799826):4.250302,(145:9.807235,(156:3.401923,157:3.401923):6.405312):5.421205):1.28268,(130:15.573847,(146:4.654279,147:4.654279):10.919567):0.937273):2.105564,(((148:16.456223,((161:13.893427,(168:11.753775,169:11.753775):2.139652):0.475366,158:14.368793):2.08743):1.383093,(((((173:1.483699,174:1.483699):1.015089,170:2.498788):1.717301,162:4.216089):5.086851,(163:4.878772,164:4.878772):4.424168):7.540037,149:16.842977):0.996339):0.498239,109:18.337555):0.279129):0.104591,((110:13.083024,111:13.083024):5.004477,(112:17.437679,((150:14.029675,(((171:0.804329,172:0.804329):8.808436,165:9.612765):3.029692,159:12.642457):1.387218):1.176842,131:15.206517):2.231163):0.649822):0.633774):0.770855):0.302223,((((113:0.34405,114:0.34405):0.148009,(115:0.448775,(132:0.349137,133:0.349137):0.099638):0.043283):0.061072,(((134:0.316269,135:0.316269):0.17,(136:0.326177,137:0.326177):0.160092):0.037943,(116:0.392421,117:0.392421):0.131791):0.028918):2.071288,44:2.624419):17.169934):0.625218,21:20.419571):6.633924):14.662676,(10:4.382157,11:4.382157):37.334015):9.56722,((12:12.468756,13:12.468756):37.190372,(14:33.913598,(((((87:1.328818,88:1.328818):2.497083,60:3.825901):3.896079,45:7.72198):11.45186,(46:17.60901,47:17.60901):1.564831):5.271906,((48:12.412796,((89:7.836933,90:7.836933):4.174202,(91:8.810158,92:8.810158):3.200977):0.40166):2.282166,((((118:7.651756,119:7.651756):4.192571,(120:10.250897,121:10.250897):1.593431):1.339307,(93:11.405969,((138:7.789998,139:7.789998):2.319207,122:10.109205):1.296764):1.777666):0.041698,(61:9.449472,62:9.449472):3.775861):1.469629):9.750785):9.467851):15.745531):1.624263):0.865841,((5:34.447042,(15:25.053371,((((63:6.30231,64:6.30231):1.718866,(65:7.18393,66:7.18393):0.837246):9.709182,27:17.730359):3.708943,(28:10.393347,29:10.393347):11.045954):3.614069):9.393672):14.333246,((((30:6.288182,31:6.288182):1.848272,(32:5.951912,33:5.951912):2.184541):0.492972,16:8.629426):40.767809,6:49.397235):-0.616946):3.368944):4.986264,(((7:17.786765,((22:9.873592,23:9.873592):3.640529,17:13.514121):4.272644):18.277081,(8:7.521409,9:7.52141):28.542435):8.628216,(((18:7.553002,((34:4.356988,((67:0.502157,68:0.502157):2.681032,(69:2.034224,70:2.034224):1.148966):1.173798):-0.746017,(35:2.448174,(49:1.679189,(71:0.930091,72:0.930091):0.749099):0.768985):1.162797):3.942031):11.70365,(((((73:10.231447,74:10.231447):2.198557,((94:7.731099,95:7.731099):2.465828,75:10.196927):2.233077):1.111653,(50:12.340257,51:12.340257):1.201399):1.917965,(36:12.062813,37:12.062813):3.396808):2.259233,19:17.718854):1.537798):2.367576,(((((52:2.040026,53:2.040026):2.20732,38:4.247346):10.318706,(((((123:0.735638,124:0.735638):5.835751,(125:1.829609,((151:0.455121,152:0.455121):0.884679,(153:0.384781,154:0.384781):0.95502):0.489809):4.74178):1.959478,(((140:2.380533,141:2.380533):3.525047,(142:5.050733,143:5.050733):0.854847):0.059328,96:5.964908):2.56596):0.555738,54:9.086605):2.50347,((76:0.404949,77:0.404949):6.734105,(78:3.043309,(97:0.964323,98:0.964323):2.078985):4.095745):4.451021):2.975977):3.497035,(24:3.81956,25:3.81956):14.243527):2.705317,(((((79:2.680906,80:2.680906):11.067902,55:13.748809):2.123158,(56:4.704165,(((126:0.871016,127:0.871016):0.444829,99:1.315845):1.336879,((128:1.163873,129:1.163873):0.461417,100:1.62529):1.027434):2.05144):11.167802):3.457841,26:19.329808):0.906774,((((81:6.855487,(101:2.92066,102:2.92066):3.934828):8.980749,(82:13.687808,(103:6.125108,104:6.125108):7.5627):2.148428):2.832562,(57:4.310428,((105:3.05267,106:3.05267):0.934553,(107:1.13847,108:1.13847):2.848753):0.323205):14.358369):0.964083,((58:2.160852,59:2.160852):12.306318,39:14.46717):5.165711):0.603701):0.531823):0.855824):23.067833):12.443435):0.13754);
+END;
