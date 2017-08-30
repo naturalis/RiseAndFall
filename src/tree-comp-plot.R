@@ -10,10 +10,14 @@ require('ape')
 
 args <- commandArgs(trailingOnly=TRUE)
 
-if (length(args) < 3) {
-    stop("Need three arguments: [tree1] [tree2] [oufilename]")
-}
+##if (length(args) < 3) {
+##    stop("Need three arguments: [tree1] [tree2] [oufilename]")
+##}
 
+args[1] <- '../tree_inference/results/mammals/mammals_phylogeny/supersmart-tree.nex'
+args[2] <- '../tree_inference/benchmark_trees/external_data/faurby_mammal_tree/Fully_resolved_phylogeny-consensus.nex'
+args[3] <- 'supersmart-vs-faurby.pdf'
+    
 treefile1 <- args[1]
 treefile2 <- args[2]
 plotfile <- args[3]
@@ -33,6 +37,6 @@ tree2 <- read.nexus(treefile2.pruned)
 
 ## make cophyloplot of tree2 and tree1 tree
 assoc <- cbind(tree1$tip.label, tree1$tip.label)
-pdf(plotfile, width=20, height=40)
+pdf(plotfile, width=20, height=130)
 cophyloplot(tree1, tree2, cex=0.1, assoc=assoc, space=200, gap=10, use.edge.length=T)
 dev.off()
